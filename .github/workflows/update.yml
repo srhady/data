@@ -1,0 +1,42 @@
+name: Update Basketball JSON
+
+# কখন রান করবে তার সেটিং
+on:
+  schedule:
+    - cron: '0 */2 * * *' # প্রতি ২ ঘণ্টা পর পর অটোমেটিক রান করবে
+  workflow_dispatch: # চাইলে ম্যানুয়ালিও রান করা যাবে 'Run workflow' বাটনে ক্লিক করে
+
+# ফাইল এডিট করে পুশ করার পারমিশন
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Scraper Script
+        run: python scraper.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add basketball_playlist.json
+          
+          # ডাটা পরিবর্তন হলেই কেবল গিটহাবে পুশ করবে
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update basketball playlist [skip ci]"
+          git push
