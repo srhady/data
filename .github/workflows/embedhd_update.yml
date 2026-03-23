@@ -1,0 +1,38 @@
+name: Update EmbedHD Sports JSON
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর ডাটা টানবে
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run EmbedHD Scraper
+        run: python embedhd_scraper.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add playlist.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update secure playlist [skip ci]"
+          git push
