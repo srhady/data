@@ -1,686 +1,461 @@
-{
-    "baseball": [
-        {
-            "id": "los-angeles-angels-vs-los-angeles-dodgers-2444919",
-            "title": "Los Angeles Angels vs Los Angeles Dodgers",
-            "status": "🔴 Live",
-            "start_time": "23-Mar-2026 07:07 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvQAMlCu2kheILEZAQDIaiBKmTi-MCQUsIuYxRhVKHh-KNqcr3t6MA9xMQggA.webp",
-            "teams": {
-                "home": {
-                    "name": "Los Angeles Angels",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
-                },
-                "away": {
-                    "name": "Los Angeles Dodgers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20880/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "philadelphia-phillies-vs-tampa-bay-rays-2444920",
-            "title": "Philadelphia Phillies vs Tampa Bay Rays",
-            "status": "⏳ Upcoming",
-            "start_time": "23-Mar-2026 10:05 PM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAggSIQWJCsQvXSa3Hq2zSZIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-            "teams": {
-                "home": {
-                    "name": "Philadelphia Phillies",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
-                },
-                "away": {
-                    "name": "Tampa Bay Rays",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20892/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "boston-red-sox-vs-minnesota-twins-2444921",
-            "title": "Boston Red Sox vs Minnesota Twins",
-            "status": "⏳ Upcoming",
-            "start_time": "23-Mar-2026 11:05 PM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu3whGSEIIghee4waPUQJbcekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-            "teams": {
-                "home": {
-                    "name": "Boston Red Sox",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-                },
-                "away": {
-                    "name": "Minnesota Twins",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20893/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "pittsburgh-pirates-vs-atlanta-braves-2444922",
-            "title": "Pittsburgh Pirates vs Atlanta Braves",
-            "status": "⏳ Upcoming",
-            "start_time": "23-Mar-2026 11:05 PM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlES8wKWCBIheILMZARDIavrOmsLJBTvtR43apQ8wZeEWpyP+KzAYF7iYhBAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Pittsburgh Pirates",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-                },
-                "away": {
-                    "name": "Atlanta Braves",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20894/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "washington-nationals-vs-baltimore-orioles-2444923",
-            "title": "Washington Nationals vs Baltimore Orioles",
-            "status": "⏳ Upcoming",
-            "start_time": "23-Mar-2026 11:05 PM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmEqkQ9MGBQheILMZARDIaiBJnTIFkgpYRcxijCqUPD+UbU5XviswHpijGFAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Washington Nationals",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-                },
-                "away": {
-                    "name": "Baltimore Orioles",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20895/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "athletics-vs-chicago-white-sox-2444924",
-            "title": "Athletics vs Chicago White Sox",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 12:05 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFn9EvELwR6QWIyAiHqIEqZMoWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
-            "teams": {
-                "home": {
-                    "name": "Athletics",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA"
-                },
-                "away": {
-                    "name": "Chicago White Sox",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20896/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "chicago-cubs-vs-new-york-yankees-2444925",
-            "title": "Chicago Cubs vs New York Yankees",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 01:05 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgrTYIaSBQheILMZARDIaiBJmQdmC00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
-            "teams": {
-                "home": {
-                    "name": "Chicago Cubs",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA"
-                },
-                "away": {
-                    "name": "New York Yankees",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20897/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "san-diego-padres-vs-seattle-mariners-2444926",
-            "title": "San Diego Padres vs Seattle Mariners",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 01:10 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlVqMADCDK8QBrCGMRDIanpBmQhlkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp",
-            "teams": {
-                "home": {
-                    "name": "San Diego Padres",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA"
-                },
-                "away": {
-                    "name": "Seattle Mariners",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20898/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "milwaukee-brewers-vs-cincinnati-reds-2444927",
-            "title": "Milwaukee Brewers vs Cincinnati Reds",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 05:40 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBxjaMYGAYhem4xEMhqIEiFMhzLJBSwi5jFGFUoe78o2pzP+Kx67uJiEEA.webp",
-            "teams": {
-                "home": {
-                    "name": "Milwaukee Brewers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
-                },
-                "away": {
-                    "name": "Cincinnati Reds",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20899/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "texas-rangers-vs-kansas-city-royals-2444928",
-            "title": "Texas Rangers vs Kansas City Royals",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 06:05 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhwAMIOCHkcQvEFmMgIhkNRAkzIO-BZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
-            "teams": {
-                "home": {
-                    "name": "Texas Rangers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-                },
-                "away": {
-                    "name": "Kansas City Royals",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20900/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "colorado-rockies-vs-detroit-tigers-2444929",
-            "title": "Colorado Rockies vs Detroit Tigers",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 07:10 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqH5JOdELxBYDICHpDUQJYyGuL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-            "teams": {
-                "home": {
-                    "name": "Colorado Rockies",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA"
-                },
-                "away": {
-                    "name": "Detroit Tigers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20901/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "los-angeles-dodgers-vs-los-angeles-angels-2444930",
-            "title": "Los Angeles Dodgers vs Los Angeles Angels",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 07:10 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvVCISIMVhC8Q+-RAMhqukKZC6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
-            "teams": {
-                "home": {
-                    "name": "Los Angeles Dodgers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA"
-                },
-                "away": {
-                    "name": "Los Angeles Angels",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20902/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "arizona-diamondbacks-vs-cleveland-guardians-2444931",
-            "title": "Arizona Diamondbacks vs Cleveland Guardians",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 07:40 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAxgABhAl9oELxBZTICMZDV9FkPekskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp",
-            "teams": {
-                "home": {
-                    "name": "Arizona Diamondbacks",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA"
-                },
-                "away": {
-                    "name": "Cleveland Guardians",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20903/1"
-                    ]
-                }
-            ]
-        }
-    ],
-    "american-football": [],
-    "hockey": [
-        {
-            "id": "new-york-rangers-vs-ottawa-senators-2348001",
-            "title": "New York Rangers vs Ottawa Senators",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 05:30 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXnxC8QDEBC0hNUkDBAoTBxIgVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-            "teams": {
-                "home": {
-                    "name": "New York Rangers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIS5gTcNxBa+IACYhEEECRDGDuvQQpM+KLmDLwi80faa0wjsaIhA"
-                },
-                "away": {
-                    "name": "Ottawa Senators",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20881/1"
-                    ]
-                }
-            ]
-        }
-    ],
-    "fight": [],
-    "tennis": [],
-    "football": [],
-    "basketball": [
-        {
-            "id": "alabama-vs-texas-tech-2453656",
-            "title": "Alabama vs Texas Tech",
-            "status": "🔴 Live",
-            "start_time": "23-Mar-2026 07:45 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEFEGYCXogSIRHxgh28bCJBZ6sgMYgVa+cAggIwRKL6dt8qSEMKywFuHZdgBbHkuFgSXEpQdLDGjs6KP9jJgbJqKEEA.webp",
-            "teams": {
-                "home": {
-                    "name": "Texas Tech",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM5AWxDB8IbiBIhDMEABMQfXPpApdBCkz4ouYMvCLzRTprTAuxoiCA"
-                },
-                "away": {
-                    "name": "Alabama",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ohcIeGDUQQ3ECTUbDffSBhGJhGMCZ8UXMGU315o+01phHY0RCA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "admin",
-                    "links": [
-                        "https://embedsports.top/embed/admin/ppv-texas-tech-red-raiders-vs-alabama-crimson-tide/2",
-                        "https://embedsports.top/embed/admin/ppv-texas-tech-red-raiders-vs-alabama-crimson-tide/3",
-                        "https://embedsports.top/embed/admin/ppv-texas-tech-red-raiders-vs-alabama-crimson-tide/1"
-                    ]
-                },
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20958/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "phoenix-suns-vs-toronto-raptors-2358399",
-            "title": "Phoenix Suns vs Toronto Raptors",
-            "status": "🔴 Live",
-            "start_time": "23-Mar-2026 07:00 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN2xyQIOaQ0g+IEiBS4QiCCCkWLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Phoenix Suns",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UoZcNxBaIuPSm0gDMELpgEKTPii5gy8IvNE2mtMHbGiIQA"
-                },
-                "away": {
-                    "name": "Toronto Raptors",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gQIRABMw2pCG4hNGkCRAwQfM1dN8CFJra5gy8IvNEpgTWmGdjREEA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20867/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "live_ncaa-division-i-championship-women_louisville-cardinals-alabama-crimson-tide-live-streaming-1223607168",
-            "title": "Louisville Cardinals vs Alabama Crimson Tide",
-            "status": "⏳ Upcoming",
-            "start_time": "23-Mar-2026 10:00 PM",
-            "poster": "",
-            "teams": {},
-            "streams": [
-                {
-                    "source": "delta",
-                    "links": [
-                        "https://embedsports.top/embed/delta/live_ncaa-division-i-championship-women_louisville-cardinals-alabama-crimson-tide-live-streaming-1223607168/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "orlando-magic-vs-indiana-pacers-2358400",
-            "title": "Orlando Magic vs Indiana Pacers",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 05:00 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFjBI57MHxDcQ+kiBS4QiCCCkWQJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-            "teams": {
-                "home": {
-                    "name": "Orlando Magic",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpJyAExC0c3EHxAQQRlHoO4tICYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-                },
-                "away": {
-                    "name": "Indiana Pacers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFcCRgk-NiG4gSIGCER8QEfSGs4JhGMCZ8UXMGXhF5ol01pg3YqIQQA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20883/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "miami-heat-vs-san-antonio-spurs-2358404",
-            "title": "Miami Heat vs San Antonio Spurs",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 05:00 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJM00pgSEIm4g+IEiBS49ICCCmWQMAjop9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Miami Heat",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkAJiA18wIVSG56IIPrn0gjJjfAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-                },
-                "away": {
-                    "name": "San Antonio Spurs",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzlhRtXvhDcQAE20GQIEiBTGQiPgQpMrXNeXrzRKYE1pg1Y0RCA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20885/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "detroit-pistons-vs-los-angeles-lakers-2358402",
-            "title": "Detroit Pistons vs Los Angeles Lakers",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 05:00 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGzBSKobiD18QJEClwhEEEFPMg+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Detroit Pistons",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA"
-                },
-                "away": {
-                    "name": "Los Angeles Lakers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20882/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "philadelphia-76ers-vs-oklahoma-city-thunder-2358401",
-            "title": "Philadelphia 76ers vs Oklahoma City Thunder",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 05:00 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXkoS4w3ELr4gSIFLhCIIIKWcsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-            "teams": {
-                "home": {
-                    "name": "Philadelphia 76ers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q3ECRARNwACbrNhkNpAGdJnSgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-                },
-                "away": {
-                    "name": "Oklahoma City Thunder",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwg+YACYht2rdzUgIILXpAwQiPmYIUmfFFzBl4ReaIdNaYJ2NEQgA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20884/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "atlanta-hawks-vs-memphis-grizzlies-2358403",
-            "title": "Atlanta Hawks vs Memphis Grizzlies",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 05:30 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGYRTAwYJMxDcQfECRApcIRBBBTLIM0yQU+w2fRRgVWtp-L0sslpMtDqi9GFAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Atlanta Hawks",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA"
-                },
-                "away": {
-                    "name": "Memphis Grizzlies",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20886/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "chicago-bulls-vs-houston-rockets-2358405",
-            "title": "Chicago Bulls vs Houston Rockets",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 06:00 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMxBxuYbrhB6+IEiBT7EEEFJCWJTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp",
-            "teams": {
-                "home": {
-                    "name": "Chicago Bulls",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAADCD7kBfENxAkQETbj1GQAExN8CFJja5gy8IvNGqmtME7GiIQA"
-                },
-                "away": {
-                    "name": "Houston Rockets",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20887/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "utah-jazz-vs-toronto-raptors-2358406",
-            "title": "Utah Jazz vs Toronto Raptors",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 07:00 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJ3hhRIUCG4g+IEiBS4QiCCCkgrjYEgp9hs+im1sNbbeXpZZGky0YB70ohBAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Utah Jazz",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowAE1XMQZGCG4g+O-YZB7EOTXwIUm1rmDLwi80SmBNaYR2NEQgA"
-                },
-                "away": {
-                    "name": "Toronto Raptors",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gQIRABMw2pCG4hNGkCRAwQfM1dN8CFJra5gy8IvNEpgTWmGdjREEA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20888/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "dallas-mavericks-vs-golden-state-warriors-2358407",
-            "title": "Dallas Mavericks vs Golden State Warriors",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 07:30 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLHNBFQUkNxB8QJEClwhEEELssKmSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp",
-            "teams": {
-                "home": {
-                    "name": "Dallas Mavericks",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhu1cFgQhuICLhAwQJEABMQFviBRmCFJnxRcwZeEXminTWmBdjREEA"
-                },
-                "away": {
-                    "name": "Golden State Warriors",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTZKDdiAAmIbiBLb9ukChB8jOPgQpMrXMGXhF5olMCa0wDsaIhA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20889/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "portland-trail-blazers-vs-brooklyn-nets-2358408",
-            "title": "Portland Trail Blazers vs Brooklyn Nets",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 08:00 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJWBSQiFCD4hu+kCRB6ciCCG1WSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Portland Trail Blazers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAkwAAx0Q3bDpAATECkMgIZkCWOXjBCkz4ouYMvCLzRTprTAuxoiCA"
-                },
-                "away": {
-                    "name": "Brooklyn Nets",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20890/1"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "los-angeles-clippers-vs-milwaukee-bucks-2358409",
-            "title": "Los Angeles Clippers vs Milwaukee Bucks",
-            "status": "⏳ Upcoming",
-            "start_time": "24-Mar-2026 08:30 AM",
-            "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWG4gU2kLSQgtfECV05EEEFJCWpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-            "teams": {
-                "home": {
-                    "name": "Los Angeles Clippers",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0+RHOETcQfEDpSqQMIzpzLCMYEz4ouYMvA2lOTWmAdjREIA"
-                },
-                "away": {
-                    "name": "Milwaukee Bucks",
-                    "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZhQYUXxAwQ3EABNcukCRAoQEEFp2MKTPii4by9eaMdNaYDWNEQgA"
-                }
-            },
-            "streams": [
-                {
-                    "source": "golf",
-                    "links": [
-                        "https://embedsports.top/embed/golf/20891/1"
-                    ]
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Phoenix Suns",
+        "Team 2 Name": "Toronto Raptors",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UoZcNxBaIuPSm0gDMELpgEKTPii5gy8IvNE2mtMHbGiIQA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gQIRABMw2pCG4hNGkCRAwQfM1dN8CFJra5gy8IvNEpgTWmGdjREEA",
+        "Match Title": "Phoenix Suns vs Toronto Raptors",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN2xyQIOaQ0g+IEiBS4QiCCCkWLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live",
+        "Start Time": "07:00 AM 23-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20867/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Los Angeles Angels",
+        "Team 2 Name": "Los Angeles Dodgers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA",
+        "Match Title": "Los Angeles Angels vs Los Angeles Dodgers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvQAMlCu2kheILEZAQDIaiBKmTi-MCQUsIuYxRhVKHh-KNqcr3t6MA9xMQggA.webp",
+        "Match Status": "Live",
+        "Start Time": "07:07 AM 23-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20880/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Texas Tech",
+        "Team 2 Name": "Alabama",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM5AWxDB8IbiBIhDMEABMQfXPpApdBCkz4ouYMvCLzRTprTAuxoiCA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ohcIeGDUQQ3ECTUbDffSBhGJhGMCZ8UXMGU315o+01phHY0RCA",
+        "Match Title": "Alabama vs Texas Tech",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Alabama%20vs%20Texas%20Tech&font=Oswald",
+        "Match Status": "Live",
+        "Start Time": "07:45 AM 23-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20958/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Louisville Cardinals vs Alabama Crimson Tide",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Louisville%20Cardinals%20vs%20Alabama%20Crimson%20Tide&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "10:00 PM 23-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/delta/live_ncaa-division-i-championship-women_louisville-cardinals-alabama-crimson-tide-live-streaming-1223607168/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Philadelphia Phillies",
+        "Team 2 Name": "Tampa Bay Rays",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA",
+        "Match Title": "Philadelphia Phillies vs Tampa Bay Rays",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAggSIQWJCsQvXSa3Hq2zSZIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "10:05 PM 23-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20892/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Boston Red Sox",
+        "Team 2 Name": "Minnesota Twins",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA",
+        "Match Title": "Boston Red Sox vs Minnesota Twins",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu3whGSEIIghee4waPUQJbcekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "11:05 PM 23-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20893/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Pittsburgh Pirates",
+        "Team 2 Name": "Atlanta Braves",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA",
+        "Match Title": "Pittsburgh Pirates vs Atlanta Braves",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlES8wKWCBIheILMZARDIavrOmsLJBTvtR43apQ8wZeEWpyP+KzAYF7iYhBAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "11:05 PM 23-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20894/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Washington Nationals",
+        "Team 2 Name": "Baltimore Orioles",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA",
+        "Match Title": "Washington Nationals vs Baltimore Orioles",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmEqkQ9MGBQheILMZARDIaiBJnTIFkgpYRcxijCqUPD+UbU5XviswHpijGFAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "11:05 PM 23-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20895/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Athletics",
+        "Team 2 Name": "Chicago White Sox",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA",
+        "Match Title": "Athletics vs Chicago White Sox",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFn9EvELwR6QWIyAiHqIEqZMoWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "12:05 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20896/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Chicago Cubs",
+        "Team 2 Name": "New York Yankees",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA",
+        "Match Title": "Chicago Cubs vs New York Yankees",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgrTYIaSBQheILMZARDIaiBJmQdmC00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "01:05 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20897/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "San Diego Padres",
+        "Team 2 Name": "Seattle Mariners",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA",
+        "Match Title": "San Diego Padres vs Seattle Mariners",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlVqMADCDK8QBrCGMRDIanpBmQhlkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "01:10 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20898/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Orlando Magic",
+        "Team 2 Name": "Indiana Pacers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpJyAExC0c3EHxAQQRlHoO4tICYRjAmfFFzBl4ReaIdNaYJ2NEQgA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFcCRgk-NiG4gSIGCER8QEfSGs4JhGMCZ8UXMGXhF5ol01pg3YqIQQA",
+        "Match Title": "Orlando Magic vs Indiana Pacers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFjBI57MHxDcQ+kiBS4QiCCCkWQJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "05:00 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20883/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Miami Heat",
+        "Team 2 Name": "San Antonio Spurs",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkAJiA18wIVSG56IIPrn0gjJjfAIUmfFFzBl4ReaIdNaYJ2NEQgA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzlhRtXvhDcQAE20GQIEiBTGQiPgQpMrXNeXrzRKYE1pg1Y0RCA",
+        "Match Title": "Miami Heat vs San Antonio Spurs",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJM00pgSEIm4g+IEiBS49ICCCmWQMAjop9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "05:00 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20885/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Detroit Pistons",
+        "Team 2 Name": "Los Angeles Lakers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA",
+        "Match Title": "Detroit Pistons vs Los Angeles Lakers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGzBSKobiD18QJEClwhEEEFPMg+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "05:00 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20882/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Philadelphia 76ers",
+        "Team 2 Name": "Oklahoma City Thunder",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q3ECRARNwACbrNhkNpAGdJnSgIUmfFFzBl4ReaIdNaYJ2NEQgA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwg+YACYht2rdzUgIILXpAwQiPmYIUmfFFzBl4ReaIdNaYJ2NEQgA",
+        "Match Title": "Philadelphia 76ers vs Oklahoma City Thunder",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXkoS4w3ELr4gSIFLhCIIIKWcsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "05:00 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20884/1"
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "New York Rangers",
+        "Team 2 Name": "Ottawa Senators",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIS5gTcNxBa+IACYhEEECRDGDuvQQpM+KLmDLwi80faa0wjsaIhA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA",
+        "Match Title": "New York Rangers vs Ottawa Senators",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXnxC8QDEBC0hNUkDBAoTBxIgVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "05:30 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20881/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Atlanta Hawks",
+        "Team 2 Name": "Memphis Grizzlies",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA",
+        "Match Title": "Atlanta Hawks vs Memphis Grizzlies",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGYRTAwYJMxDcQfECRApcIRBBBTLIM0yQU+w2fRRgVWtp-L0sslpMtDqi9GFAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "05:30 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20886/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Milwaukee Brewers",
+        "Team 2 Name": "Cincinnati Reds",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA",
+        "Match Title": "Milwaukee Brewers vs Cincinnati Reds",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBxjaMYGAYhem4xEMhqIEiFMhzLJBSwi5jFGFUoe78o2pzP+Kx67uJiEEA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "05:40 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20899/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Chicago Bulls",
+        "Team 2 Name": "Houston Rockets",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAADCD7kBfENxAkQETbj1GQAExN8CFJja5gy8IvNGqmtME7GiIQA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA",
+        "Match Title": "Chicago Bulls vs Houston Rockets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMxBxuYbrhB6+IEiBT7EEEFJCWJTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "06:00 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20887/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Texas Rangers",
+        "Team 2 Name": "Kansas City Royals",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA",
+        "Match Title": "Texas Rangers vs Kansas City Royals",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhwAMIOCHkcQvEFmMgIhkNRAkzIO-BZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "06:05 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20900/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Utah Jazz",
+        "Team 2 Name": "Toronto Raptors",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowAE1XMQZGCG4g+O-YZB7EOTXwIUm1rmDLwi80SmBNaYR2NEQgA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gQIRABMw2pCG4hNGkCRAwQfM1dN8CFJra5gy8IvNEpgTWmGdjREEA",
+        "Match Title": "Utah Jazz vs Toronto Raptors",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJ3hhRIUCG4g+IEiBS4QiCCCkgrjYEgp9hs+im1sNbbeXpZZGky0YB70ohBAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "07:00 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20888/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Colorado Rockies",
+        "Team 2 Name": "Detroit Tigers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA",
+        "Match Title": "Colorado Rockies vs Detroit Tigers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqH5JOdELxBYDICHpDUQJYyGuL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "07:10 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20901/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Los Angeles Dodgers",
+        "Team 2 Name": "Los Angeles Angels",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA",
+        "Match Title": "Los Angeles Dodgers vs Los Angeles Angels",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvVCISIMVhC8Q+-RAMhqukKZC6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "07:10 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20902/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Dallas Mavericks",
+        "Team 2 Name": "Golden State Warriors",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhu1cFgQhuICLhAwQJEABMQFviBRmCFJnxRcwZeEXminTWmBdjREEA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTZKDdiAAmIbiBLb9ukChB8jOPgQpMrXMGXhF5olMCa0wDsaIhA",
+        "Match Title": "Dallas Mavericks vs Golden State Warriors",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLHNBFQUkNxB8QJEClwhEEELssKmSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "07:30 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20889/1"
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Arizona Diamondbacks",
+        "Team 2 Name": "Cleveland Guardians",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA",
+        "Match Title": "Arizona Diamondbacks vs Cleveland Guardians",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAxgABhAl9oELxBZTICMZDV9FkPekskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "07:40 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20903/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Portland Trail Blazers",
+        "Team 2 Name": "Brooklyn Nets",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAkwAAx0Q3bDpAATECkMgIZkCWOXjBCkz4ouYMvCLzRTprTAuxoiCA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA",
+        "Match Title": "Portland Trail Blazers vs Brooklyn Nets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJWBSQiFCD4hu+kCRB6ciCCG1WSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "08:00 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20890/1"
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Los Angeles Clippers",
+        "Team 2 Name": "Milwaukee Bucks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0+RHOETcQfEDpSqQMIzpzLCMYEz4ouYMvA2lOTWmAdjREIA",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZhQYUXxAwQ3EABNcukCRAoQEEFp2MKTPii4by9eaMdNaYDWNEQgA",
+        "Match Title": "Los Angeles Clippers vs Milwaukee Bucks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWG4gU2kLSQgtfECV05EEEFJCWpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming",
+        "Start Time": "08:30 AM 24-03-2026",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://www.sagar-tv.com/",
+        "Stream URL": [
+            "https://embedsports.top/embed/golf/20891/1"
+        ]
+    }
+]
