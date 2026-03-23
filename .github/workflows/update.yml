@@ -1,10 +1,10 @@
-name: Update Basketball JSON
+name: Update All Sports JSON
 
 # কখন রান করবে তার সেটিং
 on:
   schedule:
     - cron: '0 */2 * * *' # প্রতি ২ ঘণ্টা পর পর অটোমেটিক রান করবে
-  workflow_dispatch: # চাইলে ম্যানুয়ালিও রান করা যাবে 'Run workflow' বাটনে ক্লিক করে
+  workflow_dispatch: # 'Run workflow' বাটনে ক্লিক করে ম্যানুয়ালি রান করার জন্য
 
 # ফাইল এডিট করে পুশ করার পারমিশন
 permissions:
@@ -35,8 +35,10 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add basketball_playlist.json
           
-          # ডাটা পরিবর্তন হলেই কেবল গিটহাবে পুশ করবে
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update basketball playlist [skip ci]"
+          # নতুন JSON ফাইলটি অ্যাড করা হচ্ছে
+          git add all_sports_playlist.json
+          
+          # ডাটা পরিবর্তন হলেই কেবল গিটহাবে পুশ করবে, নাহলে এরর এড়াবে
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update all sports playlist [skip ci]"
           git push
