@@ -2,82 +2,83 @@ import requests
 import json
 import time
 from datetime import datetime, timezone, timedelta
+import urllib.parse
 
-# ফেক ব্রাউজার হেডার
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
     "Referer": "https://www.sagar-tv.com/",
     "Accept": "application/json"
 }
 
 base_url = "https://streamed.pk"
 
-# আপনার স্পোর্টস ক্যাটাগরির লিস্ট
 categories = [
     "baseball", "american-football", "hockey", 
     "fight", "tennis", "football", "basketball"
 ]
 
-# বাংলাদেশ সময় (UTC +6) সেট করা (যাতে গিটহাবে রান করলেও সঠিক সময় দেখায়)
 bd_timezone = timezone(timedelta(hours=6))
 
 def generate_comprehensive_playlist():
-    full_playlist = {}
+    full_playlist = []
 
     for category in categories:
-        print(f"\n[{category.upper()}] ক্যাটাগরির ডাটা আনা হচ্ছে...")
+        print(f"\n[{category.capitalize()}] ক্যাটাগরির ডাটা আনা হচ্ছে...")
         api_url = f"{base_url}/api/matches/{category}"
-        full_playlist[category] = []
 
         try:
             response = requests.get(api_url, headers=headers)
             if response.status_code != 200:
-                print(f"❌ {category} এর ডাটা পাওয়া যায়নি।")
                 continue
             matches_data = response.json()
-        except Exception as e:
-            print(f"❌ {category} API কল এরর: {e}")
+        except Exception:
             continue
 
         for match in matches_data:
             try:
                 match_title = match.get("title", "Unknown Match")
-                match_id = match.get("id", "")
                 
-                # --- সময় ও স্ট্যাটাস লজিক শুরু ---
+                # --- সময় এবং স্ট্যাটাস লজিক ---
                 match_date_ms = match.get("date", 0)
-                status = "Unknown"
+                status = "Upcoming"
                 readable_time = ""
+                match_date_sec = 0 # সর্টিংয়ের জন্য ডিফল্ট ভ্যালু
                 
                 if match_date_ms:
-                    # মিলি-সেকেন্ডকে সেকেন্ডে রূপান্তর
                     match_date_sec = match_date_ms / 1000.0
-                    
-                    # API-এর টাইমস্ট্যাম্প থেকে বাংলাদেশ সময়ে রূপান্তর
                     dt_object = datetime.fromtimestamp(match_date_sec, tz=timezone.utc).astimezone(bd_timezone)
-                    readable_time = dt_object.strftime("%d-%b-%Y %I:%M %p") # ফরম্যাট: 24-Mar-2026 08:30 PM
+                    readable_time = dt_object.strftime("%I:%M %p %d-%m-%Y") 
                     
-                    # বর্তমান বাংলাদেশ সময়ের সাথে তুলনা করে Live নাকি Upcoming নির্ধারণ
                     current_time_sec = datetime.now(bd_timezone).timestamp()
-                    
                     if current_time_sec >= match_date_sec:
-                        status = "🔴 Live"
-                    else:
-                        status = "⏳ Upcoming"
-                # --- সময় ও স্ট্যাটাস লজিক শেষ ---
+                        status = "Live"
                 
-                # পোস্টারের ফুল লিংক তৈরি
+                # --- টিম এবং লোগো লজিক ---
+                teams = match.get("teams", {})
+                team_1_name = teams.get("home", {}).get("name", "")
+                team_2_name = teams.get("away", {}).get("name", "")
+                
+                t1_badge = teams.get("home", {}).get("badge", "")
+                team_1_logo = f"{base_url}/api/images/proxy/{t1_badge}" if t1_badge else ""
+                
+                t2_badge = teams.get("away", {}).get("badge", "")
+                team_2_logo = f"{base_url}/api/images/proxy/{t2_badge}" if t2_badge else ""
+
+                # --- পোস্টার লজিক ---
                 poster_url = match.get("poster", "")
                 if poster_url and poster_url.startswith("/"):
                     poster_url = f"{base_url}{poster_url}"
-
-                teams = match.get("teams", {})
-                sources = match.get("sources", [])
                 
-                print(f"  -> ম্যাচ প্রসেসিং: {match_title} ({status})")
-                match_streams = []
+                if not poster_url:
+                    encoded_title = urllib.parse.quote(match_title)
+                    poster_url = f"https://placehold.co/800x450/ffffff/000000.png?text={encoded_title}&font=Oswald"
 
-                # এমবেড লিংক বের করার লুপ
+                # --- এমবেড লিংক লজিক ---
+                sources = match.get("sources", [])
+                stream_urls_list = [] # একাধিক লিংকের জন্য ফাঁকা লিস্ট
+                
+                print(f"  -> প্রসেসিং: {match_title}")
+
                 for src in sources:
                     source_name = src.get("source")
                     source_id = src.get("id")
@@ -92,40 +93,50 @@ def generate_comprehensive_playlist():
                         if stream_resp.status_code == 200:
                             stream_data = stream_resp.json()
                             
-                            embed_urls = []
+                            # যতগুলো লিংক পাবে, সব লিস্টে অ্যাড করবে
                             if isinstance(stream_data, list):
                                 for stream in stream_data:
                                     if "embedUrl" in stream:
-                                        embed_urls.append(stream["embedUrl"])
+                                        stream_urls_list.append(stream["embedUrl"])
                             elif isinstance(stream_data, dict) and "embedUrl" in stream_data:
-                                embed_urls.append(stream_data["embedUrl"])
-                            
-                            if embed_urls:
-                                unique_embeds = list(set(embed_urls))
-                                match_streams.append({
-                                    "source": source_name,
-                                    "links": unique_embeds
-                                })
+                                stream_urls_list.append(stream_data["embedUrl"])
                     except Exception:
                         pass
                     
                     time.sleep(0.5)
 
-                # শুধু এমবেড লিংক থাকলেই ডাটা সেভ হবে
-                if match_streams:
-                    clean_match_data = {
-                        "id": match_id,
-                        "title": match_title,
-                        "status": status,
-                        "start_time": readable_time,
-                        "poster": poster_url,
-                        "teams": teams,
-                        "streams": match_streams
+                # ডুপ্লিকেট লিংকগুলো বাদ দিয়ে শুধু ইউনিক লিংকগুলো রাখা হচ্ছে
+                unique_stream_urls = list(set(stream_urls_list))
+
+                # অন্তত ১টি লিংক থাকলেই জেসনে অ্যাড হবে
+                if unique_stream_urls:
+                    item = {
+                        "Category": category.capitalize(),
+                        "League": category.capitalize(),
+                        "Team 1 Name": team_1_name,
+                        "Team 2 Name": team_2_name,
+                        "Team 1 Logo": team_1_logo,
+                        "Team 2 Logo": team_2_logo,
+                        "Match Title": match_title,
+                        "Match Poster": poster_url,
+                        "Match Status": status,
+                        "Start Time": readable_time,
+                        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+                        "Referer": "https://www.sagar-tv.com/",
+                        "Stream URL": unique_stream_urls, # এখন এটি একটি লিস্ট হবে (একাধিক লিংকের জন্য)
+                        "_sort_time": match_date_sec # এটি শুধু সর্ট করার কাজে লাগবে, জেসনে দেখাবে না
                     }
-                    full_playlist[category].append(clean_match_data)
+                    full_playlist.append(item)
                     
             except Exception as e:
                  print(f"লুপ এরর: {e}")
+
+    # --- ম্যাজিক সর্টিং: Live গুলো একদম উপরে, তারপর Upcoming গুলো ক্রমানুসারে ---
+    full_playlist.sort(key=lambda x: (0 if x["Match Status"] == "Live" else 1, x["_sort_time"]))
+
+    # সর্ট হওয়ার পর অপ্রয়োজনীয় টেম্পোরারি _sort_time রিমুভ করা
+    for item in full_playlist:
+        del item["_sort_time"]
 
     # ফাইনাল জেসন সেভ করা
     output_filename = "all_sports_playlist.json"
