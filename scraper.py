@@ -1,7 +1,9 @@
 import requests
 import json
 import time
+from datetime import datetime, timezone, timedelta
 
+# ফেক ব্রাউজার হেডার
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Referer": "https://www.sagar-tv.com/",
@@ -9,20 +11,23 @@ headers = {
 }
 
 base_url = "https://streamed.pk"
-# আপনার দেওয়া সব স্পোর্টস ক্যাটাগরির লিস্ট
+
+# আপনার স্পোর্টস ক্যাটাগরির লিস্ট
 categories = [
     "baseball", "american-football", "hockey", 
     "fight", "tennis", "football", "basketball"
 ]
 
+# বাংলাদেশ সময় (UTC +6) সেট করা (যাতে গিটহাবে রান করলেও সঠিক সময় দেখায়)
+bd_timezone = timezone(timedelta(hours=6))
+
 def generate_comprehensive_playlist():
-    full_playlist = {} # সব ডাটা ক্যাটাগরি অনুযায়ী রাখার জন্য মেইন ডিকশনারি
+    full_playlist = {}
 
     for category in categories:
         print(f"\n[{category.upper()}] ক্যাটাগরির ডাটা আনা হচ্ছে...")
         api_url = f"{base_url}/api/matches/{category}"
-        
-        full_playlist[category] = [] # এই ক্যাটাগরির জন্য একটি ফাঁকা লিস্ট তৈরি করা হলো
+        full_playlist[category] = []
 
         try:
             response = requests.get(api_url, headers=headers)
@@ -38,10 +43,30 @@ def generate_comprehensive_playlist():
             try:
                 match_title = match.get("title", "Unknown Match")
                 match_id = match.get("id", "")
-                match_date = match.get("date", "")
                 
-                # পোস্টার ও ব্যাজের লিংকগুলো অনেক সময় অর্ধেক দেওয়া থাকে (/api/images...), 
-                # সেগুলোকে ফুল লিংক বানানোর লজিক
+                # --- সময় ও স্ট্যাটাস লজিক শুরু ---
+                match_date_ms = match.get("date", 0)
+                status = "Unknown"
+                readable_time = ""
+                
+                if match_date_ms:
+                    # মিলি-সেকেন্ডকে সেকেন্ডে রূপান্তর
+                    match_date_sec = match_date_ms / 1000.0
+                    
+                    # API-এর টাইমস্ট্যাম্প থেকে বাংলাদেশ সময়ে রূপান্তর
+                    dt_object = datetime.fromtimestamp(match_date_sec, tz=timezone.utc).astimezone(bd_timezone)
+                    readable_time = dt_object.strftime("%d-%b-%Y %I:%M %p") # ফরম্যাট: 24-Mar-2026 08:30 PM
+                    
+                    # বর্তমান বাংলাদেশ সময়ের সাথে তুলনা করে Live নাকি Upcoming নির্ধারণ
+                    current_time_sec = datetime.now(bd_timezone).timestamp()
+                    
+                    if current_time_sec >= match_date_sec:
+                        status = "🔴 Live"
+                    else:
+                        status = "⏳ Upcoming"
+                # --- সময় ও স্ট্যাটাস লজিক শেষ ---
+                
+                # পোস্টারের ফুল লিংক তৈরি
                 poster_url = match.get("poster", "")
                 if poster_url and poster_url.startswith("/"):
                     poster_url = f"{base_url}{poster_url}"
@@ -49,10 +74,10 @@ def generate_comprehensive_playlist():
                 teams = match.get("teams", {})
                 sources = match.get("sources", [])
                 
-                print(f"  -> ম্যাচ প্রসেসিং: {match_title}")
+                print(f"  -> ম্যাচ প্রসেসিং: {match_title} ({status})")
                 match_streams = []
 
-                # এমবেড লিংক খোঁজার লুপ
+                # এমবেড লিংক বের করার লুপ
                 for src in sources:
                     source_name = src.get("source")
                     source_id = src.get("id")
@@ -77,7 +102,6 @@ def generate_comprehensive_playlist():
                             
                             if embed_urls:
                                 unique_embeds = list(set(embed_urls))
-                                # সোর্স অনুযায়ী লিংক সাজানো হলো
                                 match_streams.append({
                                     "source": source_name,
                                     "links": unique_embeds
@@ -85,14 +109,15 @@ def generate_comprehensive_playlist():
                     except Exception:
                         pass
                     
-                    time.sleep(0.5) # সার্ভার যাতে ব্লক না করে তাই হাফ সেকেন্ড ব্রেক
+                    time.sleep(0.5)
 
-                # যদি এমবেড লিংক পাওয়া যায়, তবেই মূল লিস্টে সুন্দর করে ডাটা অ্যাড হবে
+                # শুধু এমবেড লিংক থাকলেই ডাটা সেভ হবে
                 if match_streams:
                     clean_match_data = {
                         "id": match_id,
                         "title": match_title,
-                        "date": match_date,
+                        "status": status,
+                        "start_time": readable_time,
                         "poster": poster_url,
                         "teams": teams,
                         "streams": match_streams
@@ -102,12 +127,12 @@ def generate_comprehensive_playlist():
             except Exception as e:
                  print(f"লুপ এরর: {e}")
 
-    # পুরো ডাটা একটি কমপ্লিট জেসন ফাইলে সেভ করা
+    # ফাইনাল জেসন সেভ করা
     output_filename = "all_sports_playlist.json"
     with open(output_filename, "w", encoding="utf-8") as f:
         json.dump(full_playlist, f, ensure_ascii=False, indent=4)
         
-    print(f"\n✅ মিশন কমপ্লিট! সব ক্যাটাগরির ডাটা '{output_filename}' ফাইলে সেভ হয়েছে!")
+    print(f"\n✅ মিশন কমপ্লিট! সব ডাটা '{output_filename}' ফাইলে সেভ হয়েছে!")
 
 if __name__ == "__main__":
     generate_comprehensive_playlist()
