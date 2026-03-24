@@ -1,14 +1,10 @@
 import requests
 import json
 import time
-import base64
 from datetime import datetime, timezone, timedelta
 import urllib.parse
 
-# আপনার ইউনিভার্সাল Vercel প্লেয়ারের লিংক
-VERCEL_PLAYER_URL = "https://data-2.vercel.app/"
-
-# API রিকোয়েস্টের হেডার
+# API রিকোয়েস্টের হেডার (কোনো Referer নেই)
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept": "application/json"
@@ -18,18 +14,11 @@ base_url = "https://streamed.pk"
 # বাংলাদেশ সময় (UTC +6)
 bd_timezone = timezone(timedelta(hours=6))
 
-# --- ম্যাজিক: লিংক এনক্রিপ্ট করার ফাংশন ---
-def encrypt_url(url):
-    encoded_bytes = base64.b64encode(url.encode('utf-8'))
-    encoded_str = encoded_bytes.decode('utf-8')
-    # স্ট্রিংটাকে উল্টে (Reverse) দেওয়া
-    reversed_str = encoded_str[::-1]
-    return reversed_str
-
 def generate_live_playlist():
     full_playlist = []
 
     print("\n🔴 লাইভ ম্যাচ খোঁজা শুরু হচ্ছে...")
+    # সরাসরি লাইভ ম্যাচের API
     api_url = f"{base_url}/api/matches/live"
 
     try:
@@ -101,33 +90,21 @@ def generate_live_playlist():
                             for s in stream_data:
                                 if "embedUrl" in s:
                                     quality = "HD" if s.get("hd") else "SD"
-                                    
-                                    # --- আসল লিংক লুকিয়ে Vercel লিংক বানানো ---
-                                    original_url = s["embedUrl"]
-                                    encrypted_id = encrypt_url(original_url)
-                                    safe_url = f"{VERCEL_PLAYER_URL}?id={encrypted_id}"
-                                    
                                     detailed_streams.append({
                                         "Source": source_name,
                                         "Stream_No": s.get("streamNo", 1),
                                         "Language": s.get("language", "English"),
                                         "Quality": quality,
-                                        "Embed_URL": safe_url # এখানে এখন আপনার Vercel লিংক সেভ হবে!
+                                        "Embed_URL": s["embedUrl"]
                                     })
                         elif isinstance(stream_data, dict) and "embedUrl" in stream_data:
                             quality = "HD" if stream_data.get("hd") else "SD"
-                            
-                            # --- আসল লিংক লুকিয়ে Vercel লিংক বানানো ---
-                            original_url = stream_data["embedUrl"]
-                            encrypted_id = encrypt_url(original_url)
-                            safe_url = f"{VERCEL_PLAYER_URL}?id={encrypted_id}"
-                            
                             detailed_streams.append({
                                 "Source": source_name,
                                 "Stream_No": stream_data.get("streamNo", 1),
                                 "Language": stream_data.get("language", "English"),
                                 "Quality": quality,
-                                "Embed_URL": safe_url # এখানে এখন আপনার Vercel লিংক সেভ হবে!
+                                "Embed_URL": stream_data["embedUrl"]
                             })
                 except Exception:
                     pass
@@ -145,21 +122,22 @@ def generate_live_playlist():
                     "Team 2 Logo": team_2_logo,
                     "Match Title": match_title,
                     "Match Poster": poster_url,
-                    "Match Status": "Live",
+                    "Match Status": "Live", # যেহেতু /live API থেকে আনছি, তাই ডিফল্ট লাইভ
                     "Start Time": readable_time,
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "Streams": detailed_streams
+                    "Streams": detailed_streams # বিস্তারিত স্ট্রিমিং ডাটা
                 }
                 full_playlist.append(item)
                 
         except Exception as e:
              pass
 
+    # ফাইনাল জেসন সেভ করা (লাইভ ম্যাচের জন্য আলাদা নাম দিলাম)
     output_filename = "live_sports_playlist.json"
     with open(output_filename, "w", encoding="utf-8") as f:
         json.dump(full_playlist, f, ensure_ascii=False, indent=4)
         
-    print(f"\n🎉 চমৎকার! লাইভ ডাটাগুলো এনক্রিপ্ট হয়ে '{output_filename}' ফাইলে সেভ হয়েছে!")
+    print(f"\n🎉 চমৎকার! লাইভ ডাটাগুলো '{output_filename}' ফাইলে প্রিমিয়াম ফরম্যাটে সেভ হয়েছে!")
 
 if __name__ == "__main__":
     generate_live_playlist()
