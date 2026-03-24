@@ -16,7 +16,6 @@ headers = {
 base_url = "https://streamed.pk"
 bd_timezone = timezone(timedelta(hours=6))
 
-# --- লিংক এনক্রিপ্ট করার ম্যাজিক ---
 def encrypt_url(url):
     encoded_bytes = base64.b64encode(url.encode('utf-8'))
     encoded_str = encoded_bytes.decode('utf-8')
@@ -25,12 +24,12 @@ def encrypt_url(url):
 
 def generate_full_playlist():
     full_playlist = []
-    seen_matches = set() # একই ম্যাচ যেন ডাবল না হয়, সেটা চেক করার জন্য
+    seen_matches = set() # ডাবল এন্ট্রি ঠেকানোর জন্য
 
-    # লাইভ এবং আপকামিং দুইটা API তেই আমরা হানা দেব!
+    # --- এখানে API লিংকগুলো ডকুমেন্টেশন অনুযায়ী আপডেট করা হয়েছে ---
     endpoints = [
         {"url": "/api/matches/live", "status": "Live 🔴"},
-        {"url": "/api/matches/schedule", "status": "Upcoming ⏳"}
+        {"url": "/api/matches/all-today", "status": "Upcoming ⏳"} # আপকামিং এর সঠিক লিংক
     ]
 
     print("\n🔍 লাইভ এবং আপকামিং ম্যাচ খোঁজা শুরু হচ্ছে...")
@@ -54,7 +53,7 @@ def generate_full_playlist():
                 match_id = match.get("id", "")
                 match_title = match.get("title", "Unknown Match")
                 
-                # যদি ম্যাচটি আগেই 'Live' লিস্টে অ্যাড হয়ে থাকে, তবে 'Upcoming' থেকে আর নেব না
+                # ডাবল ম্যাচ চেক (all-today এর ভেতর লাইভ ম্যাচগুলোও থাকতে পারে)
                 if match_id in seen_matches or match_title in seen_matches:
                     continue
                 seen_matches.add(match_id)
@@ -62,7 +61,7 @@ def generate_full_playlist():
 
                 category = match.get("category", "Sports")
                 
-                # --- সময় লজিক ---
+                # সময় লজিক
                 match_date_ms = match.get("date", 0)
                 readable_time = ""
                 sort_time = 0
@@ -72,7 +71,7 @@ def generate_full_playlist():
                     dt_object = datetime.fromtimestamp(sort_time, tz=timezone.utc).astimezone(bd_timezone)
                     readable_time = dt_object.strftime("%I:%M %p | %d-%b") 
                 
-                # --- টিম লজিক ---
+                # টিম লজিক
                 teams = match.get("teams", {})
                 team_1_name = teams.get("home", {}).get("name", "")
                 team_2_name = teams.get("away", {}).get("name", "")
@@ -83,7 +82,7 @@ def generate_full_playlist():
                 t2_badge = teams.get("away", {}).get("badge", "")
                 team_2_logo = f"{base_url}/api/images/proxy/{t2_badge}" if t2_badge else ""
 
-                # --- পোস্টার ---
+                # পোস্টার
                 poster_url = match.get("poster", "")
                 if poster_url and poster_url.startswith("/"):
                     poster_url = f"{base_url}{poster_url}"
@@ -91,7 +90,7 @@ def generate_full_playlist():
                     encoded_title = urllib.parse.quote(match_title)
                     poster_url = f"https://placehold.co/800x450/1a1a1a/ffffff.png?text={encoded_title}&font=Oswald"
 
-                # --- স্ট্রিমিং লিংক ---
+                # স্ট্রিমিং লিংক বের করা (আপনার দেওয়া JS কোডের হুবহু লজিক)
                 sources = match.get("sources", [])
                 detailed_streams = []
 
@@ -108,14 +107,13 @@ def generate_full_playlist():
                         stream_resp = requests.get(stream_api_url, headers=headers, timeout=10)
                         if stream_resp.status_code == 200:
                             stream_data = stream_resp.json()
-                            
                             stream_list = stream_data if isinstance(stream_data, list) else [stream_data]
                             
                             for s in stream_list:
                                 if isinstance(s, dict) and "embedUrl" in s:
                                     quality = "HD" if s.get("hd") else "SD"
                                     
-                                    # --- আসল লিংক লুকিয়ে Vercel লিংক বানানো ---
+                                    # আসল লিংক লুকিয়ে আপনার Vercel অ্যাড লিংক বানানো
                                     original_url = s["embedUrl"]
                                     encrypted_id = encrypt_url(original_url)
                                     safe_url = f"{VERCEL_PLAYER_URL}?id={encrypted_id}"
@@ -130,10 +128,9 @@ def generate_full_playlist():
                     except Exception:
                         pass
                     
-                    time.sleep(0.3)
+                    time.sleep(0.3) # API ব্লক হওয়া থেকে বাঁচতে ছোট্ট ডিলে
 
-                # আপকামিং ম্যাচগুলোতে অনেক সময় আগে থেকে লিংক থাকে না। 
-                # তবুও আমরা জেসনে অ্যাড করব, যাতে ইউজাররা শিডিউল দেখতে পারে।
+                # ডাটা জেসনে অ্যাড করা
                 item = {
                     "Category": category.capitalize(),
                     "League": category.capitalize(),
@@ -147,17 +144,16 @@ def generate_full_playlist():
                     "Start Time": readable_time,
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "Streams": detailed_streams,
-                    "_sort_time": sort_time # সর্টিং এর জন্য লুকানো ডাটা
+                    "_sort_time": sort_time
                 }
                 full_playlist.append(item)
                     
             except Exception as e:
                  pass
 
-    # সর্টিং: Live গুলো একদম উপরে থাকবে, এরপর Upcoming গুলো সময়ের ক্রমানুসারে থাকবে
+    # সর্টিং: Live গুলো একদম উপরে, Upcoming গুলো নিচে সময়ের সিরিয়াল অনুযায়ী
     full_playlist.sort(key=lambda x: (0 if "Live" in x["Match Status"] else 1, x["_sort_time"]))
 
-    # সর্টিং শেষে _sort_time রিমুভ করে দেওয়া
     for item in full_playlist:
         del item["_sort_time"]
 
