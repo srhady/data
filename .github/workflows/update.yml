@@ -35,10 +35,14 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+          # আপনার স্ক্রিপ্টে যদি requests ছাড়া অন্য কোনো লাইব্রেরি (যেমন: bs4) লাগে, তবে সেটিও এখানে যোগ করতে হবে।
 
-      # ৫. ফোল্ডারের ভেতর ঢুকে স্ক্রিপ্ট রান করা (মাস্টার ট্রিক)
+      # ৫. ফোল্ডারের ভেতর ঢুকে স্ক্রিপ্ট রান করা (ডিবাগিং কমান্ড সহ)
       - name: Run Scraper Script
         run: |
+          echo "--- Checking files inside private_script_folder ---"
+          ls -la private_script_folder/
+          
           # সোজা প্রাইভেট ফোল্ডারের ভেতর প্রবেশ করা হচ্ছে
           cd private_script_folder
           
