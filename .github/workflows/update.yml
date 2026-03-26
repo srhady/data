@@ -20,9 +20,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: srhady/Sports
-          token: ${{ secrets.GH_PAT }} # গোপন চাবি
-          ref: main # আপনার স্ক্রিনশট অনুযায়ী main ব্রাঞ্চ
-          path: private_script_folder # ফাইলগুলো এই ফোল্ডারে আসবে
+          token: ${{ secrets.GH_PAT }}
+          ref: main 
+          path: private_script_folder 
 
       # ৩. পাইথন সেটআপ করা
       - name: Set up Python
@@ -36,14 +36,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # ৫. প্রাইভেট ফোল্ডার থেকে সরাসরি data.py রান করা
+      # ৫. ফোল্ডারের ভেতর ঢুকে স্ক্রিপ্ট রান করা (মাস্টার ট্রিক)
       - name: Run Scraper Script
         run: |
-          echo "📂 প্রাইভেট ফোল্ডারের ভেতরের ফাইলগুলো চেক করা হচ্ছে:"
-          ls -la private_script_folder/
+          # সোজা প্রাইভেট ফোল্ডারের ভেতর প্রবেশ করা হচ্ছে
+          cd private_script_folder
           
-          # সরাসরি ফাইল রান করা হচ্ছে
-          python private_script_folder/data.py
+          # এবার ফাইলটা রান করা হচ্ছে
+          python data.py
+          
+          # রান শেষে তৈরি হওয়া জেসন ফাইলটাকে মেইন পাবলিক ফোল্ডারে পাঠানো হচ্ছে
+          mv live_sports_playlist.json ../
 
       # ৬. নতুন জেসন ফাইলটি পাবলিক রিপোতে সেভ ও পুশ করা
       - name: Commit and Push Changes
@@ -53,6 +56,5 @@ jobs:
           
           git add live_sports_playlist.json
           
-          # ডাটা পরিবর্তন হলেই কেবল গিটহাবে পুশ করবে
           git diff --quiet && git diff --staged --quiet || git commit -m "Manual update Live sports playlist [skip ci]"
           git push
