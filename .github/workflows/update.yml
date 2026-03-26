@@ -1,64 +1,41 @@
 name: Update Live Sports JSON
 
 on:
-  workflow_dispatch: # 'Run workflow' বাটনে ক্লিক করে ম্যানুয়ালি রান করার জন্য
-
-permissions:
-  contents: write
+  workflow_dispatch:
 
 jobs:
-  build:
+  update-json:
     runs-on: ubuntu-latest
 
     steps:
-      # ১. পাবলিক রিপোজিটরি রেডি করা
       - name: Checkout Public Repository
         uses: actions/checkout@v4
 
-      # ২. প্রাইভেট রিপো (srhady/Sports) থেকে ডাটা ধার করে আনা
-      - name: Checkout Private Repository
-        uses: actions/checkout@v4
-        with:
-          repository: srhady/Sports
-          token: ${{ secrets.GH_PAT }}
-          ref: main 
-          path: private_script_folder 
-
-      # ৩. পাইথন সেটআপ করা
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # ৪. প্রয়োজনীয় লাইব্রেরি ইনস্টল করা
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
-          # আপনার স্ক্রিপ্টে যদি requests ছাড়া অন্য কোনো লাইব্রেরি (যেমন: bs4) লাগে, তবে সেটিও এখানে যোগ করতে হবে।
+          # আপনার স্ক্রিপ্টে যদি requests ছাড়া অন্য কোনো লাইব্রেরি লাগে, তবে সেটিও এখানে যোগ করতে হবে।
 
-      # ৫. ফোল্ডারের ভেতর ঢুকে স্ক্রিপ্ট রান করা (ডিবাগিং কমান্ড সহ)
+      - name: Clone Private Repository
+        run: |
+          git clone https://${{ secrets.GH_PAT }}@github.com/srhady/Sports.git private_repo
+
       - name: Run Scraper Script
         run: |
-          echo "--- Checking files inside private_script_folder ---"
-          ls -la private_script_folder/
-          
-          # সোজা প্রাইভেট ফোল্ডারের ভেতর প্রবেশ করা হচ্ছে
-          cd private_script_folder
-          
-          # এবার ফাইলটা রান করা হচ্ছে
-          python data.py
-          
-          # রান শেষে তৈরি হওয়া জেসন ফাইলটাকে মেইন পাবলিক ফোল্ডারে পাঠানো হচ্ছে
-          mv live_sports_playlist.json ../
+          # ফোল্ডারের ভেতর না ঢুকেই সরাসরি রুট থেকে ফাইল রান করা হচ্ছে
+          python private_repo/data.py
 
-      # ৬. নতুন জেসন ফাইলটি পাবলিক রিপোতে সেভ ও পুশ করা
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "actions@github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           
           git add live_sports_playlist.json
           
-          git diff --quiet && git diff --staged --quiet || git commit -m "Manual update Live sports playlist [skip ci]"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Manual update Live sports playlist" && git pull --rebase origin main && git push)
