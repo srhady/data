@@ -25,6 +25,9 @@ def encrypt_url(url):
 def generate_full_playlist():
     full_playlist = []
     seen_matches = set() # ডাবল এন্ট্রি ঠেকানোর জন্য
+    
+    # বর্তমান সময় বের করা হচ্ছে
+    current_time = time.time()
 
     # --- এখানে API লিংকগুলো ডকুমেন্টেশন অনুযায়ী আপডেট করা হয়েছে ---
     endpoints = [
@@ -61,6 +64,9 @@ def generate_full_playlist():
 
                 category = match.get("category", "Sports")
                 
+                # এই ম্যাচের জন্য ডিফল্ট স্ট্যাটাস সেট করা
+                match_status = status_label
+                
                 # সময় লজিক
                 match_date_ms = match.get("date", 0)
                 readable_time = ""
@@ -70,6 +76,10 @@ def generate_full_playlist():
                     sort_time = match_date_ms / 1000.0
                     dt_object = datetime.fromtimestamp(sort_time, tz=timezone.utc).astimezone(bd_timezone)
                     readable_time = dt_object.strftime("%I:%M %p | %d-%b") 
+                    
+                    # --- ম্যাজিক লজিক: সময় পার হলে অটো লাইভ ---
+                    if match_status == "Upcoming ⏳" and sort_time <= current_time:
+                        match_status = "Live 🔴"
                 
                 # টিম লজিক
                 teams = match.get("teams", {})
@@ -140,7 +150,7 @@ def generate_full_playlist():
                     "Team 2 Logo": team_2_logo,
                     "Match Title": match_title,
                     "Match Poster": poster_url,
-                    "Match Status": status_label,
+                    "Match Status": match_status, # আপডেট করা স্ট্যাটাস বসানো হলো
                     "Start Time": readable_time,
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
                     "Streams": detailed_streams,
