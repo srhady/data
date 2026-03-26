@@ -1,12 +1,8 @@
 name: Update Live Sports JSON
 
-# কখন রান করবে তার সেটিং
 on:
-  schedule:
-    - cron: '*/10 * * * *' # প্রতি ৩০ মিনিট পর পর অটোমেটিক রান করবে (লাইভ ম্যাচের জন্য বেস্ট)
   workflow_dispatch: # 'Run workflow' বাটনে ক্লিক করে ম্যানুয়ালি রান করার জন্য
 
-# ফাইল এডিট করে পুশ করার পারমিশন
 permissions:
   contents: write
 
@@ -15,8 +11,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      # ১. প্রথমে আপনার পাবলিক রিপো (যেখানে জেসন সেভ হবে) রেডি করা
+      - name: Checkout Public Repository
         uses: actions/checkout@v4
+
+      # ২. আপনার প্রাইভেট রিপো (srhady/Sports) থেকে ডাটা ধার করে আনা
+      - name: Checkout Private Repository
+        uses: actions/checkout@v4
+        with:
+          repository: srhady/Sports
+          token: ${{ secrets.GH_PAT }} # এই গোপন চাবি দিয়ে প্রাইভেট রিপোর তালা খুলবে
+          path: private_script_folder # প্রাইভেট রিপোর ফাইলগুলো এই ফোল্ডারে আসবে
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,11 +31,15 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests
 
+      # ৩. প্রাইভেট রিপোর ফোল্ডার থেকে data.py বের করে রান করা
       - name: Run Scraper Script
-        run: python scraper.py
+        run: |
+          cp private_script_folder/data.py .
+          python data.py
 
+      # ৪. জেনারেট হওয়া জেসন ফাইলটি পাবলিক রিপোতে পুশ করা
       - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Actions Bot"
@@ -39,6 +48,6 @@ jobs:
           # নতুন লাইভ জেসন ফাইলটি অ্যাড করা হচ্ছে
           git add live_sports_playlist.json
           
-          # ডাটা পরিবর্তন হলেই কেবল গিটহাবে পুশ করবে, নাহলে এরর এড়াবে
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update Live sports playlist [skip ci]"
+          # ডাটা পরিবর্তন হলেই কেবল গিটহাবে পুশ করবে
+          git diff --quiet && git diff --staged --quiet || git commit -m "Manual update Live sports playlist [skip ci]"
           git push
