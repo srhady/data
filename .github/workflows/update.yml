@@ -11,41 +11,46 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ১. প্রথমে আপনার পাবলিক রিপো (যেখানে জেসন সেভ হবে) রেডি করা
+      # ১. পাবলিক রিপোজিটরি রেডি করা
       - name: Checkout Public Repository
         uses: actions/checkout@v4
 
-      # ২. আপনার প্রাইভেট রিপো (srhady/Sports) থেকে ডাটা ধার করে আনা
+      # ২. প্রাইভেট রিপো (srhady/Sports) থেকে ডাটা ধার করে আনা
       - name: Checkout Private Repository
         uses: actions/checkout@v4
         with:
           repository: srhady/Sports
-          token: ${{ secrets.GH_PAT }} # এই গোপন চাবি দিয়ে প্রাইভেট রিপোর তালা খুলবে
-          path: private_script_folder # প্রাইভেট রিপোর ফাইলগুলো এই ফোল্ডারে আসবে
+          token: ${{ secrets.GH_PAT }} # গোপন চাবি
+          ref: main # আপনার স্ক্রিনশট অনুযায়ী main ব্রাঞ্চ
+          path: private_script_folder # ফাইলগুলো এই ফোল্ডারে আসবে
 
+      # ৩. পাইথন সেটআপ করা
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
+      # ৪. প্রয়োজনীয় লাইব্রেরি ইনস্টল করা
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      # ৩. প্রাইভেট রিপোর ফোল্ডার থেকে data.py বের করে রান করা
+      # ৫. প্রাইভেট ফোল্ডার থেকে সরাসরি data.py রান করা
       - name: Run Scraper Script
         run: |
-          cp private_script_folder/data.py .
-          python data.py
+          echo "📂 প্রাইভেট ফোল্ডারের ভেতরের ফাইলগুলো চেক করা হচ্ছে:"
+          ls -la private_script_folder/
+          
+          # সরাসরি ফাইল রান করা হচ্ছে
+          python private_script_folder/data.py
 
-      # ৪. জেনারেট হওয়া জেসন ফাইলটি পাবলিক রিপোতে পুশ করা
+      # ৬. নতুন জেসন ফাইলটি পাবলিক রিপোতে সেভ ও পুশ করা
       - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           
-          # নতুন লাইভ জেসন ফাইলটি অ্যাড করা হচ্ছে
           git add live_sports_playlist.json
           
           # ডাটা পরিবর্তন হলেই কেবল গিটহাবে পুশ করবে
