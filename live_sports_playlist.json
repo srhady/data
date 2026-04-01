@@ -216,7 +216,7 @@
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp",
         "Match Title": "FC Andorra vs Malaga",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=FC%20Andorra%20vs%20Malaga&font=Oswald",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "11:00 PM | 01-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -252,7 +252,7 @@
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAxiBj1yDdc0k94YqtwJdWYMLnw2gA.webp",
         "Match Title": "Bayern vs Fenerbahce",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Bayern%20vs%20Fenerbahce&font=Oswald",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "11:00 PM | 01-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -429,6 +429,13 @@
         "Start Time": "11:40 PM | 01-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://data-2.vercel.app/?id===QMvkzN0EjMzgTOxETLn5WatFWZyR3ctUmdpxWLzlXYy1ycyV2dlJnYfJGbt9VZ2lGbvEGdsVGZvQWZi1WZvA3b05yc0J3bwNHZlJWbl9yL6MHc0RHa"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
