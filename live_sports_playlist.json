@@ -188,27 +188,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-new-york-yankees/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-new-york-yankees/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-new-york-yankees/3"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -236,6 +215,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_pat-brown-vs-vasil-ducar-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21295/1"
             }
         ]
     },
@@ -272,20 +258,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-diego-padres-vs-boston-red-sox/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-red-sox-vs-san-diego-padres-baseball-178117/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-red-sox-vs-san-diego-padres-baseball-178117/2"
             },
             {
                 "Source": "golf",
@@ -336,13 +308,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_white-sox-blue-jays-live-streaming-1249833915/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chicago-white-sox-vs-toronto-blue-jays-baseball-178103/1"
             }
         ]
     },
@@ -414,85 +379,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Galway United",
-        "Team 2 Name": "Derry City",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYpgYEBBAxtIbiBIgjOQwBMDIRFvgEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQgyJEBFzAkIbiAAmIGLlMajifQYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Galway United vs Derry City",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUXxBReTNCG4hNUkMYghEISycMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 04-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/galway-united-vs-derry-city-football-1492657/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Coventry City",
-        "Team 2 Name": "Derby County",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLgUYbmHWJuICLj0gYIRIj4gUIC4RjAmfFFzBl4ReaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhySdWaEFCQhuIEnpB8dB-UYiaCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Match Title": "Coventry City vs Derby County",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNvT5gSIKSBghuIPiB04dBgyBARdBYEgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 04-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_championship_coventry-derby-live-streaming-1093334571/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/coventry-vs-derby-football-1387024/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/coventry-vs-derby-football-1387024/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/coventry-vs-derby-football-1387024/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/coventry-vs-derby-football-1387024/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/coventry-vs-derby-football-1387024/5"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Rayo Vallecano",
         "Team 2 Name": "Elche",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0JJQYEiBQgIIbiAAmITSa3Gdh4wQpM+KLhvL15o+01pgNY0RCA.webp",
@@ -523,48 +409,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-rayo-vallecano-vs-elche/3"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_rayo-vallecano-elche-live-streaming-1093712193/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rayo-vallecano-vs-elche-football-1391115/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rayo-vallecano-vs-elche-football-1391115/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rayo-vallecano-vs-elche-football-1391115/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rayo-vallecano-vs-elche-football-1391115/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rayo-vallecano-vs-elche-football-1391115/5"
             }
         ]
     },
@@ -766,6 +610,13 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-tampa-bay-rays-vs-minnesota-twins/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_twins-rays-live-streaming-1198553247/1"
             },
             {
                 "Source": "golf",
