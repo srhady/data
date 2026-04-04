@@ -172,27 +172,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-minnesota-wild-vs-ottawa-senators/3"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl_senators-wild-live-streaming-1224293481/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ottawa-senators-vs-minnesota-wild-hockey-416825/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ottawa-senators-vs-minnesota-wild-hockey-416825/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -411,28 +390,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Baylor Bears vs Oklahoma Sooners",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Baylor%20Bears%20vs%20Oklahoma%20Sooners&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:30 PM | 04-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_college-basketball-crown_baylor-oklahoma-live-streaming-1250352396/1"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -508,6 +465,13 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-chisora-v-wilder-ppv-02/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-chisora-v-wilder-ppv-02/2"
             },
             {
                 "Source": "golf",
@@ -1480,6 +1444,57 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Kansas City W",
+        "Team 2 Name": "NJ/NY Gotham FC W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiAgh1AY3rkGWrOJ7wRVbgS6swYXPmtA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMvj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Kansas City W vs NJ/NY Gotham FC W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kansas%20City%20W%20vs%20NJ/NY%20Gotham%20FC%20W&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 05-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/kansas-city-w-vs-njny-gotham-fc-w-football-1508389/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/kansas-city-w-vs-njny-gotham-fc-w-football-1508389/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Creighton Bluejays vs West Virginia Mountaineers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Creighton%20Bluejays%20vs%20West%20Virginia%20Mountaineers&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 05-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_college-basketball-crown_creighton-west-virginia-live-streaming-1251305442/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1555,57 +1570,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Kansas City W",
-        "Team 2 Name": "NJ/NY Gotham FC W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiAgh1AY3rkGWrOJ7wRVbgS6swYXPmtA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMvj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Kansas City W vs NJ/NY Gotham FC W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kansas%20City%20W%20vs%20NJ/NY%20Gotham%20FC%20W&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 05-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/kansas-city-w-vs-njny-gotham-fc-w-football-1508389/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/kansas-city-w-vs-njny-gotham-fc-w-football-1508389/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Creighton Bluejays vs West Virginia Mountaineers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Creighton%20Bluejays%20vs%20West%20Virginia%20Mountaineers&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 05-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_college-basketball-crown_creighton-west-virginia-live-streaming-1251305442/1"
             }
         ]
     },
