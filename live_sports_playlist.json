@@ -93,34 +93,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-detroit-red-wings-vs-new-york-rangers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-detroit-red-wings-vs-new-york-rangers/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-detroit-red-wings-vs-new-york-rangers/3"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl_rangers-red-wings-live-streaming-1224292482/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -262,49 +234,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-fc-vs-colorado-rapids/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21280/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Brest",
-        "Team 2 Name": "Stade Rennais",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Brest vs. Stade Rennais",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOGkekvyEhgEEGJTBu4xtSGCsIJd1EgsFJUuxyR0hiADGO4GWBtwnHsALY8Z8klwHJXDgjYrOkm-TAdRjKJAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 04-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-brest-vs-stade-rennais/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-brest-vs-stade-rennais/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "French",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-brest-vs-stade-rennais/3"
             }
         ]
     },
@@ -1500,28 +1429,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "TNT Extreme Wrestling DOA 2026",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TNT%20Extreme%20Wrestling%20DOA%202026&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:30 AM | 05-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-tnt-extreme-wrestling-doa-2026-ppv-06/1"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "FC Porto",
@@ -1547,6 +1454,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/fc-porto-vs-famalicao-football-1396482/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "TNT Extreme Wrestling DOA 2026",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TNT%20Extreme%20Wrestling%20DOA%202026&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:30 AM | 05-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-tnt-extreme-wrestling-doa-2026-ppv-06/1"
             }
         ]
     },
