@@ -44,39 +44,18 @@
         ]
     },
     {
-        "Category": "Darts",
-        "League": "Darts",
+        "Category": "Other",
+        "League": "Other",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Premier League: Brighton",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEbkDGqNswAQGNgEEBGyDhsrCE6cswEsLWJOiFDJAaB0+tKVlgbcJx7AColBfJJc4h1w4I23EQ7v0wHFIiEEA.webp",
+        "Match Title": "Premier League Darts: Brighton 🎯",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Premier%20League%20Darts%3A%20Brighton%20%F0%9F%8E%AF&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "12:00 AM | 10-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-premier-league-brighton/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-premier-league-brighton/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-premier-league-brighton/3"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -90,42 +69,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/premier-league-darts-brighton-darts-1/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "UCV",
-        "Team 2 Name": "Libertad Asuncion",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIZRBAx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikAGMQKeuQYrm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "UCV vs Libertad Asuncion",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCV%20vs%20Libertad%20Asuncion&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 AM | 10-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ucv-vs-libertad-asuncion-football-1535249/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ucv-vs-libertad-asuncion-football-1535249/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ucv-vs-libertad-asuncion-football-1535249/3"
             }
         ]
     },
@@ -169,6 +112,42 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/rosario-central-vs-independiente-del-valle-football-1535245/4"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "UCV",
+        "Team 2 Name": "Libertad Asuncion",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIZRBAx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikAGMQKeuQYrm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "UCV vs Libertad Asuncion",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCV%20vs%20Libertad%20Asuncion&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 10-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ucv-vs-libertad-asuncion-football-1535249/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ucv-vs-libertad-asuncion-football-1535249/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ucv-vs-libertad-asuncion-football-1535249/3"
             }
         ]
     },
@@ -327,6 +306,13 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-maple-leafs-vs-new-york-islanders/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl_islanders-maple-leafs-live-streaming-1234225539/1"
             },
             {
                 "Source": "echo",
