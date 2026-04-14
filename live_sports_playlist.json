@@ -104,28 +104,6 @@
     {
         "Category": "Hockey",
         "League": "Hockey",
-        "Team 1 Name": "Chicago Blackhawks",
-        "Team 2 Name": "Buffalo Sabres",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Chicago Blackhawks vs Buffalo Sabres",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJmDAo6IeFpDcQfEFJAwQKMwaO4LBYEgp9hs+ijArtbD+XpZZ2ky0mqL0oUA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 14-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21583/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
         "Team 1 Name": "Seattle Kraken",
         "Team 2 Name": "Los Angeles Kings",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp",
@@ -957,12 +935,19 @@
         "Team 2 Name": "Miami Heat",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Charlotte Hornets - Miami Heat",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Hornets%20-%20Miami%20Heat&font=Oswald",
+        "Match Title": "Charlotte Hornets vs Miami Heat",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Hornets%20vs%20Miami%20Heat&font=Oswald",
         "Match Status": "Upcoming ⏳",
         "Start Time": "05:30 AM | 15-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nba_hornets-heat-live-streaming-1269733995/1"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1225,6 +1210,50 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/21663/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Phoenix Suns",
+        "Team 2 Name": "Portland Trail Blazers",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Phoenix Suns vs Portland Trail Blazers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Suns%20vs%20Portland%20Trail%20Blazers&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:00 AM | 15-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21648/1"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Vancouver Canucks",
+        "Team 2 Name": "Los Angeles Kings",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gIIGCHDzV3ELpApcxzavWHCMYEz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Vancouver Canucks vs Los Angeles Kings",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBxZmYURBDcQfEFJAwQKMwaMgSRgsCQU+w2fRS62KLrvL1tot5MtGCe9HpAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:00 AM | 15-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21634/1"
             }
         ]
     }
