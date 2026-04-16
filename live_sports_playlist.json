@@ -79,28 +79,6 @@
         ]
     },
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Chicago White Sox",
-        "Team 2 Name": "Tampa Bay Rays",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Chicago White Sox vs Tampa Bay Rays",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVgYgyMYFJDcQfI9oMhEORCVwFgSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:10 AM | 17-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21686/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "PFL Belfast Kelly",
@@ -629,6 +607,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-jose-sharks-vs-winnipeg-jets/3"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl_jets-sharks-live-streaming-1234927836/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -672,11 +657,40 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-anaheim-ducks-vs-nashville-predators/3"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl_predators-ducks-live-streaming-1234925838/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/21642/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Houston Gamblers",
+        "Team 2 Name": "Louisville Kings",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyyQQiACb8wKENxB8DIGCA1H9JkCAgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUCSm1ghuIPnpAwQAEwNGcIEPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Houston Gamblers vs Louisville Kings",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Houston%20Gamblers%20vs%20Louisville%20Kings&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 17-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_houston-gamblers-louisville-kings-live-streaming-1234924839/1"
             }
         ]
     },
