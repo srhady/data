@@ -35,27 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-kraken-vs-colorado-avalanche/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-kraken-vs-colorado-avalanche/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-kraken-vs-colorado-avalanche/3"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -144,6 +123,49 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Blues Super Rugby",
+        "Team 2 Name": "Highlanders Super Rugby",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQwAAxgUFFCG4gSh4wYghEBnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphghaAE36gwJENxC7dEEMf2qchghSZ8UXHeXrzRdprTA6xoiEA.webp",
+        "Match Title": "Blues Super Rugby vs Highlanders Super Rugby",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzApgM0CHYaQfEFJBmIRkIgswjBYEgp9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:05 PM | 17-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/blues-vs-highlanders-rugby-51827/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/blues-vs-highlanders-rugby-51827/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/blues-vs-highlanders-rugby-51827/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/blues-vs-highlanders-rugby-51827/4"
+            }
+        ]
+    },
+    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -226,6 +248,56 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/geelong-cats-vs-western-bulldogs-australian-football-3391/3"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "RBC Heritage | PGA Tour",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RBC%20Heritage%20%7C%20PGA%20Tour&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 PM | 17-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/rbc-heritage-pga-tour-pga-526234/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/rbc-heritage-pga-tour-pga-526234/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/rbc-heritage-pga-tour-pga-526234/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/rbc-heritage-pga-tour-pga-526234/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/rbc-heritage-pga-tour-pga-526234/5"
             }
         ]
     },
@@ -467,11 +539,54 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-baltimore-orioles-vs-cleveland-guardians/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-baltimore-orioles-vs-cleveland-guardians/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-baltimore-orioles-vs-cleveland-guardians/3"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/21711/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Pittsburgh Pirates",
+        "Team 2 Name": "Tampa Bay Rays",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Pittsburgh Pirates vs Tampa Bay Rays",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCHBSQfEPUTcdRkiEOIciE3wLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:40 AM | 18-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21713/1"
             }
         ]
     },
@@ -516,28 +631,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/21714/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Pittsburgh Pirates",
-        "Team 2 Name": "Tampa Bay Rays",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Pittsburgh Pirates vs Tampa Bay Rays",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCHBSQfEPUTcdRkiEOIciE3wLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:45 AM | 18-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21713/1"
             }
         ]
     },
@@ -614,12 +707,33 @@
         "Team 2 Name": "Charlotte Hornets",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwhFdcgwDGzST3hiq3Al1ZgwufFaA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiETZ65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Match Title": "Orlando Magic vs Charlotte Hornets",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Orlando%20Magic%20vs%20Charlotte%20Hornets&font=Oswald",
+        "Match Title": "Charlotte Hornets vs. Orlando Magic",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTerEAIjUQMECGDCGIRGPHSAxsBIjpWYN0mSQK4ZsTCUO8SG4hOWFMDbhOPYAWx5r5JLgVWuHBG02crjvRgHFqcEEA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "05:30 AM | 18-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/3"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -850,16 +964,37 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Phoenix Suns",
-        "Team 2 Name": "Golden State Warriors",
+        "Team 1 Name": "Golden State Warriors",
+        "Team 2 Name": "Phoenix Suns",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Phoenix Suns vs Golden State Warriors",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Suns%20vs%20Golden%20State%20Warriors&font=Oswald",
+        "Match Title": "Golden State Warriors vs. Phoenix Suns",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEfmMAggSjfiAYhuIelmpCZFEBGCjEcwfUkxFJEFiXDJAY0bZVKYG3CcewAucthySXMctcOCNtzOWH9GAcQmYQQA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "08:00 AM | 18-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-golden-state-warriors-vs-phoenix-suns/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-golden-state-warriors-vs-phoenix-suns/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-golden-state-warriors-vs-phoenix-suns/3"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
