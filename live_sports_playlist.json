@@ -35,27 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-san-diego-padres/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-san-diego-padres/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-san-diego-padres/3"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -995,6 +974,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/21722/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Phoenix Suns",
+        "Team 2 Name": "Golden State Warriors",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Phoenix Suns vs Golden State Warriors",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Suns%20vs%20Golden%20State%20Warriors&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:00 AM | 18-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21705/1"
             }
         ]
     },
