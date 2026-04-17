@@ -42,27 +42,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-chicago-cubs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-chicago-cubs/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-chicago-cubs/3"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -72,16 +51,16 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Rio Ave",
-        "Team 2 Name": "AVS",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYD5ABmBgw3ELoAmuEMeMk9RxCgIVVKLmDLwi80Xaa1toqXSA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAwQISmF45uIACbrDBvvpAkQECwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Rio Ave vs AVS",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGGN7AwIdiG4g+hkDBAozIKSBInLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "JM Eagle LA Championship | LPGA Tour",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=JM%20Eagle%20LA%20Championship%20%7C%20LPGA%20Tour&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "01:45 AM | 18-Apr",
+        "Start Time": "04:00 AM | 18-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
@@ -89,14 +68,57 @@
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rio-ave-vs-avs-football-1396505/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/jm-eagle-la-championship-lpga-tour-atp1000/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rio-ave-vs-avs-football-1396505/2"
+                "Embed_URL": "https://embedsports.top/embed/echo/jm-eagle-la-championship-lpga-tour-atp1000/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/jm-eagle-la-championship-lpga-tour-atp1000/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/jm-eagle-la-championship-lpga-tour-atp1000/4"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Alycia Baumgardner",
+        "Team 2 Name": "Bo Mi Re Shin",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Alycia Baumgardner vs Bo Mi Re Shin",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Alycia%20Baumgardner%20vs%20Bo%20Mi%20Re%20Shin&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 18-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_alycia-baumgardner-vs-bo-mi-re-shin-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21742/1"
             }
         ]
     },
@@ -176,78 +198,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "JM Eagle LA Championship | LPGA Tour",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=JM%20Eagle%20LA%20Championship%20%7C%20LPGA%20Tour&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 18-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/jm-eagle-la-championship-lpga-tour-atp1000/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/jm-eagle-la-championship-lpga-tour-atp1000/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/jm-eagle-la-championship-lpga-tour-atp1000/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/jm-eagle-la-championship-lpga-tour-atp1000/4"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Alycia Baumgardner",
-        "Team 2 Name": "Bo Mi Re Shin",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Alycia Baumgardner vs Bo Mi Re Shin",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Alycia%20Baumgardner%20vs%20Bo%20Mi%20Re%20Shin&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 18-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_alycia-baumgardner-vs-bo-mi-re-shin-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21742/1"
             }
         ]
     },
@@ -355,6 +305,13 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-atlanta-braves-vs-philadelphia-phillies/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_phillies-braves-live-streaming-1200233565/1"
             },
             {
                 "Source": "echo",
