@@ -87,6 +87,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Brisbane Roar",
+        "Team 2 Name": "Melbourne City",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCADG9cg3VZxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCGz1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Brisbane Roar vs Melbourne City",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Brisbane%20Roar%20vs%20Melbourne%20City&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 PM | 18-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/brisbane-roar-vs-melbourne-city-football-1469702/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/brisbane-roar-vs-melbourne-city-football-1469702/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -162,35 +191,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Brisbane Roar",
-        "Team 2 Name": "Melbourne City",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCADG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCGz1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Brisbane Roar vs Melbourne City",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Brisbane%20Roar%20vs%20Melbourne%20City&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 PM | 18-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brisbane-roar-vs-melbourne-city-football-1469702/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brisbane-roar-vs-melbourne-city-football-1469702/2"
             }
         ]
     },
@@ -1041,6 +1041,42 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-battlehawks-vs-dc-defenders/3"
+            }
+        ]
+    },
+    {
+        "Category": "Darts",
+        "League": "Darts",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "European Darts Grand Prix | Day 2 - Evening Session",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 18-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-european-darts-grand-prix-day-2-evening-session/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-european-darts-grand-prix-day-2-evening-session/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-european-darts-grand-prix-day-2-evening-session/3"
             }
         ]
     },
