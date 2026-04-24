@@ -50,35 +50,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "AS Monaco Basket",
-        "Team 2 Name": "FC Barcelona Basquet",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwMLiIoQMENxAqQEENv2GQJvSGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoSXCAAmwDdxB9NKVSGOGIIC-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "AS Monaco Basket vs FC Barcelona Basquet",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCG4gBJECDqbtIKUcQm9G3XwLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:30 PM | 24-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/monaco-vs-barcelona-basketball-498318/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/monaco-vs-barcelona-basketball-498318/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "FC Blau-Weiß Linz",
@@ -1674,6 +1645,13 @@
                 "Language": "English - USA",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1"
             }
         ]
     },
