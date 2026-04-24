@@ -49,27 +49,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-knicks-vs-atlanta-hawks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-knicks-vs-atlanta-hawks/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-knicks-vs-atlanta-hawks/3"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -139,20 +118,6 @@
                 "Language": "English - NESN",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-buffalo-sabres-vs-boston-bruins/3"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_bruins-sabres-live-streaming-1272318408/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_bruins-sabres-live-streaming-1272318408/2"
             },
             {
                 "Source": "echo",
@@ -655,6 +620,77 @@
         ]
     },
     {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Los Angeles Kings",
+        "Team 2 Name": "Colorado Avalanche",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gIIGCHDzV3ELpApcxzavWHCMYEz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp",
+        "Match Title": "Los Angeles Kings vs Colorado Avalanche",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL0JZgYLom4g+IKSBggUpyxZCmCwJBT7DZ9FGBUou78vW2jPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 24-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - FanDuel SN SoCal",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-avalanche-vs-los-angeles-kings/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - FanDuel SN SoCal",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-avalanche-vs-los-angeles-kings/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - FanDuel SN SoCal",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-avalanche-vs-los-angeles-kings/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_kings-avalanche-live-streaming-1276289433/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_kings-avalanche-live-streaming-1276289433/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-kings-vs-colorado-avalanche-hockey-424267/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-kings-vs-colorado-avalanche-hockey-424267/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21873/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -730,77 +766,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Los Angeles Kings",
-        "Team 2 Name": "Colorado Avalanche",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gIIGCHDzV3ELpApcxzavWHCMYEz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp",
-        "Match Title": "Los Angeles Kings vs Colorado Avalanche",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL0JZgYLom4g+IKSBggUpyxZCmCwJBT7DZ9FGBUou78vW2jPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 24-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FanDuel SN SoCal",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-avalanche-vs-los-angeles-kings/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FanDuel SN SoCal",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-avalanche-vs-los-angeles-kings/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FanDuel SN SoCal",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-avalanche-vs-los-angeles-kings/3"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_kings-avalanche-live-streaming-1276289433/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_kings-avalanche-live-streaming-1276289433/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-kings-vs-colorado-avalanche-hockey-424267/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-kings-vs-colorado-avalanche-hockey-424267/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21873/1"
             }
         ]
     }
