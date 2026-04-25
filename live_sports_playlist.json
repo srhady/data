@@ -110,35 +110,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Lechia Gdansk",
-        "Team 2 Name": "Raków Częstochowa",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEERfXIMAxs3E94IqtwJdWYMLnxmgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEEChAk65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Lechia Gdansk vs Raków Częstochowa",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lechia%20Gdansk%20vs%20Rak%C3%B3w%20Cz%C4%99stochowa&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:30 PM | 25-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/lechia-gdansk-vs-rakow-czestochowa-football-1380648/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/lechia-gdansk-vs-rakow-czestochowa-football-1380648/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Bologna",
         "Team 2 Name": "Roma",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxheKENzAkQibiAAmIHSZAaciIwYIUmfFF23l680Q6a0w2saIhA.webp",
@@ -1433,6 +1404,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-glory-107-wisse-vs-kwasi/3"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-05-glory-107-wisse-v-kwasi-ppv-05/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1676,6 +1654,13 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cf-montr-al-vs-new-york-city-fc/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_montreal-ny-city-live-streaming-1118085795/1"
             }
         ]
     },
@@ -2233,6 +2218,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Mills",
+        "Team 2 Name": "Rosa",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Mills v Rosa",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mills%20v%20Rosa&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:00 AM | 26-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21970/1"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Estudiantes L.P.",
@@ -2258,28 +2265,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/estudiantes-lp-vs-talleres-cordoba-football-1492047/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Mills",
-        "Team 2 Name": "Rosa",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mills v Rosa",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mills%20v%20Rosa&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 26-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21970/1"
             }
         ]
     },
