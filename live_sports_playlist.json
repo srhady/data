@@ -176,41 +176,6 @@
                 "Language": "English - Serie A",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-fiorentina-vs-sassuolo/3"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_serie-a_fiorentina-sassuolo-live-streaming-1095366537/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fiorentina-vs-sassuolo-football-1378196/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fiorentina-vs-sassuolo-football-1378196/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fiorentina-vs-sassuolo-football-1378196/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fiorentina-vs-sassuolo-football-1378196/4"
             }
         ]
     },
@@ -849,6 +814,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Widzew Łódź",
+        "Team 2 Name": "Motor Lublin",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxswAAzAAJsCR0Q3ENpApcIEqeMgIqkDAIUmfFFzBk19eaNdNaYdzFRCCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wvMgBMwIENz2rcIGCEQkDJlCBQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Widzew Łódź vs Motor Lublin",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBph0EIGTm4g+IEiBghEEEJbOIQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:45 PM | 26-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/widzew-lodz-vs-motor-lublin-football-1380651/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/widzew-lodz-vs-motor-lublin-football-1380651/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -924,35 +918,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Widzew Łódź",
-        "Team 2 Name": "Motor Lublin",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxswAAzAAJsCR0Q3ENpApcIEqeMgIqkDAIUmfFFzBk19eaNdNaYdzFRCCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wvMgBMwIENz2rcIGCEQkDJlCBQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Widzew Łódź vs Motor Lublin",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBph0EIGTm4g+IEiBghEEEJbOIQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:45 PM | 26-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/widzew-lodz-vs-motor-lublin-football-1380651/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/widzew-lodz-vs-motor-lublin-football-1380651/2"
             }
         ]
     },
@@ -1232,6 +1197,13 @@
                 "Language": "English - Bundesliga",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-werder-bremen/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_bundesliga_stuttgart-bremen-live-streaming-1095177726/1"
             },
             {
                 "Source": "echo",
