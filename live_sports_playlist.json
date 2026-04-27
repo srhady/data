@@ -22,28 +22,6 @@
         ]
     },
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "New York Mets",
-        "Team 2 Name": "Colorado Rockies",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp",
-        "Match Title": "New York Mets vs Colorado Rockies",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWAEhSIXt10g+hkCQOIcEYxKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:40 AM | 27-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21981/1"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Philadelphia 76ers",
@@ -56,27 +34,6 @@
         "Start Time": "05:00 AM | 27-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/3"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -543,6 +500,20 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-edmonton-oilers-vs-anaheim-ducks/3"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_ducks-oilers-live-streaming-1276434288/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_ducks-oilers-live-streaming-1276434288/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -569,6 +540,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/21950/1"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Utah Mammoth",
+        "Team 2 Name": "Vegas Golden Knights",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Utah Mammoth vs Vegas Golden Knights",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiBAkQM+GG3cQfHSBiaQKC+Ygh4BYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 27-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/utah-mammoth-vs-vegas-golden-knights-hockey-424246/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/utah-mammoth-vs-vegas-golden-knights-hockey-424246/2"
             }
         ]
     },
@@ -648,35 +648,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Utah Mammoth",
-        "Team 2 Name": "Vegas Golden Knights",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Utah Mammoth vs Vegas Golden Knights",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiBAkQM+GG3cQfHSBiaQKC+Ygh4BYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 27-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/utah-mammoth-vs-vegas-golden-knights-hockey-424246/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/utah-mammoth-vs-vegas-golden-knights-hockey-424246/2"
             }
         ]
     }
