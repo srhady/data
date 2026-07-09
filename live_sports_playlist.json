@@ -343,11 +343,54 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-cincinnati-reds/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/cincinnati-reds-vs-philadelphia-phillies-baseball-179416/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23672/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Orlando Magic",
+        "Team 2 Name": "Charlotte Hornets",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYbWGBIgd3EH306QelEcQGJhdUz4ouW8vXmi7TWmC1jREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDdoAEzCaYIbiAi5DiECB3qjBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Orlando Magic vs Charlotte Hornets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCghgs7VRQheILCFOIjMQyBIhq1lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 10-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Prime Video",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Prime Video",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23661/1"
             }
         ]
     },
@@ -489,42 +532,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Orlando Magic",
-        "Team 2 Name": "Charlotte Hornets",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYbWGBIgd3EH306QelEcQGJhdUz4ouW8vXmi7TWmC1jREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDdoAEzCaYIbiAi5DiECB3qjBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Match Title": "Orlando Magic vs Charlotte Hornets",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCghgs7VRQheILCFOIjMQyBIhq1lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 10-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23661/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "St. Louis Cardinals",
@@ -550,6 +557,20 @@
                 "Language": "English - Cardinals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-st-louis-cardinals/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/stlouis-cardinals-vs-milwaukee-brewers-baseball-179408/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/stlouis-cardinals-vs-milwaukee-brewers-baseball-179408/2"
             },
             {
                 "Source": "golf",
@@ -615,6 +636,20 @@
                 "Language": "English - Rangers Sports Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-texas-rangers/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/texas-rangers-vs-los-angeles-angels-baseball-179406/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/texas-rangers-vs-los-angeles-angels-baseball-179406/2"
             },
             {
                 "Source": "golf",
@@ -790,6 +825,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-diego-padres/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/san-diego-padres-vs-arizona-diamondbacks-baseball-179410/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/san-diego-padres-vs-arizona-diamondbacks-baseball-179410/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -824,6 +873,20 @@
                 "Language": "English - NBC Sports BA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179409/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179409/2"
             },
             {
                 "Source": "golf",
