@@ -129,20 +129,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-golden-state-warriors-vs-dallas-mavericks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-golden-state-warriors-vs-dallas-mavericks/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -381,20 +367,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-utah-jazz-vs-washington-wizards/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/washington-wizards-vs-utah-jazz-basketball-502068/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/washington-wizards-vs-utah-jazz-basketball-502068/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -429,20 +401,6 @@
                 "Language": "English - AMC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tna-impact/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/tna-impact-tna-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/tna-impact-tna-1/2"
             }
         ]
     },
@@ -510,54 +468,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179409/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179409/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23676/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Portland Fire",
-        "Team 2 Name": "Las Vegas Aces",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
-        "Match Title": "Portland Fire vs Las Vegas Aces",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhBCSSIFLJDCQIUuODxgEEeKUbSwKqrKJFNLCADGemcpkwlIXuU0ChIptnphCwJLnMpXMG5OTWE9AII1ciDdMgggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 10-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox 12 Plus",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox 12 Plus",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/2"
             }
         ]
     },
@@ -587,6 +502,35 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Portland Fire",
+        "Team 2 Name": "Las Vegas Aces",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
+        "Match Title": "Portland Fire vs Las Vegas Aces",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhBCSSIFLJDCQIUuODxgEEeKUbSwKqrKJFNLCADGemcpkwlIXuU0ChIptnphCwJLnMpXMG5OTWE9AII1ciDdMgggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 10-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox 12 Plus",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox 12 Plus",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/2"
             }
         ]
     },
