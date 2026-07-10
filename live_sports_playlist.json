@@ -22,28 +22,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Orlando Magic",
-        "Team 2 Name": "Charlotte Hornets",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYbWGBIgd3EH306QelEcQGJhdUz4ouW8vXmi7TWmC1jREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDdoAEzCaYIbiAi5DiECB3qjBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Match Title": "Orlando Magic vs Charlotte Hornets",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCghgs7VRQheILCFOIjMQyBIhq1lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 10-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23661/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "St. Louis Cardinals",
@@ -79,54 +57,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-texas-rangers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-texas-rangers/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23674/1"
-            }
-        ]
-    },
-    {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Washington Freedom",
-        "Team 2 Name": "Los Angeles Knight Riders",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnloQMYAAZQCENxB8QJdbhCJEOEOoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMN1zNghTZtUhDKEJohqQiGCBgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Washington Freedom vs Los Angeles Knight Riders",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiAGwQMYLIAMIXiCwgz1EImkhrFs1hZIKD9qPEowqlD0-lG1OW98VmAwT3ExCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 10-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mlc-washington-freedom-vs-la-knight-riders-game-1999754/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mlc-washington-freedom-vs-la-knight-riders-game-1999754/2"
             }
         ]
     },
@@ -252,6 +187,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-diego-padres/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/san-diego-padres-vs-arizona-diamondbacks-baseball-179410/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/san-diego-padres-vs-arizona-diamondbacks-baseball-179410/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -365,6 +314,64 @@
                 "Language": "English - Fox 12 Plus",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Phoenix Mercury W",
+        "Team 2 Name": "Indiana Fever W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGy+uQarmknvDFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAma+uQYBjZpJ7wxVbgS6swYXPitA.webp",
+        "Match Title": "Phoenix Mercury W vs Indiana Fever W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Mercury%20W%20vs%20Indiana%20Fever%20W&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 10-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/phoenix-mercury-w-vs-indiana-fever-w-basketball-494936/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/phoenix-mercury-w-vs-indiana-fever-w-basketball-494936/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Portland Fire W",
+        "Team 2 Name": "Las Vegas Aces W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYgiIGBvrkGy5pJ7wxVbgS6swYXPmtA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIAMb1yDLVkk94YqtwJdWYMLnzWgA.webp",
+        "Match Title": "Portland Fire W vs Las Vegas Aces W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Portland%20Fire%20W%20vs%20Las%20Vegas%20Aces%20W&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 10-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/portland-fire-w-vs-las-vegas-aces-w-basketball-494937/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/portland-fire-w-vs-las-vegas-aces-w-basketball-494937/2"
             }
         ]
     },
