@@ -434,20 +434,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CHSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-chicago-white-sox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CHSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-chicago-white-sox/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -470,20 +456,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Twins.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-minnesota-twins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Twins.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-minnesota-twins/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -505,20 +477,6 @@
         "Start Time": "12:15 AM | 13-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Cardinals.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-st-louis-cardinals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Cardinals.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-st-louis-cardinals/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -554,13 +512,6 @@
                 "Language": "English - Rangers Sports Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-texas-rangers/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/texas-rangers-vs-houston-astros-baseball-179451/1"
             },
             {
                 "Source": "golf",
@@ -741,6 +692,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/forge-vs-saint-laurent-football-1544848/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "RoC Modifieds Shangri La",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RoC%20Modifieds%20Shangri%20La&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 13-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-roc-modifieds-shangri-la-ppv-004/1"
             }
         ]
     },
@@ -931,6 +904,42 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Golden State Warriors",
+        "Team 2 Name": "Oklahoma City Thunder",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgABjApmDENxB8DIY-pRGzMEMsIxgTPtrZgy8IvNHamtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Match Title": "Golden State Warriors vs Oklahoma City Thunder",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJB8QcCCGoheILCFOIjMQyBLXjLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 13-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Prime Video",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Prime Video",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23749/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1064,42 +1073,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Golden State Warriors",
-        "Team 2 Name": "Oklahoma City Thunder",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgABjApmDENxB8DIY-pRGzMEMsIxgTPtrZgy8IvNHamtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Match Title": "Golden State Warriors vs Oklahoma City Thunder",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJB8QcCCGoheILCFOIjMQyBLXjLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 13-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23749/1"
             }
         ]
     },
