@@ -153,35 +153,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Brommapojkarna",
-        "Team 2 Name": "Sirius",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0J9sIDbzAhuIACYhEKEHxMhjpxDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTVVqgCbYQ3EBFwgUhkHxAaTIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Brommapojkarna vs Sirius",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVkwAMIRNxAkQeqSD76QxkDsuGTBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:30 PM | 12-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Swedish - TV4 Sport Live 3",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Swedish - TV4 Sport Live 3",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "GAIS",
         "Team 2 Name": "Elfsborg",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwKvEMAAMCENxAATVSBQg+Zk3uMoCFJnxRcwZNfXmjHTWmGdjREIA.webp",
@@ -205,6 +176,35 @@
                 "Language": "Swedish - TV4 Sport Live 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-gais-vs-if-elfsborg/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Brommapojkarna",
+        "Team 2 Name": "Sirius",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0J9sIDbzAhuIACYhEKEHxMhjpxDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTVVqgCbYQ3EBFwgUhkHxAaTIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Brommapojkarna vs Sirius",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVkwAMIRNxAkQeqSD76QxkDsuGTBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 PM | 12-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Swedish - TV4 Sport Live 3",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Swedish - TV4 Sport Live 3",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/2"
             }
         ]
     },
@@ -460,13 +460,6 @@
                 "Language": "English - NBC Sports BA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1"
             },
             {
                 "Source": "golf",
