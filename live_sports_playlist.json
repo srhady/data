@@ -94,6 +94,42 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UCI Tour de France | UCI World Tour 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Tour%20de%20France%20%7C%20UCI%20World%20Tour%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:25 PM | 12-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/3"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -231,42 +267,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UCI Tour de France | UCI World Tour 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Tour%20de%20France%20%7C%20UCI%20World%20Tour%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:25 PM | 12-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/3"
-            }
-        ]
-    },
-    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -349,6 +349,35 @@
                 "Language": "English - AFLE+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-firenze-red-lions-vs-berlin-thunder/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Brommapojkarna",
+        "Team 2 Name": "Sirius",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0J9sIDbzAhuIACYhEKEHxMhjpxDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTVVqgCbYQ3EBFwgUhkHxAaTIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Brommapojkarna vs Sirius",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVkwAMIRNxAkQeqSD76QxkDsuGTBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:30 PM | 12-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Swedish - TV4 Sport Live 3",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Swedish - TV4 Sport Live 3",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/2"
             }
         ]
     },
