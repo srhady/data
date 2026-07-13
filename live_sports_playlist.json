@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-new-york-knicks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-new-york-knicks/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -124,6 +110,35 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
+        "Team 1 Name": "Atlanta Dream",
+        "Team 2 Name": "Los Angeles Sparks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Atlanta Dream vs Los Angeles Sparks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmRT9gSECRDcQUvQZAozISxCOWCOin2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 14-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - USA Net",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-atlanta-dream/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - USA Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-atlanta-dream/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
         "Team 1 Name": "Memphis Grizzlies",
         "Team 2 Name": "Dallas Mavericks",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmICOrDdYuENxB8DIY-pRG1GmAQpM+KLmDLwi80faa0wjsaIhA.webp",
@@ -181,29 +196,36 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Atlanta Dream",
-        "Team 2 Name": "Los Angeles Sparks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Atlanta Dream vs Los Angeles Sparks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmRT9gSECRDcQUvQZAozISxCOWCOin2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+        "Team 1 Name": "Atlanta Dream W",
+        "Team 2 Name": "Los Angeles Sparks W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIJnXIMAxs0k94YqtwJdWYMLnzWgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIEPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
+        "Match Title": "Atlanta Dream W vs Los Angeles Sparks W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Atlanta%20Dream%20W%20vs%20Los%20Angeles%20Sparks%20W&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "05:00 AM | 14-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English - USA Net",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-atlanta-dream/1"
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-dream-w-vs-los-angeles-sparks-w-basketball-494948/1"
             },
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 2,
-                "Language": "English - USA Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-atlanta-dream/2"
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-dream-w-vs-los-angeles-sparks-w-basketball-494948/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-dream-w-vs-los-angeles-sparks-w-basketball-494948/3"
             }
         ]
     },
