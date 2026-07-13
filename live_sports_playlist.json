@@ -280,20 +280,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -350,13 +336,6 @@
                 "Language": "English - CFL+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-hamilton-tiger-cats-vs-saskatchewan-roughriders/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hamilton-tiger-cats-vs-saskatchewan-roughriders-game-11899997/1"
             }
         ]
     },
@@ -593,22 +572,29 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Las Vegas Aces W",
-        "Team 2 Name": "Indiana Fever W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIAMb1yDLVkk94YqtwJdWYMLnzWgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAma+uQYBjZpJ7wxVbgS6swYXPitA.webp",
-        "Match Title": "Las Vegas Aces W vs Indiana Fever W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Las%20Vegas%20Aces%20W%20vs%20Indiana%20Fever%20W&font=Oswald",
+        "Team 1 Name": "Las Vegas Aces",
+        "Team 2 Name": "Indiana Fever",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Match Title": "Las Vegas Aces vs Indiana Fever",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQqKQ8QMYEhDcQfECRBnjiRDB0gFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 13-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "",
+                "Language": "English - NBC",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/las-vegas-aces-w-vs-indiana-fever-w-basketball-494947/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/2"
             }
         ]
     },
@@ -665,29 +651,22 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Las Vegas Aces",
-        "Team 2 Name": "Indiana Fever",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Match Title": "Las Vegas Aces vs Indiana Fever",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQqKQ8QMYEhDcQfECRBnjiRDB0gFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Team 1 Name": "Las Vegas Aces W",
+        "Team 2 Name": "Indiana Fever W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIAMb1yDLVkk94YqtwJdWYMLnzWgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAma+uQYBjZpJ7wxVbgS6swYXPitA.webp",
+        "Match Title": "Las Vegas Aces W vs Indiana Fever W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Las%20Vegas%20Aces%20W%20vs%20Indiana%20Fever%20W&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 13-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English - NBC",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/2"
+                "Embed_URL": "https://embed.st/embed/echo/las-vegas-aces-w-vs-indiana-fever-w-basketball-494947/1"
             }
         ]
     },
