@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-boston-celtics/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-boston-celtics/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -233,6 +219,13 @@
                 "Language": "English - TNT Sports 1 UK",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-home-run-derby/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23770/1"
             }
         ]
     },
@@ -275,43 +268,29 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Minnesota Lynx W",
-        "Team 2 Name": "Phoenix Mercury W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIFPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGy+uQarmknvDFVuBLqzBhc+S0A.webp",
-        "Match Title": "Minnesota Lynx W vs Phoenix Mercury W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20Lynx%20W%20vs%20Phoenix%20Mercury%20W&font=Oswald",
+        "Team 1 Name": "Minnesota Lynx",
+        "Team 2 Name": "Phoenix Mercury",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgkYFGF6skIbiBIHcRkCAAmekChDwCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Minnesota Lynx vs Phoenix Mercury",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcDDphuIbgl0g+IEiFNHEiGCCvwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 14-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "",
+                "Language": "English - Peacock",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-minnesota-lynx/1"
             },
             {
-                "Source": "echo",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949/4"
+                "Language": "English - Peacock",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-minnesota-lynx/2"
             }
         ]
     },
@@ -368,29 +347,43 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Minnesota Lynx",
-        "Team 2 Name": "Phoenix Mercury",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgkYFGF6skIbiBIHcRkCAAmekChDwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Minnesota Lynx vs Phoenix Mercury",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcDDphuIbgl0g+IEiFNHEiGCCvwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Team 1 Name": "Minnesota Lynx W",
+        "Team 2 Name": "Phoenix Mercury W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIFPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGy+uQarmknvDFVuBLqzBhc+S0A.webp",
+        "Match Title": "Minnesota Lynx W vs Phoenix Mercury W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20Lynx%20W%20vs%20Phoenix%20Mercury%20W&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 14-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English - Peacock",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-minnesota-lynx/1"
+                "Embed_URL": "https://embed.st/embed/echo/minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949/1"
             },
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 2,
-                "Language": "English - Peacock",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-minnesota-lynx/2"
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949/4"
             }
         ]
     },
