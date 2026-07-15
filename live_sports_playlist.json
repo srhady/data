@@ -70,20 +70,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-brooklyn-nets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-brooklyn-nets/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -197,20 +183,6 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-golden-state-warriors/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_warriors-grizzlies-live-streaming-588915360/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_warriors-grizzlies-live-streaming-588915360/2"
             },
             {
                 "Source": "echo",
@@ -801,6 +773,13 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-la-clippers-vs-los-angeles-lakers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_lakers-clippers-live-streaming-588916656/1"
             },
             {
                 "Source": "echo",
