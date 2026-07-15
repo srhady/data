@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UCI Tour de France | UCI World Tour 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Tour%20de%20France%20%7C%20UCI%20World%20Tour%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:50 PM | 15-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "Yorkshire Vikings",
@@ -335,6 +306,56 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Philadelphia 76ers",
+        "Team 2 Name": "Orlando Magic",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgAJtmBgG7ENxB8DIYzhxrjIEgYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYbWGBIgd3EH306QelEcQGJhdUz4ouW8vXmi7TWmC1jREIA.webp",
+        "Match Title": "Philadelphia 76ers vs Orlando Magic",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBTzIIerxAkQ+rCFOJ9MIwdMhpLJBSwi5jFGFVaO78o2pyt+KzAYO7iYhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 16-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPNU",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-orlando-magic-vs-philadelphia-76-ers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPNU",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-orlando-magic-vs-philadelphia-76-ers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_76ers-magic-live-streaming-588934800/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_76ers-magic-live-streaming-588934800/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23772/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -439,56 +460,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Philadelphia 76ers",
-        "Team 2 Name": "Orlando Magic",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgAJtmBgG7ENxB8DIYzhxrjIEgYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYbWGBIgd3EH306QelEcQGJhdUz4ouW8vXmi7TWmC1jREIA.webp",
-        "Match Title": "Philadelphia 76ers vs Orlando Magic",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBTzIIerxAkQ+rCFOJ9MIwdMhpLJBSwi5jFGFVaO78o2pyt+KzAYO7iYhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 16-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPNU",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-orlando-magic-vs-philadelphia-76-ers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPNU",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-orlando-magic-vs-philadelphia-76-ers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_76ers-magic-live-streaming-588934800/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_76ers-magic-live-streaming-588934800/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23772/1"
             }
         ]
     },
