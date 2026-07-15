@@ -143,20 +143,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPNU",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-orlando-magic-vs-philadelphia-76-ers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPNU",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-orlando-magic-vs-philadelphia-76-ers/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -531,6 +517,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-boston-celtics-vs-sacramento-kings/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_kings-celtics-live-streaming-588936528/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_kings-celtics-live-streaming-588936528/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -565,6 +565,20 @@
                 "Language": "English - USA Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-indiana-fever/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_fever-valkyries-live-streaming-523972368/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_fever-valkyries-live-streaming-523972368/2"
             }
         ]
     },
