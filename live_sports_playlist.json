@@ -169,6 +169,27 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-panthers-vs-broncos/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/penrith-panthers-vs-brisbane-broncos-game-236363/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/penrith-panthers-vs-brisbane-broncos-game-236363/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/penrith-panthers-vs-brisbane-broncos-game-236363/3"
             }
         ]
     },
@@ -274,6 +295,42 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Bradford Bulls",
+        "Team 2 Name": "Wakefield Trinity Wildcats",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLYhRABjAgQ3HSD4gAJiAj69MPaZQEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIQIYGu5gSIbiD4gYR3KYjqLEAhSZ8UXHeXrzR9prTA6xoiEA.webp",
+        "Match Title": "Bradford Bulls vs Wakefield Trinity Wildcats",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBQgYwJCG7b9IPiCkgSIS5cQGTfAror3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 17-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/bradford-bulls-vs-wakefield-trinity-game-184842/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/bradford-bulls-vs-wakefield-trinity-game-184842/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/bradford-bulls-vs-wakefield-trinity-game-184842/3"
+            }
+        ]
+    },
+    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Oklahoma City Thunder",
@@ -337,11 +394,40 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-houston-rockets/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/houston-rockets-vs-brooklyn-nets-basketball-502117/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23780/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Racing Club",
+        "Team 2 Name": "Defensa y Justicia",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm7EPWBgSGkNxAqQKEDr4hEEIyaMEKTPii7by9eaMdNaYbWNEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0+YMgBNgYUCG4g+hkCWNGQIFMcuEYwJnxRcN5evNFOmtMBrGiIQA.webp",
+        "Match Title": "Racing Club vs Defensa y Justicia",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Racing%20Club%20vs%20Defensa%20y%20Justicia&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:45 AM | 17-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/racing-club-vs-defensa-y-justicia-football-1540059/1"
             }
         ]
     },
@@ -378,6 +464,64 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23781/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Botafogo",
+        "Team 2 Name": "Santos",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhywIQotqr4huIbYkQwQRiOpAoQAEwIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhwIYAAYQKfiG4gAJiD46QEcyctrDBCkz662YMvCLzRuprTAuxoiCA.webp",
+        "Match Title": "Botafogo vs Santos",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCHAoQKMNu4gDfEFJ0nNIRImNSCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:30 AM | 17-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/botafogo-vs-santos-football-1492291/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/botafogo-vs-santos-football-1492291/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Forge",
+        "Team 2 Name": "Pacific",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQIMQAYQMUCG4gS63IZB8T6gCaGCFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMNzBJQFJCG4gSIY4kRGDOEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Forge vs Pacific",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBDBpsEPDCbNvEFkMQQMPSBQhjx+CyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 17-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/forge-vs-pacific-fc-football-1517309/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/forge-vs-pacific-fc-football-1517309/2"
             }
         ]
     },
