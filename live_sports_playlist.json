@@ -136,20 +136,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPNU",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-detroit-pistons/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPNU",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-detroit-pistons/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -651,6 +637,13 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-utah-jazz-vs-san-antonio-spurs/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_spurs-jazz-live-streaming-588936960/1"
             },
             {
                 "Source": "echo",
