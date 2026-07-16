@@ -58,35 +58,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Lech Poznan",
-        "Team 2 Name": "Gornik Zabrze",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEEAGN65Bmqzie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEEDHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "Lech Poznan vs Gornik Zabrze",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lech%20Poznan%20vs%20Gornik%20Zabrze&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 16-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Bradford Bulls",
@@ -256,6 +227,13 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-mavericks-vs-oklahoma-city-thunder/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_thunder-mavericks-live-streaming-588948624/1"
             },
             {
                 "Source": "echo",
