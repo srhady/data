@@ -116,24 +116,31 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Seattle Sounders",
-        "Team 2 Name": "Portland Timbers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkploAGNiEQxgSENxAkDIPiBRHEhwygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Seattle Sounders vs Portland Timbers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmD4gZWMQAYQ3EFq1GtJEIkRTDBYEgp9hs+ijAqUXd+Xq7RnplowdzFRCCA.webp",
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Cronulla Sharks",
+        "Team 2 Name": "Newcastle Knights",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
+        "Match Title": "Cronulla Sharks vs Newcastle Knights",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgkIeFv4IQ3EHxBSQ5koZ3WYOgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "08:30 AM | 17-Jul",
+        "Start Time": "02:00 PM | 17-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Fox League",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_seattle-portland-live-streaming-538131168/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-knights/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-knights/2"
             }
         ]
     },
@@ -242,35 +249,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Cronulla Sharks",
-        "Team 2 Name": "Newcastle Knights",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
-        "Match Title": "Cronulla Sharks vs Newcastle Knights",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgkIeFv4IQ3EHxBSQ5koZ3WYOgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 PM | 17-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-knights/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-knights/2"
             }
         ]
     },
