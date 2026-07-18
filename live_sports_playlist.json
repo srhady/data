@@ -1,45 +1,30 @@
 [
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Chicago Bulls",
+        "Team 2 Name": "Cleveland Cavaliers",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Formula 1 2026 - Belgium GP",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%201%202026%20-%20Belgium%20GP&font=Oswald",
+        "Match Title": "Chicago Bulls vs. Cleveland Cavaliers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCDLCQVEIngjgiMgukRgsgMYgsIbRD0hpKHSBTADiTRclGNM273LqBQxQWz0whYElybzITBuTnVhUnoPBTBgiwiIIA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "02:51 PM | 17-Jul",
+        "Start Time": "05:00 AM | 18-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - ESPN",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_formula-1-2026-belgium-gp-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Nascar Truck Series 2026 - Window World 250",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Nascar%20Truck%20Series%202026%20-%20Window%20World%20250&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:23 PM | 17-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-bulls-vs-cleveland-cavaliers/1"
+            },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_nascar-truck-series-2026-window-world-250-live-stream/1"
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-bulls-vs-cleveland-cavaliers/2"
             }
         ]
     },
@@ -73,35 +58,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Chicago Bulls",
-        "Team 2 Name": "Cleveland Cavaliers",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Chicago Bulls vs. Cleveland Cavaliers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCDLCQVEIngjgiMgukRgsgMYgsIbRD0hpKHSBTADiTRclGNM273LqBQxQWz0whYElybzITBuTnVhUnoPBTBgiwiIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-bulls-vs-cleveland-cavaliers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-bulls-vs-cleveland-cavaliers/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "New York Yankees",
@@ -115,18 +71,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - YES",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-dodgers-live-streaming-588495888/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-new-york-yankees/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-dodgers-live-streaming-588495888/2"
+                "Language": "English - YES",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-new-york-yankees/2"
             },
             {
                 "Source": "echo",
@@ -134,28 +90,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/new-york-yankees-vs-los-angeles-dodgers-baseball-179469/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Boston Red Sox",
-        "Team 2 Name": "Tampa Bay Rays",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Boston Red Sox vs Tampa Bay Rays",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGCQg+IKSBIhD3bYZAwQic1f0gJTDTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:10 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-tampa-bay-rays-baseball-179476/1"
             }
         ]
     },
@@ -191,6 +125,42 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
+        "Team 1 Name": "Boston Red Sox",
+        "Team 2 Name": "Tampa Bay Rays",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Boston Red Sox vs Tampa Bay Rays",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGCQg+IKSBIhD3bYZAwQic1f0gJTDTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:10 AM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NESN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-boston-red-sox/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NESN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-boston-red-sox/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-tampa-bay-rays-baseball-179476/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
         "Team 1 Name": "Toronto Blue Jays",
         "Team 2 Name": "Chicago White Sox",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp",
@@ -202,11 +172,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Apple TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_blue-jays-white-sox-live-streaming-588497616/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-toronto-blue-jays/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-toronto-blue-jays/2"
             },
             {
                 "Source": "echo",
@@ -238,11 +215,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - BravesVision",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-rangers-live-streaming-588497184/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-atlanta-braves/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - BravesVision",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-atlanta-braves/2"
             },
             {
                 "Source": "echo",
@@ -257,6 +241,93 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/atlanta-braves-vs-texas-rangers-baseball-179477/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Chicago Sky",
+        "Team 2 Name": "Los Angeles Sparks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgpuSLhDcQJXVr2q9KLQBMCFJnxRcwZeEXmibTWmDtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Chicago Sky vs Los Angeles Sparks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGM1Igy3EBBC6p2gyBSmQFxHxDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ION",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-chicago-sky/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ION",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-chicago-sky/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Indiana Fever",
+        "Team 2 Name": "Seattle Storm",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
+        "Match Title": "Indiana Fever vs Seattle Storm",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAaxIgy9NCG4gp2-SBSmQFiCCsSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ION",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-indiana-fever/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ION",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-indiana-fever/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Toronto Tempo",
+        "Team 2 Name": "Atlanta Dream",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxCUw3MCjBIeIbiD4GQxnCWMhEEAwQpM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Match Title": "Toronto Tempo vs Atlanta Dream",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGvGCIsICKWBzhIJXKrKpUkIgDGpWSCzyyc1di3A1uuYbUwU5OQKEim2emELAkubfaFhuTkV5ewINMACFeQggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ION",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-toronto-tempo/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ION",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-toronto-tempo/2"
             }
         ]
     },
@@ -319,93 +390,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Toronto Tempo",
-        "Team 2 Name": "Atlanta Dream",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxCUw3MCjBIeIbiD4GQxnCWMhEEAwQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Match Title": "Toronto Tempo vs Atlanta Dream",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGvGCIsICKWBzhIJXKrKpUkIgDGpWSCzyyc1di3A1uuYbUwU5OQKEim2emELAkubfaFhuTkV5ewINMACFeQggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ION",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-toronto-tempo/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ION",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-toronto-tempo/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Indiana Fever",
-        "Team 2 Name": "Seattle Storm",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
-        "Match Title": "Indiana Fever vs Seattle Storm",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAaxIgy9NCG4gp2-SBSmQFiCCsSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ION",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-indiana-fever/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ION",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-indiana-fever/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Chicago Sky",
-        "Team 2 Name": "Los Angeles Sparks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgpuSLhDcQJXVr2q9KLQBMCFJnxRcwZeEXmibTWmDtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Chicago Sky vs Los Angeles Sparks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGM1Igy3EBBC6p2gyBSmQFxHxDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ION",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-chicago-sky/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ION",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-chicago-sky/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Milwaukee Brewers",
@@ -419,18 +403,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Brewers.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-marlins-live-streaming-588498048/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-milwaukee-brewers/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-marlins-live-streaming-588498048/2"
+                "Language": "English - Brewers.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-milwaukee-brewers/2"
             },
             {
                 "Source": "echo",
@@ -455,18 +439,25 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Friday Night Smackdown",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Friday%20Night%20Smackdown&font=Oswald",
+        "Match Title": "WWE: Friday Night Smackdown",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 18-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - USA",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - USA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
             },
             {
                 "Source": "echo",
@@ -514,56 +505,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "WWE: Friday Night Smackdown",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - USA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - USA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/wwe-friday-night-smackdown-game-2457754/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/wwe-friday-night-smackdown-game-2457754/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Chicago Cubs",
@@ -577,18 +518,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Marquee Sports Net",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-twins-live-streaming-588498480/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-chicago-cubs/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-twins-live-streaming-588498480/2"
+                "Language": "English - Marquee Sports Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-chicago-cubs/2"
             },
             {
                 "Source": "echo",
@@ -620,18 +561,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Royals.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-padres-live-streaming-588499344/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-kansas-city-royals/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-padres-live-streaming-588499344/2"
+                "Language": "English - Royals.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-kansas-city-royals/2"
             },
             {
                 "Source": "echo",
@@ -663,18 +604,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Space City Home Network",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_astros-orioles-live-streaming-588498912/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-houston-astros/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_astros-orioles-live-streaming-588498912/2"
+                "Language": "English - Space City Home Network",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-houston-astros/2"
             },
             {
                 "Source": "echo",
@@ -706,11 +647,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Apple TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_nashville-atlanta-live-streaming-538134624/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nashville-sc-vs-atlanta-united-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nashville-sc-vs-atlanta-united-fc/2"
             },
             {
                 "Source": "echo",
@@ -742,42 +690,6 @@
         "Team 2 Name": "Dallas Mavericks",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGzL65BgGNmknvDFVuBLqzBhc+S0A.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQh65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Match Title": "New York Knicks vs Dallas Mavericks",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=New%20York%20Knicks%20vs%20Dallas%20Mavericks&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_knicks-mavericks-live-streaming-592240032/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/new-york-knicks-vs-dallas-mavericks-basketball-504174/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/new-york-knicks-vs-dallas-mavericks-basketball-504174/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "New York Knicks",
-        "Team 2 Name": "Dallas Mavericks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGzL65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQh65BgGNmknvDFVuBLqzBhc+S0A.webp",
         "Match Title": "Dallas Mavericks vs. New York Knicks",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNYSBpYRIkDBAT5w4ONkBjECRBZNKuSAggNITSBS7FKmcvEpyEUGEEyC2emELAkuNXaFPWB2UyO1d4cidgBzIIIA.webp",
         "Match Status": "Live 🔴",
@@ -797,13 +709,6 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-mavericks-vs-new-york-knicks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_knicks-mavericks-live-streaming-592240032/1"
             },
             {
                 "Source": "echo",
@@ -835,18 +740,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Rockies.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-reds-live-streaming-588499776/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-colorado-rockies/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-reds-live-streaming-588499776/2"
+                "Language": "English - Rockies.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-colorado-rockies/2"
             },
             {
                 "Source": "echo",
@@ -901,24 +806,31 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "ONE Fight Night 45 Lessei",
-        "Team 2 Name": "Rabah",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "ONE Fight Night 45 Lessei vs Rabah",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBCMc-AAwhqIXiCyaQiFGZghpIElpZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Edmonton Elks",
+        "Team 2 Name": "BC Lions",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlw8cihDcQEXLpB8QiHDGMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
+        "Match Title": "Edmonton Elks vs BC Lions",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmaVyMdiG4gpIEiAi4QfEIhAX9BYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 18-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - CFL+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_one-fight-night-45-lessei-vs-rabah-live-stream/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-vs-edmonton-elks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CFL+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-vs-edmonton-elks/2"
             }
         ]
     },
@@ -958,71 +870,6 @@
         "Team 2 Name": "Detroit Pistons",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAxvXINNWST3hiq3Al1ZgwufFaA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggY9cgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Match Title": "Miami Heat vs Detroit Pistons",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Miami%20Heat%20vs%20Detroit%20Pistons&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_heat-pistons-live-streaming-592240464/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_heat-pistons-live-streaming-592240464/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/miami-heat-vs-detroit-pistons-basketball-504175/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/miami-heat-vs-detroit-pistons-basketball-504175/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Cage Fury FC 157",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cage%20Fury%20FC%20157&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_cage-fury-fc-157-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Miami Heat",
-        "Team 2 Name": "Detroit Pistons",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAxvXINNWST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggY9cgwDGzST3hiq3Al1ZgwufFaA.webp",
         "Match Title": "Detroit Pistons vs. Miami Heat",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCriQAYxDy5WEFKUoQJcSNIgII5cF0R1emsP1ks2o1JrxsE-mEFaC2emELAkuGRKFPWXWFSelc7MCcDEIggA.webp",
         "Match Status": "Live 🔴",
@@ -1044,20 +891,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-miami-heat/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_heat-pistons-live-streaming-592240464/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_heat-pistons-live-streaming-592240464/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1070,35 +903,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/miami-heat-vs-detroit-pistons-basketball-504175/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Edmonton Elks",
-        "Team 2 Name": "BC Lions",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlw8cihDcQEXLpB8QiHDGMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
-        "Match Title": "Edmonton Elks vs BC Lions",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmaVyMdiG4gpIEiAi4QfEIhAX9BYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CFL+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-vs-edmonton-elks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CFL+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-vs-edmonton-elks/2"
             }
         ]
     },
@@ -1116,18 +920,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Angels.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-tigers-live-streaming-588500208/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-los-angeles-angels/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-tigers-live-streaming-588500208/2"
+                "Language": "English - Angels.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-los-angeles-angels/2"
             },
             {
                 "Source": "echo",
@@ -1159,18 +963,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - DBACKS.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-cardinals-live-streaming-588500640/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-arizona-diamondbacks/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-cardinals-live-streaming-588500640/2"
+                "Language": "English - DBACKS.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-arizona-diamondbacks/2"
             }
         ]
     },
@@ -1188,18 +992,47 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - NBC Sports CA",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-nationals-live-streaming-588501072/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-athletics/1"
             },
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
+                "Language": "English - NBC Sports CA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-athletics/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Phoenix Mercury",
+        "Team 2 Name": "Connecticut Sun",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Phoenix Mercury vs Connecticut Sun",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDogIIKSAF8Q3XSBJGQKCxu0gYugsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ION",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-nationals-live-streaming-588501072/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-phoenix-mercury/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ION",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-phoenix-mercury/2"
             }
         ]
     },
@@ -1233,304 +1066,31 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Phoenix Mercury",
-        "Team 2 Name": "Connecticut Sun",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Phoenix Mercury vs Connecticut Sun",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDogIIKSAF8Q3XSBJGQKCxu0gYugsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Cage Fury FC 157",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cage%20Fury%20FC%20157&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "08:00 AM | 18-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ION",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-phoenix-mercury/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ION",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-phoenix-mercury/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mercury-sun-live-streaming-523982736/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mercury-sun-live-streaming-523982736/2"
-            }
-        ]
-    },
-    {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Willow Cricket",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-willow-cricket/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Willow 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-willow-cricket/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Willow Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-willow-cricket/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-willow-cricket/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Willow 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-willow-cricket/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Willow Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-willow-cricket/6"
-            }
-        ]
-    },
-    {
-        "Category": "Tennis",
-        "League": "Tennis",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Tennis Channel",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-tennis-channel/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-tennis-channel/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally TV",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Seattle Mariners",
-        "Team 2 Name": "San Francisco Giants",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA.webp",
-        "Match Title": "Seattle Mariners vs San Francisco Giants",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLFwAMYFMzYhuIPiBMwQiM5ZARcBYEgp9hs+ijArdbd+XobRuplowdzFRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:10 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Mariners.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-seattle-mariners/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Mariners.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-seattle-mariners/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-giants-live-streaming-588501504/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-giants-live-streaming-588501504/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "LA Galaxy",
-        "Team 2 Name": "LAFC",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "LA Galaxy vs. LAFC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFmzYQKYBBAKAxiCohFItXNIhxC+bLJYFOkInjThIGMHOJ5RmeQigwgkUymywhYElyLZIVdWZ2FSegIbclctMgggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:25 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-lafc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-lafc/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "LA Galaxy",
-        "Team 2 Name": "Los Angeles FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACm8pLh4huIACYgYuHYZCIDiEAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "LA Galaxy vs Los Angeles FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWkhC9aYNlpB8D+wyRCJEU3AWBIKfYbPoowKlFxfl6WWW6Y6XYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:25 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_la-galaxy-los-angeles-live-streaming-538135056/1"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-galaxy-vs-los-angeles-fc-football-1490330/1"
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-cage-fury-fc-157-ppv-004/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-galaxy-vs-los-angeles-fc-football-1490330/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-galaxy-vs-los-angeles-fc-football-1490330/3"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Utah Jazz",
-        "Team 2 Name": "Portland Trail Blazers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIGPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgAJvXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Match Title": "Portland Trail Blazers vs. Utah Jazz",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCCogyWYFJjAI0kIiXDSckDBABjOcHgGQSkMpQhhIFBsskryu3Z3X+YQSKbZ6YQsCS5nIXJuTggPMmsCA3I3RQ0IIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-utah-jazz/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-utah-jazz/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_jazz-trail-blazers-live-streaming-592240896/1"
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-cage-fury-fc-157-ppv-004/2"
             }
         ]
     }
