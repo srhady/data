@@ -312,6 +312,35 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "AIK",
+        "Team 2 Name": "GAIS",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+5VeG4htEXCBgg+IACYgUIEgZDwCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwKvEMAAMCENxAATVSBQg+Zk3uMoCFJnxRcwZNfXmjHTWmGdjREIA.webp",
+        "Match Title": "AIK vs GAIS",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiAHBZIEIwAMIXiCy69IRCRMWQKXSyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 PM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Swedish - TV4 Fotboll",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-gais/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Swedish - TV4 Fotboll",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-gais/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Dundee",
         "Team 2 Name": "Everton",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOBhS7ECjAgQ3EHxAkQMfSAghE5gCa6CFJnxRcwZeEXminTWmBdjREEA.webp",
@@ -1074,6 +1103,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-colorado-rockies/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rockies-vs-cincinnati-reds-baseball-179488/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1218,6 +1254,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-arizona-diamondbacks/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/arizona-diamondbacks-vs-stlouis-cardinals-baseball-179494/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1261,6 +1304,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-rangers-live-streaming-588563712/1"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-braves-vs-texas-rangers-baseball-179492/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1295,6 +1345,13 @@
                 "Language": "English - Rays.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-boston-red-sox/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-tampa-bay-rays-baseball-179491/1"
             },
             {
                 "Source": "golf",
@@ -1333,6 +1390,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-houston-astros/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/houston-astros-vs-baltimore-orioles-baseball-179487/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1367,6 +1431,13 @@
                 "Language": "English - Brewers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-milwaukee-brewers/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/milwaukee-brewers-vs-miami-marlins-baseball-179485/1"
             },
             {
                 "Source": "golf",
@@ -1455,6 +1526,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_magic-celtics-live-streaming-592596432/1"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/orlando-magic-vs-boston-celtics-basketball-504363/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1489,6 +1567,13 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-76-ers-vs-milwaukee-bucks/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/milwaukee-bucks-vs-philadelphia-76ers-basketball-504364/1"
             },
             {
                 "Source": "golf",
