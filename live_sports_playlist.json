@@ -245,35 +245,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "AIK",
-        "Team 2 Name": "GAIS",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+5VeG4htEXCBgg+IACYgUIEgZDwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwKvEMAAMCENxAATVSBQg+Zk3uMoCFJnxRcwZNfXmjHTWmGdjREIA.webp",
-        "Match Title": "AIK vs GAIS",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiAHBZIEIwAMIXiCy69IRCRMWQKXSyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Swedish - TV4 Fotboll",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-gais/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Swedish - TV4 Fotboll",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-gais/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Fiji Rugby",
@@ -344,6 +315,20 @@
         "Start Time": "08:00 PM | 18-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-eubank-v-papot-ppv-05/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-eubank-v-papot-ppv-05/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -628,6 +613,49 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "South Africa Rugby",
+        "Team 2 Name": "Wales Rugby",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIEiG4g+IegBNN23IZDGUIA6YgEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAgFogbwAmIbiBIgdOxKpw69MAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "South Africa Rugby vs Wales Rugby",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAwGYfiGDSQvEFhBmIIalpCGzp+CyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:40 PM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Stan Sport",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-wales/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Stan Sport",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-wales/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/south-africa-vs-wales-rugby-53229/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/south-africa-vs-wales-rugby-53229/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -736,49 +764,6 @@
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "South Africa Rugby",
-        "Team 2 Name": "Wales Rugby",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIEiG4g+IegBNN23IZDGUIA6YgEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAgFogbwAmIbiBIgdOxKpw69MAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "South Africa Rugby vs Wales Rugby",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAwGYfiGDSQvEFhBmIIalpCGzp+CyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "09:40 PM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Stan Sport",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-wales/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Stan Sport",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-wales/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/south-africa-vs-wales-rugby-53229/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/south-africa-vs-wales-rugby-53229/2"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -864,6 +849,20 @@
         "Start Time": "12:00 AM | 19-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-bkfc-91-naples-hunt-v-pugliesi-ppv-02/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-bkfc-91-naples-hunt-v-pugliesi-ppv-02/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1581,6 +1580,13 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/orlando-magic-vs-boston-celtics-basketball-504363/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/orlando-magic-vs-boston-celtics-basketball-504363/2"
             },
             {
                 "Source": "golf",
