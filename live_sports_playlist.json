@@ -1,41 +1,5 @@
 [
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Warrington Wolves",
-        "Team 2 Name": "Hull Kingston Rovers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq8UXJMAAMIbiAAmIEgZB8Q5lCb36CFJn3VswZeEXmj1TWmGdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwhaIDWuAATENxC6IezUZgGQJDQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Warrington Wolves vs Hull Kingston Rovers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELV6gpsSCG4g+IKSBIhz5xDhwSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-hull-k-r-game-184842/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-hull-k-r-game-184842/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-hull-k-r-game-184842/3"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Manchester United",
@@ -277,7 +241,7 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23851/1"
+                "Embed_URL": "https://embed.st/embed/golf/23837/1"
             }
         ]
     },
@@ -288,8 +252,8 @@
         "Team 2 Name": "David Papot",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Harlem Eubank vs David Papot",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghBOFGBTyQvbSFPVTmiyhMgWSClhFzGe1QY5gy8ItTkH8rMBgnuJiEEA.webp",
+        "Match Title": "Harlem Eubank vs. David Papot",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMvFLBEAYxAQQw8fOzAFSxDBBZti0spQgaC9SBT7DOsteBVz-MIJFNV9wsCS4Z5oY9YRnMnMCaXJHNSkIIA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "12:00 AM | 19-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -364,6 +328,56 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/indycar-ntt-qualifying-game-4008282/3"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Harlem Eubank",
+        "Team 2 Name": "David Papot",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Harlem Eubank vs David Papot",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghBOFGBTyQvbSFPVTmiyhMgWSClhFzGe1QY5gy8ItTkH8rMBgnuJiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 19-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-harlem-eubank-vs-david-papot/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-harlem-eubank-vs-david-papot/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_harlem-eubank-vs-david-papot-live-stream/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-eubank-v-papot-ppv-05/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-eubank-v-papot-ppv-05/2"
             }
         ]
     },
@@ -523,20 +537,6 @@
                 "Language": "English - Sportsnet",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-toronto-blue-jays/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_blue-jays-white-sox-live-streaming-588561984/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/toronto-blue-jays-vs-chicago-white-sox-baseball-179481/1"
             },
             {
                 "Source": "golf",
@@ -1110,6 +1110,20 @@
                 "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-oklahoma-city-live-stream/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-du-plessis-v-usman-ppv-01/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-du-plessis-v-usman-ppv-01/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1221,6 +1235,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_world-cup-knockout-stage_france-england-live-streaming-538151472/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-cup-knockout-stage_france-england-live-streaming-538151472/4"
             },
             {
                 "Source": "echo",
@@ -1581,6 +1602,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-washington-wizards/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_wizards-hawks-live-streaming-592597296/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_wizards-hawks-live-streaming-592597296/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1790,10 +1825,10 @@
         "League": "Baseball",
         "Team 1 Name": "New York Yankees",
         "Team 2 Name": "Los Angeles Dodgers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp",
-        "Match Title": "New York Yankees vs Los Angeles Dodgers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvSQUADGCkhuIPiBMwQiM5ZAkQKAsC0x+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRDZ65BgGNmonvElUhhBqzBhc+E0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERAh65BgGNmonvElUhhBqzBhc+E0A.webp",
+        "Match Title": "Los Angeles Dodgers vs. New York Yankees",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IECJDCQMYBGA1F4kCWVUVU7CHWIJ0gMYitMGSAghEqkyinjSKcvIFCjBbPTCFgSXPodCwbk55YVJ6N3hyQLkwiCA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "06:08 AM | 19-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
