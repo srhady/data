@@ -94,35 +94,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Basel",
-        "Team 2 Name": "Juventus",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBw44PthDcQEEHxCIDKbaZCGCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIhgAExAx+2ENxB8QEXCBQhziQzj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Match Title": "Basel vs Juventus",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Basel%20vs%20Juventus&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 PM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/basel-vs-juventus-game-2888776/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/basel-vs-juventus-game-2888776/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Warrington Wolves",
@@ -1818,6 +1789,28 @@
     {
         "Category": "Fight",
         "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Tsarukyan v Convington",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Tsarukyan%20v%20Convington&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 19-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23871/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
         "Team 1 Name": "Pacheco",
         "Team 2 Name": "Aleem",
         "Team 1 Logo": "",
@@ -2058,28 +2051,6 @@
                 "Language": "English - KPIX+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-golden-state-valkyries/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "RAF 11 Tsarukyan v Convington",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RAF%2011%20Tsarukyan%20v%20Convington&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 19-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23871/1"
             }
         ]
     },
