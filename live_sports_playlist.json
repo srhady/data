@@ -183,35 +183,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Mirassol",
-        "Team 2 Name": "Gremio",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBUQV9cg0XNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "Mirassol vs Gremio",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mirassol%20vs%20Gremio&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mirassol-vs-gremio-football-1492297/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mirassol-vs-gremio-football-1492297/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Atlético Ottawa",
         "Team 2 Name": "York United",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpD8QKeuQYBjZuJ7wRVbgS6swYXPmtA.webp",
@@ -1223,6 +1194,20 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-reds-live-streaming-588499776/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rockies-vs-cincinnati-reds-baseball-179473/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rockies-vs-cincinnati-reds-baseball-179473/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1268,14 +1253,43 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Edmonton Elks",
+        "Team 2 Name": "BC Lions",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlw8cihDcQEXLpB8QiHDGMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
+        "Match Title": "Edmonton Elks vs BC Lions",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmaVyMdiG4gpIEiAi4QfEIhAX9BYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CFL+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-vs-edmonton-elks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CFL+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-vs-edmonton-elks/2"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Team 1 Name": "ONE Fight Night 45 Lessei",
+        "Team 2 Name": "Rabah",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Cage Fury FC 157",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cage%20Fury%20FC%20157&font=Oswald",
+        "Match Title": "ONE Fight Night 45 Lessei vs Rabah",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBCMc-AAwhqIXiCyaQiFGZghpIElpZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 18-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1285,7 +1299,36 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_cage-fury-fc-157-live-stream/1"
+                "Embed_URL": "https://embed.st/embed/delta/live-event_one-fight-night-45-lessei-vs-rabah-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "León",
+        "Team 2 Name": "Atlas",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjMQKftkohuIPiBK4QiFMZAQzKAhSZ8NbMGXhF5ojU1phHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJurApNfENxAQQuxCQN6QF-fAIUmfFFzBlV9eaIdNaYJ2NEQgA.webp",
+        "Match Title": "León vs Atlas",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCHBY2IPmA3cQUkDBCGUuEIkOIQBYEgp9hs+ijAqUXD+XrbRXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/leon-vs-atlas-football-1550897/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/leon-vs-atlas-football-1550897/2"
             }
         ]
     },
@@ -1354,43 +1397,14 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "León",
-        "Team 2 Name": "Atlas",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjMQKftkohuIPiBK4QiFMZAQzKAhSZ8NbMGXhF5ojU1phHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJurApNfENxAQQuxCQN6QF-fAIUmfFFzBlV9eaIdNaYJ2NEQgA.webp",
-        "Match Title": "León vs Atlas",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCHBY2IPmA3cQUkDBCGUuEIkOIQBYEgp9hs+ijAqUXD+XrbRXky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/leon-vs-atlas-football-1550897/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/leon-vs-atlas-football-1550897/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "ONE Fight Night 45 Lessei",
-        "Team 2 Name": "Rabah",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "ONE Fight Night 45 Lessei vs Rabah",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBCMc-AAwhqIXiCyaQiFGZghpIElpZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
+        "Match Title": "Cage Fury FC 157",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cage%20Fury%20FC%20157&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 18-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1400,36 +1414,7 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_one-fight-night-45-lessei-vs-rabah-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Edmonton Elks",
-        "Team 2 Name": "BC Lions",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlw8cihDcQEXLpB8QiHDGMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
-        "Match Title": "Edmonton Elks vs BC Lions",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmaVyMdiG4gpIEiAi4QfEIhAX9BYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CFL+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-vs-edmonton-elks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CFL+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-vs-edmonton-elks/2"
+                "Embed_URL": "https://embed.st/embed/delta/live-event_cage-fury-fc-157-live-stream/1"
             }
         ]
     },
@@ -1746,6 +1731,20 @@
                 "Language": "English - ION",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-phoenix-mercury/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mercury-sun-live-streaming-523982736/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mercury-sun-live-streaming-523982736/2"
             }
         ]
     },
