@@ -245,35 +245,6 @@
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Fiji Rugby",
-        "Team 2 Name": "Scotland Rugby",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh265cYACYgNYVar4gS2tTkQgQqjQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lk+YEiF58tITQBMQhxDp3cQEECgIUmfFFw3l6qzk1pgNY0RCA.webp",
-        "Match Title": "Fiji Rugby vs Scotland Rugby",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlRRhZ+YEjAoQvEFhBmIIaiBghpZkBcW79MASLmMtqlDzBl4RNRyPrr0YH7iYhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:10 PM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Stan Sport",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fiji-vs-scotland/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Stan Sport",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fiji-vs-scotland/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Basel",
@@ -656,6 +627,57 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMA Supercross Championship Millville",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Millville&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-millville-ppv-13/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-millville-ppv-13/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "PFL Austin Eblen",
+        "Team 2 Name": "Kasanganay 2",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PFL Austin Eblen vs Kasanganay 2",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtOwDgABlggUIXiCwgziQ6bMQQiSfmBIKWEXMYowqlD0-lG1OW8HejBPcTEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 18-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23874/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -760,57 +782,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AMA Supercross Championship Millville",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Millville&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-millville-ppv-13/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-millville-ppv-13/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "PFL Austin Eblen",
-        "Team 2 Name": "Kasanganay 2",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "PFL Austin Eblen vs Kasanganay 2",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtOwDgABlggUIXiCwgziQ6bMQQiSfmBIKWEXMYowqlD0-lG1OW8HejBPcTEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 18-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23874/1"
             }
         ]
     },
