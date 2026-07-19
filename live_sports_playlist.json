@@ -551,20 +551,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rockies.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-colorado-rockies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rockies.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-colorado-rockies/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -621,20 +607,6 @@
                 "Language": "English - CBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-sky-vs-atlanta-dream/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_dream-sky-live-streaming-524023776/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_dream-sky-live-streaming-524023776/2"
             }
         ]
     },
@@ -862,10 +834,10 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Oklahoma City Thunder",
-        "Team 2 Name": "Brooklyn Nets",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgmdcgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQR65BgGNmknvDFVuBLqzBhc+S0A.webp",
+        "Team 1 Name": "Brooklyn Nets",
+        "Team 2 Name": "Oklahoma City Thunder",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "Brooklyn Nets vs. Oklahoma City Thunder",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCDKISIYZJAoQSqiHiklpYCoDGwCCOCIVSuSogLNWERas0aEFOX0ChBgtnphCwJLm2OhMG5OfWFNR3c1MCC9TQggA.webp",
         "Match Status": "Live 🔴",
@@ -885,34 +857,6 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-oklahoma-city-thunder/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_thunder-nets-live-streaming-592607664/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league_thunder-nets-live-streaming-592607664/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/oklahoma-city-thunder-vs-brooklyn-nets-basketball-504370/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/oklahoma-city-thunder-vs-brooklyn-nets-basketball-504370/2"
             },
             {
                 "Source": "golf",
@@ -964,35 +908,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-big-block-special-utica-rome-ppv-03/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Fury FC 121",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fury%20FC%20121&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:30 AM | 20-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-fury-fc-121-ppv-004/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-fury-fc-121-ppv-004/2"
             }
         ]
     },
@@ -1064,6 +979,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23849/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Fury FC 121",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fury%20FC%20121&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 20-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-fury-fc-121-ppv-004/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-fury-fc-121-ppv-004/2"
             }
         ]
     },
@@ -1295,6 +1239,13 @@
                 "Language": "English - NBC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-new-york-yankees/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-dodgers-live-streaming-588625488/1"
             },
             {
                 "Source": "golf",
