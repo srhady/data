@@ -248,28 +248,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Orlando Magic",
-        "Team 2 Name": "Boston Celtics",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Orlando Magic - Boston Celtics",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Orlando%20Magic%20-%20Boston%20Celtics&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:30 AM | 19-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23826/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "UFC Fight Night 281 Du Plessis",
@@ -531,13 +509,6 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-rockets-vs-memphis-grizzlies/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-summer-league-playoffs_grizzlies-rockets-live-streaming-592598592/1"
             },
             {
                 "Source": "golf",
@@ -1200,6 +1171,42 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
+        "Team 1 Name": "Golden State Valkyries",
+        "Team 2 Name": "Washington Mystics",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
+        "Match Title": "Golden State Valkyries vs Washington Mystics",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGjWEgpUgMYgI2ECGCIIIFMHXqsS2aVUiQWBSHlVp0pcNUgYyhZv5hBIptnphCwJLlmahF1ZFGzJNAkMwFy0DCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 AM | 19-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - KPIX+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-golden-state-valkyries/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - KPIX+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-golden-state-valkyries/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_valkyries-mystics-live-streaming-524012112/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
         "Team 1 Name": "Los Angeles Lakers",
         "Team 2 Name": "Golden State Warriors",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAghs9cgwDGzST3hiq3Al1ZgwufFaA.webp",
@@ -1237,42 +1244,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23830/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Golden State Valkyries",
-        "Team 2 Name": "Washington Mystics",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
-        "Match Title": "Golden State Valkyries vs Washington Mystics",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGjWEgpUgMYgI2ECGCIIIFMHXqsS2aVUiQWBSHlVp0pcNUgYyhZv5hBIptnphCwJLlmahF1ZFGzJNAkMwFy0DCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 19-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - KPIX+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-golden-state-valkyries/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - KPIX+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-golden-state-valkyries/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_valkyries-mystics-live-streaming-524012112/1"
             }
         ]
     },
