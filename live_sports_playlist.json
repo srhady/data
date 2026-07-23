@@ -150,20 +150,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BravesVision",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-atlanta-braves/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BravesVision",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-atlanta-braves/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -214,40 +200,11 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_guardians-twins-live-streaming-590746608/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/cleveland-guardians-vs-minnesota-twins-baseball-179556/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23935/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "St. Gallen",
-        "Team 2 Name": "Benfica",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAowAE1UaEIbiAi5D6-SZK7cBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAkIegAYwKZiG4g+IYwYMlcGkIgAmBCkz662YMvCLzRuprTAuxoiCA.webp",
-        "Match Title": "St. Gallen vs Benfica",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhBYGmGkIQvbSFPVNRkBAvnF+YEgpYRcxijCqUPD+UbU5Xvb0umKMoUA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 24-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/fc-st-gallen-vs-benfica-football-1556545/1"
             }
         ]
     },
@@ -277,28 +234,6 @@
                 "Language": "Serbian - Arena 3 Premium",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-besiktas-vs-fc-midtjylland/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Twente",
-        "Team 2 Name": "Ferencvarosi TC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIIiGz1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IbCBJ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Twente vs Ferencvarosi TC",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Twente%20vs%20Ferencvarosi%20TC&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 24-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/twente-vs-ferencvarosi-tc-football-1593523/1"
             }
         ]
     },
@@ -723,6 +658,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23938/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "IWR Insane Rumble 2026",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=IWR%20Insane%20Rumble%202026&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 24-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_iwr-insane-rumble-2026-live-stream/1"
             }
         ]
     },
