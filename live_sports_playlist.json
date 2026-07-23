@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UCI Tour de France | UCI World Tour 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Tour%20de%20France%20%7C%20UCI%20World%20Tour%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:35 PM | 23-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2"
-            }
-        ]
-    },
-    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -570,6 +541,42 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Hull FC",
+        "Team 2 Name": "Hull K R",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxycMECUKxgBYT2psEkLvx476YUVQoQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxzEMeYVjACwntTYJIXfj230woqhQhA.webp",
+        "Match Title": "Hull FC vs Hull K R",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hull%20FC%20vs%20Hull%20K%20R&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 24-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/3"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -674,42 +681,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Hull FC",
-        "Team 2 Name": "Hull K R",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxycMECUKxgBYT2psEkLvx476YUVQoQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxzEMeYVjACwntTYJIXfj230woqhQhA.webp",
-        "Match Title": "Hull FC vs Hull K R",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hull%20FC%20vs%20Hull%20K%20R&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 24-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/3"
             }
         ]
     },
@@ -853,6 +824,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/bolivar-vs-gremio-football-1547774/4"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Belgrano",
+        "Team 2 Name": "Rosario Central",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoAvmCTsQ3ECV0g+RkABMQFmBaMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgAJmG4heURFr7qQqtYZi4QJdQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Belgrano vs Rosario Central",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXAxAwQtAAxg+IbiENSQKEGdPmtuAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:30 AM | 24-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/belgrano-cordoba-vs-rosario-central-football-1493003/1"
             }
         ]
     },
