@@ -161,13 +161,6 @@
                 "Language": "English - Fox 5 New York",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-sky-vs-new-york-liberty/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_liberty-sky-live-streaming-524028960/1"
             }
         ]
     },
@@ -1508,6 +1501,70 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mls_austin-seattle-live-streaming-538234848/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/austin-vs-seattle-sounders-football-1490337/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/austin-vs-seattle-sounders-football-1490337/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Colorado Rapids",
+        "Team 2 Name": "San Diego FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJw4qsABMQ3EBBB8QiEkZDb9uxhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Colorado Rapids vs San Diego FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGAAGEDKkh4YDdxB9TIE2ZIGb+qQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:30 AM | 23-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-san-diego-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-san-diego-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_colorado-san-diego-fc-live-streaming-538236576/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rapids-vs-san-diego-football-1490341/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rapids-vs-san-diego-football-1490341/2"
             }
         ]
     },
@@ -1620,42 +1677,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Colorado Rapids",
-        "Team 2 Name": "San Diego FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJw4qsABMQ3EBBB8QiEkZDb9uxhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "Colorado Rapids vs San Diego FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGAAGEDKkh4YDdxB9TIE2ZIGb+qQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:30 AM | 23-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-san-diego-fc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-san-diego-fc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_colorado-san-diego-fc-live-streaming-538236576/1"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Portland Fire W",
@@ -1753,6 +1774,13 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-portland-timbers-vs-fc-dallas/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_portland-dallas-live-streaming-538239168/1"
             }
         ]
     },
@@ -1818,6 +1846,13 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-st-louis-city-sc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_la-galaxy-st-louis-live-streaming-538237440/1"
             }
         ]
     },
@@ -1847,6 +1882,13 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lafc-vs-real-salt-lake/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_los-angeles-salt-lake-live-streaming-538238304/1"
             },
             {
                 "Source": "echo",
