@@ -1,41 +1,5 @@
 [
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Hull FC",
-        "Team 2 Name": "Hull K R",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxycMECUKxgBYT2psEkLvx476YUVQoQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxzEMeYVjACwntTYJIXfj230woqhQhA.webp",
-        "Match Title": "Hull FC vs Hull K R",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hull%20FC%20vs%20Hull%20K%20R&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 24-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/3"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Detroit Tigers",
@@ -68,35 +32,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23938/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "USAC Indiana Sprint Week IMS",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Indiana%20Sprint%20Week%20IMS&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:15 AM | 24-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-usac-indiana-sprint-week-ims-ppv-004/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-usac-indiana-sprint-week-ims-ppv-004/2"
             }
         ]
     },
@@ -538,6 +473,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/3"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Nascar Truck Series 2026 - NASCAR Craftsman Truck Series Race at IRP",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Nascar%20Truck%20Series%202026%20-%20NASCAR%20Craftsman%20Truck%20Series%20Race%20at%20IRP&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:01 PM | 24-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-irp-live-stream/1"
             }
         ]
     },
