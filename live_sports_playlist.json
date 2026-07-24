@@ -232,25 +232,11 @@
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgIIDfFgIQ3EHxAATNRqNnExiYRjAmfFFzBkt9eaIdNaYJ2NEQgA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIwvKDm4htJHSD4gAJsZAxcIPYwpM+KLmDLwi80faa0wjsaIhA.webp",
         "Match Title": "Rosenborg vs Manchester United",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rosenborg%20vs%20Manchester%20United&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "10:00 PM | 24-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MUTV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rosenborg-vs-manchester-united/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MUTV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rosenborg-vs-manchester-united/2"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -383,12 +369,26 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "World Matchplay Darts  🎯",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Matchplay%20Darts%20%20%F0%9F%8E%AF&font=Oswald",
+        "Match Title": "World Matchplay - Day 7",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCBDAJJECjkiRILMCohE8YJokSUSiVhAS1h+cMnZlc9RdHkIoMIMUFs9MIWBJcAYz1CnVgdhUnpXTTAnaVCIIA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "12:30 AM | 25-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport Select NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-world-matchplay-day-7/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport Select NZ",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-world-matchplay-day-7/2"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -445,6 +445,42 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/3"
+            }
+        ]
+    },
+    {
+        "Category": "Darts",
+        "League": "Darts",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "World Matchplay Darts  🎯",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Matchplay%20Darts%20%20%F0%9F%8E%AF&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:30 AM | 25-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/world-matchplay-darts-darts-1/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/world-matchplay-darts-darts-1/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/world-matchplay-darts-darts-1/3"
             }
         ]
     },
@@ -716,6 +752,28 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PPV EVENT 06: Senators Cup Stafford",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PPV%20EVENT%2006%3A%20Senators%20Cup%20Stafford&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:15 AM | 25-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-senators-cup-stafford-gameev-6/1"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Demetrius Andrade",
@@ -913,6 +971,50 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23942/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PPV EVENT 08: High Limit Racing Stateline",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PPV%20EVENT%2008%3A%20High%20Limit%20Racing%20Stateline&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 25-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-high-limit-racing-stateline-gameev-8/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PPV EVENT 07: World of Outlaws Late Models Fairbury",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PPV%20EVENT%2007%3A%20World%20of%20Outlaws%20Late%20Models%20Fairbury&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 25-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-07-world-of-outlaws-late-models-fairbury-gameev-7/1"
             }
         ]
     },
