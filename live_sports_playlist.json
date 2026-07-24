@@ -6,35 +6,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Southern Nationals Sugar Creek",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Southern%20Nationals%20Sugar%20Creek&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 24-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-southern-nationals-sugar-creek-ppv-05/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-southern-nationals-sugar-creek-ppv-05/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "IWR Insane Rumble 2026",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=IWR%20Insane%20Rumble%202026&font=Oswald",
         "Match Status": "Live 🔴",
@@ -101,28 +72,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Tyson Fury vs Mariusz Wach",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Tyson%20Fury%20vs%20Mariusz%20Wach&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 PM | 24-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_tyson-fury-vs-mariusz-wach-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Newcastle Knights",
@@ -169,6 +118,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/newcastle-knights-vs-sydney-roosters-game-3373252/3"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Tyson Fury vs Mariusz Wach",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Tyson%20Fury%20vs%20Mariusz%20Wach&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 PM | 24-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_tyson-fury-vs-mariusz-wach-live-stream/1"
             }
         ]
     },
