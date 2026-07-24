@@ -434,6 +434,35 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Demetrius Andrade",
+        "Team 2 Name": "Douglas Ataide",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Demetrius Andrade vs Douglas Ataide",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Demetrius%20Andrade%20vs%20Douglas%20Ataide&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 25-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_demetrius-andrade-vs-douglas-ataide-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23971/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -538,35 +567,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Demetrius Andrade",
-        "Team 2 Name": "Douglas Ataide",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Demetrius Andrade vs Douglas Ataide",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Demetrius%20Andrade%20vs%20Douglas%20Ataide&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:30 AM | 25-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_demetrius-andrade-vs-douglas-ataide-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23971/1"
             }
         ]
     },
@@ -863,6 +863,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-baltimore-orioles/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-braves-live-streaming-590811408/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-braves-live-streaming-590811408/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -906,6 +920,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-new-york-mets/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-dodgers-live-streaming-590812704/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-dodgers-live-streaming-590812704/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -940,6 +968,20 @@
                 "Language": "English - Marlins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-miami-marlins/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-padres-live-streaming-590812272/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-padres-live-streaming-590812272/2"
             },
             {
                 "Source": "golf",
@@ -978,6 +1020,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-tampa-bay-rays/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-guardians-live-streaming-590813136/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-guardians-live-streaming-590813136/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1012,6 +1068,13 @@
                 "Language": "English - NESN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-boston-red-sox/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-blue-jays-live-streaming-590811840/1"
             },
             {
                 "Source": "golf",
