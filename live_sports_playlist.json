@@ -148,6 +148,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live-event_anthony-joshua-vs-kristian-prenga-live-stream/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_anthony-joshua-vs-kristian-prenga-live-stream/3"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -308,40 +315,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-detroit-tigers/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-kansas-city-royals-baseball-179584/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23956/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Estudiantes de Río Cuarto",
-        "Team 2 Name": "Tigre",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUIbkXAwNIPnpAkD6xN1waCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM1LGBT8QfENx0gAJiBIgzps5dwEKTPlrZgy8IvNFamtME7GiIQA.webp",
-        "Match Title": "Estudiantes de Río Cuarto vs Tigre",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRL1H4QvbjpB8QUkCiMGzpvXwLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:45 PM | 25-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/estudiantes-de-rio-cuarto-vs-tigre-football-1493007/1"
             }
         ]
     },
@@ -649,6 +627,72 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMA Supercross Championship Washougal",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Washougal&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 26-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-16-ama-supercross-championship-washougal-ppv16/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Newells Old Boys",
+        "Team 2 Name": "Talleres Cordoba",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCADG9cg3VZxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCH71yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Newells Old Boys vs Talleres Cordoba",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Newells%20Old%20Boys%20vs%20Talleres%20Cordoba&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 26-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/newells-old-boys-vs-talleres-cordoba-football-1493011/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "BKFC Fight Night Uruguay Reyno",
+        "Team 2 Name": "Krejci",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BKFC Fight Night Uruguay Reyno vs Krejci",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGDTYIatxQheILCFMQQBo0YOIYLJBSwi5jFGFUoe78oz1jP+KzAYO7iYhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 26-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23990/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -753,72 +797,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AMA Supercross Championship Washougal",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Washougal&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 26-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-16-ama-supercross-championship-washougal-ppv16/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Newells Old Boys",
-        "Team 2 Name": "Talleres Cordoba",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCADG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCH71yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Newells Old Boys vs Talleres Cordoba",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Newells%20Old%20Boys%20vs%20Talleres%20Cordoba&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 26-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/newells-old-boys-vs-talleres-cordoba-football-1493011/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "BKFC Fight Night Uruguay Reyno",
-        "Team 2 Name": "Krejci",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "BKFC Fight Night Uruguay Reyno vs Krejci",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGDTYIatxQheILCFMQQBo0YOIYLJBSwi5jFGFUoe78oz1jP+KzAYO7iYhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 26-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23990/1"
             }
         ]
     },
@@ -1141,6 +1119,13 @@
                 "Language": "English - Stan Sport",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-liverpool-vs-sunderland/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_club-friendly-games_liverpool-sunderland-live-streaming-595684800/1"
             },
             {
                 "Source": "echo",
@@ -1572,6 +1557,28 @@
                 "Language": "Spanish - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-guadalajara-vs-fc-juarez/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "CD Guadalajara",
+        "Team 2 Name": "Juárez",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNghe8qiDUgSIFCEQQduEDC0g+BCk0tcwZeEXmiUwJrTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxz0qKEDBB8Q3ECRAATbSAimjIRIkMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "CD Guadalajara vs Juárez",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmD4hq24EjAkQvEFhBmIICzEsgUtky30wBIuYxQGOKHgfKNqct74rMBgnoxiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:07 AM | 26-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_liga-mx-apertura_guadalajara-juarez-live-streaming-595483056/1"
             }
         ]
     },
