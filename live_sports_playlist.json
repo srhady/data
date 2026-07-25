@@ -741,14 +741,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Stan Sport",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-liverpool-vs-sunderland/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Stan Sport",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-liverpool-vs-sunderland/2"
             },
@@ -947,6 +947,49 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "New York Red Bulls",
+        "Team 2 Name": "Charlotte FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgyKaABMwKENxAQQfEIhImQmgxdwEKTPii5ry9eaMdNaYNWNEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwATWCChkkIbiBIgU+zSEQQQME3wIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Match Title": "New York Red Bulls vs Charlotte FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VerSXMEIbiD4gYIKft0hEOCwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 26-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-charlotte-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-charlotte-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_ny-red-bulls-charlotte-live-streaming-538266384/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/new-york-red-bulls-vs-charlotte-football-1490352/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1051,49 +1094,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "New York Red Bulls",
-        "Team 2 Name": "Charlotte FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgyKaABMwKENxAQQfEIhImQmgxdwEKTPii5ry9eaMdNaYNWNEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwATWCChkkIbiBIgU+zSEQQQME3wIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Match Title": "New York Red Bulls vs Charlotte FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VerSXMEIbiD4gYIKft0hEOCwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:30 AM | 26-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-charlotte-fc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-charlotte-fc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_ny-red-bulls-charlotte-live-streaming-538266384/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/new-york-red-bulls-vs-charlotte-football-1490352/1"
             }
         ]
     },
@@ -1334,6 +1334,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-baltimore-orioles/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-braves-live-streaming-590880096/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-braves-live-streaming-590880096/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1428,6 +1442,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-minnesota-twins/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-athletics-live-streaming-590881392/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-athletics-live-streaming-590881392/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1462,6 +1490,20 @@
                 "Language": "English - CHSN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-chicago-white-sox/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-astros-live-streaming-590880528/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-astros-live-streaming-590880528/2"
             },
             {
                 "Source": "golf",
@@ -1500,6 +1542,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-milwaukee-brewers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-rockies-live-streaming-590880960/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-rockies-live-streaming-590880960/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1534,6 +1590,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-new-york-mets/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-dodgers-live-streaming-590881824/1"
             },
             {
                 "Source": "golf",
@@ -1572,6 +1635,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-st-louis-cardinals/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cardinals-reds-live-streaming-590882256/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cardinals-reds-live-streaming-590882256/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1606,6 +1683,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-texas-rangers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-mariners-live-streaming-590882688/1"
             },
             {
                 "Source": "golf",
