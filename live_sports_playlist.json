@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Demetrius Andrade",
-        "Team 2 Name": "Douglas Ataide",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Demetrius Andrade vs Douglas Ataide",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Demetrius%20Andrade%20vs%20Douglas%20Ataide&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:30 AM | 25-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_demetrius-andrade-vs-douglas-ataide-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23971/1"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "",
@@ -225,6 +196,42 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Greater Western Sydney Giants",
+        "Team 2 Name": "Sydney Swans",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATEKurcEIbhpAQQfECeMwTIRCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Greater Western Sydney Giants vs Sydney Swans",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VASkrAADHRD7uIKSAgg++syBggSuEPALAkFPsNn0UYFZrZfy9LFlNJlowLzFRCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:35 PM | 25-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/greater-western-sydney-giants-vs-sydney-swans-australian-football-3586/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/greater-western-sydney-giants-vs-sydney-swans-australian-football-3586/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/greater-western-sydney-giants-vs-sydney-swans-australian-football-3586/3"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -329,42 +336,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Greater Western Sydney Giants",
-        "Team 2 Name": "Sydney Swans",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATEKurcEIbhpAQQfECeMwTIRCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Greater Western Sydney Giants vs Sydney Swans",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VASkrAADHRD7uIKSAgg++syBggSuEPALAkFPsNn0UYFZrZfy9LFlNJlowLzFRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:35 PM | 25-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/greater-western-sydney-giants-vs-sydney-swans-australian-football-3586/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/greater-western-sydney-giants-vs-sydney-swans-australian-football-3586/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/greater-western-sydney-giants-vs-sydney-swans-australian-football-3586/3"
             }
         ]
     },
