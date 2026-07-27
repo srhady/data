@@ -89,42 +89,6 @@
     {
         "Category": "Cricket",
         "League": "Cricket",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "The Hundred Men: Southern Brave vs MI London",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=The%20Hundred%20Men%3A%20Southern%20Brave%20vs%20MI%20London&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 27-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/the-hundred-men-southern-brave-vs-mi-london-game-19993637/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/the-hundred-men-southern-brave-vs-mi-london-game-19993637/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/the-hundred-men-southern-brave-vs-mi-london-game-19993637/3"
-            }
-        ]
-    },
-    {
-        "Category": "Cricket",
-        "League": "Cricket",
         "Team 1 Name": "Southern Brave",
         "Team 2 Name": "MI London",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADEMHiBDAkIbqoMATEBBAkDfEMYmENTPii5gy8IvNGOmtMM7GiIQA.webp",
@@ -314,6 +278,13 @@
                 "Language": "English - Rangers Sports Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-texas-rangers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-mariners-live-streaming-590983776/1"
             },
             {
                 "Source": "echo",
