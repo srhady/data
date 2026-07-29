@@ -144,20 +144,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Reds.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-cincinnati-reds/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Reds.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-cincinnati-reds/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -214,20 +200,6 @@
                 "Language": "English - Twins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-minnesota-twins/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-royals-live-streaming-591011424/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-royals-live-streaming-591011424/2"
             },
             {
                 "Source": "golf",
@@ -859,6 +831,173 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Tottenham Hotspur",
+        "Team 2 Name": "Sydney FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oATMCmCriYENxCqQMEBCMgUJvWZQEKTPprZgy8IvNGamtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjL0+YbiHBIQmkiAggAJrtMwQfAxYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Tottenham Hotspur vs Sydney FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDLCQMENKzYQEEFTlqSMkFq0SJWgMYgUwVceWyaCsquEijS4-zCCRTbPTCFgSXPuNDnVghXMmMCYHhyZ2BgsgggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:45 PM | 29-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - SPURSPLAY",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-sydney-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - SPURSPLAY",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-sydney-fc/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Ghana",
+        "Team 2 Name": "Cape Verde",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ghana vs. Cape Verde",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYSBggsIeMAggUIAMYgFqucNIgJSuTQkRtmtYuA0Dk7RJDyU5IwKEim2emELAkuZfaFhuTiMtMnsCYDkwAPlSeSA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 29-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - beIN Sports XTRA USA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ghana-vs-cape-verde/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - beIN Sports XTRA USA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ghana-vs-cape-verde/2"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "New York Mets",
+        "Team 2 Name": "Atlanta Braves",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
+        "Match Title": "New York Mets vs Atlanta Braves",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMkjAoQM+LBDcQfECZghEZs4ZONgmmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:10 AM | 30-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/24024/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Liverpool",
+        "Team 2 Name": "Wrexham",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwACYKQgnNxB8QiAyhDqQJgzggEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJJYYFG0ghuIACYg+IEiBggUuY1YmEYwJn01ay8IvNGamtMGFFS6QA.webp",
+        "Match Title": "Liverpool vs Wrexham",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILONIiQwkGUQhFIAMbZg8YBBCJZKEDG1SJigxJib1IKiD01ri3uQigwgkUzUpyhYElzKvIVdWZ2EpLwJ1clcLMgggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 30-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Club Friendly",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-liverpool-vs-wrexham/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Club Friendly",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-liverpool-vs-wrexham/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AEW: Wednesday Night Dynamite",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBBAwQNWSBQgsUqcEkKsI+SHFLpVZdPH7piEsvGTZwKinIRQYQSKbZ6YQsCS4AxraGPWe2FSegJgeHJHVRCIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 30-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TBS",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TBS",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "MLS All-Stars",
+        "Team 2 Name": "Liga MX All-Stars",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "MLS All-Stars vs. Liga MX All-Stars",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMEMODxSwCNhBlJKbKTXKQiyYsTSVWBTJApxMhSJAgRm-mEEimWx4WBJcAY01DnVhV5Mk0CGzBnZSUIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 30-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-mls-all-stars-vs-liga-mx-all-stars/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-mls-all-stars-vs-liga-mx-all-stars/2"
             }
         ]
     }
