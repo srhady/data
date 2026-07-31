@@ -466,14 +466,14 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "New York City FC",
-        "Team 2 Name": "Toronto FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAowAE3YIQfENx0hEJPSAggYIdSGPLCMYEz4ouYMvCLzRzprTCuxohBAA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlwKajm4gIIPiEQkDIACYgj2xhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "New York City FC vs Toronto FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAThWUw3ELr4gYIKSAO7Eu8wWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Ottawa Redblacks",
+        "Team 2 Name": "Montreal Alouettes",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIcAKRgkIPiG4gSICCAAmIGBdxnDxghSZ8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gAJhXlZYIVWtwhDJEMeMQDaghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Ottawa Redblacks vs Montreal Alouettes",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXmDBIQZevhDcQUkIhggUOkBFxXzBYEgp9hs+ijAqUXD+XpZZXky0mqL0oUA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "05:30 AM | 01-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -481,59 +481,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Apple TV",
+                "Language": "English - CFL+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-city-fc-vs-toronto-fc/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-ottawa-red-blacks/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Apple TV",
+                "Language": "English - CFL+",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-city-fc-vs-toronto-fc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_ny-city-toronto-live-streaming-538363152/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Washington Mystics",
-        "Team 2 Name": "Dallas Wings",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Washington Mystics vs Dallas Wings",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLNSi8UIXdxBSQJEPp07diCwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 01-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ION",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-washington-mystics/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ION",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-washington-mystics/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mystics-wings-live-streaming-524056608/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-ottawa-red-blacks/2"
             }
         ]
     },
@@ -581,14 +538,14 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Ottawa Redblacks",
-        "Team 2 Name": "Montreal Alouettes",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIcAKRgkIPiG4gSICCAAmIGBdxnDxghSZ8UXMGXhF5o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gAJhXlZYIVWtwhDJEMeMQDaghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Ottawa Redblacks vs Montreal Alouettes",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXmDBIQZevhDcQUkIhggUOkBFxXzBYEgp9hs+ijAqUXD+XpZZXky0mqL0oUA.webp",
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Washington Mystics",
+        "Team 2 Name": "Dallas Wings",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Washington Mystics vs Dallas Wings",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLNSi8UIXdxBSQJEPp07diCwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "05:30 AM | 01-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -596,16 +553,59 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - CFL+",
+                "Language": "English - ION",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-ottawa-red-blacks/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-washington-mystics/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - CFL+",
+                "Language": "English - ION",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-ottawa-red-blacks/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-washington-mystics/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mystics-wings-live-streaming-524056608/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "New York City FC",
+        "Team 2 Name": "Toronto FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAowAE3YIQfENx0hEJPSAggYIdSGPLCMYEz4ouYMvCLzRzprTCuxohBAA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlwKajm4gIIPiEQkDIACYgj2xhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "New York City FC vs Toronto FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAThWUw3ELr4gYIKSAO7Eu8wWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 01-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-city-fc-vs-toronto-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-city-fc-vs-toronto-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_ny-city-toronto-live-streaming-538363152/1"
             }
         ]
     },
