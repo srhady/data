@@ -90,6 +90,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-belgrade-live-stream/1"
             },
             {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-belgrade-live-stream/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -548,6 +555,35 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Red Bull Salzburg",
+        "Team 2 Name": "TSV Hartberg",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyaJ58MNJDcQfEPp0kQEbSAAmIRCgIUmfFF03l680Q9XAwmsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB9czEHBD8Q3ECVUgjRxIhwATXQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Red Bull Salzburg vs TSV Hartberg",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKLIoEoEDBDcQfDScQ4puEBAMFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:30 PM | 01-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Austrian Bundesliga",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rb-salzburg-vs-tsv-hartberg/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Austrian Bundesliga",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rb-salzburg-vs-tsv-hartberg/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Girona",
         "Team 2 Name": "Arsenal",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwACZgSIPmCRaQ3EOpDaUIC+b4gIIcygIUmfFFy3l680a6a0wWsVEIIA.webp",
@@ -704,35 +740,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Lollapalooza Chicago 2026 | Channel 1",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 02-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Disney+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Disney+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "Lollapalooza Chicago 2026 | Channel 2",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
         "Match Status": "Upcoming ⏳",
@@ -752,6 +759,35 @@
                 "Language": "English - Disney+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lollapalooza Chicago 2026 | Channel 1",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:00 AM | 02-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Disney+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Disney+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2"
             }
         ]
     },
