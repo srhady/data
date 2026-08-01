@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Brisbane Broncos",
-        "Team 2 Name": "Newcastle Knights",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pMkIACZgyfEN00gIBxEd0bDIEAQpM+KLtvL15o+01phtY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
-        "Match Title": "Brisbane Broncos vs Newcastle Knights",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAL5hwfECh4huGkFJBmShkIgggb8AsCQU+w2fRRgV+tp-L0ssvpMtGCeYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:35 PM | 01-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-broncos-vs-knights/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-broncos-vs-knights/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Manchester City",
@@ -61,6 +32,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_club-friendly-games_man-city-inter-live-streaming-597919104/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Magdeburg",
+        "Team 2 Name": "West Ham United",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmuYCrBlwibiBIhEOEPpBqcelQQpM+KLlvL15o+01pgtY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyUVeETcQEEABMQfXSBIgU50wYIUmfFFzXl680Q6a0wasaIhA.webp",
+        "Match Title": "Magdeburg vs West Ham United",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRBVxIYSETDgEufGxSQAY03qIIParm7EW-XpBYZWYNOlyYKchIFCRTbPTCFgSXBodCwbk5lUnoCYFUwQKVQiCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 PM | 01-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - West Ham TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - West Ham TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-magdeburg-vs-west-ham-united/2"
             }
         ]
     },
@@ -293,6 +293,34 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/6"
             },
             {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "German - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "German - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/8"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 9,
+                "Language": "Czech - Nova Sport 6",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/9"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 10,
+                "Language": "Czech - Nova Sport 6",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-medi-vs-rodriguez/10"
+            },
+            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -403,6 +431,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Heerenveen",
+        "Team 2 Name": "Wolverhampton Wanderers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgyWGmBAhuICCD4hEJI3u1mJhGMCZ8UXNeXrzR9prTBqxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgUYbthAwQibiAAmuEPtUpdFnHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Match Title": "Heerenveen vs Wolverhampton Wanderers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGONLYQiEiAghhIAMYiVa2cAhSsIENJSlFILFplntcyyBQzD-MIJFNs9MIWBJcyw0MettYSlDAmB4ckctKQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 01-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Wolves TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-racing-santander/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Wolves TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-racing-santander/2"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Pierce O'Leary",
@@ -428,63 +485,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/24100/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Oktagon 92 Szabová",
-        "Team 2 Name": "Pudilová",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Oktagon 92 Szabová vs Pudilová",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhyyx9FCF4gsIYyRCmDEEIiOT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 01-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - OKTAGON.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - OKTAGON.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "German - OKTAGON.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "German - OKTAGON.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Czech - OKTAGON.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Czech - OKTAGON.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/6"
             }
         ]
     },
@@ -543,6 +543,63 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-aberdeen-vs-heart-of-midlothian/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Oktagon 92 Szabová",
+        "Team 2 Name": "Pudilová",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Oktagon 92 Szabová vs Pudilová",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhyyx9FCF4gsIYyRCmDEEIiOT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:30 PM | 01-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - OKTAGON.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - OKTAGON.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "German - OKTAGON.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "German - OKTAGON.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Czech - OKTAGON.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Czech - OKTAGON.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-92-szabov-vs-pudilov/6"
             }
         ]
     },
