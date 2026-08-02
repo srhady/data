@@ -42,20 +42,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-phillies-live-streaming-591277536/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-phillies-live-streaming-591277536/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -165,20 +151,6 @@
         "Start Time": "11:40 PM | 02-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_guardians-diamondbacks-live-streaming-591278832/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_guardians-diamondbacks-live-streaming-591278832/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -352,13 +324,6 @@
                 "Language": "English - NBC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-portland-fire/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_fire-sparks-live-streaming-524061792/1"
             }
         ]
     },
@@ -405,35 +370,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Lollapalooza Chicago 2026 | Channel 2",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 AM | 03-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Disney+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Disney+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "Lollapalooza Chicago 2026 | Channel 1",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
         "Match Status": "Live 🔴",
@@ -453,6 +389,35 @@
                 "Language": "English - Disney+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lollapalooza Chicago 2026 | Channel 2",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 03-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Disney+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Disney+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2"
             }
         ]
     },
@@ -833,6 +798,13 @@
                 "Language": "Spanish - TUDN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-santos/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_liga-mx-apertura_america-santos-live-streaming-598449168/1"
             }
         ]
     },
@@ -862,6 +834,20 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-dallas-wings/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_wings-sun-live-streaming-524062224/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_wings-sun-live-streaming-524062224/2"
             }
         ]
     },
@@ -963,6 +949,13 @@
                 "Language": "Spanish - ViX Premium Deportes 3",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toluca-vs-necaxa/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_liga-mx-apertura_toluca-necaxa-live-streaming-598449600/1"
             }
         ]
     }
