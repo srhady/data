@@ -42,20 +42,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MASN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-baltimore-orioles/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MASN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-baltimore-orioles/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -91,20 +77,6 @@
         "Start Time": "11:35 PM | 02-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BravesVision",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BravesVision",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -298,20 +270,6 @@
                 "Language": "English - Reds.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-pirates-live-streaming-591278400/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-pirates-live-streaming-591278400/2"
             },
             {
                 "Source": "golf",
@@ -594,35 +552,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Lollapalooza Chicago 2026 | Channel 2",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 AM | 03-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Disney+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Disney+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "Lollapalooza Chicago 2026 | Channel 1",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
         "Match Status": "Live 🔴",
@@ -642,6 +571,35 @@
                 "Language": "English - Disney+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lollapalooza Chicago 2026 | Channel 2",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 03-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Disney+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Disney+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2"
             }
         ]
     },
