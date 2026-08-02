@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "LA Galaxy",
-        "Team 2 Name": "FC Dallas",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYcChDgNIbiBUgYuXYZCI9WvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
-        "Match Title": "LA Galaxy vs FC Dallas",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxD0wYErjCbNfEMaMg9iRMb4FgSCjdYixKXWxRdd5ellkemtDqi9MFAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:30 AM | 02-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_la-galaxy-dallas-live-streaming-538392528/1"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Wests Tigers",
@@ -161,6 +139,35 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "FC Nordsjælland",
+        "Team 2 Name": "Randers FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5irACYgIIbiBIg+IFNpBbVerRAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gYwAAxcQwfCG4gAJiBRqQEM6qsmCFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Match Title": "FC Nordsjælland vs Randers FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhCJGKAVpC8QmkCGqmDIEpZDSQMFkgpYRcnWFW6O78o2pzd+KzAYO7iYhBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 PM | 02-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "DK - TV3 Sport",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-nordsj-lland-vs-randers-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "DK - TV3 Sport",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-nordsj-lland-vs-randers-fc/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Brommapojkarna",
         "Team 2 Name": "Malmö",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0J9sIDbzAhuIACYhEKEHxMhjpxDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
@@ -174,14 +181,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Swedish Allsvenskan",
+                "Language": "Swedish - TV4 Sportkanalen",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-malm-ff/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Swedish Allsvenskan",
+                "Language": "Swedish - TV4 Sportkanalen",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-malm-ff/2"
             }
@@ -203,16 +210,45 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Swedish Allsvenskan",
+                "Language": "Swedish - TV4 Fotboll",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-degerfors-if/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Swedish Allsvenskan",
+                "Language": "Swedish - TV4 Fotboll",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-degerfors-if/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Legia Warsaw",
+        "Team 2 Name": "Zagłębie Lubin",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0QoQAExApBSENw0hEOPiBMkD59QQpM+2tmDLwi80dqa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAD8IGKrC8AJiG6qNuEChNHEmxhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Legia Warsaw vs Zagłębie Lubin",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYNCw8QM0Nx0gShkH2MgzJgsCQU+w2fRRgVKLs-L0to101phnYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:45 PM | 02-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - beIN Sports 4 USA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-legia-warszawa-vs-zag-bie-lubin/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - beIN Sports 4 USA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-legia-warszawa-vs-zag-bie-lubin/2"
             }
         ]
     },
@@ -232,14 +268,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Czech - Oneplay Sport",
+                "Language": "Czech - Oneplay Sport 3",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sigma-olomouc-vs-mlad-boleslav/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Czech - Oneplay Sport",
+                "Language": "Czech - Oneplay Sport 3",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sigma-olomouc-vs-mlad-boleslav/2"
             }
@@ -261,14 +297,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - SPFL Premiership",
+                "Language": "English - Paramount+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-johnstone-vs-kilmarnock/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - SPFL Premiership",
+                "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-johnstone-vs-kilmarnock/2"
             }
@@ -319,14 +355,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Swedish Allsvenskan",
+                "Language": "Swedish - TV4 Sport Live 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-rgryte-is/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Swedish Allsvenskan",
+                "Language": "Swedish - TV4 Sport Live 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-rgryte-is/2"
             }
@@ -348,14 +384,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Austrian Bundesliga",
+                "Language": "German - Sky Sport Austria 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-austria-lustenau-vs-sv-josko-ried/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Austrian Bundesliga",
+                "Language": "German - Sky Sport Austria 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-austria-lustenau-vs-sv-josko-ried/2"
             }
@@ -377,14 +413,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Austrian Bundesliga",
+                "Language": "German - Sky Sport Austria 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wolfsberger-vs-austria-vienna/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Austrian Bundesliga",
+                "Language": "German - Sky Sport Austria 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wolfsberger-vs-austria-vienna/2"
             }
@@ -406,14 +442,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Czech - Oneplay Sport",
+                "Language": "Czech - Oneplay Sport 4",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bohemians-1905-vs-hradec-kr-lov/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Czech - Oneplay Sport",
+                "Language": "Czech - Oneplay Sport 4",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bohemians-1905-vs-hradec-kr-lov/2"
             }
@@ -435,16 +471,74 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - SPFL Premiership",
+                "Language": "English - Paramount+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-hibernian-vs-motherwell/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - SPFL Premiership",
+                "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-hibernian-vs-motherwell/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Śląsk Wrocław",
+        "Team 2 Name": "Raków Częstochowa",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYNWqxgUsENxAQDIYzn0oQfCyBUEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFCHAwF3ELpIg+IDRBAHNBjccLamfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Śląsk Wrocław vs Raków Częstochowa",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLAzEAGENzB9dIKSBImQB0yCMgY5gsCQU+w2fRRgVKLh-L0NoryZaMA8xUQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "09:30 PM | 02-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - beIN Sports XTRA USA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-l-sk-wroc-aw-vs-rak-w-cz-stochowa/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - beIN Sports XTRA USA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-l-sk-wroc-aw-vs-rak-w-cz-stochowa/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Silkeborg IF",
+        "Team 2 Name": "F.C. København",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Silkeborg IF vs. F.C. København",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEBBHAaZcQGMQJEFlLAIIDSmwga48TBAxg8aRO0qVk8UuFrTILfzCCpBbPTCFgSXHK1DnVklbMi03EzBnOzIIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 02-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "DK - TV3+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-silkeborg-if-vs-f-c-k-benhavn/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "DK - TV3+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-silkeborg-if-vs-f-c-k-benhavn/2"
             }
         ]
     },
@@ -464,14 +558,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Club Friendly",
+                "Language": "English - ESPN",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sunderland-vs-wrexham/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Club Friendly",
+                "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sunderland-vs-wrexham/2"
             }
@@ -493,14 +587,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Austrian Bundesliga",
+                "Language": "German - Sky Sport Austria 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-rapid-vienna-vs-sc-rheindorf-altach/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Austrian Bundesliga",
+                "Language": "German - Sky Sport Austria 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-rapid-vienna-vs-sc-rheindorf-altach/2"
             }
@@ -788,6 +882,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Pardubice",
+        "Team 2 Name": "Jablonec",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmFJGG6aQ3HSBIgUIFSAgg+eg0ZQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8AJmDWVoKVSD4hD3QyAghEJEyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Pardubice vs Jablonec",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoLCs+FNCF4gsIY9RCmUICyUsgYLJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:00 AM | 03-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Czech - Oneplay Sport 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pardubice-vs-jablonec/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Czech - Oneplay Sport 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pardubice-vs-jablonec/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Houston Astros",
@@ -820,6 +943,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/24089/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "GKS Katowice",
+        "Team 2 Name": "Radomiak Radom",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkAJjxDdYWkGtx7dMEIhIgU5ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4UUIXlBAaQAExDrtJEMYgg+IGNoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "GKS Katowice vs Radomiak Radom",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAxgssCBQ0QvEFhBnj0-VqtmSLJBSwi5jA6pQ8wZeEWpyP+KzAYF7iYhBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:15 AM | 03-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - beIN Sports XTRA USA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-gks-katowice-vs-radomiak-radom/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - beIN Sports XTRA USA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-gks-katowice-vs-radomiak-radom/2"
             }
         ]
     },
@@ -1034,14 +1186,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Club Friendly",
+                "Language": "English - ESPN Unlimited",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-liverpool-vs-leeds-united/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Club Friendly",
+                "Language": "English - ESPN Unlimited",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-liverpool-vs-leeds-united/2"
             },
