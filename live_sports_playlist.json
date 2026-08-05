@@ -29,35 +29,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Fenerbahçe",
-        "Team 2 Name": "Sturm Graz",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w4cABMEIbiAj6QRvShCnNZ3QQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjgx+INUhB8Q3ECW0gjB40ZARtBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Match Title": "Fenerbahçe vs Sturm Graz",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKohggQHGjRC8QWbSBImziQ9KMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 06-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "German - ORF 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fenerbahce-vs-sk-sturm-graz/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "German - ORF 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fenerbahce-vs-sk-sturm-graz/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Houston Astros",
@@ -319,6 +290,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/10/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Baltimore Orioles",
+        "Team 2 Name": "Los Angeles Angels",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Baltimore Orioles - Los Angeles Angels",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Baltimore%20Orioles%20-%20Los%20Angeles%20Angels&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:35 AM | 06-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/11/1"
             }
         ]
     },
@@ -831,6 +824,13 @@
                 "Language": "English - MNMT",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-washington-mystics/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mystics-wings-live-streaming-524068272/1"
             }
         ]
     },
@@ -903,6 +903,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/19/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AEW Dynamite",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AEW%20Dynamite&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 06-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_aew-dynamite-live-stream/1"
             }
         ]
     },
