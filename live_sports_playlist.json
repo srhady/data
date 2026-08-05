@@ -38,28 +38,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "K-League Stars",
-        "Team 2 Name": "Manchester City",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgETI1qcptQijBgCykFxYgYG0Dr3EDR+MulYcWSBrC4ruMKwgdkJAUYjK05QWkpNzt3Ti4ET3dSRgpXaUgQXDpYYDUCdDBmBTR-WSDedw0w7j40EAJ9EAYRaVZ4SGAeUmw1ck1SaPkgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIGPXIMAxs3E94IqtwJdWYMLnxmgA.webp",
-        "Match Title": "K-League Allstars vs Manchester City",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=K-League%20Allstars%20vs%20Manchester%20City&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 PM | 05-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_club-friendly-games_k-league-allstars-man-city-live-streaming-599744736/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Chelsea",
         "Team 2 Name": "Juventus",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUwwmwACYgoYsCF4gsIY9RBbEJsyHgEK+ASh5gy8IgrGP79MM-FiIQA.webp",
@@ -703,6 +681,13 @@
                 "Language": "English - Atlanta News First",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-atlanta-dream/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_dream-mercury-live-streaming-524067408/1"
             }
         ]
     },
