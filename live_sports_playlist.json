@@ -102,6 +102,28 @@
         ]
     },
     {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Cleveland Guardians",
+        "Team 2 Name": "New York Mets",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Cleveland Guardians - New York Mets",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cleveland%20Guardians%20-%20New%20York%20Mets&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:10 PM | 06-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/42/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -212,6 +234,35 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Jagiellonia Bialystok",
+        "Team 2 Name": "Rangers",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Jagiellonia Bialystok vs. Rangers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCEQSQILMAjAqM5YjllhIFLPkglMiTGwgSM4PDPasIDYkSHe5BQKEim2emELAkuAMYoXMG5OBWFSegIzciD5cIggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 06-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Rangers TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-jagiellonia-bialystok-vs-rangers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Rangers TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-jagiellonia-bialystok-vs-rangers/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Jablonec",
         "Team 2 Name": "Rigas Futbola Skola",
         "Team 1 Logo": "",
@@ -270,29 +321,22 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "CFR Cluj",
-        "Team 2 Name": "Tromsø",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCruYMkmAATMNpDcQJEDBB9VIFAaNmQ8AhSZ8UXDeXrzRLprTAaxohBAA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplo4c9XmBDcQfEABMQEA0dM4SIFAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "CFR Cluj vs Tromsø",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBAxWnMCGDSQvEFk0gSZi4mpaTLJBSwi5jFGFUoe78o2pzP+Dpg7uJiEEA.webp",
+        "Team 1 Name": "Jagiellonia Białystok",
+        "Team 2 Name": "Rangers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplHwwSUiG5gUWkABMQMPRCMhTh3SgIUmfFFzBk19eaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpPa4Q9JCAAmIbtt3q1KEDBOGQBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Jagiellonia Białystok vs Rangers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuGVgQIWWhC8QWHSBImziQ2cn5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "10:30 PM | 06-Aug",
+        "Start Time": "10:00 PM | 06-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "delta",
                 "Stream_No": 1,
-                "Language": "Romanian - Digi Sport 1",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cfr-cluj-napoca-vs-tromso/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Romanian - Digi Sport 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cfr-cluj-napoca-vs-tromso/2"
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-league-qualification_jagiellonia-rangers-live-streaming-600011712/1"
             }
         ]
     },
