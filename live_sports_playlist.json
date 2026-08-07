@@ -76,13 +76,6 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-indiana-fever/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_fever-aces-live-streaming-524069136/1"
             }
         ]
     },
@@ -133,13 +126,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-white-sox-live-streaming-591458976/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/47/1"
             }
         ]
     },
@@ -298,28 +284,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-city-fc-vs-santos/2"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Arizona Diamondbacks",
-        "Team 2 Name": "San Diego Padres",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Arizona Diamondbacks - San Diego Padres",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Arizona%20Diamondbacks%20-%20San%20Diego%20Padres&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:40 AM | 07-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/61/1"
             }
         ]
     },
@@ -597,6 +561,78 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "América",
+        "Team 2 Name": "San Diego FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxlgUIbmHCJuIEiAO6D+viETrGFJnxRcwZeEXmjbTWmHtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "América vs San Diego FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijAgQsqkhAQQvEFm0gSZi4mPUQzfMCQUsIuY02qUPMGXhFqcl4O9GA+4mIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 07-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-san-diego-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-san-diego-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_leagues-cup-group-stage_america-san-diego-fc-live-streaming-538478496/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Portland Fire",
+        "Team 2 Name": "Toronto Tempo",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxCUw3MCjBIeIbiD4GQxnCWMhEEAwQpM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "Match Title": "Portland Fire vs Toronto Tempo",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCCzAIkkDJTjgVWfBEhEwuSE0LlyzTu3ZZAY3WyIwRAphWU5SwKEim2emELAkuE-aFhuTkthUnoCK3IA6VCIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 07-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox 12 Plus",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-portland-fire/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox 12 Plus",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-portland-fire/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_fire-tempo-live-streaming-524070000/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -701,78 +737,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "América",
-        "Team 2 Name": "San Diego FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxlgUIbmHCJuIEiAO6D+viETrGFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "América vs San Diego FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijAgQsqkhAQQvEFm0gSZi4mPUQzfMCQUsIuY02qUPMGXhFqcl4O9GA+4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 07-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-san-diego-fc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-san-diego-fc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_leagues-cup-group-stage_america-san-diego-fc-live-streaming-538478496/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Portland Fire",
-        "Team 2 Name": "Toronto Tempo",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxCUw3MCjBIeIbiD4GQxnCWMhEEAwQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "Portland Fire vs Toronto Tempo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCCzAIkkDJTjgVWfBEhEwuSE0LlyzTu3ZZAY3WyIwRAphWU5SwKEim2emELAkuE-aFhuTkthUnoCK3IA6VCIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 07-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox 12 Plus",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-portland-fire/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox 12 Plus",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-portland-fire/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_fire-tempo-live-streaming-524070000/1"
             }
         ]
     },
