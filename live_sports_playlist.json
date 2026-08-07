@@ -227,6 +227,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Emanuel Moreno vs Guillermo Gutierrez",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Emanuel%20Moreno%20vs%20Guillermo%20Gutierrez&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 08-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/97/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -496,6 +518,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_nationals-reds-live-streaming-591509520/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_nationals-reds-live-streaming-591509520/2"
             },
             {
                 "Source": "golf",
@@ -886,6 +915,13 @@
                 "Language": "English - USA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
             }
         ]
     },
@@ -915,28 +951,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-fc-cincinnati-vs-pumas-unam/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Emanuel Moreno",
-        "Team 2 Name": "Guillermo Gutierrez",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Emanuel Moreno vs Guillermo Gutierrez",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQcQtLexIheILCFMHT0kImqmQMFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 08-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/97/1"
             }
         ]
     },
@@ -1045,6 +1059,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/71/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Cage Fury FC 158",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cage%20Fury%20FC%20158&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 08-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_cage-fury-fc-158-live-stream/1"
             }
         ]
     },
