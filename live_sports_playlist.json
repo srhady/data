@@ -51,35 +51,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Middlesbrough",
-        "Team 2 Name": "Wrexham",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15QAJsCT8QfENx0hDMEMbWGQKE7gIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJJYYFG0ghuIACYg+IEiBggUuY1YmEYwJn01ay8IvNGamtMGFFS6QA.webp",
-        "Match Title": "Middlesbrough vs Wrexham",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDjh61YElgheILCFMQQKC1ZIgbF-HopYRcxijCqUPD+Ua6xXg70YB7iYhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 08-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-middlesbrough-vs-wrexham/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-middlesbrough-vs-wrexham/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Pittsburgh Pirates",
@@ -208,6 +179,50 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/67/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Chicago White Sox",
+        "Team 2 Name": "Cleveland Guardians",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Chicago White Sox - Cleveland Guardians",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Chicago%20White%20Sox%20-%20Cleveland%20Guardians&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:40 AM | 08-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/68/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Milwaukee Brewers",
+        "Team 2 Name": "Minnesota Twins",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Milwaukee Brewers - Minnesota Twins",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Milwaukee%20Brewers%20-%20Minnesota%20Twins&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:40 AM | 08-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/69/1"
             }
         ]
     },
@@ -376,6 +391,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-philadelphia-phillies/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_phillies-blue-jays-live-streaming-591508656/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_phillies-blue-jays-live-streaming-591508656/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -412,6 +441,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-mets-vs-pittsburgh-pirates/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_pirates-mets-live-streaming-591509088/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_pirates-mets-live-streaming-591509088/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -446,6 +489,13 @@
                 "Language": "English - Nationals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-washington-nationals/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_nationals-reds-live-streaming-591509520/1"
             },
             {
                 "Source": "golf",
