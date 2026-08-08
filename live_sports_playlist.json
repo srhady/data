@@ -58,35 +58,6 @@
         ]
     },
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "New York Yankees",
-        "Team 2 Name": "Atlanta Braves",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
-        "Match Title": "New York Yankees vs Atlanta Braves",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBDhqwJGBQhpIXiCxaQJEAZNaz1Cyz0wBIuYxRhVKHp-KMdYt74rMBgnuJiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:05 AM | 08-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-braves-live-streaming-591509952/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-braves-live-streaming-591509952/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Emanuel Moreno",
@@ -250,13 +221,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-astros-live-streaming-591513840/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/73/1"
             }
         ]
     },
@@ -300,13 +264,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-dodgers-live-streaming-591513408/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/74/1"
             }
         ]
     },
@@ -326,23 +283,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Apple TV",
+                "Language": "English - Mariners.TV",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-seattle-mariners/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Apple TV",
+                "Language": "English - Mariners.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-seattle-mariners/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-rays-live-streaming-591514272/1"
             },
             {
                 "Source": "golf",
@@ -1176,6 +1126,42 @@
                 "Language": "English - CFL+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-montreal-alouettes/2"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "New York Yankees",
+        "Team 2 Name": "Atlanta Braves",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
+        "Match Title": "New York Yankees vs Atlanta Braves",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdh3bSQg6nxC8dIYyRAoDxo4iwskFGxrmMUYVSh6vyjPWPf5WwGCu4mIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:05 AM | 09-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - YES",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-yankees/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - YES",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-yankees/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/77/1"
             }
         ]
     },
