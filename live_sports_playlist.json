@@ -51,64 +51,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Örgryte",
-        "Team 2 Name": "AIK",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjk4WMNzAgQ3EBBB8QiEvpAxzIFDoIUmfFFzBlV9eaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+5VeG4htEXCBgg+IACYgUIEgZDwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Örgryte vs AIK",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmAAGYNJAQQKSiF4gsICwcQkz+kyZZIKWEXMYowqox0-lG1OSNNejBPcTEIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 08-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TV4 Fotboll",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rgryte-is-vs-aik/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TV4 Fotboll",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rgryte-is-vs-aik/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Queens Park Rangers",
-        "Team 2 Name": "Millwall",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgo3BM1UhuIACYgYOkH1zGjORhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkYIbmCSrgABg2qQiPrhDqQFyyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Queens Park Rangers vs Millwall",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBCa4s+tJC8QWECc0oQ588cPN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 08-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-queens-park-rangers-vs-millwall/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-queens-park-rangers-vs-millwall/2"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Alpine Rams",
@@ -221,6 +163,13 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-west-ham-united-vs-portsmouth/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_efl-cup_west-ham-portsmouth-live-streaming-600846336/1"
             }
         ]
     },
@@ -378,28 +327,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Aaron McKenna vs Etinosa Oliha",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Aaron%20McKenna%20vs%20Etinosa%20Oliha&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:30 PM | 08-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_aaron-mckenna-vs-etinosa-oliha-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Mjällby",
@@ -425,6 +352,28 @@
                 "Language": "English - TV4 Fotboll",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-if-elfsborg/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Aaron McKenna vs Etinosa Oliha",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Aaron%20McKenna%20vs%20Etinosa%20Oliha&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:30 PM | 08-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_aaron-mckenna-vs-etinosa-oliha-live-stream/1"
             }
         ]
     },
@@ -533,6 +482,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "New York Yankees Old-Timer’s Day",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=New%20York%20Yankees%20Old-Timer%E2%80%99s%20Day&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 08-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_new-york-yankees-old-timer-s-day-live-stream/1"
             }
         ]
     },
