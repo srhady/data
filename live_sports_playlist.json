@@ -2,35 +2,6 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "PFL Charlotte Battle",
-        "Team 2 Name": "Rosta",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "PFL Charlotte Battle vs Rosta",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDHwwKMNJDVgYELxBYQFkhZD7TEEDDMskFLCLmNdqlDzBltjIZiPvisRn7iYhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 08-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_pfl-charlotte-battle-vs-rosta-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_pfl-charlotte-battle-vs-rosta-live-stream/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
         "Team 1 Name": "Emanuel Moreno",
         "Team 2 Name": "Guillermo Gutierrez",
         "Team 1 Logo": "",
@@ -168,14 +139,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Apple TV",
+                "Language": "English - Mariners.TV",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-seattle-mariners/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Apple TV",
+                "Language": "English - Mariners.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-seattle-mariners/2"
             }
@@ -197,23 +168,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - NBC Sports BA",
+                "Language": "English - MLB.TV",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-san-francisco-giants/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - NBC Sports BA",
+                "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-san-francisco-giants/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/76/1"
             }
         ]
     },
@@ -243,6 +207,35 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-fc-juarez/2"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Storm",
+        "Team 2 Name": "Sea Eagles",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Storm vs. Sea Eagles",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRChAQQMsmSzAqIGCBJSQSmSpkz42DSGHBpkycOXj9ERRuPKU5awKEim2emELAkuAMYOhMG5OayMyBwJgPTAg41JjIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 AM | 08-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/2"
             }
         ]
     },
