@@ -24,35 +24,6 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "London Warriors",
-        "Team 2 Name": "Paris Lights",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA.webp",
-        "Match Title": "London Warriors vs Paris Lights",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBDBEEiCJEgYIEopABjaQo3xgEdSCyaVWSdlWITkySuEhbJFOTkCh8gtnphCwJLjWOhMG5OOWFSencdMCDdcIggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 09-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - AFLE+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paris-lights-vs-london-warriors/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - AFLE+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paris-lights-vs-london-warriors/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
         "Team 1 Name": "Berlin Thunder",
         "Team 2 Name": "Rhein Fire",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjgpY6pKBDcQfECRAQQxnTqOIJhGMCZ8UXMGXhF5o+01phHY0RCA.webp",
@@ -480,6 +451,28 @@
         ]
     },
     {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Texas Rangers",
+        "Team 2 Name": "Baltimore Orioles",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Texas Rangers - Baltimore Orioles",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Texas%20Rangers%20-%20Baltimore%20Orioles&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:35 PM | 09-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/114/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -637,6 +630,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-yankees/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-braves-live-streaming-591622704/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-braves-live-streaming-591622704/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -673,6 +680,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-boston-red-sox/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-athletics-live-streaming-591622272/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-athletics-live-streaming-591622272/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -707,6 +728,20 @@
                 "Language": "English - NBC Sports Phil",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_phillies-blue-jays-live-streaming-591623136/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_phillies-blue-jays-live-streaming-591623136/2"
             },
             {
                 "Source": "golf",
