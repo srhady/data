@@ -53,28 +53,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Arsenal",
-        "Team 2 Name": "Borussia Dortmund",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIpi8gCakQ3EBp24QEPSD4gYIRCAIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLC80IEP1IhuIPjpAATECiMgYIRCUsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Arsenal vs Borussia Dortmund",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Arsenal%20vs%20Borussia%20Dortmund&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 09-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_emirates-cup_arsenal-dortmund-live-streaming-601927632/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Liverpool",
         "Team 2 Name": "Monaco",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwACYKQgnNxB8QiAyhDqQJgzggEKTPii5gy8IvNEOmtME7GiIQA.webp",
@@ -395,6 +373,13 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-washington-nationals/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_nationals-reds-live-streaming-591621840/1"
             },
             {
                 "Source": "golf",
