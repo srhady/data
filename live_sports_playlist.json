@@ -258,28 +258,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "BKFC Fight Night Sturgis Acheson vs Jones",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BKFC%20Fight%20Night%20Sturgis%20Acheson%20vs%20Jones&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:30 AM | 09-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/142/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Pittsburgh Pirates",
@@ -882,35 +860,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Acheson",
-        "Team 2 Name": "Jones",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "BKFC Fight Night: Acheson vs Jones",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BKFC%20Fight%20Night%3A%20Acheson%20vs%20Jones&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 09-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_bkfc-fight-night-acheson-vs-jones-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/142/1"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Portland Fire",
@@ -950,6 +899,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_wnba_fire-storm-live-streaming-524072592/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Acheson",
+        "Team 2 Name": "Jones",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BKFC Fight Night: Acheson vs Jones",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BKFC%20Fight%20Night%3A%20Acheson%20vs%20Jones&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 AM | 09-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_bkfc-fight-night-acheson-vs-jones-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/142/1"
             }
         ]
     },
