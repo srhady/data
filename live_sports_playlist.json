@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Dana Whites Contender Series season 10 Week 1",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Dana%20Whites%20Contender%20Series%20season%2010%20Week%201&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 AM | 12-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/59/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Miami Marlins",
@@ -197,13 +175,6 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dana-white-s-contender-series/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_dana-white-s-contender-series-season-10-week-1-live-stream/1"
             }
         ]
     },
@@ -733,35 +704,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "WWE NXT",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiBKSQKSaRAwQSqRKylgEeRDmIpwkSEQ0sCgxP1qJAYxBUU5TQKEim2emELAkuK-aFhuTk19MnsCYHhyAI11CCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 12-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - wwe_nxt",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-nxt/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - wwe_nxt",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-nxt/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "FC Cincinnati",
@@ -794,6 +736,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_leagues-cup-group-stage_cincinnati-atlas-live-streaming-538608960/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "WWE NXT",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiBKSQKSaRAwQSqRKylgEeRDmIpwkSEQ0sCgxP1qJAYxBUU5TQKEim2emELAkuK-aFhuTk19MnsCYHhyAI11CCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 12-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - wwe_nxt",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-nxt/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - wwe_nxt",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-nxt/2"
             }
         ]
     },
