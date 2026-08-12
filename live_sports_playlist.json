@@ -24,28 +24,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Athletics",
-        "Team 2 Name": "Tampa Bay Rays",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Athletics - Tampa Bay Rays",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Athletics%20-%20Tampa%20Bay%20Rays&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:05 PM | 12-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/204/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Minnesota Twins",
         "Team 2 Name": "Baltimore Orioles",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
@@ -821,6 +799,20 @@
                 "Language": "English - Padres.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-san-diego-padres/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-brewers-live-streaming-593280720/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-brewers-live-streaming-593280720/2"
             },
             {
                 "Source": "golf",
