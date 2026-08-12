@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Real Salt Lake",
-        "Team 2 Name": "Juárez",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxz0qKEDBB8Q3ECRAATbSAimjIRIkMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Real Salt Lake vs Juárez",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAggsIMYhAcQvbSFMlTukImNaYLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 AM | 12-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-fc-juarez/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-fc-juarez/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Los Angeles Angels",
@@ -44,14 +15,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Angels.TV",
+                "Language": "English - ESPN",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-los-angeles-angels/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Angels.TV",
+                "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-los-angeles-angels/2"
             }
@@ -141,20 +112,6 @@
                 "Language": "English - DBACKS.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-arizona-diamondbacks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rockies-live-streaming-593234064/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rockies-live-streaming-593234064/2"
             }
         ]
     },
@@ -184,27 +141,6 @@
                 "Language": "English - NBC Sports BA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-san-francisco-giants/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_giants-astros-live-streaming-593235360/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_giants-astros-live-streaming-593235360/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/200/1"
             }
         ]
     },
