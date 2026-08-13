@@ -1,5 +1,34 @@
 [
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Rigas Futbola Skola",
+        "Team 2 Name": "Jablonec",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rigas Futbola Skola vs. Jablonec",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCHjAIIKiADG47NJDCQKBaS1TEGjTpAwFmksYjA5M4RZC2NVFOXMChIpssdhCwJLnmOhMG5Oc2syRwJgKTAg6S0IIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:30 PM | 13-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Czech - OnePlay Sport 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rigas-futbola-skola-vs-jablonec/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Czech - OnePlay Sport 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rigas-futbola-skola-vs-jablonec/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -104,35 +133,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Rigas Futbola Skola",
-        "Team 2 Name": "Jablonec",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rigas Futbola Skola vs. Jablonec",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCHjAIIKiADG47NJDCQKBaS1TEGjTpAwFmksYjA5M4RZC2NVFOXMChIpssdhCwJLnmOhMG5Oc2syRwJgKTAg6S0IIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:30 PM | 13-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Czech - OnePlay Sport 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rigas-futbola-skola-vs-jablonec/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Czech - OnePlay Sport 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rigas-futbola-skola-vs-jablonec/2"
             }
         ]
     },
@@ -251,6 +251,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-detroit-tigers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-guardians-live-streaming-593318736/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-guardians-live-streaming-593318736/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -285,6 +299,20 @@
                 "Language": "English - Marlins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-miami-marlins/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-pirates-live-streaming-593319168/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-pirates-live-streaming-593319168/2"
             },
             {
                 "Source": "golf",
