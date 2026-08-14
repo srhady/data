@@ -35,54 +35,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-chicago-cubs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-chicago-cubs/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/249/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Sporting CP",
-        "Team 2 Name": "Vitória de Guimarães",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQgxITmDEAGEFhC89IY4kOJ9x-SsIxg+ASh5byjBWMf36YLeLEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh14ATECVxgkIdd124QRo5s18QMEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Match Title": "Sporting CP vs Vitória de Guimarães",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtVAJOYMkhC8QWECelGDJkCguL8wJBSwi5jFLo4oeu8o01jPdvRg7oxiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:15 AM | 15-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - beIN SPORTS 4",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sporting-cp-vs-vit-ria-de-guimaraes/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - beIN SPORTS 4",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sporting-cp-vs-vit-ria-de-guimaraes/2"
             }
         ]
     },
@@ -294,6 +251,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-white-sox-live-streaming-593365824/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -328,6 +292,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-pittsburgh-pirates/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_pirates-red-sox-live-streaming-593366256/1"
             },
             {
                 "Source": "golf",
@@ -401,6 +372,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_commanders-dolphins-live-streaming-587565360/1"
             },
             {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_commanders-dolphins-live-streaming-587565360/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -470,6 +448,20 @@
                 "Language": "English - Away (FOX-WOGX)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/6"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_jets-buccaneers-live-streaming-587564928/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_jets-buccaneers-live-streaming-587564928/2"
             },
             {
                 "Source": "golf",
@@ -548,6 +540,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_falcons-broncos-live-streaming-587564496/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_falcons-broncos-live-streaming-587564496/2"
             },
             {
                 "Source": "golf",
@@ -735,6 +734,13 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-toronto-blue-jays/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_blue-jays-yankees-live-streaming-593366688/1"
             },
             {
                 "Source": "golf",
