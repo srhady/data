@@ -80,28 +80,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NFL REDZONE",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/-20260816/1"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -525,6 +503,13 @@
                 "Language": "English - NFL",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_commanders-dolphins-live-streaming-587565360/1"
             },
             {
                 "Source": "golf",
@@ -964,6 +949,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/261/1"
+            }
+        ]
+    },
+    {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "Australia",
+        "Team 2 Name": "Bangladesh",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Australia vs. Bangladesh",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeCPHYQIUtJjY5WaVhAQ1kkiCogAxvJAoQWmhGA7VwuSdIpyZgUJFNFdsIWBJcuu0LDdOMysyOwJgCTB-YDMyCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:30 AM | 15-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport 5 NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-australia-vs-bangladesh/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport 5 NZ",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-australia-vs-bangladesh/2"
             }
         ]
     },
