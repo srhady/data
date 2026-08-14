@@ -66,6 +66,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Elfsborg",
+        "Team 2 Name": "Västerås",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJmG7rNmkNxARcekChAkQfEGqNqCFJnxRcwZVfXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksITNi3EABMQG7RBD6SIY9qMblhGMCZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Elfsborg vs Västerås",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRA4UwJMDCQQvLSFMQQiEifPGSLJBSwi5jFGFU6O78o2pyd+Kz67uJiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 14-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Swedish - TV4 Fotboll",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-v-ster-s-sk/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Swedish - TV4 Fotboll",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-v-ster-s-sk/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -170,35 +199,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Elfsborg",
-        "Team 2 Name": "Västerås",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJmG7rNmkNxARcekChAkQfEGqNqCFJnxRcwZVfXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksITNi3EABMQG7RBD6SIY9qMblhGMCZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Elfsborg vs Västerås",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRA4UwJMDCQQvLSFMQQiEifPGSLJBSwi5jFGFU6O78o2pyd+Kz67uJiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 14-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Swedish - TV4 Fotboll",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-v-ster-s-sk/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Swedish - TV4 Fotboll",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-v-ster-s-sk/2"
             }
         ]
     },
