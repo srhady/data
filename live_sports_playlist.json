@@ -383,16 +383,44 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - NFL",
+                "Language": "English - NFL Game Pass",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - NFL",
+                "Language": "English - NFL Game Pass",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Home (CBS-WUSA)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Home (CBS-WUSA)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - Away (CBS-WFOR)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - Away (CBS-WFOR)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/6"
             },
             {
                 "Source": "delta",
@@ -433,16 +461,44 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - NFL Net",
+                "Language": "English - NFL Game Pass",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - NFL Net",
+                "Language": "English - NFL Game Pass",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Home (CBS-WCBS)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Home (CBS-WCBS)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - Away (FOX-WOGX)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - Away (FOX-WOGX)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/6"
             },
             {
                 "Source": "golf",
@@ -476,16 +532,44 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - ESPN Unlmtd",
+                "Language": "English - NFL Game Pass",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-denver-broncos-at-atlanta-falcons/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - ESPN Unlmtd",
+                "Language": "English - NFL Game Pass",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-denver-broncos-at-atlanta-falcons/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Home (FOX-WAGA)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-denver-broncos-at-atlanta-falcons/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Home (FOX-WAGA)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-denver-broncos-at-atlanta-falcons/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - Away (CBS-KKTV)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-denver-broncos-at-atlanta-falcons/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - Away (CBS-KKTV)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-denver-broncos-at-atlanta-falcons/6"
             },
             {
                 "Source": "delta",
@@ -926,6 +1010,35 @@
                 "Language": "English - UFC Fight Pass",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-fury-fc-123/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "ONE Fight Night 46 Hemetsberger",
+        "Team 2 Name": "Diachkova",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "ONE Fight Night 46 Hemetsberger vs Diachkova",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqF4gs2oUhBadIENO0hEiCGawskFGxrmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 15-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-one-fight-night-46-hemetsberger-vs-diachkova/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN NZ",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-one-fight-night-46-hemetsberger-vs-diachkova/2"
             }
         ]
     },
