@@ -79,20 +79,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLB.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-pittsburgh-pirates/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLB.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-pittsburgh-pirates/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -114,20 +100,6 @@
         "Start Time": "04:40 AM | 15-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Tigers.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Tigers.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -191,20 +163,6 @@
                 "Language": "English - Away (CBS-KKTV)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-denver-broncos-at-atlanta-falcons/6"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_falcons-broncos-live-streaming-587564496/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_falcons-broncos-live-streaming-587564496/2"
             },
             {
                 "Source": "golf",
@@ -278,20 +236,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/6"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_jets-buccaneers-live-streaming-587564928/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_jets-buccaneers-live-streaming-587564928/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -361,20 +305,6 @@
                 "Language": "English - Away (CBS-WFOR)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/6"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_commanders-dolphins-live-streaming-587565360/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_commanders-dolphins-live-streaming-587565360/2"
             },
             {
                 "Source": "golf",
@@ -749,50 +679,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/313/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Los Angeles Dodgers",
-        "Team 2 Name": "Milwaukee Brewers",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Los Angeles Dodgers - Milwaukee Brewers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Los%20Angeles%20Dodgers%20-%20Milwaukee%20Brewers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:10 AM | 15-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/316/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "San Francisco Giants",
-        "Team 2 Name": "Colorado Rockies",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "San Francisco Giants - Colorado Rockies",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=San%20Francisco%20Giants%20-%20Colorado%20Rockies&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:15 AM | 15-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/317/1"
             }
         ]
     },
