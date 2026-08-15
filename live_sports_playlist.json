@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Australia",
-        "Team 2 Name": "Bangladesh",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Australia vs. Bangladesh",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeCPHYQIUtJjY5WaVhAQ1kkiCogAxvJAoQWmhGA7VwuSdIpyZgUJFNFdsIWBJcuu0LDdOMysyOwJgCTB-YDMyCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 15-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 5 NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-australia-vs-bangladesh/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 5 NZ",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-australia-vs-bangladesh/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -60,35 +31,6 @@
     {
         "Category": "Rugby",
         "League": "Rugby",
-        "Team 1 Name": "Cronulla Sharks",
-        "Team 2 Name": "Canberra Raiders",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFswYJJRDbuIACYgI+kIiN9j5iYRjAmfFFzBl4ReaIdNa60VLpA.webp",
-        "Match Title": "Cronulla Sharks vs Canberra Raiders",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqijEtbiD18QUjSBL6QiM3oVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 AM | 15-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-raiders/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-raiders/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
         "Team 1 Name": "Parramatta Eels",
         "Team 2 Name": "North Queensland Cowboys",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkoAEy7dcIbepAQQ+xIb4hzh9QQpM+KLmDLwi80faa0wjsaIhA.webp",
@@ -112,6 +54,28 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-eels-vs-cowboys/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NFL REDZONE",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/-20260816/1"
             }
         ]
     },
@@ -329,64 +293,6 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bolton-wanderers-vs-preston-north-end/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Mjällby",
-        "Team 2 Name": "Sirius",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyfMNzDgAJiG4gIIRDFzGQKfVcYUmfFFzXl680Q6a0wasaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTVVqgCbYQ3EBFwgUhkHxAaTIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Mjällby vs Sirius",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBggN3BPxDcQUkH21GQFxBa0oCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 PM | 15-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Swedish - TV4 Fotboll",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-ik-sirius/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Swedish - TV4 Fotboll",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-ik-sirius/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Tottenham Hotspur",
-        "Team 2 Name": "Hoffenheim",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oATMCmCriYENxCqQMEBCMgUJvWZQEKTPprZgy8IvNGamtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApQYPmAAmDXCG4gtegyVUhEKfaoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
-        "Match Title": "Tottenham Hotspur vs Hoffenheim",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBBABjEROBUQihZIjyQCsohggsIFBJAkQicfpWHswRIizY5o8qoFCRTSynKFgSXFI9Cwbk5VYVJ6AityQOBVMgggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 PM | 15-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - SPURSPLAY",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - SPURSPLAY",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/2"
             }
         ]
     },
@@ -1834,6 +1740,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Claressa Shields",
+        "Team 2 Name": "Kaye Scott",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Claressa Shields vs Kaye Scott",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtRC8wSShWlaQWECYPHEmzbxCL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 16-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/407/1"
+            }
+        ]
+    },
+    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Las Vegas Aces",
@@ -1966,6 +1894,35 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Monterrey",
+        "Team 2 Name": "FC Juarez",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCqZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAq65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "Monterrey vs. FC Juarez",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0qRBYRICDKwhE0iItXjhqlTBApZIEqsQhgiKvpDbdC8VRTk5AoSKbZ6YQsCS4AxnaFhuTjlxMjsCE3IA4DkyCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 16-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Spanish - Liga MX",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-monterrey-vs-fc-juarez/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Spanish - Liga MX",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-monterrey-vs-fc-juarez/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Colorado Rapids",
         "Team 2 Name": "Sporting Kansas City",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJw4qsABMQ3EBBB8QiEkZDb9uxhSZ8UXMGXhF5ou01pgHY0RCA.webp",
@@ -1993,6 +1950,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Real Salt Lake",
+        "Team 2 Name": "Minnesota United",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwMCBUg+kEBBDc9IFLiMkQifYngEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Real Salt Lake vs Minnesota United",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECG7kUwMCBKaQfEDBBSjhxBBMaCwJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:30 AM | 16-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-minnesota-united-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-minnesota-united-fc/2"
+            }
+        ]
+    },
+    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Kansas City Chiefs",
@@ -2005,6 +1991,20 @@
         "Start Time": "07:38 AM | 16-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NFL Net",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-rams-at-kansas-city-chiefs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NFL Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-rams-at-kansas-city-chiefs/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
