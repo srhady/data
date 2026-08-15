@@ -172,6 +172,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-vikings-at-new-york-giants/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_giants-vikings-live-streaming-587567088/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_giants-vikings-live-streaming-587567088/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -285,13 +299,6 @@
                 "Language": "English - Tigers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-white-sox-live-streaming-593413776/1"
             },
             {
                 "Source": "golf",
@@ -643,6 +650,56 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "New Orleans Saints",
+        "Team 2 Name": "Jacksonville Jaguars",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYQQagCbMQfENxAkQiXSFx6jFvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw21WhBBbuIEtpAATAzj4gUq3AQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "New Orleans Saints vs Jacksonville Jaguars",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhAh5AkLN4gDmrRBCaSWvZZgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 16-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN Unlmtd",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-jacksonville-jaguars-at-new-orleans-saints/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN Unlmtd",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-jacksonville-jaguars-at-new-orleans-saints/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_saints-jaguars-live-streaming-587567952/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_saints-jaguars-live-streaming-587567952/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/363/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -747,56 +804,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "New Orleans Saints",
-        "Team 2 Name": "Jacksonville Jaguars",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYQQagCbMQfENxAkQiXSFx6jFvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw21WhBBbuIEtpAATAzj4gUq3AQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "New Orleans Saints vs Jacksonville Jaguars",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhAh5AkLN4gDmrRBCaSWvZZgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 16-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN Unlmtd",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-jacksonville-jaguars-at-new-orleans-saints/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN Unlmtd",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-jacksonville-jaguars-at-new-orleans-saints/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_saints-jaguars-live-streaming-587567952/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_saints-jaguars-live-streaming-587567952/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/363/1"
             }
         ]
     },
@@ -1061,6 +1068,13 @@
                 "Language": "English - Reds.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-cincinnati-reds/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/372/1"
             }
         ]
     },
@@ -1661,6 +1675,13 @@
                 "Language": "English - NFL Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-cowboys-at-seattle-seahawks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_seahawks-cowboys-live-streaming-587568816/1"
             },
             {
                 "Source": "golf",
