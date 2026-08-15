@@ -372,6 +372,35 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Portsmouth",
+        "Team 2 Name": "Queens Park Rangers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhuIeBQAmpNSC0gYevrn2mTEAhSZ8UXMGU315ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgo3BM1UhuIACYgYOkH1zGjORhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Portsmouth vs Queens Park Rangers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdolnswxNCF4gsIY9RAQQ0w8esgWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:00 PM | 15-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-portsmouth-vs-queens-park-rangers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-portsmouth-vs-queens-park-rangers/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Charlton Athletic",
         "Team 2 Name": "Derby County",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgYIcHzAATdiG4htIRCQ0g+uY2vMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
@@ -1434,6 +1463,13 @@
                 "Language": "English - CLEGuardians.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-cleveland-guardians/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/375/1"
             }
         ]
     },
