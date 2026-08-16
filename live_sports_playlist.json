@@ -699,6 +699,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Randers FC",
+        "Team 2 Name": "F.C. København",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Randers FC vs. F.C. København",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBQgaiCCADG2BaRWJEMbCqzA5uzSXEjg8YDTJkaETSawpyVgUKMFNdsIWBJc8u0LDdOK2EVOxcTMH8dFQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 16-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Danish - TV3+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-randers-fc-vs-f-c-k-benhavn/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Danish - TV3+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-randers-fc-vs-f-c-k-benhavn/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Tampa Bay Rays",
@@ -724,6 +753,13 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-tampa-bay-rays/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-orioles-live-streaming-593462592/1"
             },
             {
                 "Source": "golf",
@@ -782,6 +818,13 @@
                 "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-espanyol-vs-levante/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_laliga_espanyol-levante-live-streaming-604766304/1"
             }
         ]
     },
