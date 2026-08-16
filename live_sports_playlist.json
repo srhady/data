@@ -177,20 +177,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Reds.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-cincinnati-reds/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Reds.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-cincinnati-reds/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -730,13 +716,6 @@
                 "Language": "English - CBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-lynx-vs-las-vegas-aces/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_aces-lynx-live-streaming-524081232/1"
             }
         ]
     },
@@ -1079,6 +1058,93 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "LAFC",
+        "Team 2 Name": "San Diego FC",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "LAFC vs. San Diego FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhA0IEkOJhzZZYcETLgEYFRCaZKEAf2SAxiBQaQ8Uou36FJc-zCCRTbPTCFgSXMfNDnVk0VMnMCVXJnDVINIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 16-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lafc-vs-san-diego-fc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lafc-vs-san-diego-fc/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "San Jose Earthquakes",
+        "Team 2 Name": "St. Louis City SC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApq3MBoghuIbThgg+IE7sPaQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuly4wA3oRghuIACYg+ICDtMhDqiAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "San Jose Earthquakes vs St. Louis City SC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNtxDwwKMEmYhNfEMaMgSWyyFwFgSCn2Gz6ulSi5gy2+llnumtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 16-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-st-louis-city-sc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-st-louis-city-sc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_san-jose-st-louis-live-streaming-538646976/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Los Angeles FC",
+        "Team 2 Name": "San Diego FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACm8pLh4huIACYgYuHYZCIDiEAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Los Angeles FC vs San Diego FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCjRWYjm4g+hkAaMkQiRCBMFgSCn2Gz6mlSi5by9XaPdNaYFpiohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 16-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_los-angeles-san-diego-live-streaming-538646544/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1183,93 +1249,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "LAFC",
-        "Team 2 Name": "San Diego FC",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "LAFC vs. San Diego FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhA0IEkOJhzZZYcETLgEYFRCaZKEAf2SAxiBQaQ8Uou36FJc-zCCRTbPTCFgSXMfNDnVk0VMnMCVXJnDVINIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 16-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lafc-vs-san-diego-fc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lafc-vs-san-diego-fc/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "San Jose Earthquakes",
-        "Team 2 Name": "St. Louis City SC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApq3MBoghuIbThgg+IE7sPaQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuly4wA3oRghuIACYg+ICDtMhDqiAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "San Jose Earthquakes vs St. Louis City SC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNtxDwwKMEmYhNfEMaMgSWyyFwFgSCn2Gz6ulSi5gy2+llnumtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 16-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-st-louis-city-sc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-st-louis-city-sc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_san-jose-st-louis-live-streaming-538646976/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Los Angeles FC",
-        "Team 2 Name": "San Diego FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACm8pLh4huIACYgYuHYZCIDiEAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "Los Angeles FC vs San Diego FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCjRWYjm4g+hkAaMkQiRCBMFgSCn2Gz6mlSi5by9XaPdNaYFpiohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 16-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_los-angeles-san-diego-live-streaming-538646544/1"
             }
         ]
     }
