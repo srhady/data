@@ -31,35 +31,6 @@
     {
         "Category": "Rugby",
         "League": "Rugby",
-        "Team 1 Name": "Newcastle Knights",
-        "Team 2 Name": "Gold Coast Titans",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuYGbBDbuIACar9IRBBB8zuVQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Newcastle Knights vs Gold Coast Titans",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMvSyRcIGCG4g+IKSFMl9IROZwoCwJBT7DZ9FGBUou78ptmemtGDuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 AM | 16-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-titans/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-titans/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
         "Team 1 Name": "Wests Tigers",
         "Team 2 Name": "St. George Illawara Dragons",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3gIQAE3Ybg6kNw0gIBxEb4hzKQwQpM+KLmDKr680faa0wjsaIhA.webp",
@@ -83,6 +54,28 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wests-tigers-vs-dragons/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NFL REDZONE",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/-20260816/1"
             }
         ]
     },
@@ -639,28 +632,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/381/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NFL vs RedZone",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20vs%20RedZone&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 16-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/-20260816/1"
             }
         ]
     },
