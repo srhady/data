@@ -2,28 +2,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "New York Mets",
-        "Team 2 Name": "San Diego Padres",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "New York Mets vs San Diego Padres",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzB8QKMFIrruIbSBAkdG01fPwCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:10 PM | 19-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/470/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
@@ -56,20 +34,6 @@
         "Start Time": "12:20 AM | 20-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-chicago-cubs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-chicago-cubs/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -315,6 +279,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-baltimore-orioles/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-yankees-live-streaming-593568864/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -349,6 +320,20 @@
                 "Language": "English - Reds.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-cincinnati-reds/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-cardinals-live-streaming-593569296/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-cardinals-live-streaming-593569296/2"
             },
             {
                 "Source": "golf",
@@ -387,6 +372,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-cleveland-guardians/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_guardians-giants-live-streaming-593569728/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -421,6 +413,13 @@
                 "Language": "English - Rays.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-tampa-bay-rays/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-blue-jays-live-streaming-593570160/1"
             },
             {
                 "Source": "golf",
