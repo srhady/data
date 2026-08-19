@@ -217,6 +217,28 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Little League Baseball World Series",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Little%20League%20Baseball%20World%20Series&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 20-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_little-league-baseball-world-series-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
         "Team 1 Name": "Chicago Cubs",
         "Team 2 Name": "Chicago White Sox",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
@@ -753,6 +775,20 @@
                 "Language": "English - NESN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-boston-red-sox/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-diamondbacks-live-streaming-593568000/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-diamondbacks-live-streaming-593568000/2"
             },
             {
                 "Source": "golf",
