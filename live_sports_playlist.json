@@ -29,28 +29,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NFL REDZONE",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/-20260823/1"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -311,16 +289,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Paramount+",
+                "Language": "English - TNT Sports 4",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-slovan-bratislava-vs-nk-celje/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Paramount+",
+                "Language": "English - TNT Sports 4",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-slovan-bratislava-vs-nk-celje/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-slovan-bratislava-vs-nk-celje/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-slovan-bratislava-vs-nk-celje/4"
             }
         ]
     },
@@ -369,16 +361,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Paramount+",
+                "Language": "English - TNT Sports 2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nec-nijmegen-vs-bodo-glimt/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Paramount+",
+                "Language": "English - TNT Sports 2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nec-nijmegen-vs-bodo-glimt/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nec-nijmegen-vs-bodo-glimt/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nec-nijmegen-vs-bodo-glimt/4"
             }
         ]
     },
@@ -398,16 +404,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Paramount+",
+                "Language": "English - TNT Sports 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-celtic-vs-lask-linz/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Paramount+",
+                "Language": "English - TNT Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-celtic-vs-lask-linz/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-celtic-vs-lask-linz/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-celtic-vs-lask-linz/4"
             }
         ]
     },
@@ -427,16 +447,58 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-m-laga/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-m-laga/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Spanish - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-m-laga/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Spanish - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-m-laga/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "German - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-m-laga/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "German - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-m-laga/6"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "French - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-m-laga/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "French - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-m-laga/8"
             }
         ]
     },
