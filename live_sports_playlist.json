@@ -58,6 +58,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Mjällby AIF",
+        "Team 2 Name": "RB Salzburg",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Mjällby AIF vs. RB Salzburg",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYkQ0qIYSBTjxpRRGwgAxhqVlV8EcEQoDwGRBAxSI2eZOyj-MIP0Fs9MIWBJc6o0MetVYUsjFz0wR2BVHSA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 20-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "German - Servus TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-rb-salzburg/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "German - Servus TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-rb-salzburg/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -166,35 +195,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Mjällby AIF",
-        "Team 2 Name": "RB Salzburg",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mjällby AIF vs. RB Salzburg",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYkQ0qIYSBTjxpRRGwgAxhqVlV8EcEQoDwGRBAxSI2eZOyj-MIP0Fs9MIWBJc6o0MetVYUsjFz0wR2BVHSA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 20-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "German - Servus TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-rb-salzburg/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "German - Servus TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-rb-salzburg/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Cincinnati Reds",
@@ -220,6 +220,20 @@
                 "Language": "English - Reds.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-cincinnati-reds/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-cardinals-live-streaming-593603856/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-cardinals-live-streaming-593603856/2"
             },
             {
                 "Source": "golf",
