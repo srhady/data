@@ -29,35 +29,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Mjällby AIF",
-        "Team 2 Name": "RB Salzburg",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mjällby AIF vs. RB Salzburg",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYkQ0qIYSBTjxpRRGwgAxhqVlV8EcEQoDwGRBAxSI2eZOyj-MIP0Fs9MIWBJc6o0MetVYUsjFz0wR2BVHSA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 20-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "German - Servus TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-rb-salzburg/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "German - Servus TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-rb-salzburg/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Cincinnati Reds",
@@ -470,6 +441,28 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Atalanta",
+        "Team 2 Name": "Hapoel Tel-Aviv",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4owIEKIAMYEiG4g+GkDE0gAJvpCIcfAhSZ2uu8vXmiUwJrTC6xoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQKBOzC8AJqpB8QRtTkQoDFxhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Atalanta vs Hapoel Tel-Aviv",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkjD8sIFB2wheIHSGMgYIRBDPTzLTTAEi5jFGFV79ZeEWpy9+KzAYO7iYhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:30 AM | 21-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-conference-league-qualification-playoff_atalanta-h-tel-aviv-live-streaming-607120704/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Motherwell",
         "Team 2 Name": "Freiburg",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0SIXlHpINIPiAPqDOGCBRmzBCkz4ouYMvCLzRdprTAOxoiEA.webp",
@@ -499,22 +492,79 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Atalanta",
-        "Team 2 Name": "Hapoel Tel-Aviv",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4owIEKIAMYEiG4g+GkDE0gAJvpCIcfAhSZ2uu8vXmiUwJrTC6xoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQKBOzC8AJqpB8QRtTkQoDFxhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Atalanta vs Hapoel Tel-Aviv",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkjD8sIFB2wheIHSGMgYIRBDPTzLTTAEi5jFGFV79ZeEWpy9+KzAYO7iYhBAA.webp",
+        "Team 1 Name": "Rangers",
+        "Team 2 Name": "Jablonec",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpPa4Q9JCAAmIbtt3q1KEDBOGQBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8AJmDWVoKVSD4hD3QyAghEJEyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Rangers vs Jablonec",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduGohB7FCH29t+ozBCIIR6SBIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 21-Aug",
+        "Start Time": "12:45 AM | 21-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Rangers TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rangers-vs-jablonec/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Rangers TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rangers-vs-jablonec/2"
+            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-conference-league-qualification-playoff_atalanta-h-tel-aviv-live-streaming-607120704/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-conference-league-qualification-playoff_rangers-jablonec-live-streaming-607123296/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Heart of Midlothian",
+        "Team 2 Name": "Rapid Vienna",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MABMwKSCG4gIhkHxAkQKExZCIUBCkz4ouYMvCLzRzprTCuxohBAA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+YFKs4QQ3EH30hNiHTkQldBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Heart of Midlothian vs Rapid Vienna",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYwSbPIpIQvEFhCmTMEIgjGQ0kIvzAdMASLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 21-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-rapid-vienna/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-rapid-vienna/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "German - ORF 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-rapid-vienna/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "German - ORF 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-rapid-vienna/4"
             }
         ]
     },
@@ -623,85 +673,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Rangers",
-        "Team 2 Name": "Jablonec",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpPa4Q9JCAAmIbtt3q1KEDBOGQBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8AJmDWVoKVSD4hD3QyAghEJEyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Rangers vs Jablonec",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduGohB7FCH29t+ozBCIIR6SBIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:45 AM | 21-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rangers TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rangers-vs-jablonec/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rangers TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rangers-vs-jablonec/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-conference-league-qualification-playoff_rangers-jablonec-live-streaming-607123296/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Heart of Midlothian",
-        "Team 2 Name": "Rapid Vienna",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MABMwKSCG4gIhkHxAkQKExZCIUBCkz4ouYMvCLzRzprTCuxohBAA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+YFKs4QQ3EH30hNiHTkQldBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Match Title": "Heart of Midlothian vs Rapid Vienna",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYwSbPIpIQvEFhCmTMEIgjGQ0kIvzAdMASLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:45 AM | 21-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-rapid-vienna/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-rapid-vienna/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "German - ORF 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-rapid-vienna/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "German - ORF 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-rapid-vienna/4"
             }
         ]
     },
