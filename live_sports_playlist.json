@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports Phil",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-philadelphia-phillies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports Phil",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-philadelphia-phillies/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -133,13 +119,6 @@
                 "Language": "English - Rays.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-tampa-bay-rays/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-blue-jays-live-streaming-593570160/1"
             },
             {
                 "Source": "golf",
@@ -871,12 +850,12 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Colorado Rapids",
-        "Team 2 Name": "LAFC",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Colorado Rapids vs. LAFC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp",
+        "Team 1 Name": "Seattle Sounders",
+        "Team 2 Name": "Austin FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24ha9MPxAATEKpIgUIAxDUhTOPiD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Match Title": "Seattle Sounders vs Austin FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQSkIhzcQfQyANGSuiyCsFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:30 AM | 20-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -886,14 +865,21 @@
                 "Stream_No": 1,
                 "Language": "English - Apple TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-lafc/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-austin-fc/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
                 "Language": "English - Apple TV",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-lafc/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-austin-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_seattle-austin-live-streaming-538750224/1"
             }
         ]
     },
@@ -936,12 +922,12 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Seattle Sounders",
-        "Team 2 Name": "Austin FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24ha9MPxAATEKpIgUIAxDUhTOPiD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Match Title": "Seattle Sounders vs Austin FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQSkIhzcQfQyANGSuiyCsFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
+        "Team 1 Name": "Colorado Rapids",
+        "Team 2 Name": "LAFC",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Colorado Rapids vs. LAFC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:30 AM | 20-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -951,21 +937,14 @@
                 "Stream_No": 1,
                 "Language": "English - Apple TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-austin-fc/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-lafc/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
                 "Language": "English - Apple TV",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-austin-fc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_seattle-austin-live-streaming-538750224/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-lafc/2"
             }
         ]
     },
