@@ -56,20 +56,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-cincinnati-reds/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-cardinals-live-streaming-593603856/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-cardinals-live-streaming-593603856/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -712,6 +698,28 @@
         ]
     },
     {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Minnesota Twins",
+        "Team 2 Name": "Atlanta Braves",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Minnesota Twins - Atlanta Braves",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20Twins%20-%20Atlanta%20Braves&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 21-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/490/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -816,28 +824,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Minnesota Twins",
-        "Team 2 Name": "Atlanta Braves",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Minnesota Twins - Atlanta Braves",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20Twins%20-%20Atlanta%20Braves&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 21-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/490/1"
             }
         ]
     },
