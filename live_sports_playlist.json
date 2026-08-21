@@ -60,35 +60,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Marseille",
-        "Team 2 Name": "Strasbourg",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0QATBjzBJQIbiD76QKXLpM4Q+ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwhgABhB8tYbdy0gAJkZM4SIczBATCMYEz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "Marseille vs Strasbourg",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJmBD0ADCBm7uIPiBOGcEECi0ncBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 22-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-marseille-vs-strasbourg/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-marseille-vs-strasbourg/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Arsenal",
         "Team 2 Name": "Coventry City",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIpi8gCakQ3EBp24QEPSD4gYIRCAIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
@@ -342,6 +313,28 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NFL Network",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20Network&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 22-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_nfl-network-live-stream/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -562,6 +555,13 @@
                 "Language": "English - NFL Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-jets-at-pittsburgh-steelers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_steelers-jets-live-streaming-587571408/1"
             },
             {
                 "Source": "golf",
