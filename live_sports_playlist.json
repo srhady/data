@@ -115,20 +115,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NFL Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-buffalo-bills-at-cleveland-browns/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NFL Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-buffalo-bills-at-cleveland-browns/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -172,20 +158,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NFL",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-falcons-at-indianapolis-colts/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NFL",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-falcons-at-indianapolis-colts/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -214,20 +186,6 @@
         "Start Time": "11:00 PM | 22-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN Unlmtd",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-ravens-at-minnesota-vikings/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN Unlmtd",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-ravens-at-minnesota-vikings/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -498,13 +456,6 @@
                 "Language": "Spanish - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-borussia-dortmund-vs-bayern-munich/12"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_super-cup_dortmund-bayern-live-streaming-607968288/1"
             }
         ]
     },
@@ -1213,6 +1164,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-hernandez-vs-rodrigues-live-stream/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-hernandez-vs-rodrigues-live-stream/2"
             },
             {
                 "Source": "golf",
