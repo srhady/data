@@ -751,6 +751,42 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Valencia",
+        "Team 2 Name": "Celta Vigo",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQwMCAAmlEN20gSh4yhAQQFrWYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJsCREADGBIhuINSBQgYICCETGchlAQpM+KLnvL15ol01pg9Y0QggA.webp",
+        "Match Title": "Valencia vs Celta Vigo",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBRgksmVJDcQfECYggUIGCDNnDUgsCQU+w2fS0qUXMGXhEssl5MtGA+YqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:30 PM | 22-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Premier Sports 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-celta-vigo/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Premier Sports 2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-celta-vigo/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_laliga_valencia-celta-live-streaming-607973472/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -855,42 +891,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Valencia",
-        "Team 2 Name": "Celta Vigo",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQwMCAAmlEN20gSh4yhAQQFrWYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJsCREADGBIhuINSBQgYICCETGchlAQpM+KLnvL15ol01pg9Y0QggA.webp",
-        "Match Title": "Valencia vs Celta Vigo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBRgksmVJDcQfECYggUIGCDNnDUgsCQU+w2fS0qUXMGXhEssl5MtGA+YqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:30 PM | 22-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Premier Sports 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-celta-vigo/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Premier Sports 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-celta-vigo/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_laliga_valencia-celta-live-streaming-607973472/1"
             }
         ]
     },
@@ -1035,6 +1035,13 @@
                 "Language": "English - Brewers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-milwaukee-brewers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-braves-live-streaming-593678160/1"
             },
             {
                 "Source": "golf",
