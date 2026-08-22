@@ -933,6 +933,35 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Edmonton Elks",
+        "Team 2 Name": "Winnipeg Blue Bombers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD15aVWAFIQ3ECRAATXUdN9cIc-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Edmonton Elks vs Winnipeg Blue Bombers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKdRIgQDZiG4gpILRFwg+IRNqONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:30 AM | 22-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CFL+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-at-edmonton-elks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CFL+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-at-edmonton-elks/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1037,35 +1066,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Edmonton Elks",
-        "Team 2 Name": "Winnipeg Blue Bombers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD15aVWAFIQ3ECRAATXUdN9cIc-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Edmonton Elks vs Winnipeg Blue Bombers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKdRIgQDZiG4gpILRFwg+IRNqONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:30 AM | 22-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CFL+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-at-edmonton-elks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CFL+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-at-edmonton-elks/2"
             }
         ]
     },
@@ -1233,6 +1233,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-los-angeles-dodgers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_dodgers-pirates-live-streaming-593644896/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1267,6 +1274,20 @@
                 "Language": "English - Mariners.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-seattle-mariners/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-cubs-live-streaming-593645328/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-cubs-live-streaming-593645328/2"
             },
             {
                 "Source": "golf",
