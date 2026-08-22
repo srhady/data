@@ -254,20 +254,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN Unlmtd",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-panthers-at-jacksonville-jaguars/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN Unlmtd",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-panthers-at-jacksonville-jaguars/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -320,42 +306,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "WWE Friday Night Smackdown",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 22-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - USA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - USA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "",
@@ -388,6 +338,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_little-league-baseball-world-series-live-stream/3"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Friday Night SmackDown",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Friday%20Night%20SmackDown&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 22-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
             }
         ]
     },
@@ -1309,13 +1281,6 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-birmingham-city-vs-bristol-city/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_championship_birmingham-bristol-city-live-streaming-607234320/1"
             },
             {
                 "Source": "golf",
