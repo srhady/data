@@ -186,20 +186,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-falcons-at-indianapolis-colts/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_colts-falcons-live-streaming-587574432/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_colts-falcons-live-streaming-587574432/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -243,20 +229,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-ravens-at-minnesota-vikings/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_vikings-ravens-live-streaming-587574864/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_vikings-ravens-live-streaming-587574864/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -269,35 +241,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/444/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Valencia",
-        "Team 2 Name": "Celta Vigo",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQwMCAAmlEN20gSh4yhAQQFrWYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJsCREADGBIhuINSBQgYICCETGchlAQpM+KLnvL15ol01pg9Y0QggA.webp",
-        "Match Title": "Valencia vs Celta Vigo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBRgksmVJDcQfECYggUIGCDNnDUgsCQU+w2fS0qUXMGXhEssl5MtGA+YqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:30 PM | 22-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Premier Sports 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-celta-vigo/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Premier Sports 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-celta-vigo/2"
             }
         ]
     },
@@ -912,6 +855,63 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "Los Angeles Rams",
+        "Team 2 Name": "New Orleans Saints",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZIwfENxBkQmkBt0R9uPboAm2ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYQQagCbMQfENxAkQiXSFx6jFvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
+        "Match Title": "Los Angeles Rams vs New Orleans Saints",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWBkzuIPmBIgdfECYi6QBk1JAobBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 23-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN Unlmtd",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-saints-at-los-angeles-rams/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN Unlmtd",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-saints-at-los-angeles-rams/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_rams-saints-live-streaming-587575296/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_rams-saints-live-streaming-587575296/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/445/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/445/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "Miami Dolphins",
         "Team 2 Name": "New York Giants",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIg1MEPDDgIIbiD5qQuwzjO49BCkz4ouYMlvrzRdprTAOxoiEA.webp",
@@ -967,59 +967,52 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Los Angeles Rams",
-        "Team 2 Name": "New Orleans Saints",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZIwfENxBkQmkBt0R9uPboAm2ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYQQagCbMQfENxAkQiXSFx6jFvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
-        "Match Title": "Los Angeles Rams vs New Orleans Saints",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWBkzuIPmBIgdfECYi6QBk1JAobBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Miami Marlins",
+        "Team 2 Name": "Washington Nationals",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Miami Marlins vs Washington Nationals",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBCCUobCA19NIEiBT6jF+AWBIKfYbPoowKnWxfl6WWTqa0wLmKiEEA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "02:00 AM | 23-Aug",
+        "Start Time": "02:10 AM | 23-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - ESPN Unlmtd",
+                "Language": "English - Marlins.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-saints-at-los-angeles-rams/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-miami-marlins/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - ESPN Unlmtd",
+                "Language": "English - Marlins.TV",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-saints-at-los-angeles-rams/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-miami-marlins/2"
             },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_rams-saints-live-streaming-587575296/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-nationals-live-streaming-593678592/1"
             },
             {
                 "Source": "delta",
                 "Stream_No": 2,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_rams-saints-live-streaming-587575296/2"
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-nationals-live-streaming-593678592/2"
             },
             {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/445/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/445/2"
+                "Embed_URL": "https://embed.st/embed/golf/511/1"
             }
         ]
     },
@@ -1128,56 +1121,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Miami Marlins",
-        "Team 2 Name": "Washington Nationals",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Miami Marlins vs Washington Nationals",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBCCUobCA19NIEiBT6jF+AWBIKfYbPoowKnWxfl6WWTqa0wLmKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:10 AM | 23-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marlins.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-miami-marlins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marlins.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-miami-marlins/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-nationals-live-streaming-593678592/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-nationals-live-streaming-593678592/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/511/1"
             }
         ]
     },
