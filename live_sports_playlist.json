@@ -24,35 +24,6 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Rolly",
-        "Team 2 Name": "Teofimo",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rolly vs. Teofimo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRPBEhpkxFhBkIwKiBWSlSlRBDyQIqVmDbhCnSBTmdRywGMQEFOSUCh+gtnphCwJLhuOhMG5OJWFSendJMCCjcIggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 23-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN PPV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rolly-vs-teofimo/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN PPV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rolly-vs-teofimo/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
         "Team 1 Name": "Rolando Romero",
         "Team 2 Name": "Teofimo Lopez",
         "Team 1 Logo": "",
@@ -148,6 +119,35 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-sharks/2"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Sydney Roosters",
+        "Team 2 Name": "Wests Tigers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3gIQAE3Ybg6kNw0gIBxEb4hzKQwQpM+KLmDKr680faa0wjsaIhA.webp",
+        "Match Title": "Sydney Roosters vs Wests Tigers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQlLAkQKELyl6QfEAZAht3EIgOJGwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:05 PM | 23-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-roosters-vs-wests-tigers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-roosters-vs-wests-tigers/2"
             }
         ]
     },
@@ -256,35 +256,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Sydney Roosters",
-        "Team 2 Name": "Wests Tigers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3gIQAE3Ybg6kNw0gIBxEb4hzKQwQpM+KLmDKr680faa0wjsaIhA.webp",
-        "Match Title": "Sydney Roosters vs Wests Tigers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQlLAkQKELyl6QfEAZAht3EIgOJGwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:05 PM | 23-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-roosters-vs-wests-tigers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-roosters-vs-wests-tigers/2"
             }
         ]
     },
