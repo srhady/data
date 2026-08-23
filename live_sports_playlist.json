@@ -206,20 +206,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports Phil",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-philadelphia-phillies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports Phil",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-philadelphia-phillies/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -401,35 +387,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Querétaro",
-        "Team 2 Name": "Toluca",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Querétaro vs. Toluca",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGNSICSERYQEYPGWKR04dJTAqIXcJBkDUkuJAwQWHaWARDtxee38wg9QWz0whYElwTtIVdWJU0ybQ8VMFdbGwggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 23-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - Liga MX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-quer-taro-vs-toluca/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - Liga MX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-quer-taro-vs-toluca/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "McBroom",
@@ -477,13 +434,6 @@
                 "Language": "English - Rangers Sports Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-texas-rangers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-angels-live-streaming-593679888/1"
             },
             {
                 "Source": "golf",
@@ -814,20 +764,6 @@
                 "Language": "English - Royals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-kansas-city-royals/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-tigers-live-streaming-593681616/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-tigers-live-streaming-593681616/2"
             },
             {
                 "Source": "golf",
@@ -1885,6 +1821,13 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-minnesota-united-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_san-jose-minnesota-live-streaming-538784352/1"
             }
         ]
     },
@@ -1914,6 +1857,35 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-fc-vs-colorado-rapids/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_san-diego-colorado-live-streaming-538783920/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Los Angeles FC",
+        "Team 2 Name": "Portland Timbers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACm8pLh4huIACYgYuHYZCIDiEAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkploAGNiEQxgSENxAkDIPiBRHEhwygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Los Angeles FC vs Portland Timbers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBQgYckCkghuIPtpBTjhkIiMhcBYEgp9hs+vpUouYMvCJZZnky0YN5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:30 AM | 23-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_los-angeles-portland-live-streaming-538783488/1"
             }
         ]
     }
