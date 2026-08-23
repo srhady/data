@@ -1,63 +1,5 @@
 [
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Sydney Roosters",
-        "Team 2 Name": "Wests Tigers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3gIQAE3Ybg6kNw0gIBxEb4hzKQwQpM+KLmDKr680faa0wjsaIhA.webp",
-        "Match Title": "Sydney Roosters vs Wests Tigers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQlLAkQKELyl6QfEAZAht3EIgOJGwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:05 PM | 23-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-roosters-vs-wests-tigers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-roosters-vs-wests-tigers/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Paris Lights",
-        "Team 2 Name": "Alpine Rams",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgHwwIfgjohuIPnoMgjuEDGPLCMYEz4ouYMmvrzRdprTAOxoiEA.webp",
-        "Match Title": "Paris Lights vs Alpine Rams",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcVhAkQEEJJSkQAY2Dxgs4VJBU5IFMpAxgOpVqwjFpyToVqaEdSF7kHAoRYLZ6YQsCS4lBSEwbk4HYVJ6TzUwEPVIiCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 PM | 23-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - AFLE+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-alpine-rams-at-paris-lights/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - AFLE+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-alpine-rams-at-paris-lights/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "Dutch Grand Prix",
@@ -731,6 +673,13 @@
                 "Language": "Czech - CANAL+ Sport",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-newcastle-united-vs-liverpool/14"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_newcastle-liverpool-live-streaming-608313888/1"
             },
             {
                 "Source": "golf",
