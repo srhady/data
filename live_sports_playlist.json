@@ -121,35 +121,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Tampa Bay Buccaneers",
-        "Team 2 Name": "Kansas City Chiefs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxiAJhXpgQ3ECRCI+IYzhggUINeYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3wgSIEP1hqQ3EHw0gI+3CBggUplAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "Tampa Bay Buccaneers vs Kansas City Chiefs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlSTQUdENxB8QRiAZAkjpmGYLAtMfsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 23-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/449/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/449/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Rolly",
@@ -235,20 +206,6 @@
         "Start Time": "06:40 AM | 23-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Padres.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-san-diego-padres/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Padres.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-san-diego-padres/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1573,6 +1530,13 @@
                 "Language": "French - Ligue 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-stade-rennais/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ligue-1_rennes-psg-live-streaming-608317776/1"
             }
         ]
     },
@@ -1650,14 +1614,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - MLB.TV",
+                "Language": "English - NBC",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-boston-red-sox/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - MLB.TV",
+                "Language": "English - NBC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-boston-red-sox/2"
             },
@@ -1751,14 +1715,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - MLB.TV",
+                "Language": "English - SportsNet LA",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-los-angeles-dodgers/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - MLB.TV",
+                "Language": "English - SportsNet LA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-los-angeles-dodgers/2"
             },
@@ -1787,14 +1751,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - MLB.TV",
+                "Language": "English - Mariners.TV",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-seattle-mariners/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - MLB.TV",
+                "Language": "English - Mariners.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-seattle-mariners/2"
             },
