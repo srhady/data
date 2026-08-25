@@ -1,5 +1,27 @@
 [
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NFL REDZONE",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/-20260830/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -123,16 +145,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - UEFA Champions League Qualifying",
+                "Language": "English - TNT Sports 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sabah-fk-vs-hapoel-be-er/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - UEFA Champions League Qualifying",
+                "Language": "English - TNT Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sabah-fk-vs-hapoel-be-er/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sabah-fk-vs-hapoel-be-er/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sabah-fk-vs-hapoel-be-er/4"
             }
         ]
     },
@@ -413,16 +449,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - UEFA Champions League Qualifying",
+                "Language": "English - TNT Sports 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - UEFA Champions League Qualifying",
+                "Language": "English - TNT Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/4"
             },
             {
                 "Source": "delta",
@@ -449,14 +499,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - UEFA Champions League Qualifying",
+                "Language": "English - Paramount+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lask-linz-vs-celtic/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - UEFA Champions League Qualifying",
+                "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lask-linz-vs-celtic/2"
             }
@@ -478,16 +528,86 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - Premier Sports 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - Premier Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Spanish - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Spanish - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/6"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "Spanish - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "Spanish - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/8"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 9,
+                "Language": "German - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/9"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 10,
+                "Language": "German - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/10"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 11,
+                "Language": "French - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/11"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 12,
+                "Language": "French - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-real-betis/12"
             }
         ]
     },
