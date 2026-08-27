@@ -57,20 +57,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Angels.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-los-angeles-angels/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Angels.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-los-angeles-angels/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -93,20 +79,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Mariners.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-seattle-mariners/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Mariners.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-seattle-mariners/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -128,20 +100,6 @@
         "Start Time": "02:10 AM | 27-Aug",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Padres.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-san-diego-padres/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Padres.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-san-diego-padres/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -567,6 +525,42 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AEW Wednesday Night Dynamite",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBBAwQNWSBQgsUqcEkKsI+SHFLpVZdPH7piEsvGTZwKinIRQYQSKbZ6YQsCS4AxraGPWe2FSegJgeHJHVRCIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 27-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_aew-dynamite-live-stream/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -614,42 +608,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AEW Wednesday Night Dynamite",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBBAwQNWSBQgsUqcEkKsI+SHFLpVZdPH7piEsvGTZwKinIRQYQSKbZ6YQsCS4AxraGPWe2FSegJgeHJHVRCIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 27-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_aew-dynamite-live-stream/1"
             }
         ]
     },
