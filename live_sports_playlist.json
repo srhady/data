@@ -75,6 +75,28 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "Towson",
+        "Team 2 Name": "Maine",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwGs+IEJ3XcQJEABMQEEIj3qUuEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAh+YEiHgbVIbiAAmICHtOqjfEJomEYwJnxRcN5evNFOmtMBrGiIQA.webp",
+        "Match Title": "Towson vs Maine",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Towson%20vs%20Maine&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 28-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_towson-maine-live-streaming-587595168/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "Delaware State",
         "Team 2 Name": "Stony Brook",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM-YCpAowIZiG4gSIACYgIIREdOmDKAhSZ8UXMGXhF5o501phXY0QggA.webp",
@@ -537,6 +559,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_bills-steelers-live-streaming-587578320/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_bills-steelers-live-streaming-587578320/2"
             },
             {
                 "Source": "golf",
