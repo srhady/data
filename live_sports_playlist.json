@@ -247,6 +247,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "LFA 240 Sanders",
+        "Team 2 Name": "Gomez",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "LFA 240 Sanders vs Gomez",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzBkYIabBCJeILCFMmUBkDuu6WSClhFzGKLRxQ8t5RtTkf8rMBgboxiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 29-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/710/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -294,28 +316,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "LFA 240 Sanders",
-        "Team 2 Name": "Gomez",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "LFA 240 Sanders vs Gomez",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzBkYIabBCJeILCFMmUBkDuu6WSClhFzGKLRxQ8t5RtTkf8rMBgboxiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:30 AM | 29-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/710/1"
             }
         ]
     },
@@ -454,6 +454,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_panthers-texans-live-streaming-587597760/1"
             },
             {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_panthers-texans-live-streaming-587597760/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -504,6 +511,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_dolphins-falcons-live-streaming-587598192/1"
             },
             {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_dolphins-falcons-live-streaming-587598192/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -547,6 +561,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-cleveland-guardians/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_guardians-royals-live-streaming-593873856/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_guardians-royals-live-streaming-593873856/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -581,6 +609,20 @@
                 "Language": "English - Rays.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-tampa-bay-rays/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-padres-live-streaming-593874720/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-padres-live-streaming-593874720/2"
             },
             {
                 "Source": "golf",
@@ -619,6 +661,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-new-york-mets/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-astros-live-streaming-593874288/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-astros-live-streaming-593874288/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -653,6 +709,20 @@
                 "Language": "English - BravesVision",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-atlanta-braves/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-rockies-live-streaming-593875152/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-rockies-live-streaming-593875152/2"
             },
             {
                 "Source": "golf",
@@ -890,6 +960,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_jets-giants-live-streaming-587599056/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_jets-giants-live-streaming-587599056/2"
             },
             {
                 "Source": "golf",
