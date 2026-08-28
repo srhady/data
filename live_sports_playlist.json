@@ -168,35 +168,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Bayern Munich",
-        "Team 2 Name": "Stuttgart",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSw1qsiBDcQEEHxCI9JXSBhaQywjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "Bayern Munich vs Stuttgart",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCBQNgABjogpIbiD4gSICCA2XjIC2YLAkFPsNn0UYFVrZfy9LFktJlowLzFRCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 29-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "German - Sky Sport Bundesliga 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bayern-munich-vs-vf-b-stuttgart/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "German - Sky Sport Bundesliga 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bayern-munich-vs-vf-b-stuttgart/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "AC Milan",
         "Team 2 Name": "Venezia",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuThkc3EBD0hDhmCDWmQuvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
@@ -249,13 +220,6 @@
                 "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lille-vs-paris-saint-germain/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ligue-1_lille-psg-live-streaming-609269040/1"
             }
         ]
     },
@@ -403,13 +367,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-crystal-palace-vs-manchester-city/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_crystal-palace-man-city-live-streaming-609266880/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -444,13 +401,6 @@
                 "Language": "English - Sky Sports Football",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wrexham-vs-birmingham-city/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_championship_wrexham-birmingham-live-streaming-609276816/1"
             },
             {
                 "Source": "golf",
@@ -602,6 +552,72 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "Villanova",
+        "Team 2 Name": "William and  Mary",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDg+IRGVoAGENxAkQAExAQNBkOpSWNBCkz4ouYLUXminTWmBdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMEjBk+uEBBDcQJNXpCJjIEDFMTCMYEz4ouW8vXmjnTWmC1jREEA.webp",
+        "Match Title": "Villanova vs William and  Mary",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Villanova%20vs%20William%20and%20%20Mary&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 29-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_villanova-william-mary-live-streaming-605170656/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Fordham",
+        "Team 2 Name": "Colgate",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOBIFbeWhDcQJEABMQEEIj2G+JgwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8w3ECmCF5aEBpIgAJiAghEhk4bOMKTPlrZgy8IvNFamtMM7GiIQA.webp",
+        "Match Title": "Fordham vs Colgate",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fordham%20vs%20Colgate&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 29-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_fordham-colgate-live-streaming-605169792/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Merrimack",
+        "Team 2 Name": "Rhode Island",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIgQosOrB8Q3dSAAmICMZAwQKQ2d0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4g1AE1zQYIbiBIhNEEIgOqDmiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Merrimack vs Rhode Island",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Merrimack%20vs%20Rhode%20Island&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 29-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_merrimack-warriors-rhode-island-live-streaming-605169360/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "Baltimore Ravens",
         "Team 2 Name": "Washington Commanders",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EpghJCHiwQ3ECRAQQAE10g+uQya0EKTPmrZgy2+vNXrmwMM7GiIQA.webp",
@@ -625,6 +641,13 @@
                 "Language": "English - NFL Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-commanders-at-baltimore-ravens/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_ravens-commanders-live-streaming-587597328/1"
             },
             {
                 "Source": "golf",
@@ -762,6 +785,13 @@
                 "Language": "English - NFL",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-texans-at-carolina-panthers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_panthers-texans-live-streaming-587597760/1"
             },
             {
                 "Source": "golf",
@@ -1122,6 +1152,13 @@
                 "Language": "English - NFL",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-jacksonville-jaguars/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_jaguars-buccaneers-live-streaming-587598624/1"
             },
             {
                 "Source": "golf",
