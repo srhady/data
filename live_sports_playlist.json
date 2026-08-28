@@ -95,35 +95,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Argentina Basketball",
-        "Team 2 Name": "Puerto Rico Basketball",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0IowIELVE5uIEno0g+Rk4kQQCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdqAEwbAkwAAyqQJEOpAxjICxAsgUNghSZ8UXMGXhF5o501phXY0QggA.webp",
-        "Match Title": "Argentina Basketball vs Puerto Rico Basketball",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxRhesMCRAoQvEFhBnTZ-dSMmQ0lkgpYRcxltUoee8o2pzP+KzAYHriYhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:10 AM | 28-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN Courtside 1891",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-argentina-vs-puerto-rico/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN Courtside 1891",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-argentina-vs-puerto-rico/2"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Buffalo Bills",
@@ -1140,6 +1111,13 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-phoenix-mercury/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mercury-mystics-live-streaming-524095488/1"
             }
         ]
     },
