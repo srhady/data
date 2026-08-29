@@ -717,6 +717,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/4"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_coventry-hull-live-streaming-609593472/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -765,6 +772,13 @@
                 "Language": "English - Sky Sport 8",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/4"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_bournemouth-everton-live-streaming-609593040/1"
             },
             {
                 "Source": "golf",
@@ -2388,35 +2402,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Columbus Crew",
-        "Team 2 Name": "New England Revolution",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Columbus Crew vs. New England Revolution",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggaEUtJGlFVSSGHzEEtYiyqRIAMbjJ2YIhAGQO7dOkpysgUIUETdsIWBJc+u0LDdOWWFFOxd4cn9gWTIIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "D.C. United",
         "Team 2 Name": "LAFC",
         "Team 1 Logo": "",
@@ -2440,6 +2425,35 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-d-c-united-vs-lafc/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Columbus Crew",
+        "Team 2 Name": "New England Revolution",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Columbus Crew vs. New England Revolution",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggaEUtJGlFVSSGHzEEtYiyqRIAMbjJ2YIhAGQO7dOkpysgUIUETdsIWBJc+u0LDdOWWFFOxd4cn9gWTIIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/2"
             }
         ]
     },
