@@ -69,20 +69,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/8"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-nurmagomedov-vs-song-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-nurmagomedov-vs-song-live-stream/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1718,42 +1704,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "San Francisco Giants",
-        "Team 2 Name": "Arizona Diamondbacks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "San Francisco Giants vs Arizona Diamondbacks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLPph2YFCG4g+IYyRB6DxvUZIFgSCn2GadKlFzBl4RLLLdNaYB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:05 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports BA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports BA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/678/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Washington Nationals",
         "Team 2 Name": "Miami Marlins",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
@@ -2296,35 +2246,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "D.C. United",
-        "Team 2 Name": "LAFC",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "D.C. United vs. LAFC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMCogSILCADGIRHMQT4k6cAjB1UiLNmlNM1VpApDNOWUTqsKctoFCRTbPTCFgSXPIdCwbk5tYVJ6Ah1yQK0wiCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-d-c-united-vs-lafc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-d-c-united-vs-lafc/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Columbus Crew",
         "Team 2 Name": "New England Revolution",
         "Team 1 Logo": "",
@@ -2348,6 +2269,35 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "D.C. United",
+        "Team 2 Name": "LAFC",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "D.C. United vs. LAFC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMCogSILCADGIRHMQT4k6cAjB1UiLNmlNM1VpApDNOWUTqsKctoFCRTbPTCFgSXPIdCwbk5tYVJ6Ah1yQK0wiCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-d-c-united-vs-lafc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-d-c-united-vs-lafc/2"
             }
         ]
     },
@@ -2776,6 +2726,42 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/690/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "San Francisco Giants",
+        "Team 2 Name": "Arizona Diamondbacks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "San Francisco Giants vs Arizona Diamondbacks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLPph2YFCG4g+IYyRB6DxvUZIFgSCn2GadKlFzBl4RLLLdNaYB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:05 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports BA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports BA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/678/1"
             }
         ]
     },
