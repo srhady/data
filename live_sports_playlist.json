@@ -280,20 +280,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-minnesota-twins/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-white-sox-live-streaming-593911008/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-white-sox-live-streaming-593911008/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -398,35 +384,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Nürnberg",
-        "Team 2 Name": "Arminia Bielefeld",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5EkIcPIghuIACYgSIFMZAwQ28zmOEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBZqfWGBAhuICHpB8QJECh2mQAEz0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Nürnberg vs Arminia Bielefeld",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJHMGIQIFCG4g+OkIhiGQU4yRMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "German - Sky Sport Bundesliga 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-n-rnberg-vs-arminia-bielefeld/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "German - Sky Sport Bundesliga 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-n-rnberg-vs-arminia-bielefeld/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Juventus",
         "Team 2 Name": "Parma",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIhgAExAx+2ENxB8QEXCBQhziQzj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
@@ -450,13 +407,6 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-juventus-vs-parma/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_serie-a_juventus-parma-live-streaming-609596928/1"
             }
         ]
     },
@@ -1328,6 +1278,28 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Wofford Terriers vs Citadel Bulldogs",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Wofford%20Terriers%20vs%20Citadel%20Bulldogs&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_wofford-citadel-live-streaming-587624112/1"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Duel Arena 1: Perry",
@@ -1381,6 +1353,72 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "Richmond",
+        "Team 2 Name": "Bucknell",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApm7EDGIoQ3EABMQEEIhIg+BkFYswCFJnzVswZeEXmi1TWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATEBpjEUIbiBIh1EEIgNHcuAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Richmond vs Bucknell",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Richmond%20vs%20Bucknell&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_richmond-bucknell-bison-live-streaming-587623680/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "South Carolina State",
+        "Team 2 Name": "Savannah State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphghaIEGSRgN3TSAAmICGv18Q51TAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4pSlYhBDcQJEABMQWrTBAoDFlAQpM+atmDLwi80Wqa0wjsaIhA.webp",
+        "Match Title": "South Carolina State vs Savannah State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=South%20Carolina%20State%20vs%20Savannah%20State&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_south-carolina-st-savannah-st-live-streaming-610327440/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Indiana State",
+        "Team 2 Name": "Southeast Missouri State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpMggAJsAAMIPmG4h9JdTtzGQpmOYIUmfFFzBl4ReaPtNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgSMHxB8w3MABMQ3ECRCGIIRKa1aLMAhSZ8UXMGXhF5ol01pg3YqIQQA.webp",
+        "Match Title": "Indiana State vs Southeast Missouri State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Indiana%20State%20vs%20Southeast%20Missouri%20State&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_indiana-state-southeast-missouri-st-live-streaming-587623248/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "Tennessee Titans",
         "Team 2 Name": "Chicago Bears",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwiEEDGAATEBu4g+hkChAGQm47r4EKTG1zBk19eaJTAmtME7GiIQA.webp",
@@ -1404,6 +1442,13 @@
                 "Language": "English - NFL Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-bears-at-tennessee-titans/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl-preseason_titans-bears-live-streaming-587603808/1"
             },
             {
                 "Source": "golf",
