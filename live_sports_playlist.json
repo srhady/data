@@ -53,20 +53,6 @@
                 "Language": "Croatian - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-moses-itauma-vs-filip-hrgovic/6"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_moses-itauma-vs-filip-hrgovic-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_moses-itauma-vs-filip-hrgovic-live-stream/2"
             }
         ]
     },
@@ -89,28 +75,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_mikaela-mayer-vs-chantelle-cameron-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Toronto Blue Jays",
-        "Team 2 Name": "Seattle Mariners",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Match Title": "Toronto Blue Jays vs Seattle Mariners",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF74QMZqBDcQfDSBIgUBkxbMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:07 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/676/1"
             }
         ]
     },
@@ -1155,35 +1119,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Columbus Crew",
-        "Team 2 Name": "New England Revolution",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Columbus Crew vs. New England Revolution",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggaEUtJGlFVSSGHzEEtYiyqRIAMbjJ2YIhAGQO7dOkpysgUIUETdsIWBJc+u0LDdOWWFFOxd4cn9gWTIIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "D.C. United",
         "Team 2 Name": "LAFC",
         "Team 1 Logo": "",
@@ -1211,6 +1146,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Columbus Crew",
+        "Team 2 Name": "New England Revolution",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Columbus Crew vs. New England Revolution",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggaEUtJGlFVSSGHzEEtYiyqRIAMbjJ2YIhAGQO7dOkpysgUIUETdsIWBJc+u0LDdOWWFFOxd4cn9gWTIIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/2"
+            }
+        ]
+    },
+    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "",
@@ -1229,6 +1193,86 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_howard-alabama-am-live-streaming-587627136/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lara vs Ornelas",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lara%20vs%20Ornelas&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_lara-vs-ornelas-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lester Martinez vs Luka Plantic",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lester%20Martinez%20vs%20Luka%20Plantic&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_lester-martinez-vs-luka-plantic-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AEW Saturday Night Collision",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TNT",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TNT",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_aew-collision-live-stream/1"
             }
         ]
     },
@@ -1280,86 +1324,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Lara vs Ornelas",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lara%20vs%20Ornelas&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_lara-vs-ornelas-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Lester Martinez vs Luka Plantic",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lester%20Martinez%20vs%20Luka%20Plantic&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_lester-martinez-vs-luka-plantic-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AEW Saturday Night Collision",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_aew-collision-live-stream/1"
             }
         ]
     },
