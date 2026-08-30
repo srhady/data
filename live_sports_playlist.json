@@ -73,6 +73,35 @@
         ]
     },
     {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "England",
+        "Team 2 Name": "Pakistan",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsikImz1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "2nd Test - England vs. Pakistan",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 PM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sports Cricket",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-2-nd-test-england-vs-pakistan/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sports Cricket",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-2-nd-test-england-vs-pakistan/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Aberdeen",
@@ -305,14 +334,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paris-fc-vs-nice/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paris-fc-vs-nice/2"
             }
@@ -334,16 +363,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Bundesliga",
+                "Language": "English - Fandango",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-werder-bremen/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Bundesliga",
+                "Language": "English - Fandango",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-werder-bremen/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "German - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-werder-bremen/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "German - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-werder-bremen/4"
             }
         ]
     },
@@ -392,16 +435,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-real-madrid-vs-m-laga/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-real-madrid-vs-m-laga/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Spanish - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-madrid-vs-m-laga/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Spanish - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-madrid-vs-m-laga/4"
             },
             {
                 "Source": "golf",
@@ -428,14 +485,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-stade-rennais-vs-le-mans/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-stade-rennais-vs-le-mans/2"
             }
@@ -457,16 +514,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Bundesliga",
+                "Language": "English - Fandango",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-schalke-04/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Bundesliga",
+                "Language": "English - Fandango",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-schalke-04/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "German - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-schalke-04/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "German - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-schalke-04/4"
             }
         ]
     },
@@ -616,14 +687,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-deportivo-vs-valencia/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-deportivo-vs-valencia/2"
             }
@@ -969,14 +1040,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-as-monaco-vs-marseille/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-as-monaco-vs-marseille/2"
             }
@@ -1121,14 +1192,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-celta-vigo-vs-athletic-club/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-celta-vigo-vs-athletic-club/2"
             }
