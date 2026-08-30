@@ -114,20 +114,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chelsea-vs-brighton-hove-albion/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_chelsea-brighton-live-streaming-609594336/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_chelsea-brighton-live-streaming-609594336/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -162,13 +148,6 @@
                 "Language": "English - Sky Sports Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-leeds-united-vs-brentford/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_leeds-brentford-live-streaming-609594768/1"
             },
             {
                 "Source": "golf",
@@ -395,6 +374,78 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AEW All In: London",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgaJEIiogYUkFmCIZIEDJXxgNYbuXAIEkSMM7jxmcY3iz+chFBhBpgtnphCwJLnEohcm5OJ30yAPcdMBcjUiMgA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:00 PM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - PPV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-all-in-london/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - PPV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-all-in-london/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Spanish - PPV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-all-in-london/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Spanish - PPV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-all-in-london/4"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Stade Rennais",
+        "Team 2 Name": "Le Mans",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Stade Rennais vs. Le Mans",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcBokQNCCHiSRIGEuEg5IYAsQqIwDSDJyaWEAGNzhkZOUgUl3uT0Ch1gtnphCwJLjMpXMG5OPQkyAPcFMCD9Un0gA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:15 PM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "French - Ligue 1+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-stade-rennais-vs-le-mans/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "French - Ligue 1+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-stade-rennais-vs-le-mans/2"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -442,35 +493,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Stade Rennais",
-        "Team 2 Name": "Le Mans",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Stade Rennais vs. Le Mans",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcBokQNCCHiSRIGEuEg5IYAsQqIwDSDJyaWEAGNzhkZOUgUl3uT0Ch1gtnphCwJLjMpXMG5OPQkyAPcFMCD9Un0gA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "09:15 PM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-stade-rennais-vs-le-mans/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-stade-rennais-vs-le-mans/2"
             }
         ]
     },
