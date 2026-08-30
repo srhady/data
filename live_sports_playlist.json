@@ -2,10 +2,10 @@
     {
         "Category": "Cricket",
         "League": "Cricket",
-        "Team 1 Name": "England",
+        "Team 1 Name": "2nd Test - England",
         "Team 2 Name": "Pakistan",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsikImz1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "2nd Test - England vs. Pakistan",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
         "Match Status": "Live 🔴",
@@ -353,6 +353,42 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Deportivo de A Coruña",
+        "Team 2 Name": "Valencia",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATXAzCqwfLSG4g+IY4hj6QiAyTUEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQwMCAAmlEN20gSh4yhAQQFrWYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Deportivo de A Coruña vs Valencia",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEogUxbiD16+IYxG0aQpyxoLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:30 PM | 30-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-deportivo-vs-valencia/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-deportivo-vs-valencia/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_laliga_deportivo-valencia-live-streaming-612235152/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -400,42 +436,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Deportivo de A Coruña",
-        "Team 2 Name": "Valencia",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATXAzCqwfLSG4g+IY4hj6QiAyTUEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQwMCAAmlEN20gSh4yhAQQFrWYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Deportivo de A Coruña vs Valencia",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEogUxbiD16+IYxG0aQpyxoLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:30 PM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-deportivo-vs-valencia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-deportivo-vs-valencia/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_laliga_deportivo-valencia-live-streaming-612235152/1"
             }
         ]
     },
@@ -760,6 +760,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-minnesota-twins/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-white-sox-live-streaming-593952912/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-white-sox-live-streaming-593952912/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -796,6 +810,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-milwaukee-brewers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-rangers-live-streaming-593952480/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-rangers-live-streaming-593952480/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -830,6 +858,13 @@
                 "Language": "English - Cardinals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-st-louis-cardinals/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cardinals-pirates-live-streaming-593953344/1"
             },
             {
                 "Source": "golf",
