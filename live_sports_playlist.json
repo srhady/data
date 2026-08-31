@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Little League Baseball World Series",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Little%20League%20Baseball%20World%20Series&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 30-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_little-league-baseball-world-series-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_little-league-baseball-world-series-live-stream/2"
-            }
-        ]
-    },
-    {
         "Category": "Darts",
         "League": "Darts",
         "Team 1 Name": "",
@@ -120,35 +91,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/705/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Seattle Storm",
-        "Team 2 Name": "Los Angeles Sparks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Seattle Storm vs Los Angeles Sparks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKLJ8NlYGBDcQUjQZAozISxFxmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 31-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - KOMO-TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-seattle-storm/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - KOMO-TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-seattle-storm/2"
             }
         ]
     },
@@ -297,28 +239,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Tuskegee Golden Tigers vs West Alabama Tigers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Tuskegee%20Golden%20Tigers%20vs%20West%20Alabama%20Tigers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 31-Aug",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_tuskegee-golden-tigers-west-alabama-tigers-live-streaming-587628864/1"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Toluca",
@@ -344,6 +264,28 @@
                 "Language": "Spanish - TUDN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toluca-vs-fc-juarez/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Tuskegee Golden Tigers vs West Alabama Tigers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Tuskegee%20Golden%20Tigers%20vs%20West%20Alabama%20Tigers&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 31-Aug",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_tuskegee-golden-tigers-west-alabama-tigers-live-streaming-587628864/1"
             }
         ]
     },
