@@ -1,5 +1,27 @@
 [
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NFL REDZONE",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/-20260906/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -160,14 +182,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Fotboll",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-djurg-rden/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Fotboll",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-djurg-rden/2"
             }
@@ -319,14 +341,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toulouse-vs-lille/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toulouse-vs-lille/2"
             }
@@ -377,16 +399,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Spanish - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Spanish - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-sociedad-vs-celta-vigo/4"
             }
         ]
     },
