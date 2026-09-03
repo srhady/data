@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-tigers-live-streaming-594036288/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-tigers-live-streaming-594036288/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -120,35 +106,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/780/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Toluca",
-        "Team 2 Name": "León",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgAJiCh8wq1dxAlcIRHuMh9IdQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjMQKftkohuIPiBK4QiFMZAQzKAhSZ8NbMGXhF5ojU1phHY0RCA.webp",
-        "Match Title": "Toluca vs León",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEAGMQiLMAggSIGsJArxMScEQasIFHJEhdwuQqXYLi2bqknE+chFBhBIphf1hCwJLgn6hF1YnEzJ9Ai1yFwMyCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 03-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toluca-vs-le-n/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toluca-vs-le-n/2"
             }
         ]
     },
@@ -303,6 +260,28 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NFL REDZONE",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/-20260906/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -396,6 +375,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MLB.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MLB.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-pittsburgh-pirates/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -446,6 +439,20 @@
         "Start Time": "11:10 PM | 03-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CLEGuardians.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-cleveland-guardians/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CLEGuardians.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-cleveland-guardians/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
