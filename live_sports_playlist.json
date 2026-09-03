@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Space City Home Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Space City Home Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -124,6 +110,35 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Massachusetts Minutemen",
+        "Team 2 Name": "Rutgers Scarlet Knights",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rutgers Scarlet Knights vs Massachusetts Minutemen",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rutgers%20Scarlet%20Knights%20vs%20Massachusetts%20Minutemen&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 04-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_rutgers-umass-live-streaming-587640528/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/920/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -171,35 +186,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Massachusetts Minutemen",
-        "Team 2 Name": "Rutgers Scarlet Knights",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rutgers Scarlet Knights vs Massachusetts Minutemen",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rutgers%20Scarlet%20Knights%20vs%20Massachusetts%20Minutemen&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 04-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_rutgers-umass-live-streaming-587640528/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/920/1"
             }
         ]
     },
@@ -433,6 +419,20 @@
         "Start Time": "06:00 AM | 04-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-buffaloes-at-georgia-tech-yellow-jackets/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-buffaloes-at-georgia-tech-yellow-jackets/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
