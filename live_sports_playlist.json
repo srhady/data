@@ -94,6 +94,42 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "San José State Spartans",
+        "Team 2 Name": "Eastern Michigan Eagles",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "San José State Spartans at Eastern Michigan Eagles",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8UiBiTsIAMYgqICCBIgUwRYpQhhwcViUhE61VNkz5ygyAUgD2y+v5hBIptnphCwJLlnqhF1YINzJ1Aj1yF2AQsgggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 05-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jos-state-spartans-at-eastern-michigan-eagles/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jos-state-spartans-at-eastern-michigan-eagles/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_eastern-michigan-san-jose-st-live-streaming-587647008/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -141,42 +177,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "San José State Spartans",
-        "Team 2 Name": "Eastern Michigan Eagles",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "San José State Spartans at Eastern Michigan Eagles",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8UiBiTsIAMYgqICCBIgUwRYpQhhwcViUhE61VNkz5ygyAUgD2y+v5hBIptnphCwJLlnqhF1YINzJ1Aj1yF2AQsgggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:30 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jos-state-spartans-at-eastern-michigan-eagles/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jos-state-spartans-at-eastern-michigan-eagles/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_eastern-michigan-san-jose-st-live-streaming-587647008/1"
             }
         ]
     },
@@ -367,6 +367,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-baltimore-orioles/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-red-sox-live-streaming-594104976/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-red-sox-live-streaming-594104976/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -403,6 +417,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-new-york-mets/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-giants-live-streaming-594106272/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -437,6 +458,20 @@
                 "Language": "English - Marlins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-miami-marlins/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-cubs-live-streaming-594105840/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-cubs-live-streaming-594105840/2"
             },
             {
                 "Source": "golf",
