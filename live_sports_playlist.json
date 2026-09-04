@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CLEGuardians.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CLEGuardians.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -68,50 +54,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/940/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Ipswich Town",
-        "Team 2 Name": "Liverpool",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLFIQvMinUgAJiEQRdIPiBjGQF5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwACYKQgnNxB8QiAyhDqQJgzggEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Match Title": "Ipswich Town vs Liverpool",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEAxApgYBDpDcQfECYggSIMyhCIYRgsCQU+w2fRRgV2tp-L0sstpMtLqi9GFAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/789/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Real Betis",
-        "Team 2 Name": "Real Madrid",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyUw3MKLBgAJiG4g9exDgggSIRCEMEKTPii6by9eaMdNa20VLpA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDUas6kNxAQQfEIhIgYuEChAqrBCkz4ouYMvCLzRzprTCuxohBAA.webp",
-        "Match Title": "Real Betis vs Real Madrid",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJhBAxgABjCipIbiD4gzmlFpCbNJawWBIKfYbPop9bFF33l6WWW8mWjBPelEIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/790/1"
             }
         ]
     },
@@ -321,6 +263,13 @@
                 "Language": "English - BravesVision",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_phillies-braves-live-streaming-594104112/1"
             },
             {
                 "Source": "golf",
