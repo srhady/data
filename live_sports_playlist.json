@@ -24,8 +24,8 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Team 1 Name": "Massachusetts Minutemen",
+        "Team 2 Name": "Rutgers Scarlet Knights",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "Rutgers Scarlet Knights vs Massachusetts Minutemen",
@@ -40,6 +40,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_rutgers-umass-live-streaming-587640528/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/920/1"
             }
         ]
     },
@@ -372,22 +379,29 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Minnesota",
-        "Team 2 Name": "Eastern Illinois",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTsQ8bLhAoQ3ECRAATEBHVnjOPtoIUmfVWzBkN9eaNVNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj64Qq+GFFgQ3ECRAATEBBCIDxyyBAEKTPii5by9eaMdNaYLWNEQgA.webp",
-        "Match Title": "Minnesota vs Eastern Illinois",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20vs%20Eastern%20Illinois&font=Oswald",
+        "Team 1 Name": "Missouri",
+        "Team 2 Name": "Arkansas-Pine Bluff",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphg8QJECFLAAJiG7qQeiCESI9iGKYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJCr4YACYgNpENxAltICCESGtZ4wQpM+KLmDLr680faa0wjsaIhA.webp",
+        "Match Title": "Missouri vs Arkansas-Pine Bluff",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjZxwKiADGICEskiZWEDGDLlcqTUQgFIORqMpjOkIgkkQJFOQigwgkU2z0whYElzzHIVdWZ2FSegJVMFdtcIggA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 04-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - SEC Network",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_minnesota-eastern-illinois-live-streaming-587643984/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-arkansas-pine-bluff-golden-lions-at-missouri-tigers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - SEC Network",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-arkansas-pine-bluff-golden-lions-at-missouri-tigers/2"
             }
         ]
     },
@@ -424,49 +438,78 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_georgia-tech-colorado-live-streaming-587641392/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/923/1"
             }
         ]
     },
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Missouri",
-        "Team 2 Name": "Arkansas-Pine Bluff",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphg8QJECFLAAJiG7qQeiCESI9iGKYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJCr4YACYgNpENxAltICCESGtZ4wQpM+KLmDLr680faa0wjsaIhA.webp",
-        "Match Title": "Missouri vs Arkansas-Pine Bluff",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjZxwKiADGICEskiZWEDGDLlcqTUQgFIORqMpjOkIgkkQJFOQigwgkU2z0whYElzzHIVdWZ2FSegJVMFdtcIggA.webp",
+        "Team 1 Name": "Minnesota",
+        "Team 2 Name": "Eastern Illinois",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTsQ8bLhAoQ3ECRAATEBHVnjOPtoIUmfVWzBkN9eaNVNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj64Qq+GFFgQ3ECRAATEBBCIDxyyBAEKTPii5by9eaMdNaYLWNEQgA.webp",
+        "Match Title": "Minnesota vs Eastern Illinois",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20vs%20Eastern%20Illinois&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 04-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_minnesota-eastern-illinois-live-streaming-587643984/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Texas Rangers",
+        "Team 2 Name": "Tampa Bay Rays",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Texas Rangers vs Tampa Bay Rays",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFFH18IOIm4g+IYyRAoQB8zFy4CwJBT7DZ9FGBUou78vSyzPTLRg7mJaQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:05 AM | 04-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - SEC Network",
+                "Language": "English - Rangers Sports Network",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-arkansas-pine-bluff-golden-lions-at-missouri-tigers/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-texas-rangers/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - SEC Network",
+                "Language": "English - Rangers Sports Network",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-arkansas-pine-bluff-golden-lions-at-missouri-tigers/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-texas-rangers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-rays-live-streaming-594070416/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-rays-live-streaming-594070416/2"
             },
             {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/922/1"
+                "Embed_URL": "https://embed.st/embed/golf/937/1"
             }
         ]
     },
@@ -522,56 +565,6 @@
         ]
     },
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Texas Rangers",
-        "Team 2 Name": "Tampa Bay Rays",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Texas Rangers vs Tampa Bay Rays",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFFH18IOIm4g+IYyRAoQB8zFy4CwJBT7DZ9FGBUou78vSyzPTLRg7mJaQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:05 AM | 04-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-texas-rangers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-texas-rangers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-rays-live-streaming-594070416/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-rays-live-streaming-594070416/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/937/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -614,6 +607,13 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_illinois-uab-live-streaming-587641824/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -648,6 +648,13 @@
                 "Language": "English - ESPNU",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-idaho-vandals-at-utah-utes/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_utah-idaho-live-streaming-587644416/1"
             },
             {
                 "Source": "golf",
