@@ -22,35 +22,6 @@
         ]
     },
     {
-        "Category": "Darts",
-        "League": "Darts",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Czech Darts Open | Day 1 - Evening Session",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 04-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - PDC.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-czech-darts-open-day-1-evening-session/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-czech-darts-open-day-1-evening-session/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Cleveland Guardians",
@@ -97,49 +68,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/940/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "VfB Stuttgart",
-        "Team 2 Name": "FC Cologne",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "VfB Stuttgart vs. FC Cologne",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCHjZgExMJkgYIKiFUT58mlhApVk-QGNDIMiqNLdZYfpUQU5CKDCCRTafbCFgSXAftDnVkd5MnsCYCkwZxlSGSA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fandango",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fandango",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "German - Sky Bundesliga 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "German - Sky Bundesliga 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/4"
             }
         ]
     },
@@ -256,13 +184,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ipswich-town-vs-liverpool/10"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_ipswich-liverpool-live-streaming-613192032/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -369,20 +290,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-real-betis-vs-real-madrid/12"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_laliga_real-betis-real-madrid-live-streaming-613194192/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_laliga_real-betis-real-madrid-live-streaming-613194192/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -431,13 +338,6 @@
                 "Language": "English - beIN SPORTS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-as-monaco/4"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ligue-1_psg-as-monaco-live-streaming-613195488/1"
             }
         ]
     },
@@ -583,6 +483,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-pittsburgh-pirates/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_pirates-angels-live-streaming-594104544/1"
             },
             {
                 "Source": "golf",
