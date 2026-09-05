@@ -212,6 +212,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_purdue-indiana-state-live-streaming-587649168/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/926/1"
             }
         ]
     },
@@ -971,24 +978,38 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "ONE Fight Night 47 Fairtex",
-        "Team 2 Name": "Flores",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "ONE Fight Night 47 Fairtex vs Flores",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=ONE%20Fight%20Night%2047%20Fairtex%20vs%20Flores&font=Oswald",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Stanford",
+        "Team 2 Name": "Miami (FL)",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMABMwA4GBAhuIEiE2qQiRGb4WQKAhSZ8UXMGXhF5ol01pg3YqIQQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgABjC968bCG4gSIACYgIIRIlM4cxghSZ8UXMGV315o501phXY0QggA.webp",
+        "Match Title": "Stanford vs Miami (FL)",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEECRDCQWGSOA1EkyeJDYRIAMbYQVLSHg6aWDWuGnghxHr35yEUGEHyC6lOULAkuTe6FPWB3Myd1dDMCdgBzIIIA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 05-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-hurricanes-at-stanford-cardinal/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-hurricanes-at-stanford-cardinal/2"
+            },
+            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_one-fight-night-47-stamp-vs-flores-live-stream/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_stanford-miami-hurricanes-live-streaming-587647872/1"
             }
         ]
     },
@@ -1025,56 +1046,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_usc-fresno-st-live-streaming-587648304/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/858/1"
             }
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Stanford",
-        "Team 2 Name": "Miami (FL)",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMABMwA4GBAhuIEiE2qQiRGb4WQKAhSZ8UXMGXhF5ol01pg3YqIQQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgABjC968bCG4gSIACYgIIRIlM4cxghSZ8UXMGV315o501phXY0QggA.webp",
-        "Match Title": "Stanford vs Miami (FL)",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEECRDCQWGSOA1EkyeJDYRIAMbYQVLSHg6aWDWuGnghxHr35yEUGEHyC6lOULAkuTe6FPWB3Myd1dDMCdgBzIIIA.webp",
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "ONE Fight Night 47 Fairtex",
+        "Team 2 Name": "Flores",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "ONE Fight Night 47 Fairtex vs Flores",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=ONE%20Fight%20Night%2047%20Fairtex%20vs%20Flores&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 05-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-hurricanes-at-stanford-cardinal/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-hurricanes-at-stanford-cardinal/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_stanford-miami-hurricanes-live-streaming-587647872/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/857/1"
+                "Embed_URL": "https://embed.st/embed/delta/live-event_one-fight-night-47-stamp-vs-flores-live-stream/1"
             }
         ]
     },
