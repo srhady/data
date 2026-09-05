@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Andy Ruiz Jr.",
-        "Team 2 Name": "Damian Knyba",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Andy Ruiz Jr. - Damian Knyba",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Andy%20Ruiz%20Jr.%20-%20Damian%20Knyba&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/998/1"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "North Queensland Cowboys",
@@ -51,24 +29,31 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NFL REDZONE",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Cronulla Sharks",
+        "Team 2 Name": "Melbourne Storm",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3Awx+EBBAwQ3EABNNBkIi18Q5kroIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Cronulla Sharks vs Melbourne Storm",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECh4huYPiH0xtIPVP0gSRxHsONgSCn2Gz6KMCs1s35ellmamtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:35 PM | 05-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "golf",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Fox League",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/-20260906/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-storm/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-storm/2"
             }
         ]
     },
@@ -120,35 +105,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Cronulla Sharks",
-        "Team 2 Name": "Melbourne Storm",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3Awx+EBBAwQ3EABNNBkIi18Q5kroIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Cronulla Sharks vs Melbourne Storm",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECh4huYPiH0xtIPVP0gSRxHsONgSCn2Gz6KMCs1s35ellmamtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:35 PM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-storm/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-storm/2"
             }
         ]
     },
@@ -334,14 +290,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Fotboll",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-gais-vs-bk-h-cken/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Fotboll",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-gais-vs-bk-h-cken/2"
             }
@@ -363,14 +319,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Sport Live 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-degerfors-if-vs-halmstads-bk/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Sport Live 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-degerfors-if-vs-halmstads-bk/2"
             }
@@ -636,14 +592,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sport 6",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nottingham-forest-vs-tottenham-hotspur/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sport 6",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nottingham-forest-vs-tottenham-hotspur/2"
             },
@@ -672,14 +628,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sport Select",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brentford-vs-sunderland/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sport Select",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brentford-vs-sunderland/2"
             },
@@ -708,14 +664,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sport 9",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brighton-hove-albion-vs-leeds-united/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sport 9",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brighton-hove-albion-vs-leeds-united/2"
             }
@@ -737,14 +693,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - USA",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-manchester-city-vs-coventry-city/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - USA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-manchester-city-vs-coventry-city/2"
             },
@@ -809,14 +765,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-athletic-club-vs-atl-tico-madrid/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-athletic-club-vs-atl-tico-madrid/2"
             }
@@ -1258,16 +1214,44 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Premier League",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Sky Sport 8",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Sky Sport 8",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - NBC",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - NBC",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-hull-city-vs-aston-villa/6"
             },
             {
                 "Source": "golf",
@@ -2905,20 +2889,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ABC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-clemson-tigers-at-lsu-tigers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ABC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-clemson-tigers-at-lsu-tigers/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -3229,71 +3199,6 @@
                 "Language": "Spanish - Liga MX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tigres-uanl-vs-necaxa/2"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Los Angeles Dodgers",
-        "Team 2 Name": "Washington Nationals",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Los Angeles Dodgers vs Washington Nationals",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKdTjxoSENxB8QRkiBR7TIGCAggSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:10 AM | 06-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - SportsNet LA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - SportsNet LA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/982/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "LA Galaxy",
-        "Team 2 Name": "New England Revolution",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp",
-        "Match Title": "LA Galaxy vs New England Revolution",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBtpcwUhCG4g+h-cZIhEEEDBBSCwJBT7DZ9FGBUptZeESyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:30 AM | 06-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-new-england-revolution/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-new-england-revolution/2"
             }
         ]
     },
