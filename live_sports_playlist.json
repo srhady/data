@@ -2,28 +2,6 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "College GameDay",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=College%20GameDay&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_college-gameday-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
         "Team 1 Name": "Alabama",
         "Team 2 Name": "East Carolina",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoK4PmF5oQ3ECRAATEBBCJEB06cYUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
@@ -1195,6 +1173,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Dynamo Dresden",
+        "Team 2 Name": "Bochum",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwAJsA1soJENxB8QRxDkT79EPQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMCviFpIwKENxAkQu3SFx7zMUwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Dynamo Dresden vs Bochum",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCLjAD4YEiCkhuIPiD0aYIDYiMaUBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:30 AM | 06-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "German - Sky Sport Bundesliga 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dynamo-dresden-vs-vf-l-bochum/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "German - Sky Sport Bundesliga 2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dynamo-dresden-vs-vf-l-bochum/2"
+            }
+        ]
+    },
+    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -1299,35 +1306,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Dynamo Dresden",
-        "Team 2 Name": "Bochum",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwAJsA1soJENxB8QRxDkT79EPQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMCviFpIwKENxAkQu3SFx7zMUwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Dynamo Dresden vs Bochum",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCLjAD4YEiCkhuIPiD0aYIDYiMaUBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:30 AM | 06-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "German - Sky Sport Bundesliga 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dynamo-dresden-vs-vf-l-bochum/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "German - Sky Sport Bundesliga 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dynamo-dresden-vs-vf-l-bochum/2"
             }
         ]
     },
