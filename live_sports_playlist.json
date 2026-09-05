@@ -2,85 +2,6 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Purdue",
-        "Team 2 Name": "Indiana State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksP5ty8MHxDcQAExARtRkAb0gtEwjGBM+KLmDIb680faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpMggAJsAAMIPmG4h9JdTtzGQpmOYIUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-        "Match Title": "Purdue vs Indiana State",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCClg+IKDm4gDUkChCIYus4csSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/926/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Andy Ruiz Jr.",
-        "Team 2 Name": "Damian Knyba",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Andy Ruiz Jr. vs Damian Knyba",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUUmBg5uUCG4g+IYyX2GzEEJYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-andy-ruiz-vs-damian-knyba/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-andy-ruiz-vs-damian-knyba/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Polish - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-andy-ruiz-vs-damian-knyba/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "Polish - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-andy-ruiz-vs-damian-knyba/4"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_andy-ruiz-jr-vs-damian-knyba-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/998/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
         "Team 1 Name": "Kansas",
         "Team 2 Name": "Long Island",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphK4wqviBTAADCG4hVAExCacJzSC36CFJn21t15evNHamtMOrGiIQA.webp",
@@ -119,6 +40,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/856/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Andy Ruiz Jr.",
+        "Team 2 Name": "Damian Knyba",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Andy Ruiz Jr vs Damian Knyba",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Andy%20Ruiz%20Jr%20vs%20Damian%20Knyba&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 05-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_andy-ruiz-jr-vs-damian-knyba-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/998/1"
             }
         ]
     },
@@ -301,35 +251,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/963/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "FC Juarez",
-        "Team 2 Name": "Pachuca",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "FC Juarez vs. Pachuca",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkAGNgESSBlZpweMCogFiCSBQqQIJSFWJh0kGTIzxiMjQuyaJbfzCCRTbPTCFgSXBO1DnVghXMm0CJXJnRXMgA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - SportsGrid",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-juarez-vs-pachuca/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - SportsGrid",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-juarez-vs-pachuca/2"
             }
         ]
     },
