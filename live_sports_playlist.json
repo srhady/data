@@ -176,35 +176,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Montreal Alouettes",
-        "Team 2 Name": "BC Lions",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gAJhXlZYIVWtwhDJEMeMQDaghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlw8cihDcQEXLpB8QiHDGMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
-        "Match Title": "Montreal Alouettes vs BC Lions",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWG4hRaEPRQgtUkIhggDJPbisKmSCn2Gz9YFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CFL+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-at-montreal-alouettes/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CFL+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bc-lions-at-montreal-alouettes/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Andy Ruiz Jr.",
@@ -399,42 +370,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "WWE Friday Night Smackdown",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - USA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - USA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "",
@@ -453,6 +388,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_kansas-liu-sharks-live-streaming-587649600/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Friday Night SmackDown",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Friday%20Night%20SmackDown&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 05-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
             }
         ]
     },
@@ -661,6 +618,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_stanford-miami-hurricanes-live-streaming-587647872/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/857/1"
             }
         ]
     },
@@ -697,6 +661,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_usc-fresno-st-live-streaming-587648304/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/858/1"
             }
         ]
     },
@@ -2217,35 +2188,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/869/1"
-            }
-        ]
-    },
-    {
-        "Category": "Darts",
-        "League": "Darts",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Czech Darts Open | Day 2 - Evening Session",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 05-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - PDC.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-czech-darts-open-day-2-evening-session/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-czech-darts-open-day-2-evening-session/2"
             }
         ]
     },
