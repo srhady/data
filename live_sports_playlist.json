@@ -386,20 +386,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_dodgers-nationals-live-streaming-594147744/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_dodgers-nationals-live-streaming-594147744/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -579,13 +565,6 @@
                 "Language": "English - Mariners.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-seattle-mariners/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-athletics-live-streaming-594148176/1"
             },
             {
                 "Source": "golf",
@@ -1012,6 +991,28 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Birmingham City",
+        "Team 2 Name": "Wolverhampton Wanderers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5hRAEwQgS2kNxDqQfXCBS6YIS4eWEYwJnxRc15evNFOmtMGrGiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgUYbthAwQibiAAmuEPtUpdFnHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Match Title": "Birmingham City vs Wolverhampton Wanderers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECljQpIKZBDcQfECZwRdRjbiMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 PM | 06-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_championship_birmingham-wolves-live-streaming-613630512/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "VfL Osnabruck",
         "Team 2 Name": "TSV Eintracht Braunschweig",
         "Team 1 Logo": "",
@@ -1332,6 +1333,13 @@
                 "Language": "English - Serie A",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-frosinone-vs-venezia/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_serie-a_frosinone-venezia-live-streaming-613595520/1"
             }
         ]
     },
@@ -2088,14 +2096,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - MLB.TV",
+                "Language": "English - Space City Home Network",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-houston-astros/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - MLB.TV",
+                "Language": "English - Space City Home Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-houston-astros/2"
             },
@@ -2283,14 +2291,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - MLB.TV",
+                "Language": "English - Padres.TV",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-san-diego-padres/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - MLB.TV",
+                "Language": "English - Padres.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-san-diego-padres/2"
             },
@@ -2319,14 +2327,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - CHSN",
+                "Language": "English - NBC",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-chicago-white-sox/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - CHSN",
+                "Language": "English - NBC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-chicago-white-sox/2"
             },
