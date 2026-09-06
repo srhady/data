@@ -13,34 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-barcelona/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-barcelona/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Spanish - ESPN Deportes",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-barcelona/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "Spanish - ESPN Deportes",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-valencia-vs-barcelona/4"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -266,6 +238,28 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Prairie View A and M",
+        "Team 2 Name": "Texas Southern",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJiAggBYYBtUl1mkIkN8QhmJoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOBJ2sIgBMQ3ECRDaIIRPr4gUIGCAgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Prairie View A and M vs Texas Southern",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Prairie%20View%20A%20and%20M%20vs%20Texas%20Southern&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 06-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_prairie-view-am-texas-southern-live-streaming-621321408/1"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Bologna",
@@ -424,6 +418,57 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NFL vs RedZone",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20vs%20RedZone&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 06-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/-20260906/1"
+            }
+        ]
+    },
+    {
+        "Category": "Darts",
+        "League": "Darts",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Czech Darts Open | Day 3 - Evening Session",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 06-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - PDC.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-czech-darts-open-day-3-evening-session/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - PDC.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-czech-darts-open-day-3-evening-session/2"
+            }
+        ]
+    },
+    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -532,57 +577,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NFL vs RedZone",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20vs%20RedZone&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 06-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/-20260906/1"
-            }
-        ]
-    },
-    {
-        "Category": "Darts",
-        "League": "Darts",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Czech Darts Open | Day 3 - Evening Session",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 06-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - PDC.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-czech-darts-open-day-3-evening-session/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-czech-darts-open-day-3-evening-session/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Philadelphia Phillies",
@@ -651,6 +645,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-pittsburgh-pirates/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_pirates-angels-live-streaming-594183168/1"
             },
             {
                 "Source": "golf",
@@ -739,6 +740,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-new-york-mets/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-giants-live-streaming-594184464/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -775,6 +783,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-miami-marlins/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-cubs-live-streaming-594184032/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-cubs-live-streaming-594184032/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -809,6 +831,20 @@
                 "Language": "English - CLEGuardians.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_guardians-tigers-live-streaming-594183600/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_guardians-tigers-live-streaming-594183600/2"
             },
             {
                 "Source": "golf",
