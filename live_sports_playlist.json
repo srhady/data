@@ -130,20 +130,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-state-cougars-at-washington-huskies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-state-cougars-at-washington-huskies/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -371,49 +357,6 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Notre Dame",
-        "Team 2 Name": "Wisconsin",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gYwJHVyUQ3ECRAATEBBCJEx0yBB8CFJra5gy8IvNEpgTWmGdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwhwUARBDcQJECpB7EiPvpAp9BCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "Notre Dame vs Wisconsin",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcAggAxiCkThc4FXEgYIFMqUqsa4IglTZmlSiWIY+mSBuLEWTfzCCRTbPTCFgSXNM1DnVghXMk0CfXJnSVJJIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 07-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wisconsin-badgers-at-notre-dame-fighting-irish/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wisconsin-badgers-at-notre-dame-fighting-irish/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_notre-dame-wisconsin-live-streaming-587701872/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/934/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
         "Team 1 Name": "Ole Miss",
         "Team 2 Name": "Louisville",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg+IesFi4Q3ECRAATDSESJjBgzAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
@@ -444,13 +387,42 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_ole-miss-louisville-live-streaming-587702304/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Notre Dame",
+        "Team 2 Name": "Wisconsin",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gYwJHVyUQ3ECRAATEBBCJEx0yBB8CFJra5gy8IvNEpgTWmGdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwhwUARBDcQJECpB7EiPvpAp9BCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Notre Dame vs Wisconsin",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcAggAxiCkThc4FXEgYIFMqUqsa4IglTZmlSiWIY+mSBuLEWTfzCCRTbPTCFgSXNM1DnVghXMk0CfXJnSVJJIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 07-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wisconsin-badgers-at-notre-dame-fighting-irish/1"
             },
             {
-                "Source": "golf",
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wisconsin-badgers-at-notre-dame-fighting-irish/2"
+            },
+            {
+                "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/935/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_notre-dame-wisconsin-live-streaming-587701872/1"
             }
         ]
     },
