@@ -53,28 +53,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Philadelphia Phillies",
-        "Team 2 Name": "Atlanta Braves",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
-        "Match Title": "Philadelphia Phillies vs Atlanta Braves",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSD4J2IbmG67NIYyRApD5mCAiaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:10 PM | 06-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/985/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Baltimore Orioles",
         "Team 2 Name": "Boston Red Sox",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp",
@@ -240,34 +218,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-texas-rangers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-texas-rangers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-rays-live-streaming-594185760/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-rays-live-streaming-594185760/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -403,6 +353,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_washington-washington-st-live-streaming-587701440/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/933/1"
             }
         ]
     },
@@ -500,28 +457,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "2026 NASCAR Cup Series Playoff at Darlington",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20NASCAR%20Cup%20Series%20Playoff%20at%20Darlington&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 AM | 07-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_2026-nascar-cup-series-playoff-at-darlington-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "León",
@@ -561,6 +496,28 @@
                 "Language": "Spanish - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-le-n-vs-am-rica/4"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "2026 NASCAR Cup Series Playoff at Darlington",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20NASCAR%20Cup%20Series%20Playoff%20at%20Darlington&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 07-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_2026-nascar-cup-series-playoff-at-darlington-live-stream/1"
             }
         ]
     },
