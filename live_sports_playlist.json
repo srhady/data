@@ -152,20 +152,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-chicago-white-sox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-chicago-white-sox/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -369,6 +355,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Cruz Azul",
+        "Team 2 Name": "Santos Laguna",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgG0IuMCnYhuIPiAO6SIdYkT6YBCkz5a2YMvCLzRWprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM-ECn5gkoENxB8DGo4f2HEEAhSZ9NbMGXhF5ozU1pgHY0RCA.webp",
+        "Match Title": "Cruz Azul vs Santos Laguna",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJgEIEOxDcQfXSAimQMECQshEfAsCQV7rEWM0qUXMGXhEssl5MtNqi9GFAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 07-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Spanish - TUDN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-santos/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Spanish - TUDN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-santos/2"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -487,35 +502,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Cruz Azul",
-        "Team 2 Name": "Santos Laguna",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgG0IuMCnYhuIPiAO6SIdYkT6YBCkz5a2YMvCLzRWprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM-ECn5gkoENxB8DGo4f2HEEAhSZ9NbMGXhF5ozU1pgHY0RCA.webp",
-        "Match Title": "Cruz Azul vs Santos Laguna",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJgEIEOxDcQfXSAimQMECQshEfAsCQV7rEWM0qUXMGXhEssl5MtNqi9GFAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 07-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - TUDN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-santos/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - TUDN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-santos/2"
             }
         ]
     },
