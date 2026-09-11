@@ -363,6 +363,35 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Giovanni Marquez",
+        "Team 2 Name": "Rowin Javier Sanchez",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Giovanni Marquez - Rowin Javier Sanchez",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Giovanni%20Marquez%20-%20Rowin%20Javier%20Sanchez&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1200/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1200/2"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -659,6 +688,28 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "North Carolina State Wolfpack vs Richmond Spiders",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_nc-state-richmond-live-streaming-587709648/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "NC State",
         "Team 2 Name": "Richmond",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyA7iF5otIACYgIuzSEMgY+kPAIUmfFFzXl680Q6a0wasaIhA.webp",
@@ -682,6 +733,28 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1050/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Virginia",
+        "Team 2 Name": "Norfolk State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzMwAEw0MQMENxDqQEPSZBHzx9QQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFIQfEFAAmdENxAkQWzSESGNOFCBQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Virginia vs Norfolk State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Virginia%20vs%20Norfolk%20State&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_virginia-norfolk-st-live-streaming-587710080/1"
             }
         ]
     },
