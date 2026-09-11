@@ -202,6 +202,35 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Harry Powell",
+        "Team 2 Name": "Nathan Sheppard",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Harry Powell - Nathan Sheppard",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Harry%20Powell%20-%20Nathan%20Sheppard&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 11-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1198/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1198/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Häcken",
@@ -227,35 +256,6 @@
                 "Language": "Swedish - TV4 Fotboll",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bk-h-cken-vs-mj-llby-aif/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Harry Powell",
-        "Team 2 Name": "Nathan Sheppard",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Harry Powell - Nathan Sheppard",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Harry%20Powell%20-%20Nathan%20Sheppard&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 12-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1198/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1198/2"
             }
         ]
     },
