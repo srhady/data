@@ -22,73 +22,60 @@
         ]
     },
     {
-        "Category": "Tennis",
-        "League": "Tennis",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Harry Powell",
+        "Team 2 Name": "Nathan Sheppard",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "US Open",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUwbYBWWMATm13hODSuGBX2HhrrTAGNYVanrCJsCkdGBwxgYGgENgUeOnxZ8cqqzFYCXNNIlguAvnUh0yykMXrAkeNnvE4K-Uuq4MmYETIEQgA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
+        "Match Title": "Harry Powell - Nathan Sheppard",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Harry%20Powell%20-%20Nathan%20Sheppard&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 11-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1198/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1198/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Bílí Tygři Liberec",
+        "Team 2 Name": "Herning Blue Fox",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksMohaAE37B8IbiD4hDOFPsMgIIdYYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQg3khDcQAE20g+IRDph6QEPQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Bílí Tygři Liberec vs Herning Blue Fox",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNgAYQMxFjYhuIPiBM4UJ3CETWCwJBT7DZ9FGBUoub8vT2iPTWjA3MVEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 11-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - ESPN",
+                "Language": "English - IIHF.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-espn/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-b-l-tyg-i-liberec-vs-herning-blue-fox/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - ESPN2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-espn/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Spanish - ESPN Deportes",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-espn/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - ESPN",
+                "Language": "English - IIHF.TV",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-espn/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - ESPN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-espn/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - ESPN Deportes",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-espn/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "English - ABC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-espn/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "English - ABC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-espn/8"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-b-l-tyg-i-liberec-vs-herning-blue-fox/2"
             }
         ]
     },
@@ -169,64 +156,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Harry Powell",
-        "Team 2 Name": "Nathan Sheppard",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Harry Powell - Nathan Sheppard",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Harry%20Powell%20-%20Nathan%20Sheppard&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 11-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1198/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1198/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Bílí Tygři Liberec",
-        "Team 2 Name": "Herning Blue Fox",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksMohaAE37B8IbiD4hDOFPsMgIIdYYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQg3khDcQAE20g+IRDph6QEPQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Bílí Tygři Liberec vs Herning Blue Fox",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNgAYQMxFjYhuIPiBM4UJ3CETWCwJBT7DZ9FGBUoub8vT2iPTWjA3MVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 11-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - IIHF.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-b-l-tyg-i-liberec-vs-herning-blue-fox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - IIHF.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-b-l-tyg-i-liberec-vs-herning-blue-fox/2"
             }
         ]
     },
