@@ -105,70 +105,6 @@
                 "Language": "English - Marquee Sports Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-chicago-cubs/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-pirates-live-streaming-594291168/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1149/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1149/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Union Berlin",
-        "Team 2 Name": "Schalke 04",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gYlECTXbVWlCH0ATEHwMmzywuqZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAmtFLhCbuIACZbdJbSESa+IbYRhr+KLmDLwi80ffXAwjsaIhA.webp",
-        "Match Title": "Union Berlin vs Schalke 04",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjDcQiPrBAkQ2qQdMgj5kDFPwCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 12-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fandango",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-schalke-04/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fandango",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-schalke-04/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "German - Sky Sport Bundesliga 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-schalke-04/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "German - Sky Sport Bundesliga 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-schalke-04/4"
             }
         ]
     },
@@ -328,13 +264,6 @@
                 "Language": "English - Sky Sports Football",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-west-ham-united-vs-wrexham/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_championship_west-ham-wrexham-live-streaming-615067776/1"
             }
         ]
     },
@@ -443,6 +372,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1151/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "BKFC 93: Leonardo Perdomo",
+        "Team 2 Name": "Bear Hill",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BKFC 93: Leonardo Perdomo - Bear Hill",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BKFC%2093%3A%20Leonardo%20Perdomo%20-%20Bear%20Hill&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1199/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1199/2"
             }
         ]
     },
