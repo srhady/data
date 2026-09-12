@@ -289,14 +289,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Sky Sport Bundesliga 2",
+                "Language": "English - Sky Sport Bundesliga 7",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-2-bl-konferenz/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Sky Sport Bundesliga 2",
+                "Language": "English - Sky Sport Bundesliga 7",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-2-bl-konferenz/2"
             }
@@ -350,35 +350,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_championship_derby-birmingham-live-streaming-615068640/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Notts County",
-        "Team 2 Name": "Bradford City",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJRuYPmAAmsENxARcBkDBCIcWkHxAgCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1HywIcEnUhuIPhp16QifRGO4CFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Match Title": "Notts County vs Bradford City",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXDzApgSYAAYQJENxB8Q5nBBBTDp3KYI6KfYbPoowK7W0-l6WWW0mWjBPMVEIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 PM | 12-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sports+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-notts-county-vs-bradford-city/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sports+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-notts-county-vs-bradford-city/2"
             }
         ]
     },
@@ -1337,6 +1308,49 @@
                 "Language": "Italian - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lazio-vs-ac-milan/4"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Oktagon 93 Roušal",
+        "Team 2 Name": "Mågård",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Oktagon 93 Roušal vs Mågård",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrVowQJECmDSQvEFhBmUIbYcPUQiZvmBIKWEXMYowq-Ry-lG1HL6jvRgXuJiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-93-rou-al-vs-m-g-rd/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-93-rou-al-vs-m-g-rd/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "German - RTL+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-93-rou-al-vs-m-g-rd/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "German - RTL+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-93-rou-al-vs-m-g-rd/4"
             }
         ]
     },
