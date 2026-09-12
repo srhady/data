@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "New Zealand Warriors",
-        "Team 2 Name": "Dolphins",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQDECmAAGMKu4gAJiAhGQiU6tXG+BCk1tcwZeEXmitTWmGdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
-        "Match Title": "New Zealand Warriors vs Dolphins",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGFEAGEFHhgkIbiD4mjukCgsgQJEPALAkFPsNn0Umtii6by9LFkfJlowL3pRCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:05 PM | 12-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-warriors-vs-dolphins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-warriors-vs-dolphins/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -54,6 +25,35 @@
                 "Language": "Japanese - U-NEXT",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-one-samurai-3/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Spanish Grand Prix Practice 3",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Spanish%20Grand%20Prix%20Practice%203&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:30 PM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1159/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1159/2"
             }
         ]
     },
@@ -309,6 +309,35 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Cronulla Sharks",
+        "Team 2 Name": "North Queensland Cowboys",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJmHAkQAxKrUgI6kIiN8QFnDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Cronulla Sharks vs North Queensland Cowboys",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL1Bw43ECQ0g+ekIikgYIM-pwKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:50 PM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-cowboys/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sharks-vs-cowboys/2"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -334,6 +363,20 @@
                 "Language": "English - UFC Fight Pass",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-eternal-mma-110-gold-coast/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1310/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1310/2"
             }
         ]
     },
@@ -421,6 +464,28 @@
                 "Language": "English - 2. Bundesliga",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-vf-l-bochum-vs-sp-vgg-greuther-f-rth/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Derby County",
+        "Team 2 Name": "Birmingham City",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhySdWaEFCQhuIEnpB8dB-UYiaCFJnxRcwZeEXmjbTWmHtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5hRAEwQgS2kNxDqQfXCBS6YIS4eWEYwJnxRc15evNFOmtMGrGiIQA.webp",
+        "Match Title": "Derby County vs Birmingham City",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECFpIwM1jm4g+G3CAggphkChAkQEptpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 PM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_championship_derby-birmingham-live-streaming-615068640/1"
             }
         ]
     },
@@ -559,6 +624,35 @@
                 "Language": "Swedish - TV4 Play",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-v-ster-s-sk/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Augsburg",
+        "Team 2 Name": "Bayer Leverkusen",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcwKdWAAmYbiD0QQfEIkMkTuC-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwIECmAAGDSBIhuIPrhAATY+ZAxDt+AQpM+WtmDJr680Vqa0wbsVEIIA.webp",
+        "Match Title": "Augsburg vs Bayer Leverkusen",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBAQQfEDGBSQ3HSFOIYJw7sQoCwDfr7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:30 PM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Bundesliga",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-bayer-leverkusen/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Bundesliga",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-bayer-leverkusen/2"
             }
         ]
     },
@@ -1113,6 +1207,35 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "Army",
+        "Team 2 Name": "South Florida",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wYJCBIgYwACYhuIPiFMxTuEBC2GrBCkz4ouYMvCLzRzpmtdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI4OUQBNg+ENxAkQmkBFVnjKMyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Army vs South Florida",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Army%20vs%20South%20Florida&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1062/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1062/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "Temple",
         "Team 2 Name": "Penn State",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wKYAAZ1sMHxDcQAExAQQiHIZghrZvgQpN7XMGXhF5ojU1phXY0QggA.webp",
@@ -1309,6 +1432,20 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-oregon-ducks-at-oklahoma-state-cowboys/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1053/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1053/2"
             }
         ]
     },
@@ -1786,6 +1923,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Marquee Sports Net",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-chicago-cubs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Marquee Sports Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-chicago-cubs/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -2030,6 +2181,20 @@
                 "Language": "English - LaLiga",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-real-madrid-vs-rayo-vallecano/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1145/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1145/2"
             }
         ]
     },
@@ -2260,6 +2425,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1065/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "UConn",
+        "Team 2 Name": "Maryland",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJJOAEwbYQ3ECRDqQEEIkSGUISxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3wgyZWnzB8Q3EDsQgQEXSESISxghSZ8UXMBqLzR9prTCOxoiEA.webp",
+        "Match Title": "UConn vs Maryland",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UConn%20vs%20Maryland&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:30 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1074/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1074/2"
             }
         ]
     },
@@ -2724,6 +2918,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Marlins.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-miami-marlins/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Marlins.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-miami-marlins/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -2824,6 +3032,20 @@
         "Start Time": "04:10 AM | 13-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Rays.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-tampa-bay-rays/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Rays.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-tampa-bay-rays/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -3348,6 +3570,35 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Columbus Crew",
+        "Team 2 Name": "New York Red Bulls",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyhIEIEM1ghuIACa4QKEDBAkjGsyAgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgyKaABMwKENxAQQfEIhImQmgxdwEKTPii5ry9eaMdNaYNWNEQgA.webp",
+        "Match Title": "Columbus Crew vs New York Red Bulls",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKa0ADNlwhuIPiBggpRgyESHD8AsCQU+w2fRRgVKLh-L0ssry1gMA8xUQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-red-bull-new-york/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-columbus-crew-vs-red-bull-new-york/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Inter Miami",
         "Team 2 Name": "Nashville SC",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJD0UkELRIhuIACYgYuHYc37VIPgQpMrXMGXhF5olMCa0wDsaIhA.webp",
@@ -3517,6 +3768,20 @@
         "Start Time": "05:30 AM | 13-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CBS",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-tech-red-raiders-at-oregon-state-beavers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CBS",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-tech-red-raiders-at-oregon-state-beavers/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
