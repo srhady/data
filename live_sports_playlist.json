@@ -360,36 +360,14 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "College GameDay",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=College%20GameDay&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 12-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_college-gameday-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Pro Motocross: Columbus",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp",
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "AIK",
+        "Team 2 Name": "Västerås",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+5VeG4htEXCBgg+IACYgUIEgZDwCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksITNi3EABMQG7RBD6SIY9qMblhGMCZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "AIK vs Västerås",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKRRCCkYFCG4g+IYxBCIShkKZwoCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 PM | 12-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -397,16 +375,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Peacock",
+                "Language": "Swedish - TV4 Fotboll",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pro-motocross-columbus/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-v-ster-s-sk/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Peacock",
+                "Language": "Swedish - TV4 Fotboll",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pro-motocross-columbus/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-v-ster-s-sk/2"
             }
         ]
     },
@@ -461,14 +439,14 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "AIK",
-        "Team 2 Name": "Västerås",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+5VeG4htEXCBgg+IACYgUIEgZDwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksITNi3EABMQG7RBD6SIY9qMblhGMCZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "AIK vs Västerås",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKRRCCkYFCG4g+IYxBCIShkKZwoCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Pro Motocross: Columbus",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 PM | 12-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -476,16 +454,38 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Swedish - TV4 Fotboll",
+                "Language": "English - Peacock",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-v-ster-s-sk/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pro-motocross-columbus/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Swedish - TV4 Fotboll",
+                "Language": "English - Peacock",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-v-ster-s-sk/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pro-motocross-columbus/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "College GameDay",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=College%20GameDay&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 PM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_college-gameday-live-stream/1"
             }
         ]
     },
@@ -877,6 +877,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-aston-villa-vs-nottingham-forest/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_aston-villa-forest-live-streaming-615390480/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -918,6 +925,13 @@
                 "Language": "English - Sky Sport PU 4",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-crystal-palace-vs-ipswich-town/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_crystal-palace-ipswich-live-streaming-615391776/1"
             },
             {
                 "Source": "golf",
@@ -1006,6 +1020,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-liverpool-vs-fulham/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_liverpool-fulham-live-streaming-615392208/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1047,6 +1068,13 @@
                 "Language": "English - Sky Sport PU 3",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-afc-bournemouth-vs-brentford/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_bournemouth-brentford-live-streaming-615390912/1"
             },
             {
                 "Source": "golf",
@@ -1853,35 +1881,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1064/2"
-            }
-        ]
-    },
-    {
-        "Category": "Darts",
-        "League": "Darts",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Flanders Darts Trophy | Day 2 - Evening Session",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 12-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - PDC.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-flanders-darts-trophy-day-2-evening-session/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-flanders-darts-trophy-day-2-evening-session/2"
             }
         ]
     },
