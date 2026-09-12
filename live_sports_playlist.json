@@ -82,35 +82,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Strasbourg",
-        "Team 2 Name": "Monaco",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwhgABhB8tYbdy0gAJkZM4SIczBATCMYEz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIhgSYABMQosCG4htfECZMxT5iCAgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Strasbourg vs Monaco",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJzgkYUSRDcQfDSAghzMECgMhLfAsB0x+w2fRS62KLrvL0sst5MtGCe9KIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:15 PM | 12-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-strasbourg-vs-as-monaco/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-strasbourg-vs-as-monaco/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "IFK Göteborg",
         "Team 2 Name": "Halmstad",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRg+YVeCgwQ3EBFwgU+kHxA6ShlAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
@@ -894,6 +865,13 @@
                 "Language": "English - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-jordan-mc-cann-vs-big-stacks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_mccann-vs-big-stacks-live-stream/1"
             }
         ]
     },
@@ -1063,6 +1041,221 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Robert Toman",
+        "Team 2 Name": "Mohammed Dilshad",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Toman vs Dilshad",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Toman%20vs%20Dilshad&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_toman-vs-dilshad-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1309/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1309/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Al-Khaleej",
+        "Team 2 Name": "Al-Nassr",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAATYKpDqB3ELr4gShvSBS4tIRDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqoKMABMwvFCG4g+ICKpAlcxsyE1mCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Al-Khaleej vs Al-Nassr",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmD4gpuELxzcQWkiFM4UunTngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_saudi-pro-league_al-khaleej-al-nassr-live-streaming-614926512/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Fortuna Sittard",
+        "Team 2 Name": "Ajax",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25hVOASkghuIACYhDJEMZT6QZiCD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiT8QKIinYhuIPiBIGQEdUZwh1BCkz5a2YMvCLzRWprTAOxoiEA.webp",
+        "Match Title": "Fortuna Sittard vs Ajax",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMvHJJIIXdxB9duYzBAozRhU20x+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Dutch - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-ajax-amsterdam/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Dutch - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-ajax-amsterdam/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "UFC Fight Night 288 Silva",
+        "Team 2 Name": "Delgado",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UFC Fight Night 288 Silva vs Delgado",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtVZ8mwAAw0QvEFhCmUhkNUshzEEDBZIKWEXMYowqlD0-lGmsW98LTBPcTEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Spanish - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Spanish - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Portuguese - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Portuguese - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/6"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_noche-ufc-live-stream/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_noche-ufc-live-stream/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_noche-ufc-live-stream/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1306/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1306/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1306/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1306/4"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Ball State",
+        "Team 2 Name": "Stony Brook",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFWxAQQMECRDc9IFVpCJE+-SZgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRg+IUWz6wQ3EABMQEXCHU4c69TAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Ball State vs Stony Brook",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ball%20State%20vs%20Stony%20Brook&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_ball-state-stony-brook-live-streaming-587761056/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -1210,185 +1403,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Al-Khaleej",
-        "Team 2 Name": "Al-Nassr",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAATYKpDqB3ELr4gShvSBS4tIRDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqoKMABMwvFCG4g+ICKpAlcxsyE1mCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Al-Khaleej vs Al-Nassr",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmD4gpuELxzcQWkiFM4UunTngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_saudi-pro-league_al-khaleej-al-nassr-live-streaming-614926512/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Fortuna Sittard",
-        "Team 2 Name": "Ajax",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25hVOASkghuIACYhDJEMZT6QZiCD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiT8QKIinYhuIPiBIGQEdUZwh1BCkz5a2YMvCLzRWprTAOxoiEA.webp",
-        "Match Title": "Fortuna Sittard vs Ajax",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMvHJJIIXdxB9duYzBAozRhU20x+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Dutch - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-ajax-amsterdam/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Dutch - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-ajax-amsterdam/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "UFC Fight Night 288 Silva",
-        "Team 2 Name": "Delgado",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC Fight Night 288 Silva vs Delgado",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtVZ8mwAAw0QvEFhCmUhkNUshzEEDBZIKWEXMYowqlD0-lGmsW98LTBPcTEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Spanish - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "Spanish - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Portuguese - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Portuguese - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-noche-ufc-silva-vs-delgado/6"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_noche-ufc-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_noche-ufc-live-stream/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_noche-ufc-live-stream/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1306/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1306/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1306/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1306/4"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Ball State",
-        "Team 2 Name": "Stony Brook",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFWxAQQMECRDc9IFVpCJE+-SZgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRg+IUWz6wQ3EABMQEXCHU4c69TAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Ball State vs Stony Brook",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ball%20State%20vs%20Stony%20Brook&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_ball-state-stony-brook-live-streaming-587761056/1"
             }
         ]
     },
@@ -1641,35 +1655,13 @@
                 "Language": "Italian - Sky Sport Calcio",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atalanta-vs-cagliari/6"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Robert Toman",
-        "Team 2 Name": "Mohammed Dilshad",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Toman v Dilshad",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Toman%20v%20Dilshad&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
+            },
             {
-                "Source": "golf",
+                "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1309/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1309/2"
+                "Embed_URL": "https://embed.st/embed/delta/live_serie-a_atalanta-cagliari-live-streaming-615394368/1"
             }
         ]
     },
