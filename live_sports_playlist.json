@@ -24,8 +24,8 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Giovanni Marquez",
-        "Team 2 Name": "Rowin Javier Sanchez",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "Marquez vs Sanchez",
@@ -40,20 +40,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_marquez-vs-sanchez-live-stream/1"
-            },
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "New Zealand Warriors",
+        "Team 2 Name": "Dolphins",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQDECmAAGMKu4gAJiAhGQiU6tXG+BCk1tcwZeEXmitTWmGdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
+        "Match Title": "New Zealand Warriors vs Dolphins",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGFEAGEFHhgkIbiD4mjukCgsgQJEPALAkFPsNn0Umtii6by9LFkfJlowL3pRCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:05 PM | 12-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
             {
-                "Source": "golf",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Fox League",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1200/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-warriors-vs-dolphins/1"
             },
             {
-                "Source": "golf",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English",
+                "Language": "English - Fox League",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1200/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-warriors-vs-dolphins/2"
             }
         ]
     },
@@ -205,35 +220,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "New Zealand Warriors",
-        "Team 2 Name": "Dolphins",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQDECmAAGMKu4gAJiAhGQiU6tXG+BCk1tcwZeEXmitTWmGdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
-        "Match Title": "New Zealand Warriors vs Dolphins",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGFEAGEFHhgkIbiD4mjukCgsgQJEPALAkFPsNn0Umtii6by9LFkfJlowL3pRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:05 PM | 12-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-warriors-vs-dolphins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-warriors-vs-dolphins/2"
             }
         ]
     },
