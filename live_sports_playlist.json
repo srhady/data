@@ -151,20 +151,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BTN Alt",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-state-aztecs-at-ucla-bruins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BTN Alt",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-state-aztecs-at-ucla-bruins/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -467,20 +453,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ohio-state-buckeyes-at-texas-longhorns/4"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_texas-ohio-state-live-streaming-587757168/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_texas-ohio-state-live-streaming-587757168/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -708,20 +680,6 @@
                 "Language": "English - DBACKS.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594320544/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594320544/2"
             },
             {
                 "Source": "golf",
@@ -954,20 +912,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_clemson-georgia-southern-live-streaming-587755008/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1319/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1319/2"
             }
         ]
     },
@@ -1372,35 +1316,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_usc-lafayette-live-streaming-587759328/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Cruz Azul",
-        "Team 2 Name": "América",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Cruz Azul vs. América",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMESIUpEFhA0SCkPGASJq4cCogtZLYjJL5IbXMkqQVpRBABjOTP5hBIptnphCwJLjsyhF1YJPXoCSXIXNVI1IA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - ViX Premium Deportes 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-am-rica/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - ViX Premium Deportes 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-am-rica/2"
             }
         ]
     },
@@ -2073,6 +1988,20 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1148/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1148/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1148/4"
             }
         ]
     },
