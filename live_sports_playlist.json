@@ -503,20 +503,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-toronto-blue-jays/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-toronto-blue-jays/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -546,20 +532,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marlins.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-miami-marlins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marlins.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-miami-marlins/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -588,20 +560,6 @@
         "Start Time": "11:40 PM | 13-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rays.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-tampa-bay-rays/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rays.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-tampa-bay-rays/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -775,13 +733,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-chicago-cubs/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-pirates-live-streaming-594345600/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -794,64 +745,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1193/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Sassuolo",
-        "Team 2 Name": "Juventus",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApyUACawQ3EBD0hDhmCA06QiEAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIhgAExAx+2ENxB8QEXCBQhziQzj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Match Title": "Sassuolo vs Juventus",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKOBRgyKkNxB8QJIyBQhEEEJcMwCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 14-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sassuolo-vs-juventus/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sassuolo-vs-juventus/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Brest",
-        "Team 2 Name": "Paris Saint-Germain",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgAJiBQNSICCG4gSmkCb7GzMXOoIUmfLWzBl4ReaK1NaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "Brest vs Paris Saint-Germain",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHN1zEmGkHxAHNOCCBQgjBgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 14-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brest-vs-paris-saint-germain/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brest-vs-paris-saint-germain/2"
             }
         ]
     },
@@ -1306,6 +1199,42 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Chicago Fire",
+        "Team 2 Name": "New England Revolution",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhwoxH1UhuIACYhEKEBBDHEug3oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp",
+        "Match Title": "Chicago Fire vs New England Revolution",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 AM | 14-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-new-england-revolution/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-new-england-revolution/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_chicago-new-england-live-streaming-539229312/1"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -1460,42 +1389,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_nfl-network-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Chicago Fire",
-        "Team 2 Name": "New England Revolution",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhwoxH1UhuIACYhEKEBBDHEug3oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp",
-        "Match Title": "Chicago Fire vs New England Revolution",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:30 AM | 14-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-new-england-revolution/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-new-england-revolution/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_chicago-new-england-live-streaming-539229312/1"
             }
         ]
     },
