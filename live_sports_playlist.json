@@ -858,35 +858,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Boston Red Sox",
-        "Team 2 Name": "Kansas City Royals",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Boston Red Sox - Kansas City Royals",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Boston%20Red%20Sox%20-%20Kansas%20City%20Royals&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:35 PM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1184/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1184/2"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Toronto Blue Jays",
         "Team 2 Name": "Baltimore Orioles",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp",
@@ -1443,6 +1414,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Famalicao",
+        "Team 2 Name": "Sporting CP",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24haAExBTsIVSRCbEm-Yhz71BCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiQ7MKIAMIPiG66QRxAcR6je5YRjAmfFF03l680Q6a0wmsaIhA.webp",
+        "Match Title": "Famalicao vs Sporting CP",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVDhxEMENxB8QRqQb1GQKUygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:30 AM | 14-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - beIN SPORTS CONNECT 4",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-famalicao-vs-sporting-cp/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - beIN SPORTS CONNECT 4",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-famalicao-vs-sporting-cp/2"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -1601,35 +1601,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Famalicao",
-        "Team 2 Name": "Sporting CP",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24haAExBTsIVSRCbEm-Yhz71BCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiQ7MKIAMIPiG66QRxAcR6je5YRjAmfFF03l680Q6a0wmsaIhA.webp",
-        "Match Title": "Famalicao vs Sporting CP",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVDhxEMENxB8QRqQb1GQKUygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:30 AM | 14-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - beIN SPORTS CONNECT 4",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-famalicao-vs-sporting-cp/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - beIN SPORTS CONNECT 4",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-famalicao-vs-sporting-cp/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Athletics",
@@ -1655,6 +1626,13 @@
                 "Language": "English - NBC Sports CA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-athletics/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-mariners-live-streaming-594346032/1"
             },
             {
                 "Source": "golf",
@@ -1698,6 +1676,20 @@
                 "Language": "English - DBACKS.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594346464/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594346464/2"
             },
             {
                 "Source": "golf",
