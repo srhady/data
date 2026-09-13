@@ -95,35 +95,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "PEC Zwolle",
-        "Team 2 Name": "Feyenoord",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6wwAEzCq+YFCG4gIIPiEQlThkFZyMKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJQyWaCBDcQEEHxCISh3VpAxDBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Match Title": "PEC Zwolle vs Feyenoord",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFPzBJN9biD18QRnDhggU5o0YLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:45 PM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Dutch - ESPN2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pec-zwolle-vs-feyenoord-rotterdam/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Dutch - ESPN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pec-zwolle-vs-feyenoord-rotterdam/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Le Mans",
         "Team 2 Name": "Lens",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFJQYNSjAATENxB8QMI3pAQQJEzm0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
@@ -381,14 +352,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Sky Sports Mix",
+                "Language": "English - NFL RedZone",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-red-zone/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Sky Sports Mix",
+                "Language": "English - NFL RedZone",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-red-zone/2"
             },
@@ -1450,6 +1421,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-minnesota-twins/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-guardians-live-streaming-594344736/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-guardians-live-streaming-594344736/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1491,6 +1476,20 @@
                 "Language": "English - Brewers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-reds-live-streaming-594344304/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-reds-live-streaming-594344304/2"
             },
             {
                 "Source": "golf",
@@ -1536,6 +1535,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-st-louis-cardinals/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cardinals-white-sox-live-streaming-594345168/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cardinals-white-sox-live-streaming-594345168/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1577,6 +1590,13 @@
                 "Language": "English - Marquee Sports Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-chicago-cubs/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-pirates-live-streaming-594345600/1"
             },
             {
                 "Source": "golf",
