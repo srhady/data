@@ -634,35 +634,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Benfica",
-        "Team 2 Name": "Gil Vicente",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAkIegAYwKZiG4g+IYwYMlcGkIgAmBCkz662YMvCLzRuprTAuxoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqQDBPxAQQ3EABNcBozF0gSIU-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Benfica vs Gil Vicente",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUSGBIeYnNxB8QRqQZD6jKECZAEtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - beIN SPORTS CONNECT 4",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-benfica-vs-gil-vicente/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - beIN SPORTS CONNECT 4",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-benfica-vs-gil-vicente/2"
-            }
-        ]
-    },
-    {
         "Category": "Darts",
         "League": "Darts",
         "Team 1 Name": "",
@@ -1735,6 +1706,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-cardinals-at-los-angeles-chargers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_chargers-cardinals-live-streaming-587782656/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1890,6 +1868,13 @@
                 "Language": "English - FOX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-dolphins-at-las-vegas-raiders/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_raiders-dolphins-live-streaming-587782224/1"
             },
             {
                 "Source": "golf",
