@@ -272,13 +272,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_pittsburgh-ucf-live-streaming-587747664/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -391,6 +384,35 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "Michigan State",
+        "Team 2 Name": "Eastern Michigan",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxgQwfCD5gUdENxAkQAExAQQiRKZxHjBCkz662YMvCLzRuprTCuxohBAA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADuIKPSS4Q6kiAAmGkIkT6QO5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Michigan State vs Eastern Michigan",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Michigan%20State%20vs%20Eastern%20Michigan&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:30 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1073/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1073/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "UConn",
         "Team 2 Name": "Maryland",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJJOAEwbYQ3ECRDqQEEIkSGUISxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
@@ -414,6 +436,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1074/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Washington",
+        "Team 2 Name": "Utah State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kpySfjxDcQJEABMQEEIkR8QMEyBQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Washington vs Utah State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Washington%20vs%20Utah%20State&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:30 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1068/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1068/2"
             }
         ]
     },
@@ -501,57 +552,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1076/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "SMU",
-        "Team 2 Name": "UC Davis",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3jk+IKcAAMIbiBIgAJhpCJEx4+pAEKTPii5gyq+vNEOmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+CYEnYg+IbiBIgAJiAghEh3SnMgUBCkz4ouYMvCLzRzprTCuxohBAA.webp",
-        "Match Title": "SMU vs UC Davis",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggSIAMYh4wRFQUjgKmNNIgdskXJApxhpSBWIpWY1ZRK7ww7f5hBagtnphCwJLlm2hF1YINTJbd0UwF0lSSSA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ACCNX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uc-davis-aggies-at-smu-mustangs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ACCNX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uc-davis-aggies-at-smu-mustangs/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Wyoming",
-        "Team 2 Name": "Northern Colorado",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhV8MNxAg6ILSRAATEBBCJEfXCBhGCFJnxRcwZDfXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIwIOiF6JuIEiAAmICCET6+x3CBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Wyoming vs Northern Colorado",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGJBywKMCBDcQUkChCIYICGYMgSBgsCQU+w2fV0qUXMGXhEssl5MtGA+YqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_wyoming-northern-colorado-bears-live-streaming-587764512/1"
             }
         ]
     },
@@ -726,70 +726,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1077/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Ryan Garcia",
-        "Team 2 Name": "Conor Benn",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Ryan Garcia vs Conor Benn",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRChAowZRDm4g+IY1JCISICCAMW+BYEgp3WIsdpUouO8vSyzPTLRgOmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/3"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/4"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 5,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/5"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1307/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1307/2"
             }
         ]
     },
@@ -2019,6 +1955,120 @@
     {
         "Category": "Fight",
         "League": "Fight",
+        "Team 1 Name": "Ryan Garcia",
+        "Team 2 Name": "Conor Benn",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ryan Garcia vs Conor Benn",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRChAowZRDm4g+IY1JCISICCAMW+BYEgp3WIsdpUouO8vSyzPTLRgOmKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN PPV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-garcia-vs-benn/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN PPV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-garcia-vs-benn/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-garcia-vs-benn/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-garcia-vs-benn/4"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/4"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 5,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garcia-vs-conor-benn-live-stream/5"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1307/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1307/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "TCU",
+        "Team 2 Name": "Grambling State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJ7YQ9eGAAmIbiBIgdEEIkQ6+h3QQpM+KLmDKb680faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwEATYAAYuGyCG4gSIVSAghEh43xDX4BCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "TCU vs Grambling State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TCU%20vs%20Grambling%20State&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_tcu-grambling-st-live-streaming-587770560/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
@@ -2048,12 +2098,12 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "TCU",
-        "Team 2 Name": "Grambling State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJ7YQ9eGAAmIbiBIgdEEIkQ6+h3QQpM+KLmDKb680faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwEATYAAYuGyCG4gSIVSAghEh43xDX4BCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "TCU vs Grambling State",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TCU%20vs%20Grambling%20State&font=Oswald",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Baylor Bears vs Prairie View A&M Panthers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Baylor%20Bears%20vs%20Prairie%20View%20A%26M%20Panthers&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 13-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -2063,7 +2113,86 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_tcu-grambling-st-live-streaming-587770560/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_baylor-prairie-view-am-live-streaming-587770128/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Baylor",
+        "Team 2 Name": "Prairie View A and M",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyT8QAiCCgkQ3EDoAmWkIkQ6dfEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJiAggBYYBtUl1mkIkN8QhmJoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Baylor vs Prairie View A and M",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Baylor%20vs%20Prairie%20View%20A%20and%20M&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:08 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_baylor-prairie-view-am-live-streaming-587770128/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Arizona Diamondbacks",
+        "Team 2 Name": "Texas Rangers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Arizona Diamondbacks vs Texas Rangers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmBAQtIcNxD6+ukCRAoDZizglMkFPsNn0UYFSi6vy9LLPdMNrmKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:10 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DBACKS.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DBACKS.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594320544/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594320544/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1180/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1180/2"
             }
         ]
     },
@@ -2219,85 +2348,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Baylor",
-        "Team 2 Name": "Prairie View A and M",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyT8QAiCCgkQ3EDoAmWkIkQ6dfEwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJiAggBYYBtUl1mkIkN8QhmJoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Baylor vs Prairie View A and M",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Baylor%20vs%20Prairie%20View%20A%20and%20M&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:08 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_baylor-prairie-view-am-live-streaming-587770128/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Arizona Diamondbacks",
-        "Team 2 Name": "Texas Rangers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Arizona Diamondbacks vs Texas Rangers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmBAQtIcNxD6+ukCRAoDZizglMkFPsNn0UYFSi6vy9LLPdMNrmKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:10 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DBACKS.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DBACKS.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594320544/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594320544/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1180/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1180/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "St. Louis City SC",
@@ -2431,6 +2481,50 @@
                 "Language": "Spanish - ViX Premium Deportes 2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-monterrey-vs-tigres-uanl/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "UTEP",
+        "Team 2 Name": "Texas Southern",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIGLgpQkIbiBIg1EEIkR91+9QQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOBJ2sIgBMQ3ECRDaIIRPr4gUIGCAgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "UTEP vs Texas Southern",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UTEP%20vs%20Texas%20Southern&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_utep-texas-southern-live-streaming-587770992/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "San Jose State",
+        "Team 2 Name": "Cal Poly",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBluIFCAGIc6kiAAmICCESIjFkBsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgSIdQBN2ITSG4bdICCERbjF5YRjAmfFFzXl680Q6a0wasaIhA.webp",
+        "Match Title": "San Jose State vs Cal Poly",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGW4gYwAAwhwBrVJAoQEEH1PnLBgwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_san-jose-st-cal-poly-mustangs-live-streaming-610394400/1"
             }
         ]
     },
