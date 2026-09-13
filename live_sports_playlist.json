@@ -490,6 +490,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Malmö",
+        "Team 2 Name": "Örgryte",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhARcIFMCRgkdENxB9DGk2pghEB5YRjAmfTWzBl4ReaM1NaYZ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjk4WMNzAgQ3EBBB8QiEvpAxzIFDoIUmfFFzBlV9eaMdNaYZ2NEQgA.webp",
+        "Match Title": "Malmö vs Örgryte",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRndsGhCG4g+IYxA0gSxkFPO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 PM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Swedish - TV4 Sport Live 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-malm-ff-vs-rgryte-is/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Swedish - TV4 Sport Live 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-malm-ff-vs-rgryte-is/2"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -608,35 +637,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Malmö",
-        "Team 2 Name": "Örgryte",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhARcIFMCRgkdENxB9DGk2pghEB5YRjAmfTWzBl4ReaM1NaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjk4WMNzAgQ3EBBB8QiEvpAxzIFDoIUmfFFzBlV9eaMdNaYZ2NEQgA.webp",
-        "Match Title": "Malmö vs Örgryte",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRndsGhCG4g+IYxA0gSxkFPO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 PM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Swedish - TV4 Sport Live 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-malm-ff-vs-rgryte-is/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Swedish - TV4 Sport Live 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-malm-ff-vs-rgryte-is/2"
             }
         ]
     },
@@ -1118,6 +1118,20 @@
                 "Language": "English - FOX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-falcons-at-pittsburgh-steelers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_steelers-falcons-live-streaming-587781360/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_steelers-falcons-live-streaming-587781360/2"
             },
             {
                 "Source": "golf",
