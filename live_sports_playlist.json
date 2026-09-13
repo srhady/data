@@ -2,49 +2,6 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "UFC Fight Night 288 Silva",
-        "Team 2 Name": "Delgado",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC Fight Night 288 Silva - Delgado",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UFC%20Fight%20Night%20288%20Silva%20-%20Delgado&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1306/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1306/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1306/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1306/4"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
@@ -110,6 +67,35 @@
                 "Language": "English - Mat 3",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-2026-adcc-world-championships-day-2/8"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Excelsior",
+        "Team 2 Name": "Utrecht",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lt5+ECjAATENxC6cJPSD64QxywQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRIYtxB8QWgCa4QJXSAM6tMEBAIUmfFFzXl680Q6a0wasaIhA.webp",
+        "Match Title": "Excelsior vs Utrecht",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:15 PM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Dutch - ESPN2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-excelsior-vs-fc-utrecht/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Dutch - ESPN2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-excelsior-vs-fc-utrecht/2"
             }
         ]
     },
@@ -261,35 +247,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Excelsior",
-        "Team 2 Name": "Utrecht",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lt5+ECjAATENxC6cJPSD64QxywQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRIYtxB8QWgCa4QJXSAM6tMEBAIUmfFFzXl680Q6a0wasaIhA.webp",
-        "Match Title": "Excelsior vs Utrecht",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:15 PM | 13-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Dutch - ESPN2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-excelsior-vs-fc-utrecht/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Dutch - ESPN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-excelsior-vs-fc-utrecht/2"
             }
         ]
     },
@@ -519,14 +476,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Sport Live 2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-kalmar-ff/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Sport Live 2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-kalmar-ff/2"
             }
@@ -779,14 +736,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Sport Live 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-malm-ff-vs-rgryte-is/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Swedish - TV4 Play",
+                "Language": "Swedish - TV4 Sport Live 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-malm-ff-vs-rgryte-is/2"
             }
@@ -808,14 +765,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Dutch - ESPN",
+                "Language": "Dutch - ESPN2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pec-zwolle-vs-feyenoord-rotterdam/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Dutch - ESPN",
+                "Language": "Dutch - ESPN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pec-zwolle-vs-feyenoord-rotterdam/2"
             }
@@ -2381,14 +2338,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - TUDN",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-santos-vs-fc-juarez/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - TUDN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-santos-vs-fc-juarez/2"
             }
@@ -2482,14 +2439,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - Telemundo",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-guadalajara-vs-pumas-unam/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - Telemundo",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-guadalajara-vs-pumas-unam/2"
             }
