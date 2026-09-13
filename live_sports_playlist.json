@@ -201,14 +201,36 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "VfL Osnabruck",
-        "Team 2 Name": "Hertha Berlin",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "VfL Osnabruck vs. Hertha Berlin",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMAjB4IkFRABjEFjkgywtdJDaYICCBnyZwrSpmINIUiA1l9VyxP5hBIptnphCwJLgUShF1YpEzIJAmlyF0lSSSA.webp",
+        "Match Title": "NFL Network",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20Network&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 PM | 13-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_nfl-network-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Heidenheim",
+        "Team 2 Name": "Holstein Kiel",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzANgSEAL4gYIbiAAmOkCZyIjKEyYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8AJhTZ8EqkCV0QQiFCEP6cEAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Heidenheim vs Holstein Kiel",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJoizsEckNxB8QRxDAMgpR8yHgFgSCn2Gz6KMCpRc35eltEeNwGBuYqIQQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "05:30 PM | 13-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -216,16 +238,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "German - Sky Sport Bundesliga 2",
+                "Language": "German - Sky Sport Bundesliga 4",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vf-l-osnabruck-vs-hertha-berlin/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-heidenheim-1846-vs-holstein-kiel/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "German - Sky Sport Bundesliga 2",
+                "Language": "German - Sky Sport Bundesliga 4",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vf-l-osnabruck-vs-hertha-berlin/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-heidenheim-1846-vs-holstein-kiel/2"
             }
         ]
     },
@@ -261,12 +283,12 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Heidenheim",
-        "Team 2 Name": "Holstein Kiel",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzANgSEAL4gYIbiAAmOkCZyIjKEyYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8AJhTZ8EqkCV0QQiFCEP6cEAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Heidenheim vs Holstein Kiel",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJoizsEckNxB8QRxDAMgpR8yHgFgSCn2Gz6KMCpRc35eltEeNwGBuYqIQQA.webp",
+        "Team 1 Name": "VfL Osnabruck",
+        "Team 2 Name": "Hertha Berlin",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "VfL Osnabruck vs. Hertha Berlin",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMAjB4IkFRABjEFjkgywtdJDaYICCBnyZwrSpmINIUiA1l9VyxP5hBIptnphCwJLgUShF1YpEzIJAmlyF0lSSSA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "05:30 PM | 13-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -274,16 +296,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "German - Sky Sport Bundesliga 4",
+                "Language": "German - Sky Sport Bundesliga 2",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-heidenheim-1846-vs-holstein-kiel/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-vf-l-osnabruck-vs-hertha-berlin/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "German - Sky Sport Bundesliga 4",
+                "Language": "German - Sky Sport Bundesliga 2",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-1-fc-heidenheim-1846-vs-holstein-kiel/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-vf-l-osnabruck-vs-hertha-berlin/2"
             }
         ]
     },
@@ -406,35 +428,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NFL Network",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmQggAxqWwgqIGMBokQIUiETqpwkHphaRSmSClYQF9bMXKaU6SnIRQYQSKbZ6YQsCS5HIXJuThdhOScCYHhyN2AXSSA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NFL Network (ESPN)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NFL Network (ESPN)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
             }
         ]
     },
