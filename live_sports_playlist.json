@@ -102,35 +102,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Boston Red Sox",
-        "Team 2 Name": "Kansas City Royals",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp",
-        "Match Title": "Boston Red Sox vs Kansas City Royals",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOANpYwKEDBDcQfECZIhdhi7hAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:05 AM | 14-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-royals-live-streaming-594339552/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-royals-live-streaming-594339552/2"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Athletics",
         "Team 2 Name": "Seattle Mariners",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp",
@@ -170,20 +141,6 @@
         "Start Time": "02:10 AM | 14-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DBACKS.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DBACKS.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -271,20 +228,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-green-bay-packers-at-minnesota-vikings/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_vikings-packers-live-streaming-587783088/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_vikings-packers-live-streaming-587783088/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -326,20 +269,6 @@
                 "Language": "English - FOX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-commanders-at-philadelphia-eagles/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_eagles-commanders-live-streaming-587783520/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_eagles-commanders-live-streaming-587783520/2"
             },
             {
                 "Source": "golf",
@@ -426,13 +355,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-new-england-revolution/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_chicago-new-england-live-streaming-539229312/1"
             }
         ]
     },
@@ -577,6 +499,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1196/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Santos",
+        "Team 2 Name": "FC Juarez",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Santos vs. FC Juarez",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRDCpwRCGBUQAY1KyQNEspAQQKLZsRz1utTp2JzIGGs0kU5CKDCCRTbPTCFgSXEvtDnVkdhVXsCWXJnYEcyCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 14-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Spanish - TUDN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-santos-vs-fc-juarez/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Spanish - TUDN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-santos-vs-fc-juarez/2"
             }
         ]
     },
@@ -735,35 +686,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_nfl-network-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Santos",
-        "Team 2 Name": "FC Juarez",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Santos vs. FC Juarez",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRDCpwRCGBUQAY1KyQNEspAQQKLZsRz1utTp2JzIGGs0kU5CKDCCRTbPTCFgSXEvtDnVkdhVXsCWXJnYEcyCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 14-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - TUDN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-santos-vs-fc-juarez/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - TUDN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-santos-vs-fc-juarez/2"
             }
         ]
     },
