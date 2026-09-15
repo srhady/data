@@ -2,35 +2,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Rayo Vallecano",
-        "Team 2 Name": "Espanyol",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0JJQYEiBQgIIbiAAmITSa3Gdh4wQpM+KLhvL15o+01pgNY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Rayo Vallecano vs Espanyol",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJDheSYJpQhuIPlpAQQBmGetapBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 15-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-espanyol/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-espanyol/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Ajax",
         "Team 2 Name": "Willem II",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiT8QKIinYhuIPiBIGQEdUZwh1BCkz5a2YMvCLzRWprTAOxoiEA.webp",
@@ -421,6 +392,13 @@
                 "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-elche-vs-real-madrid/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_laliga_elche-real-madrid-live-streaming-616682160/1"
             },
             {
                 "Source": "golf",
