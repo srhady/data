@@ -534,35 +534,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "SK Sturm Graz",
-        "Team 2 Name": "Stade Rennais",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "SK Sturm Graz vs. Stade Rennais",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGNmAQQVcSADGIRLPmkFwFQqVb42ECClqSMkCj0wZGkMf2KqZ-mEEimkh4WBJc8s0KesIFzIzAmBdMCdDMgggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 17-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sk-sturm-graz-vs-stade-rennais/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sk-sturm-graz-vs-stade-rennais/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Olympiacos",
         "Team 2 Name": "Jagiellonia Bialystok",
         "Team 1 Logo": "",
@@ -600,6 +571,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1396/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "SK Sturm Graz",
+        "Team 2 Name": "Stade Rennais",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "SK Sturm Graz vs. Stade Rennais",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGNmAQQVcSADGIRLPmkFwFQqVb42ECClqSMkCj0wZGkMf2KqZ-mEEimkh4WBJc8s0KesIFzIzAmBdMCdDMgggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 17-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sk-sturm-graz-vs-stade-rennais/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sk-sturm-graz-vs-stade-rennais/2"
             }
         ]
     },
@@ -861,6 +861,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-coventry-city-vs-aston-villa/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_efl-cup_coventry-aston-villa-live-streaming-625658256/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -902,6 +909,13 @@
                 "Language": "English - Sky Sports Football",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-manchester-united-vs-brighton-hove-albion/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_efl-cup_man-utd-brighton-live-streaming-625658688/1"
             },
             {
                 "Source": "golf",
