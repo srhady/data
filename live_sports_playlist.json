@@ -18,20 +18,6 @@
                 "Language": "MLB.TV (Pirates Feed)",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/brewers-v-pirates-401816975/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1382/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1382/2"
             }
         ]
     },
@@ -478,49 +464,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Besiktas",
-        "Team 2 Name": "Marseille",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Besiktas vs. Marseille",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEGQjYQw7MAgSQiECADGweCK3KQMFaRlqQNKbKk0yNRDA1qU5KQKFaCc+2ELAkuVfaFhuTlNSeldNMAD5EIggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 18-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-besiktas-vs-marseille/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-besiktas-vs-marseille/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1408/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1408/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Celtic",
         "Team 2 Name": "Ferencvaros",
         "Team 1 Logo": "",
@@ -558,6 +501,49 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1404/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Besiktas",
+        "Team 2 Name": "Marseille",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Besiktas vs. Marseille",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEGQjYQw7MAgSQiECADGweCK3KQMFaRlqQNKbKk0yNRDA1qU5KQKFaCc+2ELAkuVfaFhuTlNSeldNMAD5EIggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 18-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-besiktas-vs-marseille/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-besiktas-vs-marseille/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1408/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1408/2"
             }
         ]
     },
@@ -791,6 +777,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-new-york-mets/2"
             },
             {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Mets Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/phillies-v-mets-401816976/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -832,6 +825,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-houston-astros/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Astros Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/royals-v-astros-401816979/1"
             },
             {
                 "Source": "golf",
@@ -942,6 +942,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-chicago-white-sox/2"
             },
             {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (White Sox Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/tigers-v-white-sox-401816978/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1041,6 +1048,13 @@
                 "Language": "English - Rangers Sports Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-texas-rangers/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Rangers Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/red-sox-v-rangers-401816977/1"
             },
             {
                 "Source": "golf",
@@ -1156,6 +1170,13 @@
                 "Language": "English - Angels.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-los-angeles-angels/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Angels Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/twins-v-angels-401816981/1"
             },
             {
                 "Source": "golf",
