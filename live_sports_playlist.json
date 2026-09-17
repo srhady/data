@@ -13,6 +13,13 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Pirates Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/brewers-v-pirates-401816975/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -42,6 +49,13 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Reds Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/dodgers-v-reds-401816974/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -54,28 +68,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1383/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "OFI",
-        "Team 2 Name": "Hoffenheim",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYcPI0oQ3EABNVuEHxMhEh04wpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApQYPmAAmDXCG4gtegyVUhEKfaoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
-        "Match Title": "OFI vs Hoffenheim",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJRApiMgAwhuIPiBPGUIRMZImjBYEgp9hs+ijArtbd+XpZZ2plowdzFRCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:45 PM | 17-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/tsg-hoffenheim-v-ofi-crete-uel-401915585/1"
             }
         ]
     },
@@ -102,31 +94,24 @@
         ]
     },
     {
-        "Category": "Darts",
-        "League": "Darts",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World Series of Darts Finals - Day 1",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBjAI0kCRAQQwkCpQhENDSuAbpO4BJUgDIAMZnZEiTLLL5plORkChIptnphCwJLgeuwbk4ZYVJ6An0wQL0yCCA.webp",
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "OFI",
+        "Team 2 Name": "Hoffenheim",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYcPI0oQ3EABNVuEHxMhEh04wpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApQYPmAAmDXCG4gtegyVUhEKfaoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
+        "Match Title": "OFI vs Hoffenheim",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJRApiMgAwhuIPiBPGUIRMZImjBYEgp9hs+ijArtbd+XpZZ2plowdzFRCCA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 17-Sep",
+        "Start Time": "10:45 PM | 17-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "foxtrot",
                 "Stream_No": 1,
-                "Language": "English - PDC.TV",
+                "Language": "Paramount+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-1/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-1/2"
+                "Embed_URL": "https://embed.st/embed/foxtrot/tsg-hoffenheim-v-ofi-crete-uel-401915585/1"
             }
         ]
     },
@@ -143,6 +128,13 @@
         "Start Time": "11:10 PM | 17-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Rays Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/athletics-v-rays-401816973/1"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -202,34 +194,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sports+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-manchester-city-vs-norwich-city/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sports+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-manchester-city-vs-norwich-city/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-manchester-city-vs-norwich-city/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-manchester-city-vs-norwich-city/4"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -273,11 +237,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-crystal-palace-vs-lech-poznan/2"
             },
             {
-                "Source": "delta",
+                "Source": "foxtrot",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "Paramount+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-league_crystal-palace-lech-live-streaming-616702896/1"
+                "Embed_URL": "https://embed.st/embed/foxtrot/lech-poznan-v-crystal-palace-uel-401915569/1"
             },
             {
                 "Source": "golf",
@@ -309,11 +273,33 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "foxtrot",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "Paramount+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-league_celtic-ferencvaros-live-streaming-616700736/1"
+                "Embed_URL": "https://embed.st/embed/foxtrot/ferencvaros-v-celtic-uel-401915581/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Lillestrøm",
+        "Team 2 Name": "Torreense",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDg4ZACZgNIbiAj6QRozkSIDjCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUwfCAAmzXCG7aQJECkOmIJkFcYUmfdWzBl4ReaPVNaYJ2NEQgA.webp",
+        "Match Title": "Lillestrøm vs Torreense",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmD4gNEEPRzcQWkEZAoQiLSVx6CwJBT7DZ9FGBUou78vtmemtGDuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 18-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/torreense-v-lillestrom-uel-401915570/1"
             }
         ]
     },
@@ -345,11 +331,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-juventus-vs-nec-nijmegen/2"
             },
             {
-                "Source": "delta",
+                "Source": "foxtrot",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "Paramount+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-league_juventus-nec-live-streaming-616715424/1"
+                "Embed_URL": "https://embed.st/embed/foxtrot/nec-nijmegen-v-juventus-uel-401915582/1"
             },
             {
                 "Source": "golf",
@@ -395,11 +381,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-real-sociedad-vs-afc-bournemouth/2"
             },
             {
-                "Source": "delta",
+                "Source": "foxtrot",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "Paramount+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-europa-league_real-sociedad-bournemouth-live-streaming-616735728/1"
+                "Embed_URL": "https://embed.st/embed/foxtrot/afc-bournemouth-v-real-sociedad-uel-401915583/1"
             },
             {
                 "Source": "golf",
@@ -414,6 +400,28 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1407/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Beşiktaş",
+        "Team 2 Name": "Marseille",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJpRAwQogAwhuIPkZBqQ5nMYghEKAhSZ8UXMGVX15o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0QATBjzBJQIbiD76QKXLpM4Q+ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Beşiktaş vs Marseille",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmCQhaoLKBDcQfECeMptRkCRAQQKAsCQU+w2fRRgVKLp-L09ot5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 18-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/marseille-v-besiktas-uel-401915591/1"
             }
         ]
     },
@@ -443,6 +451,13 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-viktoria-plzen-vs-union-st-gilloise/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/union-st-gilloise-v-viktoria-plzen-uel-401915580/1"
             },
             {
                 "Source": "golf",
@@ -506,35 +521,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Lillestrom",
-        "Team 2 Name": "Torreense",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEVECTrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIAMYgUa+uQbLm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Lillestrom vs. Torreense",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDBCIqIccNkgsIGvGCqZZRGTI1Ny-SQU0II0iBRTFIAMYgSKciYFDTBbPTCFgSXNYdCwbk4TYVJ6N1UwQOATMgggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 18-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Celtic",
         "Team 2 Name": "Ferencvaros",
         "Team 1 Logo": "",
@@ -578,44 +564,29 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Beşiktaş",
-        "Team 2 Name": "Marseille",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJpRAwQogAwhuIPkZBqQ5nMYghEKAhSZ8UXMGVX15o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0QATBjzBJQIbiD76QKXLpM4Q+ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Beşiktaş vs Marseille",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmCQhaoLKBDcQfECeMptRkCRAQQKAsCQU+w2fRRgVKLp-L09ot5MtGCeYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 18-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/marseille-v-besiktas-uel-401915591/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Lillestrøm",
+        "Team 1 Name": "Lillestrom",
         "Team 2 Name": "Torreense",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDg4ZACZgNIbiAj6QRozkSIDjCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUwfCAAmzXCG7aQJECkOmIJkFcYUmfdWzBl4ReaPVNaYJ2NEQgA.webp",
-        "Match Title": "Lillestrøm vs Torreense",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmD4gNEEPRzcQWkEZAoQiLSVx6CwJBT7DZ9FGBUou78vtmemtGDuYqIQQA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lillestrom vs. Torreense",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDBCIqIccNkgsIGvGCqZZRGTI1Ny-SQU0II0iBRTFIAMYgSKciYFDTBbPTCFgSXNYdCwbk4TYVJ6N1UwQOATMgggA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "01:00 AM | 18-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "foxtrot",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Paramount+",
+                "Language": "English - Paramount+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/torreense-v-lillestrom-uel-401915570/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/2"
             }
         ]
     },
@@ -652,6 +623,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-padres-live-streaming-594404352/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Rockies Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/padres-v-rockies-401816980/1"
             },
             {
                 "Source": "golf",
@@ -813,13 +791,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-new-york-mets/2"
             },
             {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Mets Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/phillies-v-mets-401816976/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -861,13 +832,6 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-houston-astros/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Astros Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/royals-v-astros-401816979/1"
             },
             {
                 "Source": "golf",
@@ -978,13 +942,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-chicago-white-sox/2"
             },
             {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (White Sox Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/tigers-v-white-sox-401816978/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1084,13 +1041,6 @@
                 "Language": "English - Rangers Sports Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-texas-rangers/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Rangers Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/red-sox-v-rangers-401816977/1"
             },
             {
                 "Source": "golf",
@@ -1206,13 +1156,6 @@
                 "Language": "English - Angels.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-los-angeles-angels/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Angels Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/twins-v-angels-401816981/1"
             },
             {
                 "Source": "golf",
