@@ -34,13 +34,6 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_pirates-brewers-live-streaming-594403056/1"
             },
             {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Pirates Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/brewers-v-pirates-401816975/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -98,13 +91,6 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-dodgers-live-streaming-594403488/2"
             },
             {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Reds Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/dodgers-v-reds-401816974/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -117,42 +103,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1383/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "OFI",
-        "Team 2 Name": "Hoffenheim",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYcPI0oQ3EABNVuEHxMhEh04wpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApQYPmAAmDXCG4gtegyVUhEKfaoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
-        "Match Title": "OFI vs Hoffenheim",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJRApiMgAwhuIPiBPGUIRMZImjBYEgp9hs+ijArtbd+XpZZ2plowdzFRCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:45 PM | 17-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT Sports 4",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ofi-crete-vs-tsg-hoffenheim/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT Sports 4",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ofi-crete-vs-tsg-hoffenheim/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/tsg-hoffenheim-v-ofi-crete-uel-401915585/1"
             }
         ]
     },
@@ -182,13 +132,71 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-levski-sofia-vs-rb-salzburg/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "OFI",
+        "Team 2 Name": "Hoffenheim",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYcPI0oQ3EABNVuEHxMhEh04wpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApQYPmAAmDXCG4gtegyVUhEKfaoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
+        "Match Title": "OFI vs Hoffenheim",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJRApiMgAwhuIPiBPGUIRMZImjBYEgp9hs+ijArtbd+XpZZ2plowdzFRCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:45 PM | 17-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TNT Sports 4",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ofi-crete-vs-tsg-hoffenheim/1"
             },
             {
-                "Source": "foxtrot",
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TNT Sports 4",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ofi-crete-vs-tsg-hoffenheim/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Real Betis",
+        "Team 2 Name": "Getafe",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyUw3MKLBgAJiG4g9exDgggSIRCEMEKTPii6by9eaMdNa20VLpA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIpQuEJpQhuIACYgSh49oggzRxhSZ81bMGXhF5otU1pgHY0RCA.webp",
+        "Match Title": "Real Betis vs Getafe",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWHBZgUkHzB8Q3PSFMQQKEDBDnzpxsCQU+w2fRRgVKLp-L1tot5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 17-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Paramount+",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/rb-salzburg-v-levski-sofia-uel-401915584/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-betis-vs-getafe/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-betis-vs-getafe/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_laliga_real-betis-getafe-live-streaming-616684320/1"
             }
         ]
     },
@@ -269,42 +277,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Real Betis",
-        "Team 2 Name": "Getafe",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyUw3MKLBgAJiG4g9exDgggSIRCEMEKTPii6by9eaMdNa20VLpA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIpQuEJpQhuIACYgSh49oggzRxhSZ81bMGXhF5otU1pgHY0RCA.webp",
-        "Match Title": "Real Betis vs Getafe",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWHBZgUkHzB8Q3PSFMQQKEDBDnzpxsCQU+w2fRRgVKLp-L1tot5MtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 17-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-real-betis-vs-getafe/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-real-betis-vs-getafe/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_laliga_real-betis-getafe-live-streaming-616684320/1"
             }
         ]
     },
