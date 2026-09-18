@@ -31,35 +31,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Groningen",
-        "Team 2 Name": "PEC Zwolle",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIRCrC9CMENxBrDekLr4gI5kHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6wwAEzCq+YFCG4gIIPiEQlThkFZyMKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Groningen vs PEC Zwolle",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUWhDxyU2CG4g+IYzhwwQKC1YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 19-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Dutch - ESPN2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-groningen-vs-pec-zwolle/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Dutch - ESPN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-groningen-vs-pec-zwolle/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Bayern Munich",
         "Team 2 Name": "Union Berlin",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA.webp",
@@ -85,25 +56,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bayern-munich-vs-1-fc-union-berlin/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_bundesliga_bayern-union-berlin-live-streaming-617141376/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/bayern-munich-vs-union-berlin/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/bayern-munich-vs-1-fc-union-berlin-bundesliga-1789756200/1"
             }
         ]
     },
@@ -319,6 +276,28 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/espanyol-vs-elche-laliga-ea-sports-1789758000/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Bristol Motor Speedway — Free Practice",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Bristol%20Motor%20Speedway%20%E2%80%94%20Free%20Practice&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:30 AM | 19-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/bristol-motor-speedway-free-practice-nascar-cup-series-1789763400/1"
             }
         ]
     },
