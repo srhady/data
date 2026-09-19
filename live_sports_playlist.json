@@ -69,13 +69,6 @@
                 "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paris-fc-vs-strasbourg/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/paris-fc-vs-strasbourg-ligue-1-1789830900/1"
             }
         ]
     },
@@ -98,6 +91,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_delaware-coastal-carolina-live-streaming-587827152/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1427/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1427/2"
             }
         ]
     },
@@ -2278,16 +2285,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN2",
+                "Language": "English - Sportsnet One",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-montreal-canadiens/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN2",
+                "Language": "English - Sportsnet One",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-montreal-canadiens/2"
             },
             {
                 "Source": "golf",
@@ -3658,6 +3665,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1501/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "BKB 59 Tijuana Fernandez",
+        "Team 2 Name": "Podmore",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PPV EVENT 06: BKB 59 Tijuana Fernandez v Podmore",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PPV%20EVENT%2006%3A%20BKB%2059%20Tijuana%20Fernandez%20v%20Podmore&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1522/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1522/2"
             }
         ]
     },
