@@ -101,20 +101,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Reds.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-cincinnati-reds/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Reds.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-cincinnati-reds/2"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Reds Feed)",
@@ -150,20 +136,6 @@
         "Start Time": "04:40 AM | 19-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLB.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-pittsburgh-pirates/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLB.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-pittsburgh-pirates/2"
-            },
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
@@ -371,13 +343,6 @@
                 "Language": "English - Rays.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-tampa-bay-rays/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-red-sox-live-streaming-594418176/1"
             },
             {
                 "Source": "foxtrot",
@@ -1426,6 +1391,56 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Oregon",
+        "Team 2 Name": "Portland State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgg+YGXTAoQ3ECRAATEBBCJExg8cMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0IhBAE0qwQ3ECRDqQEEIn18jIFLgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Oregon vs Portland State",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDMQpmwKSAghuGkCn0g+Js3oMoCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 19-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - BTN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-state-vikings-at-oregon-ducks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - BTN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-state-vikings-at-oregon-ducks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_oregon-portland-state-live-streaming-587790432/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1426/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1426/2"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -1502,56 +1517,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Oregon",
-        "Team 2 Name": "Portland State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgg+YGXTAoQ3ECRAATEBBCJExg8cMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0IhBAE0qwQ3ECRDqQEEIn18jIFLgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Oregon vs Portland State",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDMQpmwKSAghuGkCn0g+Js3oMoCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 19-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BTN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-state-vikings-at-oregon-ducks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BTN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-state-vikings-at-oregon-ducks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_oregon-portland-state-live-streaming-587790432/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1426/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1426/2"
             }
         ]
     }
