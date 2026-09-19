@@ -305,25 +305,11 @@
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQJgSEPGwhuOkCRAATEBE1m+emDoIUmfFFzBkt9eaIdNaYJ2NEQgA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgABjC968bCG4gSIACYgIIRIlM4cxghSZ8UXMGV315o501phXY0QggA.webp",
         "Match Title": "Wake Forest vs Miami (FL)",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCEQgQNWSGEgAxiAiSVpYIhjY1JGcFXa9i0vJnTN2S4lHkIoMIJFMrKcoWBJcit0Met7YQ03AkswRwMNCCA.webp",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Wake%20Forest%20vs%20Miami%20%28FL%29&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "05:30 AM | 19-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-hurricanes-at-wake-forest-demon-deacons/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-hurricanes-at-wake-forest-demon-deacons/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -359,35 +345,6 @@
                 "Language": "MLS Season Pass",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/red-bull-new-york-v-new-york-city-fc-761815/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Bristol Motor Speedway - Food City 300",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYBBAoQNMpMQkQiEEtLAaWGeuxSJIGCE0KVIMopQidizbv5hBlgtnphCwJLgDGFofdbjhNQsneHJ7CTUIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 19-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CW Sports on ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bristol-motor-speedway-food-city-300/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CW Sports on ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bristol-motor-speedway-food-city-300/2"
             }
         ]
     },
@@ -477,13 +434,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-cougars-at-texas-tech-red-raiders/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_texas-tech-houston-live-streaming-587788704/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -557,20 +507,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-texas-rangers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-texas-rangers/2"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Rangers Feed)",
@@ -619,20 +555,6 @@
                 "Language": "English - Rockies.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-colorado-rockies/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-mariners-live-streaming-594419472/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-mariners-live-streaming-594419472/2"
             },
             {
                 "Source": "foxtrot",
