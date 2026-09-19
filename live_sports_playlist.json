@@ -460,49 +460,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Roma",
-        "Team 2 Name": "Inter Milan",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRg+2SrgQhuIPiAAmIGCFM4TR-RAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgUoMCRAATOiG479IPkYOIDMEPAIUmfdW03l680eqa0wmsaIhA.webp",
-        "Match Title": "Roma vs Inter Milan",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCE0QQKWVJDcQfEPpIht2nGcQSmSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 19-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-as-roma-vs-inter-milan/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-as-roma-vs-inter-milan/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Italian - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-as-roma-vs-inter-milan/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "Italian - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-as-roma-vs-inter-milan/4"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Arizona State Sun Devils",
@@ -610,13 +567,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nottingham-forest-vs-coventry-city/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_premier-league_forest-coventry-live-streaming-617509872/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "Stan Sport",
@@ -674,13 +624,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-celta-vigo-vs-racing-santander/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_laliga_celta-r-racing-club-live-streaming-617515488/1"
-            },
-            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
@@ -717,25 +660,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-vf-b-stuttgart-vs-borussia-dortmund/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_bundesliga_stuttgart-dortmund-live-streaming-617523264/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "beIN Sports 2 Australia",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/vfb-stuttgart-vs-borussia-dortmund/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/vfb-stuttgart-vs-borussia-dortmund-bundesliga-1789835400/1"
             }
         ]
     },
@@ -1007,6 +936,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-hedges-vs-brown/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_john-hedges-vs-pat-brown-live-stream/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1105,6 +1041,165 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1478/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Lyon",
+        "Team 2 Name": "Stade Rennais",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lyon vs. Stade Rennais",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCAlYQMYFJDDg8bCBTY5IEiG3Ky0qppHAawkAYkwQ05dIDGqpWv5hBRguqeFgSXLbVCXVggjMjV3ZTAXOVI5IA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "French - Ligue 1+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lyon-vs-stade-rennais/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "French - Ligue 1+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lyon-vs-stade-rennais/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Le Mans",
+        "Team 2 Name": "Lorient",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFJQYNSjAATENxB8QMI3pAQQJEzm0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhhwqqFD4huICCG2ISIGHoNmQBCkz4ouYMhoalOTWmAdjREIA.webp",
+        "Match Title": "Le Mans vs Lorient",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEODgkQEEDAYhuIPhsO4dIFGcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "French - Ligue 1+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-le-mans-vs-lorient/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "French - Ligue 1+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-le-mans-vs-lorient/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Toulouse",
+        "Team 2 Name": "Le Havre",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQSsLyohVIACY7DEEMZS5DjCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh14pgABkpgB6kNxAkQEEABMjIPgZAxrIeAQpM+atmDLwi80Wqa0wbsVEIIA.webp",
+        "Match Title": "Toulouse vs Le Havre",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALAg4KMKJAhuGkCRARjOPodwaCwJBT7DZ9XSpRc95ellkemtGB6YqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "French - Ligue 1+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toulouse-vs-le-havre-ac/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "French - Ligue 1+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toulouse-vs-le-havre-ac/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Angers",
+        "Team 2 Name": "Troyes",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgQIACZhuIKHxA6NIfevUxT5oygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpgQogAxgk-ENxB8QAE2On9hkupAoCFJnxRcwZeEXmjHTVc7GiIQA.webp",
+        "Match Title": "Angers vs Troyes",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGCkgUILVAghuIPiFNGcBnee0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "French - Ligue 1+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-angers-vs-troyes/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "French - Ligue 1+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-angers-vs-troyes/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Venezia",
+        "Team 2 Name": "Lazio",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmDTksghuIPiH06YuECpAoTICAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbmBRgAJghDcQEIyFOmYIHZZAWQBCkz4ouYMvCLzRzprTCuxohBAA.webp",
+        "Match Title": "Venezia vs Lazio",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTsIXqBzcQfDSBgmUICxY0oCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-venezia-vs-lazio/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-venezia-vs-lazio/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/lazio-v-venezia-401874956/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/venezia-vs-lazio-serie-a-1789843500/1"
             }
         ]
     },
@@ -1214,165 +1309,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Lyon",
-        "Team 2 Name": "Stade Rennais",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Lyon vs. Stade Rennais",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCAlYQMYFJDDg8bCBTY5IEiG3Ky0qppHAawkAYkwQ05dIDGqpWv5hBRguqeFgSXLbVCXVggjMjV3ZTAXOVI5IA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:45 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lyon-vs-stade-rennais/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lyon-vs-stade-rennais/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Le Mans",
-        "Team 2 Name": "Lorient",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFJQYNSjAATENxB8QMI3pAQQJEzm0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhhwqqFD4huICCG2ISIGHoNmQBCkz4ouYMhoalOTWmAdjREIA.webp",
-        "Match Title": "Le Mans vs Lorient",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEODgkQEEDAYhuIPhsO4dIFGcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:45 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-le-mans-vs-lorient/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-le-mans-vs-lorient/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Toulouse",
-        "Team 2 Name": "Le Havre",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQSsLyohVIACY7DEEMZS5DjCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh14pgABkpgB6kNxAkQEEABMjIPgZAxrIeAQpM+atmDLwi80Wqa0wbsVEIIA.webp",
-        "Match Title": "Toulouse vs Le Havre",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALAg4KMKJAhuGkCRARjOPodwaCwJBT7DZ9XSpRc95ellkemtGB6YqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:45 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toulouse-vs-le-havre-ac/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toulouse-vs-le-havre-ac/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Angers",
-        "Team 2 Name": "Troyes",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgQIACZhuIKHxA6NIfevUxT5oygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpgQogAxgk-ENxB8QAE2On9hkupAoCFJnxRcwZeEXmjHTVc7GiIQA.webp",
-        "Match Title": "Angers vs Troyes",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGCkgUILVAghuIPiFNGcBnee0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:45 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-angers-vs-troyes/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-angers-vs-troyes/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Venezia",
-        "Team 2 Name": "Lazio",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmDTksghuIPiH06YuECpAoTICAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbmBRgAJghDcQEIyFOmYIHZZAWQBCkz4ouYMvCLzRzprTCuxohBAA.webp",
-        "Match Title": "Venezia vs Lazio",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTsIXqBzcQfDSBgmUICxY0oCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:45 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-venezia-vs-lazio/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-venezia-vs-lazio/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/lazio-v-venezia-401874956/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/venezia-vs-lazio-serie-a-1789843500/1"
             }
         ]
     },
@@ -1530,6 +1466,50 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Massachusetts Minutemen vs Stonehill Skyhawks",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Massachusetts%20Minutemen%20vs%20Stonehill%20Skyhawks&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:30 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_umass-stonehill-skyhawks-live-streaming-587852208/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Louisville Cardinals vs Southern Methodist Mustangs",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Louisville%20Cardinals%20vs%20Southern%20Methodist%20Mustangs&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:30 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_louisville-smu-live-streaming-587834064/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "Kentucky Wildcats",
         "Team 2 Name": "Texas A&M Aggies",
         "Team 1 Logo": "",
@@ -1569,6 +1549,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kentucky-wildcats-at-texas-a-m-aggies/4"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_texas-am-kentucky-live-streaming-587835360/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1581,6 +1568,28 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1439/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Washington State",
+        "Team 2 Name": "Duquesne",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh16s+IPtjYhuIEiAAmICCESJ1unIwpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCi0IPiFoATHiG4hth4wc0RcIc3wIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Match Title": "Washington State vs Duquesne",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Washington%20State%20vs%20Duquesne&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:30 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_washington-st-duquesne-live-streaming-587852640/1"
             }
         ]
     },
@@ -1610,6 +1619,13 @@
                 "Language": "English - CBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-usc-trojans-at-rutgers-scarlet-knights/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_rutgers-usc-live-streaming-587834928/1"
             },
             {
                 "Source": "golf",
@@ -1655,6 +1671,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-utep-miners-at-michigan-wolverines/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_michigan-utep-live-streaming-587834496/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1683,6 +1706,13 @@
         "Start Time": "01:30 AM | 20-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_california-wagner-live-streaming-587851776/1"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1770,6 +1800,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-utah-state-aggies-at-utah-utes/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_utah-utah-state-live-streaming-587835792/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1782,6 +1819,28 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1443/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Cincinnati",
+        "Team 2 Name": "Miami (OH)",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmuYE0KISIbiB1q+ukDBBmj5ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApKbMEmAAGEIm4gSIACYgIei6ZyJjBCkz5qNZeEXmi1TWmDCipdIA.webp",
+        "Match Title": "Cincinnati vs Miami (OH)",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJD0ADCESJuIQ5pR6QMECTN8NIPgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:30 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_cincinnati-miami-ohio-live-streaming-587833632/1"
             }
         ]
     },
@@ -1825,6 +1884,13 @@
                 "Language": "English - SkyCast",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-florida-state-seminoles-at-alabama-crimson-tide/4"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_alabama-florida-state-live-streaming-587833200/1"
             },
             {
                 "Source": "golf",
