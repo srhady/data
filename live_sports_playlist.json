@@ -1140,6 +1140,35 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "RAF 13 Convington",
+        "Team 2 Name": "Muhammad",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "RAF 13 Convington v Muhammad 🔥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RAF%2013%20Convington%20v%20Muhammad%20%F0%9F%94%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 19-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1517/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1517/2"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -1220,35 +1249,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "RAF 13 Convington",
-        "Team 2 Name": "Muhammad",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "RAF 13 Convington v Muhammad 🔥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RAF%2013%20Convington%20v%20Muhammad%20%F0%9F%94%A5&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 19-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1517/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1517/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Los Angeles Angels",
@@ -1274,6 +1274,20 @@
                 "Language": "English - Angels.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-los-angeles-angels/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-twins-live-streaming-594420768/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-twins-live-streaming-594420768/2"
             },
             {
                 "Source": "foxtrot",
@@ -1326,6 +1340,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-san-diego-padres/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-marlins-live-streaming-594421632/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-marlins-live-streaming-594421632/2"
+            },
+            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Padres Feed)",
@@ -1374,6 +1402,20 @@
                 "Language": "English - DBACKS.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-arizona-diamondbacks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-yankees-live-streaming-594421200/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-yankees-live-streaming-594421200/2"
             },
             {
                 "Source": "foxtrot",
