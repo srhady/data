@@ -58,28 +58,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "TT Assen — Qualifying",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TT%20Assen%20%E2%80%94%20Qualifying&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:20 PM | 19-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/tt-assen-qualifying-british-superbike-championship-1789816800/1"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Perth Wildcats",
@@ -561,6 +539,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bologna-vs-torino/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_serie-a_bologna-torino-live-streaming-617140512/1"
+            },
+            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
@@ -595,6 +580,13 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-udinese-vs-cagliari/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_serie-a_udinese-cagliari-live-streaming-617140944/1"
             },
             {
                 "Source": "hotel",
@@ -3074,16 +3066,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - NHL Net",
+                "Language": "English - NHL",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-montreal-canadiens/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - NHL Net",
+                "Language": "English - NHL",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-montreal-canadiens/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/2"
             },
             {
                 "Source": "golf",
