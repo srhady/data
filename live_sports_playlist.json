@@ -527,20 +527,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-chicago-white-sox/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-tigers-live-streaming-594436320/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-tigers-live-streaming-594436320/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -749,6 +735,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_toledo-temple-live-streaming-587832768/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1438/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1438/2"
             }
         ]
     },
@@ -1574,6 +1574,70 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "UFC 331 Van",
+        "Team 2 Name": "Pantoja 2",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UFC 331 Van vs Pantoja 2",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBghZVJGF5gkIXiCwhzKECRARTIatov5gemAJFzGKMKpQ8f5IzUcn7O9GA+4mIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-331-van-vs-pantoja-2-live-stream/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-331-van-vs-pantoja-2-live-stream/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-331-van-vs-pantoja-2-live-stream/3"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/ufc-331-van-vs-pantoja/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 2,
+                "Language": "Spanish",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/ufc-331-van-vs-pantoja/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 3,
+                "Language": "Portuguese",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/ufc-331-van-vs-pantoja/3"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/ufc-331-van-vs-pantoja-2-ufc-1789851600/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1683,122 +1747,46 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "UFC 331 Van",
-        "Team 2 Name": "Pantoja 2",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC 331 Van vs Pantoja 2",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBghZVJGF5gkIXiCwhzKECRARTIatov5gemAJFzGKMKpQ8f5IzUcn7O9GA+4mIQQA.webp",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Appalachian State",
+        "Team 2 Name": "Charlotte",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBxeYMHzAkQEENxA6AJrpCJEOvcYIUmfFF23l680Q6a0NoqXSA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgYIFMCTAAJiAghuIEiD0HEiE3pT6CFJn01swZeEXmjNTWmBdjREEA.webp",
+        "Match Title": "Appalachian State vs Charlotte",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKDDpgklZiG4gpIFCEQwQJU4ZAQQfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "03:30 AM | 20-Sep",
+        "Start Time": "04:00 AM | 20-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "delta",
                 "Stream_No": 1,
-                "Language": "English - Paramount+",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-crypto-com-ufc-331-van-vs-pantoja-2/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-crypto-com-ufc-331-van-vs-pantoja-2/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Spanish - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-crypto-com-ufc-331-van-vs-pantoja-2/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "Spanish - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-crypto-com-ufc-331-van-vs-pantoja-2/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Portuguese - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-crypto-com-ufc-331-van-vs-pantoja-2/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Portuguese - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-crypto-com-ufc-331-van-vs-pantoja-2/6"
-            },
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_appalachian-st-charlotte-live-streaming-587838384/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Old Dominion",
+        "Team 2 Name": "East Carolina",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyUKZGMxDcQJEABMQEEIkSG9xmAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATYKpDww4GCG4gSITRC1mjIEHsYUmfFFzBlt9eaIdNaYJ2NEQgA.webp",
+        "Match Title": "Old Dominion vs East Carolina",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCBj8wIQXxDcQUkBsQwQJEBE0hEfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-331-van-vs-pantoja-2-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-331-van-vs-pantoja-2-live-stream/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-331-van-vs-pantoja-2-live-stream/3"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/ufc-331-van-vs-pantoja/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 2,
-                "Language": "Spanish",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/ufc-331-van-vs-pantoja/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 3,
-                "Language": "Portuguese",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/ufc-331-van-vs-pantoja/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1518/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1518/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/ufc-331-van-vs-pantoja-2-ufc-1789851600/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_old-dominion-east-carolina-live-streaming-587839248/1"
             }
         ]
     },
@@ -2130,6 +2118,13 @@
                 "Language": "English - SkyCast",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-florida-gators-at-auburn-tigers/4"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_florida-atl-florida-int-live-streaming-587838816/1"
             }
         ]
     },
