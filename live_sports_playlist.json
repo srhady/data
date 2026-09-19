@@ -406,20 +406,6 @@
                 "Language": "MLB.TV (Rangers Feed)",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/blue-jays-v-rangers-401816990/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1463/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1463/2"
             }
         ]
     },
@@ -442,20 +428,6 @@
                 "Language": "MLB.TV (Rockies Feed)",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/mariners-v-rockies-401816992/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1464/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1464/2"
             }
         ]
     },
@@ -478,20 +450,6 @@
                 "Language": "MLB.TV (Astros Feed)",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/braves-v-astros-401816988/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1465/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1465/2"
             }
         ]
     },
@@ -514,20 +472,6 @@
                 "Language": "MLB.TV (Cardinals Feed)",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/nationals-v-cardinals-401816991/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1466/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1466/2"
             }
         ]
     },
@@ -1592,35 +1536,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Arizona State Sun Devils",
-        "Team 2 Name": "Kansas Jayhawks",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Kansas Jayhawks vs Arizona State Sun Devils",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kansas%20Jayhawks%20vs%20Arizona%20State%20Sun%20Devils&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 19-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1433/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1433/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Roma",
@@ -2151,6 +2066,35 @@
                 "Language": "English - CBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-dallas-wings/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Arizona State Sun Devils",
+        "Team 2 Name": "Kansas Jayhawks",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Arizona State Sun Devils - Kansas Jayhawks",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Arizona%20State%20Sun%20Devils%20-%20Kansas%20Jayhawks&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1433/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1433/2"
             }
         ]
     },
