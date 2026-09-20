@@ -76,13 +76,6 @@
                 "Language": "English - Sky Sports Football",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-celtic-vs-rangers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_premiership_celtic-rangers-live-streaming-617540976/1"
             }
         ]
     },
@@ -112,13 +105,6 @@
                 "Language": "English - Sky Sports+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-west-bromwich-albion/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_championship_wolves-west-brom-live-streaming-617553504/1"
             }
         ]
     },
@@ -783,6 +769,56 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Bayer Leverkusen",
+        "Team 2 Name": "RB Leipzig",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwIECmAAGDSBIhuIPrhAATY+ZAxDt+AQpM+WtmDJr680Vqa0wbsVEIIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBVA7hTQhuIEiBQgIuI6cP6JhGMCZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Match Title": "Bayer Leverkusen vs RB Leipzig",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQUKWFHbtfECR0az2lOb4FgSCjdYixKfWxRd95ellkemtGBu9KIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:30 PM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fandango",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fandango",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_bundesliga_leverkusen-leipzig-live-streaming-617523696/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "DAZN Germany",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/rb-leipzig-v-bayer-leverkusen-401884788/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/bayer-leverkusen-vs-rb-leipzig-bundesliga-1789911000/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -865,56 +901,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Bayer Leverkusen",
-        "Team 2 Name": "RB Leipzig",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwIECmAAGDSBIhuIPrhAATY+ZAxDt+AQpM+WtmDJr680Vqa0wbsVEIIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBVA7hTQhuIEiBQgIuI6cP6JhGMCZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Match Title": "Bayer Leverkusen vs RB Leipzig",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQUKWFHbtfECR0az2lOb4FgSCjdYixKfWxRd95ellkemtGBu9KIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:30 PM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fandango",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fandango",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_bundesliga_leverkusen-leipzig-live-streaming-617523696/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN Germany",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/rb-leipzig-v-bayer-leverkusen-401884788/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/bayer-leverkusen-vs-rb-leipzig-bundesliga-1789911000/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Atletico Madrid",
         "Team 2 Name": "Real Madrid",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp",
@@ -967,6 +953,20 @@
                 "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-real-madrid/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_laliga_atl-madrid-real-madrid-live-streaming-617515056/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_laliga_atl-madrid-real-madrid-live-streaming-617515056/2"
             },
             {
                 "Source": "hotel",
