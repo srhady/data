@@ -665,20 +665,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rays.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-tampa-bay-rays/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rays.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-tampa-bay-rays/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -721,20 +707,6 @@
         "Start Time": "02:10 AM | 20-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports Phil",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-new-york-mets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports Phil",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-new-york-mets/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
@@ -854,6 +826,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "9.19.26 | Land of Legends Raceway",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBYKwE5oATHBHYNYAVhUuAEMFSBTSGsYlYFgY2DDMKta8csBwVOYusF4t46EHhAxFIQgpV0FdEBAUpOIHQdBLClNGn6WwhndzUgnEIyEQOVhEA5RG2MKhkQCTFYUX5OeFsQPjwuUlwkLhRiaT4VAAYwB1BjVRgU+lDM0BjXFScCsT45SGA4pjJhPjBG7DagA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Dirtvision",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/9-19-26-land-of-legends-raceway/1"
+            }
+        ]
+    },
+    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Alabama",
@@ -886,6 +880,20 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1440/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1440/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1440/4"
             }
         ]
     },
@@ -1010,6 +1018,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "9.19.26 | Millbridge Speedway",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBYKwE5oATHBHYNYAVhUuAEMFSBTSGsYlYFgY2DDMKta8csBwVOYusF4t46EHhAxFIQgpV0FdEEwUpOIHQdBLClNBTL9+BPGWyzDO7mpDumykK8QQQKEEQArUpYKhkQCTEwin5OeDAAvns5EiQuFGJpPhUABjBXUGNVGEz6aLzQECKvd1KxPjlIYBSyYT4wJiwuLCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Dirtvision",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/9-19-26-millbridge-speedway/1"
+            }
+        ]
+    },
+    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "South Carolina",
@@ -1028,6 +1058,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_south-carolina-mississippi-st-live-streaming-587837952/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1532/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1532/2"
             }
         ]
     },
@@ -1188,6 +1232,28 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1474/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "9.19.26 | Volusia Speedway Park",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBYKwE5oATHBHYNYAVhUuAEMFSBTSGsYlYFgY2DDMKta8csBwVOYusF4t46EHhAxFIQgpV0NihSk4g6IPaCWFKaSsQpgwcsltCHuakM8QgXzpq5fe8bGCoZEAkxWFF+TngwFBA+PC5SXCQuFGJpPhUABjBnRyNVGDT6MOzQOINlD2VJPjlIYASmMmE+WywuLCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:15 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Dirtvision",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/9-19-26-volusia-speedway-park/1"
             }
         ]
     },
@@ -1685,16 +1751,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN2",
+                "Language": "English - Sportsnet One",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-montreal-canadiens/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN2",
+                "Language": "English - Sportsnet One",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-montreal-canadiens/2"
             },
             {
                 "Source": "delta",
@@ -2608,28 +2674,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Great Lakes Pro Am Series at Lake Erie Speedway",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAEMQ8rrPIhViecrKIUjWGIbBDnBJGACuKMWTCduXCEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:45 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Floracing",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/great-lakes-pro-am-series-at-lake-erie-speedway/1"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Tennessee",
@@ -2662,6 +2706,274 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_tennessee-kennesaw-st-live-streaming-587846160/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Great Lakes Pro Am Series at Lake Erie Speedway",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAEMQ8rrPIhViecrKIUjWGIbBDnBJGACuKMWTCduXCEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:45 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/great-lakes-pro-am-series-at-lake-erie-speedway/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Pitbull vs Bravo",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWWMATmAFNhKVyThS0wRhr9gth5RgBDS2Z4GmCF4BDoKoNOKSDVFCI5YABMeYCmEjoVAsHPQgUBEN0P40aJmVppzIYiBiPHjE24dlzttJ6z27MGJI-FjUfNbwsqQULOKaFIoJQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/pitbull-vs-bravo/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Louisiana Ragin Cajuns vs UAB Blazers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Louisiana%20Ragin%20Cajuns%20vs%20UAB%20Blazers&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_lafayette-uab-live-streaming-587846592/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AEW Saturday Night Collision",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TNT",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TNT",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "UTSA Roadrunners",
+        "Team 2 Name": "Texas Longhorns",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UTSA Roadrunners at Texas Longhorns",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IENhBYQKEAGN5IGKSXAIIYSEQLZyklJA0y08cqykRIdcqri76meQigwgkU2z0whYElxyUIXJuTmdhC0CCYHhyVzULCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - SECN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-utsa-roadrunners-at-texas-longhorns/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - SECN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-utsa-roadrunners-at-texas-longhorns/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_texas-utsa-live-streaming-587847456/1"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Minnesota Wild",
+        "Team 2 Name": "Chicago Blackhawks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA.webp",
+        "Match Title": "Minnesota Wild vs Chicago Blackhawks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDnoC2EENxB8QUkDBAoTe3EZAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-minnesota-wild/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-minnesota-wild/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1487/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1487/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Edmonton Oilers",
+        "Team 2 Name": "Winnipeg Jets",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLhw8MCjB8Q3EBFy6QAEyMh9hkAQpM+KLmDIb680faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp",
+        "Match Title": "Edmonton Oilers vs Winnipeg Jets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVuCnYQIHiG4g+IKSBg6QKC1Z3wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1486/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1486/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "TCU",
+        "Team 2 Name": "Arkansas State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJ7YQ9eGAAmIbiBIgdEEIkQ6+h3QQpM+KLmDKb680faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAwRCCBYhuIEiAAmITYkT79ulAQpM+KLmDLwi80faa11oqXSA.webp",
+        "Match Title": "TCU vs Arkansas State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TCU%20vs%20Arkansas%20State&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_tcu-arkansas-st-live-streaming-587847024/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Isaac Cruz",
+        "Team 2 Name": "Nestor Bravo",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Isaac Cruz vs Nestor Bravo",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoyggQKEGV4gDWbTpDGSJiCBg6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-vs-bravo/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-vs-bravo/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1521/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1521/2"
             }
         ]
     },
@@ -2775,252 +3087,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Pitbull vs Bravo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWWMATmAFNhKVyThS0wRhr9gth5RgBDS2Z4GmCF4BDoKoNOKSDVFCI5YABMeYCmEjoVAsHPQgUBEN0P40aJmVppzIYiBiPHjE24dlzttJ6z27MGJI-FjUfNbwsqQULOKaFIoJQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/pitbull-vs-bravo/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Louisiana Ragin Cajuns vs UAB Blazers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Louisiana%20Ragin%20Cajuns%20vs%20UAB%20Blazers&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_lafayette-uab-live-streaming-587846592/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AEW Saturday Night Collision",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "UTSA Roadrunners",
-        "Team 2 Name": "Texas Longhorns",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UTSA Roadrunners at Texas Longhorns",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IENhBYQKEAGN5IGKSXAIIYSEQLZyklJA0y08cqykRIdcqri76meQigwgkU2z0whYElxyUIXJuTmdhC0CCYHhyVzULCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - SECN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-utsa-roadrunners-at-texas-longhorns/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - SECN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-utsa-roadrunners-at-texas-longhorns/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_texas-utsa-live-streaming-587847456/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Minnesota Wild",
-        "Team 2 Name": "Chicago Blackhawks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA.webp",
-        "Match Title": "Minnesota Wild vs Chicago Blackhawks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDnoC2EENxB8QUkDBAoTe3EZAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-minnesota-wild/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-minnesota-wild/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1487/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1487/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Edmonton Oilers",
-        "Team 2 Name": "Winnipeg Jets",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLhw8MCjB8Q3EBFy6QAEyMh9hkAQpM+KLmDIb680faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp",
-        "Match Title": "Edmonton Oilers vs Winnipeg Jets",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVuCnYQIHiG4g+IKSBg6QKC1Z3wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1486/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1486/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "TCU",
-        "Team 2 Name": "Arkansas State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJ7YQ9eGAAmIbiBIgdEEIkQ6+h3QQpM+KLmDKb680faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAwRCCBYhuIEiAAmITYkT79ulAQpM+KLmDLwi80faa11oqXSA.webp",
-        "Match Title": "TCU vs Arkansas State",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TCU%20vs%20Arkansas%20State&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_tcu-arkansas-st-live-streaming-587847024/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Isaac Cruz",
-        "Team 2 Name": "Nestor Bravo",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Isaac Cruz vs Nestor Bravo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoyggQKEGV4gDWbTpDGSJiCBg6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-vs-bravo/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-vs-bravo/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1521/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1521/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Colorado Rockies",
@@ -3060,6 +3126,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-mariners-live-streaming-594438048/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Rockies Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/mariners-v-rockies-401817007/1"
             },
             {
                 "Source": "golf",
@@ -3117,6 +3190,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-yankees-live-streaming-594437616/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Diamondbacks Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/yankees-v-diamondbacks-401817010/1"
             },
             {
                 "Source": "golf",
@@ -3364,6 +3444,27 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-san-diego-padres/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-marlins-live-streaming-594438480/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-marlins-live-streaming-594438480/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Padres Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/marlins-v-padres-401817008/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -3580,6 +3681,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/2"
             },
             {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Dodgers Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/giants-v-dodgers-401817011/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -3710,6 +3818,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-los-angeles-angels/2"
             },
             {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Angels Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/twins-v-angels-401817009/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -3722,6 +3837,28 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1501/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "9.19.26 | Stockton Dirt Track",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBYKwE5oATHBHYNYAVhUuAEMFSBTSGsYlYFgY2DDMKta8csBwVOYusF4t46EHhAxFIQgpV4FdENwUpOIHQdBL1VeJFEiADFYrVQO7rqMhEEVSBApvrpT6UsFQyIBJiwRT8nJa+fHhcpLhIXCjE0nwqdi5OPqowafQRWaAguSreBWJ8clYJTGTCfGAN2K1AA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:45 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Dirtvision",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/9-19-26-stockton-dirt-track/1"
             }
         ]
     },
