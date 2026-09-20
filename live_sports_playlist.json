@@ -700,20 +700,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CLEGuardians.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-cleveland-guardians/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CLEGuardians.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-cleveland-guardians/2"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Guardians Feed)",
@@ -1260,16 +1246,16 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN2",
+                "Language": "English - Sportsnet One",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-montreal-canadiens/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN2",
+                "Language": "English - Sportsnet One",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-montreal-canadiens/2"
             },
             {
                 "Source": "delta",
@@ -1320,13 +1306,6 @@
                 "Language": "English - Blues App",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-stars-vs-st-louis-blues/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-preseason_blues-stars-live-streaming-610735680/1"
             },
             {
                 "Source": "golf",
@@ -1959,13 +1938,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-lafc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_san-jose-los-angeles-live-streaming-539290656/1"
             }
         ]
     },
@@ -1995,13 +1967,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-columbus-crew/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_montreal-columbus-live-streaming-539289360/1"
             }
         ]
     },
@@ -2031,13 +1996,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-england-revolution-vs-orlando-city-sc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_new-england-orlando-live-streaming-539290224/1"
             }
         ]
     },
@@ -2067,13 +2025,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-d-c-united-vs-charlotte-fc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_dc-united-charlotte-live-streaming-539289792/1"
             }
         ]
     },
@@ -2226,6 +2177,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_tennessee-kennesaw-st-live-streaming-587846160/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1556/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1556/2"
             }
         ]
     },
@@ -3347,6 +3312,107 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "BKB 59 Tijuana Fernandez",
+        "Team 2 Name": "Podmore",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BKB 59 Tijuana Fernandez v Podmore",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BKB%2059%20Tijuana%20Fernandez%20v%20Podmore&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1522/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1522/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "South Dakota Coyotes",
+        "Team 2 Name": "Boise State Broncos",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Boise State Broncos vs South Dakota Coyotes",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Boise%20State%20Broncos%20vs%20South%20Dakota%20Coyotes&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_boise-st-south-dakota-live-streaming-587856960/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1549/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1549/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "San Diego State",
+        "Team 2 Name": "James Madison",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQAEzDcQ8amu0kNICDtPqjhvgQpMrXMGV315olMCa0wDsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmdMDLohu2kCRAqQEEIn2GUIC5cIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "San Diego State vs James Madison",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=San%20Diego%20State%20vs%20James%20Madison&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_san-diego-st-james-madison-live-streaming-587847888/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1550/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1550/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -3452,107 +3518,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "BKB 59 Tijuana Fernandez",
-        "Team 2 Name": "Podmore",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "BKB 59 Tijuana Fernandez v Podmore",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BKB%2059%20Tijuana%20Fernandez%20v%20Podmore&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1522/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1522/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "South Dakota Coyotes",
-        "Team 2 Name": "Boise State Broncos",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Boise State Broncos vs South Dakota Coyotes",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Boise%20State%20Broncos%20vs%20South%20Dakota%20Coyotes&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_boise-st-south-dakota-live-streaming-587856960/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1549/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1549/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "San Diego State",
-        "Team 2 Name": "James Madison",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQAEzDcQ8amu0kNICDtPqjhvgQpMrXMGV315olMCa0wDsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmdMDLohu2kCRAqQEEIn2GUIC5cIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "San Diego State vs James Madison",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=San%20Diego%20State%20vs%20James%20Madison&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_san-diego-st-james-madison-live-streaming-587847888/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1550/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1550/2"
             }
         ]
     },
