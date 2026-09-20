@@ -128,6 +128,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/4"
             },
             {
+                "Source": "delta",
+                "Stream_No": 5,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/5"
+            },
+            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "NFL Redzone",
@@ -829,13 +836,6 @@
                 "Language": "English - NHL Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-islanders-vs-new-jersey-devils/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "NHL Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/islanders-v-devils-401879644/1"
             },
             {
                 "Source": "golf",
@@ -1570,6 +1570,78 @@
         ]
     },
     {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Anaheim Ducks",
+        "Team 2 Name": "San Jose Sharks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp",
+        "Match Title": "Anaheim Ducks vs San Jose Sharks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reqJIg+YMjm7aQUkDBAoTIA8eMwCwJBT7DZ9FLrYouu8vSyzPTLRg7hp0QA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 21-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "NHL Pass on DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/sharks-v-ducks-401879368/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1599/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1599/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Indiana Fever",
+        "Team 2 Name": "Washington Mystics",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
+        "Match Title": "Indiana Fever vs Washington Mystics",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtgY8wMpCG4gpIEvpAozISxBB8bBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 21-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-indiana-fever/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-indiana-fever/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_fever-mystics-live-streaming-589237200/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1682,78 +1754,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_nfl-network-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Anaheim Ducks",
-        "Team 2 Name": "San Jose Sharks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp",
-        "Match Title": "Anaheim Ducks vs San Jose Sharks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reqJIg+YMjm7aQUkDBAoTIA8eMwCwJBT7DZ9FLrYouu8vSyzPTLRg7hp0QA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 21-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "NHL Pass on DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/sharks-v-ducks-401879368/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1599/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1599/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Indiana Fever",
-        "Team 2 Name": "Washington Mystics",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
-        "Match Title": "Indiana Fever vs Washington Mystics",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtgY8wMpCG4gpIEvpAozISxBB8bBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 21-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-indiana-fever/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-indiana-fever/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_fever-mystics-live-streaming-589237200/1"
             }
         ]
     },
