@@ -900,14 +900,43 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "TCU",
+        "Team 2 Name": "Arkansas State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJ7YQ9eGAAmIbiBIgdEEIkQ6+h3QQpM+KLmDKb680faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAwRCCBYhuIEiAAmITYkT79ulAQpM+KLmDLwi80faa11oqXSA.webp",
+        "Match Title": "TCU vs Arkansas State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TCU%20vs%20Arkansas%20State&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1548/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1548/2"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Isaac Cruz",
-        "Team 2 Name": "Nestor Bravo",
+        "Team 1 Name": "Cruz",
+        "Team 2 Name": "Bravo",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Isaac Cruz vs Nestor Bravo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoyggQKEGV4gDWbTpDGSJiCBg6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "Match Title": "Cruz vs. Bravo",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeMERSQMEFhBUQw7KTkgUMmaRXyQk8QvVqSc-REMnzE0eQigwgkUxUpyhYElwBjV0Ies7ZTJXAklyB2A7MgggA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 20-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -953,35 +982,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1521/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "TCU",
-        "Team 2 Name": "Arkansas State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJ7YQ9eGAAmIbiBIgdEEIkQ6+h3QQpM+KLmDKb680faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAwRCCBYhuIEiAAmITYkT79ulAQpM+KLmDLwi80faa11oqXSA.webp",
-        "Match Title": "TCU vs Arkansas State",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=TCU%20vs%20Arkansas%20State&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1548/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1548/2"
             }
         ]
     },
@@ -1116,47 +1116,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - SportsNet LA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - SportsNet LA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/2"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Dodgers Feed)",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/giants-v-dodgers-401817011/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Appalachian State",
-        "Team 2 Name": "Charlotte",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBxeYMHzAkQEENxA6AJrpCJEOvcYIUmfFF23l680Q6a0NoqXSA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgYIFMCTAAJiAghuIEiD0HEiE3pT6CFJn01swZeEXmjNTWmBdjREEA.webp",
-        "Match Title": "Appalachian State vs Charlotte",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKDDpgklZiG4gpIFCEQwQJU4ZAQQfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_appalachian-st-charlotte-live-streaming-587838384/1"
             }
         ]
     },
@@ -1499,13 +1463,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-portland-timbers-vs-atlanta-united-fc/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_portland-atlanta-live-streaming-539294544/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLS Season Pass",
@@ -1606,6 +1563,35 @@
                 "Language": "Spanish - Liga MX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-guadalajara/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "New Zealand Breakers",
+        "Team 2 Name": "Illawarra Hawks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCrEMVaoYhuIPrhAkQKPZqOq+BCk0tcwZeEXmiUwJrTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRhRSEHzAoQO7ptwgSukKZggAJiH3LCMYEz4oua8vXmjnTWmDVjREEA.webp",
+        "Match Title": "New Zealand Breakers vs Illawarra Hawks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmxcw7MCRDcQUoyH0xTJiLiMFgSCn2Gz6mlSm1l4RLLPdNaYHpiohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-zealand-breakers-vs-illawarra-hawks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-zealand-breakers-vs-illawarra-hawks/2"
             }
         ]
     },
@@ -1715,35 +1701,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "New Zealand Breakers",
-        "Team 2 Name": "Illawarra Hawks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCrEMVaoYhuIPrhAkQKPZqOq+BCk0tcwZeEXmiUwJrTD2xoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRhRSEHzAoQO7ptwgSukKZggAJiH3LCMYEz4oua8vXmjnTWmDVjREEA.webp",
-        "Match Title": "New Zealand Breakers vs Illawarra Hawks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmxcw7MCRDcQUoyH0xTJiLiMFgSCn2Gz6mlSm1l4RLLPdNaYHpiohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-zealand-breakers-vs-illawarra-hawks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-zealand-breakers-vs-illawarra-hawks/2"
             }
         ]
     },
