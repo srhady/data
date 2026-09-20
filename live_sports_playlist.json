@@ -218,6 +218,13 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1518/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/ufc-331-van-vs-pantoja-2-ufc-1789873555/1"
             }
         ]
     },
@@ -638,35 +645,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Washington",
-        "Team 2 Name": "Eastern Washington",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQ9cABMxmkN1UhdEEIjW7dKdQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Washington vs Eastern Washington",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEDxBkkYbrBDcQUkChCIYWsyAghbEpjpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:15 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BTN Alternate",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-eastern-washington-eagles-at-washington-huskies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BTN Alternate",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-eastern-washington-eagles-at-washington-huskies/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "St. Louis Cardinals",
@@ -893,13 +871,6 @@
                 "Language": "English - ACC Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-west-virginia-mountaineers-at-virginia-cavaliers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_virginia-west-virginia-live-streaming-587845728/1"
             },
             {
                 "Source": "golf",
@@ -1140,13 +1111,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kennesaw-state-owls-at-tennessee-volunteers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_tennessee-kennesaw-st-live-streaming-587846160/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1290,13 +1254,6 @@
         "Start Time": "06:00 AM | 20-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_tcu-arkansas-st-live-streaming-587847024/1"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -2018,6 +1975,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mls_colorado-seattle-live-streaming-539293248/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLS Season Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/seattle-sounders-fc-v-colorado-rapids-761826/1"
             }
         ]
     },
@@ -2054,6 +2018,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mls_salt-lake-vancouver-live-streaming-539294112/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLS Season Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/vancouver-whitecaps-v-real-salt-lake-761825/1"
             }
         ]
     },
@@ -2090,6 +2061,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mls_nashville-chicago-live-streaming-539293680/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLS Season Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/chicago-fire-fc-v-nashville-sc-761827/1"
             }
         ]
     },
@@ -2315,6 +2293,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mls_portland-atlanta-live-streaming-539294544/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLS Season Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/atlanta-united-fc-v-portland-timbers-761828/1"
             }
         ]
     },
@@ -2388,35 +2373,6 @@
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "América",
-        "Team 2 Name": "Guadalajara",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "América vs. Guadalajara",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeMAjiQIEdOEgUIKRGA1ESmSWUgYOmTSo7E21UaUBjYBIV6LKcqoFCRTbPTCFgSXPZdhuTlVhUnoCa3IAyVCIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - Liga MX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-guadalajara/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - Liga MX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-guadalajara/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "América",
         "Team 2 Name": "CD Guadalajara",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxlgUIbmHCJuIEiAO6D+viETrGFJnxRcwZeEXmjbTWmHtjREIA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNghe8qiDUgSIFCEQQduEDC0g+BCk0tcwZeEXmiUwJrTD2xoiEA.webp",
@@ -2439,6 +2395,28 @@
                 "Language": "Spanish - Liga MX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-guadalajara/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Hidden Valley — MXGP - Race 1",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hidden%20Valley%20%E2%80%94%20MXGP%20-%20Race%201&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:30 AM | 20-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/hidden-valley-mxgp-race-1-fim-motocross-world-championship-1789875000/1"
             }
         ]
     },
@@ -2548,28 +2526,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Hidden Valley — MXGP - Race 1",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hidden%20Valley%20%E2%80%94%20MXGP%20-%20Race%201&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "09:30 AM | 20-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/hidden-valley-mxgp-race-1-fim-motocross-world-championship-1789875000/1"
             }
         ]
     },
