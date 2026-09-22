@@ -13,27 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MASN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MASN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-blue-jays-live-streaming-594465264/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Orioles Feed)",
@@ -120,20 +99,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MNMT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-flyers-vs-washington-capitals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MNMT",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-flyers-vs-washington-capitals/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -162,20 +127,6 @@
         "Start Time": "05:00 AM | 22-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-buffalo-sabres-vs-pittsburgh-penguins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-buffalo-sabres-vs-pittsburgh-penguins/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -206,13 +157,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-preseason_blue-jackets-red-wings-live-streaming-610948656/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -242,20 +186,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MSGSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-rangers-vs-new-jersey-devils/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MSGSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-rangers-vs-new-jersey-devils/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -284,27 +214,6 @@
         "Start Time": "05:00 AM | 22-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet One",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ottawa-senators-vs-montreal-canadiens/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet One",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ottawa-senators-vs-montreal-canadiens/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-preseason_canadiens-senators-live-streaming-610949088/1"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -512,6 +421,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1638/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1638/2"
             }
         ]
     },
