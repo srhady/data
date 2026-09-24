@@ -145,6 +145,35 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "South East Melbourne Phoenix",
+        "Team 2 Name": "Melbourne United",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q8MCEogYdEN1UgSRwzFymQKAhSZ8UXMGQ315o+01phHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15Q4ogAykQ3EHxAkDekDFwgAJmZQEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Match Title": "South East Melbourne Phoenix vs Melbourne United",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqygQ8BMCQhuIPiBKmQUkCgu4QEKwX0U+w2fRRgVKLp-L0tot5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 PM | 24-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-south-east-melbourne-phoenix-vs-melbourne-united/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-south-east-melbourne-phoenix-vs-melbourne-united/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -250,35 +279,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "South East Melbourne Phoenix",
-        "Team 2 Name": "Melbourne United",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q8MCEogYdEN1UgSRwzFymQKAhSZ8UXMGQ315o+01phHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15Q4ogAykQ3EHxAkDekDFwgAJmZQEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Match Title": "South East Melbourne Phoenix vs Melbourne United",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqygQ8BMCQhuIPiBKmQUkCgu4QEKwX0U+w2fRRgVKLp-L0tot5MtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:30 PM | 24-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-south-east-melbourne-phoenix-vs-melbourne-united/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-south-east-melbourne-phoenix-vs-melbourne-united/2"
             }
         ]
     },
@@ -526,6 +526,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - UEFA Nations League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-liechtenstein-vs-lithuania/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - UEFA Nations League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-liechtenstein-vs-lithuania/2"
+            },
+            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
@@ -548,6 +562,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fubo Sports 3",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-kosovo-vs-republic-of-ireland/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fubo Sports 3",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-kosovo-vs-republic-of-ireland/2"
+            },
+            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
@@ -569,6 +597,20 @@
         "Start Time": "12:45 AM | 25-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fubo Sports 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austria-vs-israel/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fubo Sports 2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austria-vs-israel/2"
+            },
             {
                 "Source": "hotel",
                 "Stream_No": 1,
