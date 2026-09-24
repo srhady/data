@@ -243,13 +243,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-new-york-yankees/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-rays-live-streaming-594482544/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Yankees Feed)",
@@ -298,20 +291,6 @@
                 "Language": "English - BravesVision",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-atlanta-braves/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-reds-live-streaming-594483408/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-reds-live-streaming-594483408/2"
             },
             {
                 "Source": "foxtrot",
@@ -428,20 +407,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-kansas-city-royals/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-white-sox-live-streaming-594484272/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-white-sox-live-streaming-594484272/2"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Royals Feed)",
@@ -490,20 +455,6 @@
                 "Language": "English - USA Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-new-york-liberty/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_liberty-dream-live-streaming-589250592/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_liberty-dream-live-streaming-589250592/2"
             }
         ]
     },
@@ -823,6 +774,70 @@
         ]
     },
     {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Seattle Mariners",
+        "Team 2 Name": "Houston Astros",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp",
+        "Match Title": "Seattle Mariners vs Houston Astros",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFlhWlMNM0heILCBQgYhkBFPmbJFkgpYRcxijCqUPD+UbU5Xvg6YB7iYhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 24-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-seattle-mariners/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-seattle-mariners/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-astros-live-streaming-594486432/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-astros-live-streaming-594486432/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Mariners Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/astros-v-mariners-401817057/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1654/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1654/2"
+            }
+        ]
+    },
+    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Seattle Storm",
@@ -891,120 +906,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1643/2"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Houston Astros",
-        "Team 2 Name": "Seattle Mariners",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Houston Astros vs. Seattle Mariners",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCwh4wCcJAQQKECvnKVMYIoDGpUtJAlxKySq36I+lCJDbDIeRGv8wgkU2z0whYElzbrIVdWS2E9awJgGTBXczIIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 24-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-seattle-mariners/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-seattle-mariners/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-astros-live-streaming-594486432/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-astros-live-streaming-594486432/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Mariners Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/astros-v-mariners-401817057/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Seattle Mariners",
-        "Team 2 Name": "Houston Astros",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp",
-        "Match Title": "Seattle Mariners vs Houston Astros",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFlhWlMNM0heILCBQgYhkBFPmbJFkgpYRcxijCqUPD+UbU5Xvg6YB7iYhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 24-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-seattle-mariners/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-seattle-mariners/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-astros-live-streaming-594486432/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mariners-astros-live-streaming-594486432/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Mariners Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/astros-v-mariners-401817057/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1654/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1654/2"
             }
         ]
     },
