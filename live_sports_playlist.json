@@ -356,8 +356,8 @@
         "League": "Football",
         "Team 1 Name": "Türkiye",
         "Team 2 Name": "France",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgmdcgwDGzcT3giq3Al1ZgwufCaA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "Türkiye vs. France",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCCogAxiBSkZILCBgKQcjYggiRSvYlkH1wROqnLVZZet7ltAoToLZ6YQsCS5p8oWG6dtYVJ6Z3hyP2BtMgggA.webp",
         "Match Status": "Live 🔴",
@@ -591,6 +591,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Kansas Speedway — Free Practice",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kansas%20Speedway%20%E2%80%94%20Free%20Practice&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 26-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/kansas-speedway-free-practice-nascar-craftsman-trucks-series-1790370000/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -696,28 +718,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Kansas Speedway — Free Practice",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kansas%20Speedway%20%E2%80%94%20Free%20Practice&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:00 AM | 26-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/kansas-speedway-free-practice-nascar-craftsman-trucks-series-1790370000/1"
             }
         ]
     },
