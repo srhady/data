@@ -361,6 +361,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_temple-army-live-streaming-587872944/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1641/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1641/2"
             }
         ]
     },
@@ -460,9 +474,37 @@
         "Match Title": "Boston Red Sox vs Chicago Cubs",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRBikIat028QWEChAwQhiCYs2YLJBSwi5jFGFUoe78oz1jP+KzAYO7iYhBAA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "03:35 AM | 26-Sep",
+        "Start Time": "03:30 AM | 26-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NESN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-2/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NESN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-2/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Marquee Sports Network",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-2/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Marquee Sports Network",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-2/4"
+            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
@@ -476,20 +518,6 @@
                 "Language": "MLB.TV (Red Sox Feed)",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/cubs-v-red-sox-401817074/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1710/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1710/2"
             }
         ]
     },
@@ -512,6 +540,50 @@
                 "Language": "Floracing",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/4-crown-nationals-at-eldora-speedway/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMSOIL Championship Off-Road In San Bernardino, CA",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYuN7ABHIoRAgIC3AUawxDYPs4JICuSjFkwnblwhA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 26-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/amsoil-championship-off-road-in-san-bernardino-ca/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lucas Oil Jackson 100 at Brownstown Speedway",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYiBDA8+BSA4hEeVQEMVxRrDENgRzgkgLxwFGLJhO3LhCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:15 AM | 26-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/lucas-oil-jackson-100-at-brownstown-speedway/1"
             }
         ]
     },
@@ -621,28 +693,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Lucas Oil Jackson 100 at Brownstown Speedway",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYiBDA8+BSA4hEeVQEMVxRrDENgRzgkgLxwFGLJhO3LhCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:15 AM | 26-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Floracing",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/lucas-oil-jackson-100-at-brownstown-speedway/1"
             }
         ]
     },
@@ -997,6 +1047,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-boston-bruins-vs-washington-capitals/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl-preseason_capitals-bruins-live-streaming-653227632/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1026,6 +1083,13 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_uab-navy-live-streaming-587873808/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1054,6 +1118,13 @@
         "Start Time": "05:00 AM | 26-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_rutgers-howard-live-streaming-587875104/1"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
