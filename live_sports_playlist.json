@@ -85,13 +85,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-1/4"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-cubs-live-streaming-594514944/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Red Sox Feed)",
@@ -540,6 +533,42 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Temple",
+        "Team 2 Name": "Army",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wKYAAZ1sMHxDcQAExAQQiHIZghrZvgQpN7XMGXhF5ojU1phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wYJCBIgYwACYhuIPiFMxTuEBC2GrBCkz4ouYMvCLzRzpmtdjREEA.webp",
+        "Match Title": "Temple vs Army",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Temple%20vs%20Army&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 26-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_temple-army-live-streaming-587872944/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1641/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1641/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -645,120 +674,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Temple",
-        "Team 2 Name": "Army",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wKYAAZ1sMHxDcQAExAQQiHIZghrZvgQpN7XMGXhF5ojU1phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wYJCBIgYwACYhuIPiFMxTuEBC2GrBCkz4ouYMvCLzRzpmtdjREEA.webp",
-        "Match Title": "Temple vs Army",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Temple%20vs%20Army&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 26-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_temple-army-live-streaming-587872944/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1641/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1641/2"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "New York Yankees",
-        "Team 2 Name": "Baltimore Orioles",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp",
-        "Match Title": "New York Yankees vs Baltimore Orioles",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdon5QYPEiF4gsIFCBj6QEY+bPH8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:05 AM | 26-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - YES",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees-game-2/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - YES",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees-game-2/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - MASN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees-game-2/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - MASN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees-game-2/4"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-orioles-live-streaming-594508464/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-orioles-live-streaming-594508464/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLB.TV (Yankees Feed)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/orioles-v-yankees-401817088/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1708/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1708/2"
             }
         ]
     },
@@ -1214,6 +1129,84 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1669/2"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "New York Yankees",
+        "Team 2 Name": "Baltimore Orioles",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp",
+        "Match Title": "New York Yankees vs Baltimore Orioles",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdon5QYPEiF4gsIFCBj6QEY+bPH8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:05 AM | 26-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - YES",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees-game-1/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - YES",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees-game-1/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - MASN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees-game-1/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - MASN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees-game-1/4"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-orioles-live-streaming-594508464/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-orioles-live-streaming-594508464/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLB.TV (Yankees Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/orioles-v-yankees-401817088/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1708/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1708/2"
             }
         ]
     },
