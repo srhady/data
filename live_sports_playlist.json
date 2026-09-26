@@ -60,37 +60,9 @@
         "Match Title": "Boston Red Sox vs Chicago Cubs",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRBikIat028QWEChAwQhiCYs2YLJBSwi5jFGFUoe78oz1jP+KzAYO7iYhBAA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "03:30 AM | 26-Sep",
+        "Start Time": "03:35 AM | 26-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NESN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-2/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NESN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-2/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Marquee Sports Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-2/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - Marquee Sports Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-boston-red-sox-game-2/4"
-            },
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
@@ -456,6 +428,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_rutgers-howard-live-streaming-587875104/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1669/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1669/2"
             }
         ]
     },
@@ -478,6 +464,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_uab-navy-live-streaming-587873808/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1670/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1670/2"
             }
         ]
     },
@@ -1419,28 +1419,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Fall Nationals at Silver Dollar Speedway",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPENhi9ZuEPI4hEAQ17lijWGIbBDnBJGACuKMWTCduXCEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 26-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Floracing",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/fall-nationals-at-silver-dollar-speedway/1"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Atlante",
@@ -1466,6 +1444,50 @@
                 "Language": "Spanish - Liga MX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlante-vs-monterrey/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Fall Nationals at Silver Dollar Speedway",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPENhi9ZuEPI4hEAQ17lijWGIbBDnBJGACuKMWTCduXCEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 26-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/fall-nationals-at-silver-dollar-speedway/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "9.25.26 | Bakersfield Speedway at Kevin Harvicks Kern Rcwy",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBYKwE5oATHBHYNYAVhUuAEMFSBTSGsYlYFgY2DDMKta8csBwVOYusF4t46EHhAxFIQgpV4FdENwUpOqpoaXrQO7rpA7ETZSDuIQao2xhUZICWNij+neDAUED48LlJcJC4UYmk+FQAGeh9EsEtzEGClGBjk+JAkuNgC0BDre2ccsT45SGAwpjJhPjBG7DagA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:15 AM | 26-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Dirtvision",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/9-25-26-bakersfield-speedway/1"
             }
         ]
     },
@@ -1575,28 +1597,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "9.25.26 | Bakersfield Speedway at Kevin Harvicks Kern Rcwy",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBYKwE5oATHBHYNYAVhUuAEMFSBTSGsYlYFgY2DDMKta8csBwVOYusF4t46EHhAxFIQgpV4FdENwUpOqpoaXrQO7rpA7ETZSDuIQao2xhUZICWNij+neDAUED48LlJcJC4UYmk+FQAGeh9EsEtzEGClGBjk+JAkuNgC0BDre2ccsT45SGAwpjJhPjBG7DagA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:15 AM | 26-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Dirtvision",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/9-25-26-bakersfield-speedway/1"
             }
         ]
     },
