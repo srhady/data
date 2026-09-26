@@ -686,13 +686,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_florida-state-central-arkansas-live-streaming-660656736/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1717,6 +1710,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_auburn-vanderbilt-live-streaming-660635568/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1693/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1693/2"
             }
         ]
     },
@@ -2298,6 +2305,28 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
+        "Match Title": "Lucas Oil Jackson 100 at Brownstown Speedway",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYiBDA8+BSA4hEeVQEMVxRrDENgRzgkgLxwFGLJhO3LhCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:15 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/lucas-oil-jackson-100-at-brownstown-speedway/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "USAC MRA Sprints Helm Memorial at Valley Speedway",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYlhAxcIEHJTAAhsRCIUIDo1hiGwY5wSRgArqqZkwnblwhA.webp",
         "Match Status": "Live 🔴",
@@ -2314,24 +2343,74 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Lucas Oil Jackson 100 at Brownstown Speedway",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYiBDA8+BSA4hEeVQEMVxRrDENgRzgkgLxwFGLJhO3LhCA.webp",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Miami (FL)",
+        "Team 2 Name": "Central Michigan",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgABjC968bCG4gSIACYgIIRIlM4cxghSZ8UXMGV315o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4h6ABmI4c3ECRAATNSESJ9RkCAmEYwJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Match Title": "Miami (FL) vs Central Michigan",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJ0Q4BJENxBSQKEIhghdiYzngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "04:15 AM | 27-Sep",
+        "Start Time": "04:30 AM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "foxtrot",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Floracing",
+                "Language": "English - CW",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/lucas-oil-jackson-100-at-brownstown-speedway/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-central-michigan-chippewas-at-miami-hurricanes/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CW",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-central-michigan-chippewas-at-miami-hurricanes/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_miami-hurricanes-central-michigan-live-streaming-587913120/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1731/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1731/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Charlotte",
+        "Team 2 Name": "Louisiana",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgYIFMCTAAJiAghuIEiD0HEiE3pT6CFJn01swZeEXmjNTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIeJHUhea7iBIg1ELYl1a+BCkwtcwZDfXmiUwJrTB2xoiEA.webp",
+        "Match Title": "Charlotte vs Louisiana",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20vs%20Louisiana&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_charlotte-lafayette-live-streaming-660638160/1"
             }
         ]
     },
@@ -2445,66 +2524,16 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Miami (FL)",
-        "Team 2 Name": "Central Michigan",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgABjC968bCG4gSIACYgIIRIlM4cxghSZ8UXMGV315o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4h6ABmI4c3ECRAATNSESJ9RkCAmEYwJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Match Title": "Miami (FL) vs Central Michigan",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJ0Q4BJENxBSQKEIhghdiYzngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Canada",
+        "Team 2 Name": "Chile",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyQQAExCJem7iBIgU+kHoMQQFzXwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkQwJORQgIIbqpDb92kKZB8QiRhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Match Title": "Canada vs Chile",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcPVFIQAkCG469IKSBRGzfXMYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "04:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CW",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-central-michigan-chippewas-at-miami-hurricanes/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CW",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-central-michigan-chippewas-at-miami-hurricanes/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_miami-hurricanes-central-michigan-live-streaming-587913120/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1731/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1731/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Charlotte",
-        "Team 2 Name": "Louisiana",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgYIFMCTAAJiAghuIEiD0HEiE3pT6CFJn01swZeEXmjNTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIeJHUhea7iBIg1ELYl1a+BCkwtcwZDfXmiUwJrTB2xoiEA.webp",
-        "Match Title": "Charlotte vs Louisiana",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20vs%20Louisiana&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:30 AM | 27-Sep",
+        "Start Time": "05:00 AM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
@@ -2512,7 +2541,7 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_charlotte-lafayette-live-streaming-660638160/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_canada-chile-live-streaming-619951104/1"
             }
         ]
     },
@@ -3069,6 +3098,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-kansas-city-royals/4"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-guardians-live-streaming-594509328/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-guardians-live-streaming-594509328/2"
+            },
+            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Royals Feed)",
@@ -3119,6 +3162,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-chicago-white-sox/4"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-rockies-live-streaming-594508896/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-rockies-live-streaming-594508896/2"
+            },
+            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (White Sox Feed)",
@@ -3167,6 +3224,20 @@
                 "Language": "English - Cardinals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-milwaukee-brewers/4"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-cardinals-live-streaming-594509760/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-cardinals-live-streaming-594509760/2"
             },
             {
                 "Source": "foxtrot",
@@ -3225,6 +3296,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_phillies-rays-live-streaming-594508032/1"
             },
             {
                 "Source": "foxtrot",
