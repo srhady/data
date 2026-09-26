@@ -692,13 +692,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-athletics/4"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-astros-live-streaming-594501120/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MLB.TV (Athletics Feed)",
@@ -761,20 +754,6 @@
                 "Language": "English - DBACKS.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-diego-padres/4"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-diamondbacks-live-streaming-594501552/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_padres-diamondbacks-live-streaming-594501552/2"
             },
             {
                 "Source": "foxtrot",
@@ -1058,6 +1037,35 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Fuji Speedway — Qualifying",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fuji%20Speedway%20%E2%80%94%20Qualifying&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 AM | 26-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/fuji-speedway-qualifying-world-endurance-championship-1790398800/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Alt feed",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/fuji-speedway-qualifying-world-endurance-championship-1790398800/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1163,35 +1171,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Fuji Speedway — Qualifying",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fuji%20Speedway%20%E2%80%94%20Qualifying&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 AM | 26-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/fuji-speedway-qualifying-world-endurance-championship-1790398800/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Alt feed",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/fuji-speedway-qualifying-world-endurance-championship-1790398800/2"
             }
         ]
     },
