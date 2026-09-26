@@ -786,6 +786,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_kentucky-south-alabama-live-streaming-660630816/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1681/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1681/2"
             }
         ]
     },
@@ -1343,143 +1357,72 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Czechia",
+        "Team 1 Name": "England",
+        "Team 2 Name": "Spain",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwFSDJR6ibiD64QGvRo0HEKAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhya0+YbmBTYQ3EH1wgAJruNmUICLgIUmfFFzBl4ReaIergYJ2NEQgA.webp",
+        "Match Title": "England vs Spain",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOHr0cMEHxDc9GkFJAozICCES6YBYEgp9hs+ijAqUXD+W2yvTLRgHmKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - FS2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-spain/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - FS2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-spain/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "DAZN Canada",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/spain-v-england-unl-401861066/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 2,
+                "Language": "TVE LA 4K HEVC",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/spain-v-england-unl-401861066/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/england-vs-spain-uefa-nations-league-1790448300/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Czech Republic",
         "Team 2 Name": "Croatia",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh49cgwDGzcT3giq3Al1ZgwufCaA.webp",
-        "Match Title": "Czechia vs. Croatia",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkFRBYQZRCBAx5EkOMSJJJEIlXB4u-XJm6QKKUtMpgNMhEv8wgkU2z0whYElwBjS0IesIJzJLAn0wB2BAmyA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC80IGMzAgQibiAAmIEiAi4NxnRYMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQg1jegBNSAkLxBY1IFCGoG9FmCE0EK+ASh5gy8IgrGP79MM-FiIQA.webp",
+        "Match Title": "Czech Republic vs Croatia",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFJTBIQOkrhDcQfHSCkgU5kBBCIYBgsCQU+w2fRRgVGtp-L0sshpMtGCeYqIQQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "12:45 AM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fubo Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-czechia-vs-croatia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fubo Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-czechia-vs-croatia/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-3_czechia-croatia-live-streaming-539401680/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/czechia-vs-croatia-uefa-nations-league-1790448300/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "North Macedonia",
-        "Team 2 Name": "Switzerland",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFWBDAVxfCG4gSh3CBQgIIRCHPqCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksIYg+YFGF4kQ3Nbv2IAJiB0gQMcwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "North Macedonia vs Switzerland",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDL64wMlMCkhuILSA0gU5kBBCIYxgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FOX Soccer Plus",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-north-macedonia-vs-switzerland/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FOX Soccer Plus",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-north-macedonia-vs-switzerland/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-1_north-macedonia-switzerland-live-streaming-539377920/1"
-            },
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/switzerland-v-north-macedonia-unl-401861065/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/north-macedonia-vs-switzerland-uefa-nations-league-1790448300/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Slovakia",
-        "Team 2 Name": "Moldova",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZIGYPiBDB8IbiE37NiACYgSIM4hAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3rww4XrQAMIbiBIgUuwyD65zRmAQpM+KLmDJr680faa0wjsaIhA.webp",
-        "Match Title": "Slovakia vs Moldova",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiEQ5eIEDBDcQG3VJAozICJr2WCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fubo Sports 5",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-slovakia-vs-moldova/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fubo Sports 5",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-slovakia-vs-moldova/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-3_slovakia-moldova-live-streaming-539403840/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN Canada",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/moldova-v-slovakia-unl-401861064/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/slovakia-vs-moldova-uefa-nations-league-1790448300/1"
+                "Embed_URL": "https://embed.st/embed/foxtrot/croatia-v-czechia-unl-401861063/1"
             }
         ]
     },
@@ -1536,34 +1479,12 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Czech Republic",
-        "Team 2 Name": "Croatia",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC80IGMzAgQibiAAmIEiAi4NxnRYMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQg1jegBNSAkLxBY1IFCGoG9FmCE0EK+ASh5gy8IgrGP79MM-FiIQA.webp",
-        "Match Title": "Czech Republic vs Croatia",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFJTBIQOkrhDcQfHSCkgU5kBBCIYBgsCQU+w2fRRgVGtp-L0sshpMtGCeYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN Canada",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/croatia-v-czechia-unl-401861063/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "England",
-        "Team 2 Name": "Spain",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwFSDJR6ibiD64QGvRo0HEKAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhya0+YbmBTYQ3EH1wgAJruNmUICLgIUmfFFzBl4ReaIergYJ2NEQgA.webp",
-        "Match Title": "England vs Spain",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOHr0cMEHxDc9GkFJAozICCES6YBYEgp9hs+ijAqUXD+W2yvTLRgHmKiEEA.webp",
+        "Team 1 Name": "Slovakia",
+        "Team 2 Name": "Moldova",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZIGYPiBDB8IbiE37NiACYgSIM4hAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3rww4XrQAMIbiBIgUuwyD65zRmAQpM+KLmDJr680faa0wjsaIhA.webp",
+        "Match Title": "Slovakia vs Moldova",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiEQ5eIEDBDcQG3VJAozICJr2WCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "12:45 AM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1571,44 +1492,410 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - FS2",
+                "Language": "English - Fubo Sports 5",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-spain/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-slovakia-vs-moldova/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - FS2",
+                "Language": "English - Fubo Sports 5",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-spain/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-slovakia-vs-moldova/2"
             },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-3_england-spain-live-streaming-539402112/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-3_england-spain-live-streaming-539402112/2"
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-3_slovakia-moldova-live-streaming-539403840/1"
             },
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/spain-v-england-unl-401861066/1"
+                "Embed_URL": "https://embed.st/embed/foxtrot/moldova-v-slovakia-unl-401861064/1"
             },
             {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/england-vs-spain-uefa-nations-league-1790448300/1"
+                "Embed_URL": "https://embed.st/embed/hotel/slovakia-vs-moldova-uefa-nations-league-1790448300/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "North Macedonia",
+        "Team 2 Name": "Switzerland",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFWBDAVxfCG4gSh3CBQgIIRCHPqCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksIYg+YFGF4kQ3Nbv2IAJiB0gQMcwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "North Macedonia vs Switzerland",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDL64wMlMCkhuILSA0gU5kBBCIYxgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - FOX Soccer Plus",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-north-macedonia-vs-switzerland/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - FOX Soccer Plus",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-north-macedonia-vs-switzerland/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-1_north-macedonia-switzerland-live-streaming-539377920/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "DAZN Canada",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/switzerland-v-north-macedonia-unl-401861065/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/north-macedonia-vs-switzerland-uefa-nations-league-1790448300/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Czechia",
+        "Team 2 Name": "Croatia",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh49cgwDGzcT3giq3Al1ZgwufCaA.webp",
+        "Match Title": "Czechia vs. Croatia",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkFRBYQZRCBAx5EkOMSJJJEIlXB4u-XJm6QKKUtMpgNMhEv8wgkU2z0whYElwBjS0IesIJzJLAn0wB2BAmyA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fubo Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-czechia-vs-croatia/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fubo Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-czechia-vs-croatia/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-3_czechia-croatia-live-streaming-539401680/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/czechia-vs-croatia-uefa-nations-league-1790448300/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Monster Truck Throwdown at Slinger Speedway",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPEDGB4U0kNh7lc8oqo6NYYhsAOcEkeeOAoxZMJ25cIQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/monster-truck-throwdown-speedway/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "BKFC 94: Till",
+        "Team 2 Name": "Romero",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BKFC 94: Till vs. Romero",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECmCJEJEOJghhwGjSwgQIkGXgjNS8RAmKQh2YmEm5i0nNKT+YQboLZ6YQsCS4AxpKGPWCF0ySRcdMEdgILIIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bkfc-94-till-vs-romero/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bkfc-94-till-vs-romero/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_bkfc-94-till-vs-romero-live-stream/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/bkfc-94-till-vs-romero/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1806/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1806/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Nashville Predators",
+        "Team 2 Name": "Carolina Hurricanes",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp",
+        "Match Title": "Nashville Predators vs Carolina Hurricanes",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAz8wo0b1DcQfEFJAwQKU5YMGpBYEgp9hs+im1sUXbeXpZZnplowd3pRCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Scripps Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-nashville-predators/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Scripps Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-nashville-predators/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl-preseason_predators-hurricanes-live-streaming-653321808/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1750/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1750/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Buffalo Sabres",
+        "Team 2 Name": "Pittsburgh Penguins",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Buffalo Sabres vs Pittsburgh Penguins",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCBIherFMCnaQfEAY0oQGjSBAQjBYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MSGB",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-buffalo-sabres/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MSGB",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-buffalo-sabres/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl-preseason_sabres-penguins-live-streaming-653321376/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1749/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1749/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Wyoming",
+        "Team 2 Name": "Hawaii",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhV8MNxAg6ILSRAATEBBCJEfXCBhGCFJnxRcwZDfXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATYGBAwxobiBIhVICCESIDKEH1wEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Wyoming vs Hawaii",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCD4gUIRHpDcQU7bpAaSpnIm1MkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_wyoming-hawaii-live-streaming-587912256/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1684/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1684/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Florida State",
+        "Team 2 Name": "Central Arkansas",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgyZJMAAMdENxAATEBFyG9ICzn0GCFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI+YFMDDAkPENxAATEBH1mQIEiBQX9BCkz6a2YMvCLzRmprTCuxohBAA.webp",
+        "Match Title": "Florida State vs Central Arkansas",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Florida%20State%20vs%20Central%20Arkansas&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_florida-state-central-arkansas-live-streaming-660656736/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1683/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1683/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Ottawa Redblacks",
+        "Team 2 Name": "Calgary Stampeders",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIcAKRgkIPiG4gSICCAAmIGBdxnDxghSZ8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAADAlJckIbiBIgAJvt0gURs6b4EKTa1zBl4ReaJTAmtMI7GiIQA.webp",
+        "Match Title": "Ottawa Redblacks vs Calgary Stampeders",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELT64QKEHBghuILUcQGSICxBA34BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN5",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-stampeders-at-ottawa-red-blacks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN5",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-stampeders-at-ottawa-red-blacks/2"
             }
         ]
     },
@@ -1718,286 +2005,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Monster Truck Throwdown at Slinger Speedway",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPEDGB4U0kNh7lc8oqo6NYYhsAOcEkeeOAoxZMJ25cIQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Floracing",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/monster-truck-throwdown-speedway/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "BKFC 94: Till",
-        "Team 2 Name": "Romero",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "BKFC 94: Till vs. Romero",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECmCJEJEOJghhwGjSwgQIkGXgjNS8RAmKQh2YmEm5i0nNKT+YQboLZ6YQsCS4AxpKGPWCF0ySRcdMEdgILIIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bkfc-94-till-vs-romero/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-bkfc-94-till-vs-romero/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_bkfc-94-till-vs-romero-live-stream/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/bkfc-94-till-vs-romero/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1806/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1806/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Nashville Predators",
-        "Team 2 Name": "Carolina Hurricanes",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp",
-        "Match Title": "Nashville Predators vs Carolina Hurricanes",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAz8wo0b1DcQfEFJAwQKU5YMGpBYEgp9hs+im1sUXbeXpZZnplowd3pRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Scripps Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-nashville-predators/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Scripps Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-nashville-predators/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-preseason_predators-hurricanes-live-streaming-653321808/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1750/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1750/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Buffalo Sabres",
-        "Team 2 Name": "Pittsburgh Penguins",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Buffalo Sabres vs Pittsburgh Penguins",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCBIherFMCnaQfEAY0oQGjSBAQjBYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MSGB",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-buffalo-sabres/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MSGB",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-buffalo-sabres/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-preseason_sabres-penguins-live-streaming-653321376/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1749/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1749/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Wyoming",
-        "Team 2 Name": "Hawaii",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhV8MNxAg6ILSRAATEBBCJEfXCBhGCFJnxRcwZDfXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATYGBAwxobiBIhVICCESIDKEH1wEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Wyoming vs Hawaii",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCD4gUIRHpDcQU7bpAaSpnIm1MkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_wyoming-hawaii-live-streaming-587912256/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1684/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1684/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Florida State",
-        "Team 2 Name": "Central Arkansas",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgyZJMAAMdENxAATEBFyG9ICzn0GCFJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI+YFMDDAkPENxAATEBH1mQIEiBQX9BCkz6a2YMvCLzRmprTCuxohBAA.webp",
-        "Match Title": "Florida State vs Central Arkansas",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Florida%20State%20vs%20Central%20Arkansas&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_florida-state-central-arkansas-live-streaming-660656736/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1683/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1683/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Ottawa Redblacks",
-        "Team 2 Name": "Calgary Stampeders",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIcAKRgkIPiG4gSICCAAmIGBdxnDxghSZ8UXMGXhF5o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAADAlJckIbiBIgAJvt0gURs6b4EKTa1zBl4ReaJTAmtMI7GiIQA.webp",
-        "Match Title": "Ottawa Redblacks vs Calgary Stampeders",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELT64QKEHBghuILUcQGSICxBA34BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN5",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-stampeders-at-ottawa-red-blacks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN5",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-stampeders-at-ottawa-red-blacks/2"
             }
         ]
     },
