@@ -1,27 +1,5 @@
 [
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "College GameDay",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=College%20GameDay&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 26-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_college-gameday-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -692,20 +670,6 @@
                 "Language": "English - Fubo Sports 3",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-marino-vs-finland/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN Canada",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/finland-v-san-marino-unl-401861059/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/san-marino-vs-finland-uefa-nations-league-1790438400/1"
             }
         ]
     },
@@ -735,20 +699,6 @@
                 "Language": "English - Fubo Sports 2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-faroe-islands-vs-kazakhstan/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN Canada",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/kazakhstan-v-faroe-islands-unl-401861060/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/faroe-islands-vs-kazakhstan-uefa-nations-league-1790438400/1"
             }
         ]
     },
@@ -778,20 +728,6 @@
                 "Language": "English - Fubo Sports",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-iceland-vs-estonia/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN Canada",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/estonia-v-iceland-unl-401861058/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/iceland-vs-estonia-uefa-nations-league-1790438400/1"
             }
         ]
     },
@@ -821,27 +757,6 @@
                 "Language": "English - FOX Soccer Plus",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bulgaria-vs-luxembourg/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-4_bulgaria-luxembourg-live-streaming-539404272/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN Canada",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/luxembourg-v-bulgaria-unl-401861061/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/bulgaria-vs-luxembourg-uefa-nations-league-1790438400/1"
             }
         ]
     },
@@ -1520,6 +1435,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "FCC 47",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuPYFgFYU9gkEdgBTYMYFMAEzAE5D8LJMBjUdMLlKqpFBsAhmEoTW2NMFnlM-WR0XZcBGYuAjgXcgnQgYIYyJB0QEEI0Mh5sogAYwx+PR1gk+cWG3UktsihUPFhWZVkqPVdcRgoaKUFKXCSgA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "UFC Fight Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/fcc-47/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1625,28 +1562,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "FCC 47",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuPYFgFYU9gkEdgBTYMYFMAEzAE5D8LJMBjUdMLlKqpFBsAhmEoTW2NMFnlM-WR0XZcBGYuAjgXcgnQgYIYyJB0QEEI0Mh5sogAYwx+PR1gk+cWG3UktsihUPFhWZVkqPVdcRgoaKUFKXCSgA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "UFC Fight Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/fcc-47/1"
             }
         ]
     },
