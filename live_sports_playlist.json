@@ -273,6 +273,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-slovenia-vs-scotland/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-1_slovenia-scotland-live-streaming-539380080/1"
+            },
+            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
@@ -2097,6 +2104,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ABTV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-los-angeles-kings/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ABTV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-los-angeles-kings/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -2624,6 +2645,35 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "Texas State",
+        "Team 2 Name": "Incarnate Word",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIgQJEFD4gYIbupAATTSESJja-SgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgQdEHxDwwJENxB6AJiAjbDIEylwgYBCkz4ouu8vXmjnTWmF1jREEA.webp",
+        "Match Title": "Texas State vs Incarnate Word",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJHLDciSbCG4gpIFCEQwQJXPuswCwXTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1730/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1730/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "Virginia",
         "Team 2 Name": "Delaware",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzMwAEw0MQMENxDqQEPSZBHzx9QQpM+KLmDLwi80faa0wjsaIhA.webp",
@@ -2690,6 +2740,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1731/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Cruz Azul",
+        "Team 2 Name": "Toluca",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgG0IuMCnYhuIPiAO6SIdYkT6YBCkz5a2YMvCLzRWprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgAJiCh8wq1dxAlcIRHuMh9IdQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Cruz Azul vs Toluca",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCiUIeAhDcDIPiFMQQ5mCBIgrNlAWBIKfYbPqaVKLlvL0sst5MtGBaYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Spanish - Liga MX",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-toluca/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Spanish - Liga MX",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-toluca/2"
             }
         ]
     },
@@ -3084,6 +3163,49 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
+        "Team 1 Name": "Chicago White Sox",
+        "Team 2 Name": "Colorado Rockies",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp",
+        "Match Title": "Chicago White Sox vs Colorado Rockies",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmMKIUwMCGkheILCBQgYhkBFOXqIeCyQUsIuYxRhVOjp-KNqcjr4rLqe4mIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:10 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CHSN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-chicago-white-sox/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CHSN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-chicago-white-sox/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Rockies.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-chicago-white-sox/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Rockies.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-chicago-white-sox/4"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
         "Team 1 Name": "Milwaukee Brewers",
         "Team 2 Name": "St. Louis Cardinals",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
@@ -3195,6 +3317,34 @@
         "Start Time": "05:30 AM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ABC",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-a-m-aggies-at-lsu-tigers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ABC",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-a-m-aggies-at-lsu-tigers/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - SkyCast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-a-m-aggies-at-lsu-tigers/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - SkyCast",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-a-m-aggies-at-lsu-tigers/4"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -3370,6 +3520,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MSGSN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-jersey-devils-vs-new-york-islanders/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MSGSN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-jersey-devils-vs-new-york-islanders/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -3470,6 +3634,20 @@
         "Start Time": "05:45 AM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - SEC Network",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-missouri-tigers-at-mississippi-state-bulldogs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - SEC Network",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-missouri-tigers-at-mississippi-state-bulldogs/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -3834,6 +4012,35 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "App State Mountaineers",
+        "Team 2 Name": "NC State Wolfpack",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "App State Mountaineers - NC State Wolfpack",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=App%20State%20Mountaineers%20-%20NC%20State%20Wolfpack&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1739/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1739/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Real Salt Lake",
@@ -3961,6 +4168,20 @@
         "Start Time": "08:00 AM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Scripps Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-sharks-vs-vegas-golden-knights/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Scripps Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-sharks-vs-vegas-golden-knights/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
