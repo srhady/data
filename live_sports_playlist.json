@@ -69,20 +69,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_liam-davies-vs-nathaniel-collins-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1800/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1800/2"
             }
         ]
     },
@@ -421,35 +407,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "BKFC 94 Till",
-        "Team 2 Name": "Romero",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "BKFC 94 Till - Romero",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BKFC%2094%20Till%20-%20Romero&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1806/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1806/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "San Francisco Giants",
@@ -564,20 +521,6 @@
         "Start Time": "03:00 AM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-rangers-live-streaming-594507600/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-rangers-live-streaming-594507600/2"
-            },
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
@@ -2857,6 +2800,78 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "App State Mountaineers",
+        "Team 2 Name": "NC State Wolfpack",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "App State Mountaineers - NC State Wolfpack",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=App%20State%20Mountaineers%20-%20NC%20State%20Wolfpack&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1739/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1739/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Real Salt Lake",
+        "Team 2 Name": "New England Revolution",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp",
+        "Match Title": "Real Salt Lake vs New England Revolution",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMBl8w2kJRDcQfIwZMkQiCLhAgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-new-england-revolution/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-new-england-revolution/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_salt-lake-new-england-live-streaming-539409456/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLS Season Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/new-england-revolution-v-real-salt-lake-761840/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -2962,78 +2977,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "App State Mountaineers",
-        "Team 2 Name": "NC State Wolfpack",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "App State Mountaineers - NC State Wolfpack",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=App%20State%20Mountaineers%20-%20NC%20State%20Wolfpack&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1739/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1739/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Real Salt Lake",
-        "Team 2 Name": "New England Revolution",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp",
-        "Match Title": "Real Salt Lake vs New England Revolution",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMBl8w2kJRDcQfIwZMkQiCLhAgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-new-england-revolution/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-new-england-revolution/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_salt-lake-new-england-live-streaming-539409456/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLS Season Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/new-england-revolution-v-real-salt-lake-761840/1"
             }
         ]
     },
