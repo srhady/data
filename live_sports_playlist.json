@@ -459,12 +459,26 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "NFL Redzone",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWBYAU2HjABMCzg1hh0H7gBDYLEhRkE14CTgE58aMIN5QktYPhIiQgkDAUgI1JLHYpmYYgkjBxpbbPjAwu-hKA.webp",
+        "Match Title": "NFL RedZone",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IKuJFT42bCBggIIRFhABjKRGCIFiYcAlK1yg8C2IQ2kCllaIN-mEFSCsh4WBJcam0KestfTIbVxkwJzNSMyA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 27-Sep",
+        "Start Time": "10:50 PM | 27-Sep",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NFL RedZone",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-red-zone/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NFL RedZone",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-red-zone/2"
+            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
@@ -793,6 +807,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-chiefs-at-miami-dolphins/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_dolphins-chiefs-live-streaming-587931696/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_dolphins-chiefs-live-streaming-587931696/2"
+            },
+            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "NFL Game Pass on DAZN",
@@ -848,6 +876,20 @@
                 "Language": "English - CBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-texans-at-indianapolis-colts/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_colts-texans-live-streaming-587930832/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_colts-texans-live-streaming-587930832/2"
             },
             {
                 "Source": "foxtrot",
@@ -964,6 +1006,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-panthers-at-cleveland-browns/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_browns-panthers-live-streaming-587929968/1"
+            },
+            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "NFL Game Pass on DAZN",
@@ -1019,6 +1068,20 @@
                 "Language": "English - FOX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-chargers-at-buffalo-bills/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_bills-chargers-live-streaming-587929536/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_bills-chargers-live-streaming-587929536/2"
             },
             {
                 "Source": "foxtrot",
