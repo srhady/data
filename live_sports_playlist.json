@@ -128,13 +128,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-serbia-vs-netherlands/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-2_serbia-netherlands-live-streaming-539448336/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
@@ -176,13 +169,6 @@
                 "Language": "English - Fubo Sports",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-denmark-vs-wales/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-4_denmark-wales-live-streaming-539449200/1"
             },
             {
                 "Source": "foxtrot",
@@ -228,13 +214,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-austria-vs-kosovo/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-3_austria-kosovo-live-streaming-539450064/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
@@ -276,13 +255,6 @@
                 "Language": "English - Fubo Sports 3",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-gibraltar-vs-andorra/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-d-gr-1_gibraltar-andorra-live-streaming-539450928/1"
             },
             {
                 "Source": "foxtrot",
@@ -1245,6 +1217,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Pumas UNAM",
+        "Team 2 Name": "Atletico de San Luis",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgYIXoQAmwMBpBaQKECRB8QiCEYtmCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApgABn7AkXEiG4g9KEIgggzIc-twEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
+        "Match Title": "Pumas UNAM vs Atlético de San Luis",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCD6wQvNmB2aQRiCBMwQJEOalWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 28-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Spanish - TUDN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pumas-unam-vs-atl-tico-de-san-luis/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Spanish - TUDN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pumas-unam-vs-atl-tico-de-san-luis/2"
+            }
+        ]
+    },
+    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "New York Liberty",
@@ -1277,35 +1278,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_wnba-playoffs_lynx-liberty-live-streaming-663446592/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Pumas UNAM",
-        "Team 2 Name": "Atletico de San Luis",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgYIXoQAmwMBpBaQKECRB8QiCEYtmCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApgABn7AkXEiG4g9KEIgggzIc-twEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
-        "Match Title": "Pumas UNAM vs Atlético de San Luis",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCD6wQvNmB2aQRiCBMwQJEOalWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 28-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - TUDN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pumas-unam-vs-atl-tico-de-san-luis/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - TUDN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pumas-unam-vs-atl-tico-de-san-luis/2"
             }
         ]
     },
@@ -1417,6 +1389,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-israel-vs-republic-of-ireland/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-3_israel-ireland-live-streaming-539450496/1"
+            },
+            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
@@ -1460,6 +1439,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-norway-vs-portugal/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-4_norway-portugal-live-streaming-539449632/1"
+            },
+            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
@@ -1501,6 +1487,13 @@
                 "Language": "English - FS2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-greece/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-2_germany-greece-live-streaming-539448768/1"
             },
             {
                 "Source": "foxtrot",
