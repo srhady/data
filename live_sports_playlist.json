@@ -782,28 +782,6 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Western Kentucky",
-        "Team 2 Name": "Mercyhurst",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgUIACY8QOxNxAlNICCESI+IfYbWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATfsDAgYzMChDcQfECZOJjhkkdwEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Western Kentucky vs Mercyhurst",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Western%20Kentucky%20vs%20Mercyhurst&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_western-kentucky-mercyhurst-lakers-live-streaming-587920464/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
         "Team 1 Name": "Southeast Missouri State",
         "Team 2 Name": "West Florida",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgSMHxB8w3MABMQ3ECRCGIIRKa1aLMAhSZ8UXMGXhF5ol01pg3YqIQQA.webp",
@@ -1029,20 +1007,6 @@
                 "Language": "English - Rockies.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-chicago-white-sox/4"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-rockies-live-streaming-594508896/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-rockies-live-streaming-594508896/2"
             },
             {
                 "Source": "foxtrot",
@@ -2452,6 +2416,207 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "San Jose Earthquakes",
+        "Team 2 Name": "Portland Timbers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApq3MBoghuIbThgg+IE7sPaQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkploAGNiEQxgSENxAkDIPiBRHEhwygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "San Jose Earthquakes vs Portland Timbers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlRIgUIKWCkhuIPiBi7jhkIhwGpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-portland-timbers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-portland-timbers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_san-jose-portland-live-streaming-539410320/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLS Season Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/portland-timbers-v-san-jose-earthquakes-761843/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Vancouver Whitecaps",
+        "Team 2 Name": "DC United",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNhg+YcHBQhuICCD4hEJIyAAmIEzgmEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJ8wAE3IpIIbiAgh1IPvsO4zMECgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Vancouver Whitecaps vs DC United",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECn7AwYUVh4huIKSD4gI5kFZxmSuAsCQU+w2fRS62mtrvL19oppMtDqi9GFAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-d-c-united/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-d-c-united/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_vancouver-dc-united-live-streaming-539410752/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLS Season Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/d-c-united-v-vancouver-whitecaps-761842/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "LA Galaxy",
+        "Team 2 Name": "Colorado Rapids",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJw4qsABMQ3EBBB8QiEkZDb9uxhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "LA Galaxy vs Colorado Rapids",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcFJB8QSsChDctRw9pIhEEcwYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-colorado-rapids/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-colorado-rapids/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mls_la-galaxy-colorado-live-streaming-539409888/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "MLS Season Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/colorado-rapids-v-la-galaxy-761841/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Stanford",
+        "Team 2 Name": "Georgia Tech",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMABMwA4GBAhuIEiE2qQiRGb4WQKAhSZ8UXMGXhF5ol01pg3YqIQQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJKY1nxDcQAExARcekIh2J9KAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Stanford vs Georgia Tech",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Stanford%20vs%20Georgia%20Tech&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_stanford-georgia-tech-live-streaming-587916576/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1743/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1743/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Nevada",
+        "Team 2 Name": "Air Force",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ry+FAAwht3EABMQEXPpCJEObSAIUmfFFzBl4ReaPtNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgAJmDJkUIRNxCq1ICLtOqT+iAQpM+KLpvL15o+01phNY0RCA.webp",
+        "Match Title": "Nevada vs Air Force",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKBBCimtMCG4gpIFCEQwtpkOb4gFTJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 27-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_nevada-air-force-live-streaming-660643344/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1744/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1744/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -2557,207 +2722,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "San Jose Earthquakes",
-        "Team 2 Name": "Portland Timbers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApq3MBoghuIbThgg+IE7sPaQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkploAGNiEQxgSENxAkDIPiBRHEhwygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "San Jose Earthquakes vs Portland Timbers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlRIgUIKWCkhuIPiBi7jhkIhwGpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-portland-timbers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-portland-timbers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_san-jose-portland-live-streaming-539410320/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLS Season Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/portland-timbers-v-san-jose-earthquakes-761843/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Vancouver Whitecaps",
-        "Team 2 Name": "DC United",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNhg+YcHBQhuICCD4hEJIyAAmIEzgmEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJ8wAE3IpIIbiAgh1IPvsO4zMECgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Vancouver Whitecaps vs DC United",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECn7AwYUVh4huIKSD4gI5kFZxmSuAsCQU+w2fRS62mtrvL19oppMtDqi9GFAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-d-c-united/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-d-c-united/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_vancouver-dc-united-live-streaming-539410752/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLS Season Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/d-c-united-v-vancouver-whitecaps-761842/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "LA Galaxy",
-        "Team 2 Name": "Colorado Rapids",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJw4qsABMQ3EBBB8QiEkZDb9uxhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "LA Galaxy vs Colorado Rapids",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcFJB8QSsChDctRw9pIhEEcwYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-colorado-rapids/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-galaxy-vs-colorado-rapids/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_la-galaxy-colorado-live-streaming-539409888/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "MLS Season Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/colorado-rapids-v-la-galaxy-761841/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Stanford",
-        "Team 2 Name": "Georgia Tech",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMABMwA4GBAhuIEiE2qQiRGb4WQKAhSZ8UXMGXhF5ol01pg3YqIQQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJKY1nxDcQAExARcekIh2J9KAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Stanford vs Georgia Tech",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Stanford%20vs%20Georgia%20Tech&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_stanford-georgia-tech-live-streaming-587916576/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1743/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1743/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Nevada",
-        "Team 2 Name": "Air Force",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ry+FAAwht3EABMQEXPpCJEObSAIUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgAJmDJkUIRNxCq1ICLtOqT+iAQpM+KLpvL15o+01phNY0RCA.webp",
-        "Match Title": "Nevada vs Air Force",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKBBCimtMCG4gpIFCEQwtpkOb4gFTJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_nevada-air-force-live-streaming-660643344/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1744/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1744/2"
             }
         ]
     }
