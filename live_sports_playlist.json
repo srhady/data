@@ -188,35 +188,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "New York Yankees",
-        "Team 2 Name": "Baltimore Orioles",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp",
-        "Match Title": "New York Yankees vs Baltimore Orioles",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBIgySbcxDcQfEChAwDICCYtWJTJBT7DZ9FJrYoum8vSyzPTLQaovQhQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:05 PM | 27-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-orioles-live-streaming-594520560/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-orioles-live-streaming-594520560/2"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Boston Red Sox",
         "Team 2 Name": "Chicago Cubs",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp",
@@ -867,27 +838,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-vikings-at-tampa-bay-buccaneers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_buccaneers-vikings-live-streaming-587933856/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_buccaneers-vikings-live-streaming-587933856/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_buccaneers-vikings-live-streaming-587933856/3"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "NFL Game Pass on DAZN",
@@ -978,13 +928,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1727/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/baltimore-ravens-vs-dallas-cowboys-nfl-1790540700/1"
             }
         ]
     },
@@ -1056,13 +999,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1728/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/las-vegas-raiders-vs-new-orleans-saints-nfl-1790540700/1"
             }
         ]
     },
@@ -1374,6 +1310,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl_broncos-rams-live-streaming-587935152/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_broncos-rams-live-streaming-587935152/4"
             },
             {
                 "Source": "foxtrot",
