@@ -119,13 +119,6 @@
                 "Embed_URL": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/6"
             },
             {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "NFL Redzone",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/nfl-redzone-week-3/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -788,13 +781,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-cardinals-at-san-francisco-49-ers/2"
             },
             {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "NFL Game Pass on DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/cardinals-v-49ers-401872958/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -836,13 +822,6 @@
                 "Language": "English - FOX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-vikings-at-tampa-bay-buccaneers/2"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "NFL Game Pass on DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/vikings-v-buccaneers-401872959/1"
             },
             {
                 "Source": "golf",
@@ -888,34 +867,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-ravens-at-dallas-cowboys/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_cowboys-ravens-live-streaming-587934288/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_cowboys-ravens-live-streaming-587934288/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_cowboys-ravens-live-streaming-587934288/3"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "NFL Game Pass on DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/ravens-v-cowboys-401872960/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -957,34 +908,6 @@
                 "Language": "English - CBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-raiders-at-new-orleans-saints/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_saints-raiders-live-streaming-587934720/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_saints-raiders-live-streaming-587934720/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nfl_saints-raiders-live-streaming-587934720/3"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "NFL Game Pass on DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/raiders-v-saints-401872961/1"
             },
             {
                 "Source": "golf",
@@ -1133,6 +1056,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Road to The Dome Coles",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAENgeWSA7SQapTJ64QSlI1hiGwY5wSQF44CjFkwnblwhA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 28-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/road-to-the-dome-at-coles-county-speedway/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1238,28 +1183,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Road to The Dome Coles",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAENgeWSA7SQapTJ64QSlI1hiGwY5wSQF44CjFkwnblwhA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 28-Sep",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Floracing",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/road-to-the-dome-at-coles-county-speedway/1"
             }
         ]
     },
