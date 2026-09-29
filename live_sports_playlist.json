@@ -42,20 +42,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-atlanta-braves/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-atlanta-braves/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -320,6 +306,13 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-indiana-fever/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba-playoffs_fever-aces-live-streaming-663976224/1"
             }
         ]
     },
