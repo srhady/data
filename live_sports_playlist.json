@@ -27,13 +27,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-finland-vs-belarus/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-1_finland-belarus-live-streaming-539464320/1"
-            },
-            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
@@ -68,13 +61,6 @@
                 "Language": "English - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-moldova-vs-faroe-islands/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-3_moldova-faroe-islands-live-streaming-539465184/1"
             },
             {
                 "Source": "hotel",
@@ -183,13 +169,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb-playoffs_braves-phillies-live-streaming-662160096/2"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "New York Yankees",
+        "Team 2 Name": "Boston Red Sox",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "New York Yankees - Boston Red Sox",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=New%20York%20Yankees%20-%20Boston%20Red%20Sox&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 30-Sep",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1824/1"
             },
             {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/diamondbacks-phillies-vs-atlanta-braves-mlb-1790704800/1"
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1824/2"
             }
         ]
     },
@@ -666,13 +674,6 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-houston-astros/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/chicago-white-sox-vs-rangers-astros-mlb-1790715600/1"
             }
         ]
     },
@@ -896,13 +897,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1824/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/boston-red-sox-vs-new-york-yankees-mlb-1790726400/1"
             }
         ]
     },
@@ -1004,13 +998,6 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-diego-padres/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/chicago-cubs-vs-san-diego-padres-mlb-1790733600/1"
             }
         ]
     },
