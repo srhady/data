@@ -51,28 +51,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Dallas Wings",
-        "Team 2 Name": "Golden State Valkyries",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Dallas Wings vs Golden State Valkyries",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Dallas%20Wings%20vs%20Golden%20State%20Valkyries&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 01-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba-playoffs_wings-valkyries-live-streaming-663986592/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "San Diego Padres",
@@ -717,6 +695,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MSG",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-lightning-vs-new-york-rangers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MSG",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-lightning-vs-new-york-rangers/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -746,6 +738,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Disney+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-flyers-vs-new-jersey-devils/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Disney+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-flyers-vs-new-jersey-devils/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -774,6 +780,20 @@
         "Start Time": "05:00 AM | 02-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CBJNHL",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-buffalo-sabres-vs-columbus-blue-jackets/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CBJNHL",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-buffalo-sabres-vs-columbus-blue-jackets/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -853,6 +873,20 @@
         "Start Time": "06:00 AM | 02-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Scripps Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-wild-vs-nashville-predators/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Scripps Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-wild-vs-nashville-predators/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -978,6 +1012,35 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Indiana Fever",
+        "Team 2 Name": "Las Vegas Aces",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Indiana Fever vs. Las Vegas Aces",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGsJABjEcAjBEMEFlLiQKECU3aQICCERUQw7GvhzVWmlhAxVku1RTl5AobILZ6YQsCS4pZyEwbk55EzJnT3MwEIsyCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 02-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - USA Net",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - USA Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/2"
+            }
+        ]
+    },
+    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Calgary Flames",
@@ -990,6 +1053,20 @@
         "Start Time": "07:00 AM | 02-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-kraken-vs-calgary-flames/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-kraken-vs-calgary-flames/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1078,6 +1155,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Disney+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-utah-mammoth/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Disney+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-utah-mammoth/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1157,6 +1248,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-edmonton-oilers-vs-vancouver-canucks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-edmonton-oilers-vs-vancouver-canucks/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1185,6 +1290,20 @@
         "Start Time": "08:00 AM | 02-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports BA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-panthers-vs-san-jose-sharks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports BA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-panthers-vs-san-jose-sharks/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
