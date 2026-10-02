@@ -29,6 +29,35 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Perth Wildcats",
+        "Team 2 Name": "South East Melbourne Phoenix",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACBABjAATYEwghuqkCWNGYB3CCtaCFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q8MCEogYdEN1UgSRwzFymQKAhSZ8UXMGQ315o+01phHY0RCA.webp",
+        "Match Title": "Perth Wildcats vs South East Melbourne Phoenix",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBIgpFMLhAa+m41JAptIRKYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 PM | 02-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-south-east-melbourne-phoenix/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-south-east-melbourne-phoenix/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -134,35 +163,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Perth Wildcats",
-        "Team 2 Name": "South East Melbourne Phoenix",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACBABjAATYEwghuqkCWNGYB3CCtaCFJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q8MCEogYdEN1UgSRwzFymQKAhSZ8UXMGQ315o+01phHY0RCA.webp",
-        "Match Title": "Perth Wildcats vs South East Melbourne Phoenix",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBIgpFMLhAa+m41JAptIRKYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 PM | 02-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-south-east-melbourne-phoenix/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-south-east-melbourne-phoenix/2"
             }
         ]
     },
