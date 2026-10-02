@@ -13,13 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-3_kazakhstan-moldova-live-streaming-539485056/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
@@ -89,56 +82,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Latvia",
-        "Team 2 Name": "Montenegro",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSSmBTAAJsAAMIbiB0gUuEyD5nL5lAQpM+2tmDJr680dqa0wbsVEIIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhygowfchpAhuIEntzaDKQwBMQ8AhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Latvia vs Montenegro",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4h6opPxBa+IY1JAoz2kIiNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 02-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-latvia-vs-montenegro/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-latvia-vs-montenegro/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-2_latvia-montenegro-live-streaming-539484624/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "DAZN Canada",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/montenegro-v-latvia-unl-401861105/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/latvia-vs-montenegro-uefa-nations-league-1790956800/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Cyprus",
         "Team 2 Name": "Armenia",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h4CYGDAgQAExDcQJHSBQhVZnaphGCFJnxRcwZdfXminTWltFS6QA.webp",
@@ -183,6 +126,56 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/cyprus-vs-armenia-uefa-nations-league-1790956800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Latvia",
+        "Team 2 Name": "Montenegro",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSSmBTAAJsAAMIbiB0gUuEyD5nL5lAQpM+2tmDJr680dqa0wbsVEIIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhygowfchpAhuIEntzaDKQwBMQ8AhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Latvia vs Montenegro",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4h6opPxBa+IY1JAoz2kIiNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 02-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-latvia-vs-montenegro/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-latvia-vs-montenegro/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-c-gr-2_latvia-montenegro-live-streaming-539484624/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "DAZN Canada",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/montenegro-v-latvia-unl-401861105/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/latvia-vs-montenegro-uefa-nations-league-1790956800/1"
             }
         ]
     },
