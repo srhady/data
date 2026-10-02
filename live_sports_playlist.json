@@ -13,13 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_new-mexico-st-western-kentucky-live-streaming-663645312/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -63,6 +56,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-atlanta-braves/2"
             },
             {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "TNT Sports 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/phillies-v-braves-401907973/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -75,35 +75,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/1945/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Nashville Predators",
-        "Team 2 Name": "Minnesota Wild",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp",
-        "Match Title": "Nashville Predators vs Minnesota Wild",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRBwsYPmBSwQ3EHxBStIFBePmQIeAWBIKfYbPoGVKLmDLwiWLLeTLRgvmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 02-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1924/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1924/2"
             }
         ]
     },
@@ -161,6 +132,34 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl_browns-steelers-live-streaming-663644880/4"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Prime Video (English)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/steelers-v-browns-401872964/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 2,
+                "Language": "Prime Video (Spanish)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/steelers-v-browns-401872964/2"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 3,
+                "Language": "Prime Video (NextGen Feed)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/steelers-v-browns-401872964/3"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 4,
+                "Language": "NFL Game Pass on DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/steelers-v-browns-401872964/4"
             },
             {
                 "Source": "golf",
@@ -428,11 +427,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-sporting-kansas-city/2"
             },
             {
-                "Source": "delta",
+                "Source": "foxtrot",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "MLS Season Pass",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mls_seattle-kansas-city-live-streaming-627041520/1"
+                "Embed_URL": "https://embed.st/embed/foxtrot/sporting-kansas-city-v-seattle-sounders-fc-761798/1"
             }
         ]
     },
