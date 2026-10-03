@@ -454,20 +454,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - SEC Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vanderbilt-commodores-at-georgia-bulldogs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - SEC Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vanderbilt-commodores-at-georgia-bulldogs/2"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "SEC Network",
@@ -807,13 +793,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-slovenia/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-b-gr-1_switzerland-slovenia-live-streaming-539381808/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "DAZN Canada",
@@ -884,8 +863,8 @@
         "League": "Football",
         "Team 1 Name": "Spain",
         "Team 2 Name": "Czechia",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgU9cgwDGzcT3giq3Al1ZgwufCaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "Spain vs. Czechia",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp",
         "Match Status": "Live 🔴",
@@ -905,13 +884,6 @@
                 "Language": "English - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-spain-vs-czechia/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_uefa-nations-league-league-a-gr-3_spain-czechia-live-streaming-539493264/1"
             },
             {
                 "Source": "hotel",
@@ -1959,6 +1931,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PBR RidePass",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPELICGIDiBjkihENwGI5jWGIbBDnBJGACuKMWTCduXCEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/pbr-ridepass/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -2093,28 +2087,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "PBR RidePass",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPELICGIDiBjkihENwGI5jWGIbBDnBJGACuKMWTCduXCEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:00 AM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Floracing",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/pbr-ridepass/1"
             }
         ]
     },
@@ -3722,6 +3694,13 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2008/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/san-diego-padres-vs-milwaukee-brewers-mlb-1791073800/1"
             }
         ]
     },
