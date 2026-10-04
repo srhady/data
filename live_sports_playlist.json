@@ -575,13 +575,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_hawaii-san-jose-st-live-streaming-663672960/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "MW+",
@@ -616,28 +609,6 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-adelaide-36-ers-vs-new-zealand-breakers/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally Italia Sardegna — SS14 - Osilo - Tergu 1",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Italia%20Sardegna%20%E2%80%94%20SS14%20-%20Osilo%20-%20Tergu%201&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:31 PM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/rally-italia-sardegna-ss14-osilo-tergu-1-world-rally-championship-1791095460/1"
             }
         ]
     },
@@ -2295,6 +2266,20 @@
                 "Language": "English - FS1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2020/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2020/2"
             },
             {
                 "Source": "hotel",
