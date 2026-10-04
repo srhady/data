@@ -575,20 +575,6 @@
                 "Language": "ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/arkansas-state-red-wolves-v-louisiana-ragin-cajuns-401869932/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1975/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1975/2"
             }
         ]
     },
@@ -611,20 +597,6 @@
                 "Language": "BTN",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/indiana-hoosiers-v-rutgers-scarlet-knights-401858477/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1899/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1899/2"
             }
         ]
     },
@@ -884,32 +856,11 @@
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQAEzDcQ8amu0kNICDtPqjhvgQpMrXMGV315olMCa0wDsaIhA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIgQJEFD4gYIbupAATTSESJja-SgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
         "Match Title": "San Diego State vs Texas State",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESBjB4ElCADGwCCBTSQJEJuEgZNYSOwgqRhabJZSEjdsUyyVVfzCCDBbPTCFgSXPNVDnVnF9MlU3GTBnJUsIIA.webp",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzTMhENmPljNlG8cUH0WVKQPJksQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "08:30 AM | 04-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CW",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-state-bobcats-at-san-diego-state-aztecs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CW",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-state-bobcats-at-san-diego-state-aztecs/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_san-diego-st-texas-state-live-streaming-663672096/1"
-            },
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
@@ -946,13 +897,6 @@
         "Start Time": "09:00 AM | 04-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_arizona-cincinnati-live-streaming-663672528/1"
-            },
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
@@ -1129,6 +1073,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rally Italia Sardegna — SS14 - Osilo - Tergu 1",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Italia%20Sardegna%20%E2%80%94%20SS14%20-%20Osilo%20-%20Tergu%201&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:31 PM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/rally-italia-sardegna-ss14-osilo-tergu-1-world-rally-championship-1791095460/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1263,28 +1229,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally Italia Sardegna — SS14 - Osilo - Tergu 1",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Italia%20Sardegna%20%E2%80%94%20SS14%20-%20Osilo%20-%20Tergu%201&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:31 PM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/rally-italia-sardegna-ss14-osilo-tergu-1-world-rally-championship-1791095460/1"
             }
         ]
     },
