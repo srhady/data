@@ -953,13 +953,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/2"
             },
             {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "TBS",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/yankees-v-rays-401907985/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1291,13 +1284,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-heat-vs-toronto-raptors/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-preseason_raptors-heat-live-streaming-659144736/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "NBA League Pass",
@@ -1403,13 +1389,6 @@
                 "Language": "English - The Spot - MTN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-capitals-vs-tampa-bay-lightning/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_lightning-capitals-live-streaming-653684256/1"
             },
             {
                 "Source": "foxtrot",
@@ -1519,13 +1498,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-kraken-vs-edmonton-oilers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_oilers-kraken-live-streaming-653682960/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "NHL Net",
@@ -1574,13 +1546,6 @@
                 "Language": "English - NBC Sports Phil",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-philadelphia-flyers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_flyers-hurricanes-live-streaming-653683392/1"
             },
             {
                 "Source": "foxtrot",
@@ -1633,13 +1598,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-utah-mammoth-vs-columbus-blue-jackets/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_blue-jackets-mammoth-live-streaming-653682528/1"
-            },
-            {
                 "Source": "foxtrot",
                 "Stream_No": 1,
                 "Language": "ESPN+",
@@ -1688,13 +1646,6 @@
                 "Language": "English - MSGB",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-blackhawks-vs-buffalo-sabres/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_sabres-blackhawks-live-streaming-653682096/1"
             },
             {
                 "Source": "foxtrot",
@@ -2304,6 +2255,20 @@
                 "Language": "SEC Network",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/mcneese-cowboys-v-lsu-tigers-401856706/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1898/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1898/2"
             }
         ]
     },
@@ -2753,6 +2718,149 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "USA",
+        "Team 2 Name": "Mexico",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwheAExAxK7NSBIgUIPoZAQQF7qeWFtTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxsXKrRQhuIPiAggjJXCBM4YRghSZ8UXMGTX15o+01phHY0RCA.webp",
+        "Match Title": "USA vs Mexico",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmF4AGLoT4huIfSBBSQKE+aMgSRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_usa-mexico-live-streaming-627525792/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "TNT",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/usa-vs-mexico/1"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Vancouver Canucks",
+        "Team 2 Name": "Calgary Flames",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Match Title": "Vancouver Canucks vs Calgary Flames",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXijB8wSEFETcQfEFJAwQFlCCsXEjYEgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-flames-vs-vancouver-canucks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-flames-vs-vancouver-canucks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl_canucks-flames-live-streaming-653687280/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/calgary-flames-v-vancouver-canucks-401892440/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1988/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1988/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "San Jose Sharks",
+        "Team 2 Name": "Los Angeles Kings",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gIIGCHDzV3ELpApcxzavWHCMYEz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "San Jose Sharks vs Los Angeles Kings",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDKislTSG4g+IKSBghzKEJfNmJTJBT7DZ9FJrYoum8vR2jPTLQaovQhQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports BA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-san-jose-sharks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports BA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-san-jose-sharks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl_sharks-kings-live-streaming-653686848/1"
+            },
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/los-angeles-kings-v-san-jose-sharks-401892441/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1989/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1989/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -2887,149 +2995,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "USA",
-        "Team 2 Name": "Mexico",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwheAExAxK7NSBIgUIPoZAQQF7qeWFtTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxsXKrRQhuIPiAggjJXCBM4YRghSZ8UXMGTX15o+01phHY0RCA.webp",
-        "Match Title": "USA vs Mexico",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmF4AGLoT4huIfSBBSQKE+aMgSRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_usa-mexico-live-streaming-627525792/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "TNT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/usa-vs-mexico/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Vancouver Canucks",
-        "Team 2 Name": "Calgary Flames",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Match Title": "Vancouver Canucks vs Calgary Flames",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXijB8wSEFETcQfEFJAwQFlCCsXEjYEgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-flames-vs-vancouver-canucks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-flames-vs-vancouver-canucks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_canucks-flames-live-streaming-653687280/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/calgary-flames-v-vancouver-canucks-401892440/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1988/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1988/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "San Jose Sharks",
-        "Team 2 Name": "Los Angeles Kings",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gIIGCHDzV3ELpApcxzavWHCMYEz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Match Title": "San Jose Sharks vs Los Angeles Kings",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDKislTSG4g+IKSBghzKEJfNmJTJBT7DZ9FJrYoum8vR2jPTLQaovQhQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports BA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-san-jose-sharks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports BA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-san-jose-sharks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_sharks-kings-live-streaming-653686848/1"
-            },
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/los-angeles-kings-v-san-jose-sharks-401892441/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1989/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1989/2"
             }
         ]
     },
