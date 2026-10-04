@@ -257,35 +257,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "West Ham United",
-        "Team 2 Name": "Chelsea",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "West Ham United vs. Chelsea",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEkSY2EBGwjgNYZNUSJVObJTiQNaSBh6QWVQGNZmlRBCjy8gUMUEFKcoWBJcZt0LDdOeWFSehd4cn9geTIIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 PM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sports Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-west-ham-united-vs-chelsea/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sports Premier League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-west-ham-united-vs-chelsea/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Everton",
         "Team 2 Name": "Birmingham City",
         "Team 1 Logo": "",
@@ -309,6 +280,35 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-everton-vs-birmingham-city/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "West Ham United",
+        "Team 2 Name": "Chelsea",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "West Ham United vs. Chelsea",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEkSY2EBGwjgNYZNUSJVObJTiQNaSBh6QWVQGNZmlRBCjy8gUMUEFKcoWBJcZt0LDdOeWFSehd4cn9geTIIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 PM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sports Premier League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-west-ham-united-vs-chelsea/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sports Premier League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-west-ham-united-vs-chelsea/2"
             }
         ]
     },
@@ -825,6 +825,20 @@
                 "Language": "English - FOX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-cowboys-at-houston-texans/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_texans-cowboys-live-streaming-663781824/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_texans-cowboys-live-streaming-663781824/2"
             },
             {
                 "Source": "foxtrot",
