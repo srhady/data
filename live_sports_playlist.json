@@ -1,27 +1,5 @@
 [
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Washington State",
-        "Team 2 Name": "Fresno State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh16s+IPtjYhuIEiAAmICCESJ1unIwpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxitXnzAoQ3ECRAATEBBCJEBnXomE1TPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Washington State vs Fresno State",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzTMhEIeiBH5YzZRvHFB9FlSkDyZFhAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 AM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "USA Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/fresno-state-bulldogs-v-washington-state-cougars-401860921/1"
-            }
-        ]
-    },
-    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "San Jose Sharks",
@@ -150,20 +128,6 @@
                 "Language": "FOX",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/cincinnati-bearcats-v-arizona-wildcats-401856820/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1903/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1903/2"
             }
         ]
     },
@@ -363,6 +327,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rally Italia Sardegna — SS16 - Osilo - Tergu 2",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Italia%20Sardegna%20%E2%80%94%20SS16%20-%20Osilo%20-%20Tergu%202&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:38 PM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/rally-italia-sardegna-ss16-osilo-tergu-2-world-rally-championship-1791106680/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -497,28 +483,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally Italia Sardegna — SS16 - Osilo - Tergu 2",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Italia%20Sardegna%20%E2%80%94%20SS16%20-%20Osilo%20-%20Tergu%202&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:38 PM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/rally-italia-sardegna-ss16-osilo-tergu-2-world-rally-championship-1791106680/1"
             }
         ]
     },
