@@ -51,35 +51,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Ball State",
-        "Team 2 Name": "Toledo",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFWxAQQMECRDc9IFVpCJE+-SZgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyowQAEx5gy6kNxAkNICCESJdIYyD4EKTG123l680SmBNaYbWNEQgA.webp",
-        "Match Title": "Ball State vs Toledo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVljAkQUkHCQhuOkChCIYIbRDMhrMAsCQU+w2fRRa2KLlvL0sst5MtGCe9KIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1963/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1963/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -1729,6 +1700,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports Phil",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-philadelphia-flyers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports Phil",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-philadelphia-flyers/2"
+            },
+            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -2643,7 +2628,7 @@
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
-                "Language": "MLB.TV (Brewers Feed)",
+                "Language": "FS1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/foxtrot/padres-v-brewers-401908002/1"
             },
@@ -2667,6 +2652,50 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/san-diego-padres-vs-milwaukee-brewers-mlb-1791073800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Motegi — Warm-Up",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Motegi%20%E2%80%94%20Warm-Up&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:40 AM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/motegi-warm-up-motogp-1791074400/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NARC 410 Sprints at Thunderbowl Raceway",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYuNwguEZjICGIFcDUpxjWGIbBDnBJGACu2pmTCduioA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:45 AM | 04-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "foxtrot",
+                "Stream_No": 1,
+                "Language": "Floracing",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/foxtrot/narc-410-sprints-at-thunderbowl-raceway/1"
             }
         ]
     },
@@ -2809,50 +2838,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Motegi — Warm-Up",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Motegi%20%E2%80%94%20Warm-Up&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:40 AM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/motegi-warm-up-motogp-1791074400/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NARC 410 Sprints at Thunderbowl Raceway",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYuNwguEZjICGIFcDUpxjWGIbBDnBJGACu2pmTCduioA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:45 AM | 04-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "foxtrot",
-                "Stream_No": 1,
-                "Language": "Floracing",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/foxtrot/narc-410-sprints-at-thunderbowl-raceway/1"
-            }
-        ]
-    },
-    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Colorado Avalanche",
@@ -2922,6 +2907,13 @@
         "Start Time": "07:30 AM | 04-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_washington-st-fresno-st-live-streaming-663671232/1"
+            },
             {
                 "Source": "foxtrot",
                 "Stream_No": 1,
