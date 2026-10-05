@@ -86,6 +86,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rally TV",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -140,28 +162,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-tennis-channel/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally TV",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
             }
         ]
     },
@@ -479,6 +479,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-winnipeg-jets-vs-pittsburgh-penguins/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl_penguins-jets-live-streaming-653837184/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -520,6 +527,13 @@
                 "Language": "English - NESN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ottawa-senators-vs-boston-bruins/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl_bruins-senators-live-streaming-653836752/1"
             },
             {
                 "Source": "golf",
@@ -683,6 +697,28 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "ManningCast",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=ManningCast&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:15 AM | 06-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_manningcast-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "New Orleans Saints",
         "Team 2 Name": "Atlanta Falcons",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYQQagCbMQfENxAkQiXSFx6jFvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
@@ -727,6 +763,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_nfl_saints-falcons-live-streaming-663788304/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_saints-falcons-live-streaming-663788304/4"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 5,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nfl_saints-falcons-live-streaming-663788304/5"
             },
             {
                 "Source": "golf",
