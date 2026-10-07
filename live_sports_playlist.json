@@ -504,9 +504,16 @@
             {
                 "Source": "hotel",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "Home broadcast",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/milwaukee-bucks-vs-oklahoma-city-thunder-nba-1791417600/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/milwaukee-bucks-vs-oklahoma-city-thunder-nba-1791417600/2"
             }
         ]
     },
@@ -604,7 +611,7 @@
             {
                 "Source": "hotel",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "Home broadcast",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/phoenix-suns-vs-chicago-bulls-nba-1791417600/1"
             }
@@ -779,6 +786,13 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/golden-state-warriors-vs-portland-trail-blazers-nba-1791424800/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/golden-state-warriors-vs-portland-trail-blazers-nba-1791424800/2"
             }
         ]
     },
