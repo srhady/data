@@ -13,27 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TBS",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TBS",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb-playoffs_white-sox-guardians-live-streaming-663827616/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -200,50 +179,14 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "New Mexico State Aggies",
-        "Team 2 Name": "Florida International Panthers",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Florida Intl Golden Panthers vs New Mexico State Aggies",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS+xAW4NEDXyxmyjeOKD6LKlIHkyWEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 08-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_cfb_florida-int-new-mexico-st-live-streaming-663789600/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1999/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1999/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Winnipeg Jets",
-        "Team 2 Name": "Colorado Avalanche",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp",
-        "Match Title": "Winnipeg Jets vs Colorado Avalanche",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELz4g4MThA0gtU7SBQnuIRCFMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Atlanta Dream",
+        "Team 2 Name": "New York Liberty",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA.webp",
+        "Match Title": "Atlanta Dream vs New York Liberty",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFBAhaYMNxD6pIEgZAozWkBBB8bBYEgp9hs+ijAqUXD+XpZZXkw6HmKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "05:30 AM | 08-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -251,37 +194,23 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Prime Video",
+                "Language": "English - ESPN",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-winnipeg-jets/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-atlanta-dream/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Prime Video",
+                "Language": "English - ESPN",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-winnipeg-jets/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-atlanta-dream/2"
             },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_jets-avalanche-live-streaming-653877360/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2106/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2106/2"
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba-playoffs_dream-liberty-live-streaming-667225728/1"
             }
         ]
     },
@@ -336,14 +265,14 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Atlanta Dream",
-        "Team 2 Name": "New York Liberty",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA.webp",
-        "Match Title": "Atlanta Dream vs New York Liberty",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFBAhaYMNxD6pIEgZAozWkBBB8bBYEgp9hs+ijAqUXD+XpZZXkw6HmKiEEA.webp",
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Winnipeg Jets",
+        "Team 2 Name": "Colorado Avalanche",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp",
+        "Match Title": "Winnipeg Jets vs Colorado Avalanche",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELz4g4MThA0gtU7SBQnuIRCFMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "05:30 AM | 08-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -351,23 +280,88 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - ESPN",
+                "Language": "English - Prime Video",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-atlanta-dream/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-winnipeg-jets/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - ESPN",
+                "Language": "English - Prime Video",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-atlanta-dream/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-winnipeg-jets/2"
             },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba-playoffs_dream-liberty-live-streaming-667225728/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl_jets-avalanche-live-streaming-653877360/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2106/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2106/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Florida Intl Golden Panthers vs New Mexico State Aggies",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS+xAW4NEDXyxmyjeOKD6LKlIHkyWEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 08-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_cfb_florida-int-new-mexico-st-live-streaming-663789600/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NFL Network",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmQggAxqWwgqIGMBokQIUiETqpwkHphaRSmSClYQF9bMXKaU6SnIRQYQSKbZ6YQsCS5HIXJuThdhOScCYHhyN2AXSSA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NFL Network (ESPN)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NFL Network (ESPN)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
             }
         ]
     },
@@ -477,35 +471,6 @@
                 "Language": "English - NHL Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nhl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NFL Network",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmQggAxqWwgqIGMBokQIUiETqpwkHphaRSmSClYQF9bMXKaU6SnIRQYQSKbZ6YQsCS5HIXJuThdhOScCYHhyN2AXSSA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NFL Network (ESPN)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NFL Network (ESPN)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
             }
         ]
     },
