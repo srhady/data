@@ -133,13 +133,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2111/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/milwaukee-brewers-vs-san-diego-padres-mlb-1791336600/1"
             }
         ]
     },
@@ -254,20 +247,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2060/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Warriors Broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/los-angeles-lakers-vs-golden-state-warriors-nba-1791338400/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Lakers Broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/los-angeles-lakers-vs-golden-state-warriors-nba-1791338400/2"
             }
         ]
     },
@@ -829,6 +808,35 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
+        "Team 1 Name": "Atlanta Dream",
+        "Team 2 Name": "New York Liberty",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA.webp",
+        "Match Title": "Atlanta Dream vs New York Liberty",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFBAhaYMNxD6pIEgZAozWkBBB8bBYEgp9hs+ijAqUXD+XpZZXkw6HmKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 08-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-atlanta-dream/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-atlanta-dream/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
         "Team 1 Name": "Oklahoma City Thunder",
         "Team 2 Name": "Milwaukee Bucks",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp",
@@ -990,11 +998,54 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TBS",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-new-york-yankees/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TBS",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-new-york-yankees/2"
+            },
+            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/tampa-bay-rays-vs-new-york-yankees-mlb-1791417600/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Golden State Valkyries",
+        "Team 2 Name": "Las Vegas Aces",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
+        "Match Title": "Golden State Valkyries vs Las Vegas Aces",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4FRBYRIGCDJYQEecHikJq7CADGpFWuUklEkOLMgUJkNZCJFJS-zCCRTbPTCFgSXNstDnVghXMksCTTBnYGCyCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:30 AM | 08-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Peacock",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-golden-state-valkyries/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Peacock",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-golden-state-valkyries/2"
             }
         ]
     },
