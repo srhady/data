@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FS1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FS1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -118,13 +104,6 @@
                 "Language": "English - Pacers Broadcast",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-indiana-pacers/4"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nba-preseason_pacers-timberwolves-live-streaming-659498976/1"
             },
             {
                 "Source": "golf",
@@ -530,8 +509,8 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Team 1 Name": "New Mexico State Aggies",
+        "Team 2 Name": "Florida International Panthers",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "Florida Intl Golden Panthers vs New Mexico State Aggies",
@@ -546,6 +525,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_cfb_florida-int-new-mexico-st-live-streaming-663789600/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1999/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1999/2"
             }
         ]
     },
