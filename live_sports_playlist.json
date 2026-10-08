@@ -119,13 +119,6 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-atlanta-dream/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba-playoffs_dream-liberty-live-streaming-667225728/1"
             }
         ]
     },
@@ -155,13 +148,6 @@
                 "Language": "English - TNT",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-washington-capitals/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl_capitals-penguins-live-streaming-653876928/1"
             },
             {
                 "Source": "golf",
@@ -347,13 +333,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2103/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Home broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/phoenix-suns-vs-chicago-bulls-nba-1791417600/1"
             }
         ]
     },
@@ -404,13 +383,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2101/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/orlando-magic-vs-memphis-grizzlies-nba-1791417600/1"
             }
         ]
     },
@@ -461,20 +433,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2102/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Home broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/milwaukee-bucks-vs-oklahoma-city-thunder-nba-1791417600/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Away broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/milwaukee-bucks-vs-oklahoma-city-thunder-nba-1791417600/2"
             }
         ]
     },
@@ -736,6 +694,35 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Mount Panorama — Free Practice 1",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mount%20Panorama%20%E2%80%94%20Free%20Practice%201&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 08-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-1-australian-supercars-championship-1791426600/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Powered by Sky Sport NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-1-australian-supercars-championship-1791426600/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -870,35 +857,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mount Panorama — Free Practice 1",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mount%20Panorama%20%E2%80%94%20Free%20Practice%201&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 08-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-1-australian-supercars-championship-1791426600/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Powered by Sky Sport NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-1-australian-supercars-championship-1791426600/2"
             }
         ]
     }
