@@ -138,6 +138,35 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Iglesias",
+        "Team 2 Name": "Zaren",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Iglesias vs. Zaren",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZEiADGIYSJBYpc6ShkhEwkBBAxN21RIhz1IMjQkwRpEDSzBe5QwKGWC2emELAkuSSmdhuTkNZMj9XeHIA4EMyCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:30 AM | 09-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-iglesias-vs-zaren/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-iglesias-vs-zaren/2"
+            }
+        ]
+    },
+    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Buffalo Sabres",
@@ -1325,6 +1354,20 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-1-moto3-1791507600/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Alt feed",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-1-moto3-1791507600/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 3,
+                "Language": "Spanish broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-1-moto3-1791507600/3"
             }
         ]
     }
