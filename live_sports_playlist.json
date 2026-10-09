@@ -31,35 +31,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Lens",
-        "Team 2 Name": "Lyon",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxYYEJTCjQ3ECRAoQxvoZCm9R5YRjAmfFF23l680Y6a0w2saIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA.webp",
-        "Match Title": "Lens vs Lyon",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPtmBSwKECjDcQhviBIgIIEzimWj5gsCQU+w2fX0qUXMGXhEssl5MtGA+YqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lens-vs-lyon/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lens-vs-lyon/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Málaga",
         "Team 2 Name": "Espanyol",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJxuYFGAAm2ENxAQQfEIhIgYuEChBnGFJnxRcwZeEXminTWmBdjREEA.webp",
@@ -83,6 +54,35 @@
                 "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-m-laga-vs-espanyol/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Charlotte Motor Speedway — The Chase - Race: Ecosave 250",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Motor%20Speedway%20%E2%80%94%20The%20Chase%20-%20Race%3A%20Ecosave%20250&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:22 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/charlotte-motor-speedway-the-chase-race-ecosave-250-nascar-craftsman-trucks-series-1791580920/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "International",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/charlotte-motor-speedway-the-chase-race-ecosave-250-nascar-craftsman-trucks-series-1791580920/2"
             }
         ]
     },
@@ -221,35 +221,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Charlotte Motor Speedway — The Chase - Race: Ecosave 250",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Motor%20Speedway%20%E2%80%94%20The%20Chase%20-%20Race%3A%20Ecosave%20250&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:22 AM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/charlotte-motor-speedway-the-chase-race-ecosave-250-nascar-craftsman-trucks-series-1791580920/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "International",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/charlotte-motor-speedway-the-chase-race-ecosave-250-nascar-craftsman-trucks-series-1791580920/2"
             }
         ]
     },
@@ -724,6 +695,35 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/fuji-speedway-qualifying-1-super-formula-1791592800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Castillo",
+        "Team 2 Name": "Zarate",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Castillo vs Zarate",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Castillo%20vs%20Zarate&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2174/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2174/2"
             }
         ]
     },
