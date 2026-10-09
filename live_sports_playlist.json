@@ -29,24 +29,60 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
+        "Category": "Darts",
+        "League": "Darts",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Estoril — Free Practice",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Estoril%20%E2%80%94%20Free%20Practice&font=Oswald",
+        "Match Title": "Swiss Darts Trophy | Day 1 - Afternoon Session",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "04:20 PM | 09-Oct",
+        "Start Time": "05:00 PM | 09-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "hotel",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "English - PDC.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/estoril-free-practice-supersport-world-championship-1791541200/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-swiss-darts-trophy-day-1-afternoon-session/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - PDC.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-swiss-darts-trophy-day-1-afternoon-session/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Singapore Grand Prix Sprint",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Singapore%20Grand%20Prix%20Sprint&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 PM | 09-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2133/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2133/2"
             }
         ]
     },
@@ -285,35 +321,6 @@
                 "Language": "Italian broadcast",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/marina-bay-sprint-qualifying-formula-1-1791549000/5"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Estoril — Free Practice 2",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Estoril%20%E2%80%94%20Free%20Practice%202&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 PM | 09-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/estoril-free-practice-2-worldsbk-1791554400/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "World Feed",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/estoril-free-practice-2-worldsbk-1791554400/2"
             }
         ]
     },
