@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Charlotte Motor Speedway — Free Practice",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Motor%20Speedway%20%E2%80%94%20Free%20Practice&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 09-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/charlotte-motor-speedway-free-practice-nascar-craftsman-trucks-series-1791565200/1"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "IFK Göteborg",
@@ -47,6 +25,57 @@
                 "Language": "Swedish - TV4 Fotboll",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-v-ster-s-sk/2"
+            }
+        ]
+    },
+    {
+        "Category": "Darts",
+        "League": "Darts",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Swiss Darts Trophy | Day 1 - Evening Session",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 09-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - PDC.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-swiss-darts-trophy-day-1-evening-session/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - PDC.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-swiss-darts-trophy-day-1-evening-session/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Charlotte Motor Speedway — Free Practice",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Motor%20Speedway%20%E2%80%94%20Free%20Practice&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 09-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/charlotte-motor-speedway-free-practice-nascar-craftsman-trucks-series-1791565200/1"
             }
         ]
     },
