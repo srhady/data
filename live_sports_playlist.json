@@ -326,49 +326,6 @@
         ]
     },
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Boston Bruins",
-        "Team 2 Name": "Philadelphia Flyers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzdsIDQBNSIbiD64QMI4cQ4zBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4OJpDcQEXNpB8QKXcZAATEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Boston Bruins vs Philadelphia Flyers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAkQMNrmwhuIPiCk6QKczGMhEJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2145/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2145/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2145/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2145/4"
-            }
-        ]
-    },
-    {
         "Category": "Darts",
         "League": "Darts",
         "Team 1 Name": "",
@@ -452,35 +409,6 @@
                 "Language": "English - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-misfits-boxing-joey-essex-vs-dapper-laughs/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Fortuna Sittard",
-        "Team 2 Name": "Twente",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25hVOASkghuIACYhDJEMZT6QZiCD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlV4VRBDcQWviEQkDukPpAGCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Match Title": "Fortuna Sittard vs Twente",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBR0Q8bDxDcQfECZw5DMEJesFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 11-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Dutch - ESPN2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-fc-twente/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Dutch - ESPN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-fc-twente/2"
             }
         ]
     },
@@ -1714,6 +1642,20 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-warm-up-australian-supercars-championship-1791667800/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Sky Sport NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-warm-up-australian-supercars-championship-1791667800/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 3,
+                "Language": "Sky Sport 4K UHD",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-warm-up-australian-supercars-championship-1791667800/3"
             }
         ]
     },
@@ -1850,6 +1792,49 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/la-clippers-vs-toronto-raptors-nba-1791671400/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Supercars Championship: Bathurst 1000",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCEQSAxtlIgFC4dhAoQwkFVUqaJBcC3wD2jRLVLx8mCGtUU5CKDCCRTOfbCFgSXNPtDnVkdlMnsCYCMwZ2BHMgggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 11-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox Sports 506",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-supercars-championship-bathurst-1000/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox Sports 506",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-supercars-championship-bathurst-1000/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Sky Sport 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-supercars-championship-bathurst-1000/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Sky Sport 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-supercars-championship-bathurst-1000/4"
             }
         ]
     },
@@ -2354,9 +2339,16 @@
             {
                 "Source": "hotel",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "Home broadcast",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/detroit-pistons-vs-washington-wizards-nba-1791673200/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/detroit-pistons-vs-washington-wizards-nba-1791673200/2"
             }
         ]
     },
@@ -3398,9 +3390,16 @@
             {
                 "Source": "hotel",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "Home broadcast",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/sacramento-kings-vs-golden-state-warriors-nba-1791678600/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/sacramento-kings-vs-golden-state-warriors-nba-1791678600/2"
             }
         ]
     },
