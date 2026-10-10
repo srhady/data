@@ -44,31 +44,31 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Mjällby",
-        "Team 2 Name": "Degerfors",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyfMNzDgAJiG4gIIRDFzGQKfVcYUmfFFzXl680Q6a0wasaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7UU0ACZhuIHRFwgUhkHxPHEKAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Mjällby vs Degerfors",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQiBC0wIFGCQhuIKSD4gSxzVtO6QMAsCQU+w2fT0qUXMGXhEssl5M2j5iohBAA.webp",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "West Virginia",
+        "Team 2 Name": "Arizona",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgUwfCDh8wSENxAkQAExAQQiRH30WLBCkz7q2YMvCLzR6prTCuxohBAA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYbrhApQIXRpIgAJiAghEiA6eNbCMYEz7a2YMvCLzR2prTAuxoiCA.webp",
+        "Match Title": "West Virginia vs Arizona",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS6RA1LIeiD05YzZRvHFB9FlSkDyZFhAA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "09:30 PM | 10-Oct",
+        "Start Time": "10:00 PM | 10-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "golf",
                 "Stream_No": 1,
-                "Language": "Swedish - TV4 Sport Live 1",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-degerfors-if/1"
+                "Embed_URL": "https://embed.st/embed/golf/2031/1"
             },
             {
-                "Source": "admin",
+                "Source": "golf",
                 "Stream_No": 2,
-                "Language": "Swedish - TV4 Sport Live 1",
+                "Language": "English",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-degerfors-if/2"
+                "Embed_URL": "https://embed.st/embed/golf/2031/2"
             }
         ]
     },
@@ -98,6 +98,20 @@
                 "Language": "English - ESPN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ucf-knights-at-oklahoma-state-cowboys/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2029/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2029/2"
             }
         ]
     },
@@ -141,6 +155,49 @@
                 "Language": "English - SkyCast",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-north-carolina-tar-heels-at-pittsburgh-panthers/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2030/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2030/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "NC State",
+        "Team 2 Name": "Wake Forest",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyA7iF5otIACYgIuzSEMgY+kPAIUmfFFzXl680Q6a0wasaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQJgSEPGwhuOkCRAATEBE1m+emDoIUmfFFzBkt9eaIdNaYJ2NEQgA.webp",
+        "Match Title": "NC State vs Wake Forest",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHBBBkQwKSBghuIPShCIDmjSGsSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2032/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2032/2"
             }
         ]
     },
@@ -170,6 +227,78 @@
                 "Language": "English - FOX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-hoosiers-at-nebraska-cornhuskers/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2027/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2027/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Bowling Green",
+        "Team 2 Name": "Sacramento State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLApB3MABMtIbiBIhNICCESIDRnMsIxgTPmrZgy8IvNFqmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAg6FYLBDcQJEABMQEEIj19dIFJYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Bowling Green vs Sacramento State",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRDXT6G-ljNlG8cUH0WVKQPJksQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2034/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2034/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Army",
+        "Team 2 Name": "Tulane",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wYJCBIgYwACYhuIPiFMxTuEBC2GrBCkz4ouYMvCLzRzpmtdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFDxAkQKyiG46QEEIm19D2kCBgEKTPhrZgy8IvNEamtMM7GiIQA.webp",
+        "Match Title": "Army vs Tulane",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCD65o3MFJDcQ+lCEQwQJEBAMhzKAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2033/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2033/2"
             }
         ]
     },
@@ -242,6 +371,20 @@
                 "Language": "English - SkyCast",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-texas-a-m-aggies-at-missouri-tigers/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2028/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2028/2"
             }
         ]
     },
@@ -264,122 +407,6 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/internazionale-vs-parma-serie-a-1791648000/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Army",
-        "Team 2 Name": "Tulane",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wYJCBIgYwACYhuIPiFMxTuEBC2GrBCkz4ouYMvCLzRzpmtdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFDxAkQKyiG46QEEIm19D2kCBgEKTPhrZgy8IvNEamtMM7GiIQA.webp",
-        "Match Title": "Army vs Tulane",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCD65o3MFJDcQ+lCEQwQJEBAMhzKAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2033/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2033/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Bowling Green",
-        "Team 2 Name": "Sacramento State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLApB3MABMtIbiBIhNICCESIDRnMsIxgTPmrZgy8IvNFqmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAg6FYLBDcQJEABMQEEIj19dIFJYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Bowling Green vs Sacramento State",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRDXT6G-ljNlG8cUH0WVKQPJksQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2034/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2034/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "NC State",
-        "Team 2 Name": "Wake Forest",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyA7iF5otIACYgIuzSEMgY+kPAIUmfFFzXl680Q6a0wasaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQJgSEPGwhuOkCRAATEBE1m+emDoIUmfFFzBkt9eaIdNaYJ2NEQgA.webp",
-        "Match Title": "NC State vs Wake Forest",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHBBBkQwKSBghuIPShCIDmjSGsSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2032/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2032/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "West Virginia",
-        "Team 2 Name": "Arizona",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgUwfCDh8wSENxAkQAExAQQiRH30WLBCkz7q2YMvCLzR6prTCuxohBAA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYbrhApQIXRpIgAJiAghEiA6eNbCMYEz7a2YMvCLzR2prTAuxoiCA.webp",
-        "Match Title": "West Virginia vs Arizona",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS6RA1LIeiD05YzZRvHFB9FlSkDyZFhAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2031/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2031/2"
             }
         ]
     },
@@ -837,6 +864,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Fortuna Sittard",
+        "Team 2 Name": "Twente",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25hVOASkghuIACYhDJEMZT6QZiCD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlV4VRBDcQWviEQkDukPpAGCFJnxRcwZeEXmjbTWmHtjREIA.webp",
+        "Match Title": "Fortuna Sittard vs Twente",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBR0Q8bDxDcQfECZw5DMEJesFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 11-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Dutch - ESPN2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-fc-twente/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Dutch - ESPN2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-fc-twente/2"
+            }
+        ]
+    },
+    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Miami (OH) RedHawks",
@@ -866,31 +922,24 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Fortuna Sittard",
-        "Team 2 Name": "Twente",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25hVOASkghuIACYhDJEMZT6QZiCD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlV4VRBDcQWviEQkDukPpAGCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Match Title": "Fortuna Sittard vs Twente",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBR0Q8bDxDcQfECZw5DMEJesFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Charlotte Motor Speedway — Qualifying",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Motor%20Speedway%20%E2%80%94%20Qualifying&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 11-Oct",
+        "Start Time": "12:05 AM | 11-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "hotel",
                 "Stream_No": 1,
-                "Language": "Dutch - ESPN2",
+                "Language": "Main",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-fc-twente/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Dutch - ESPN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-fc-twente/2"
+                "Embed_URL": "https://embed.st/embed/hotel/charlotte-motor-speedway-qualifying-nascar-cup-series-1791655500/1"
             }
         ]
     },
@@ -1029,28 +1078,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Charlotte Motor Speedway — Qualifying",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Motor%20Speedway%20%E2%80%94%20Qualifying&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:05 AM | 11-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/charlotte-motor-speedway-qualifying-nascar-cup-series-1791655500/1"
             }
         ]
     },
