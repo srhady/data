@@ -217,6 +217,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Fuji Speedway — Race 1",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fuji%20Speedway%20%E2%80%94%20Race%201&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/fuji-speedway-race-1-super-formula-1791612000/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -351,28 +373,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Fuji Speedway — Race 1",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fuji%20Speedway%20%E2%80%94%20Race%201&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/fuji-speedway-race-1-super-formula-1791612000/1"
             }
         ]
     },
@@ -1594,6 +1594,13 @@
                 "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lille-vs-le-havre-ac/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/lille-vs-le-havre-ac-ligue-1-1791645300/1"
             }
         ]
     },
@@ -1623,6 +1630,28 @@
                 "Language": "Swedish - TV4 Play",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-degerfors-if/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Internazionale",
+        "Team 2 Name": "Parma",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Internazionale vs Parma",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Internazionale%20vs%20Parma&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/internazionale-vs-parma-serie-a-1791648000/1"
             }
         ]
     },
@@ -2026,6 +2055,13 @@
                 "Language": "English - Bundesliga",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-eintracht-frankfurt/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/rb-leipzig-vs-eintracht-frankfurt-bundesliga-1791649800/1"
             }
         ]
     },
