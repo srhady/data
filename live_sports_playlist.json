@@ -267,20 +267,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - SEC Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-south-carolina-gamecocks-at-florida-gators/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - SEC Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-south-carolina-gamecocks-at-florida-gators/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -525,13 +511,6 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-napoli-vs-frosinone/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/napoli-vs-frosinone-serie-a-1791657900/1"
             }
         ]
     },
@@ -561,13 +540,6 @@
                 "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-le-mans/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/paris-saint-germain-vs-le-mans-ligue-1-1791657900/1"
             }
         ]
     },
@@ -611,13 +583,6 @@
                 "Language": "English - beIN SPORTS CONNECT 6",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-as-monaco-vs-toulouse/4"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/as-monaco-vs-toulouse-ligue-1-1791657900/1"
             }
         ]
     },
@@ -647,13 +612,6 @@
                 "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-lorient-vs-paris-fc/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/lorient-vs-paris-fc-ligue-1-1791657900/1"
             }
         ]
     },
@@ -683,13 +641,6 @@
                 "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brest-vs-angers/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/brest-vs-angers-ligue-1-1791657900/1"
             }
         ]
     },
@@ -1408,6 +1359,84 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "UFC Fight Night 290 Allen",
+        "Team 2 Name": "Duncan",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UFC Fight Night 290 Allen vs Duncan",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHohNAkGIgheILCBSG9Iacc3mSLJBSwi5jFGFUoe78o2pzP+KzAYO7i+kA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 11-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Spanish - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Spanish - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Portuguese - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Portuguese - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/6"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2185/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2185/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/ufc-fight-night-allen-vs-duncan-ufc-1791666000/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1542,84 +1571,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "UFC Fight Night 290 Allen",
-        "Team 2 Name": "Duncan",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC Fight Night 290 Allen vs Duncan",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHohNAkGIgheILCBSG9Iacc3mSLJBSwi5jFGFUoe78o2pzP+KzAYO7i+kA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:00 AM | 11-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Spanish - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "Spanish - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Portuguese - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Portuguese - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/6"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2185/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2185/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/ufc-fight-night-allen-vs-duncan-ufc-1791666000/1"
             }
         ]
     },
