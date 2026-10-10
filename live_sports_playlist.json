@@ -42,20 +42,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-chicago-bulls/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-chicago-bulls/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -114,20 +100,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-winnipeg-jets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-winnipeg-jets/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -158,31 +130,60 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "WWE Friday Night Smackdown",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Utah State",
+        "Team 2 Name": "Washington State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kpySfjxDcQJEABMQEEIkR8QMEyBQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh16s+IPtjYhuIEiAAmICCESJ1unIwpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Utah State vs Washington State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Utah%20State%20vs%20Washington%20State&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 10-Oct",
+        "Start Time": "07:00 AM | 10-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "golf",
                 "Stream_No": 1,
-                "Language": "English - USA",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1"
+                "Embed_URL": "https://embed.st/embed/golf/2024/1"
             },
             {
-                "Source": "admin",
+                "Source": "golf",
                 "Stream_No": 2,
-                "Language": "English - USA",
+                "Language": "English",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
+                "Embed_URL": "https://embed.st/embed/golf/2024/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "San Jose State",
+        "Team 2 Name": "Wyoming",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBluIFCAGIc6kiAAmICCESIjFkBsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhV8MNxAg6ILSRAATEBBCJEfXCBhGCFJnxRcwZDfXminTWmBdjREEA.webp",
+        "Match Title": "San Jose State vs Wyoming",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGD5gQIXijDddIKSBQhEMECVwg+O8wWAaY-YbPr6VKLmDLwiWLLeTLRgvmKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2025/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2025/2"
             }
         ]
     },
@@ -274,35 +275,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mount Panorama — Free Practice 6",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mount%20Panorama%20%E2%80%94%20Free%20Practice%206&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:10 AM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-6-australian-supercars-championship-1791598200/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Powered by Sky Sport NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-6-australian-supercars-championship-1791598200/2"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "BYU",
@@ -328,6 +300,49 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-iowa-state-cyclones-at-byu-cougars/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Mandalika Street Circuit — Qualifying",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mandalika%20Street%20Circuit%20%E2%80%94%20Qualifying&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:50 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-qualifying-motogp-1791600600/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Alt feed",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-qualifying-motogp-1791600600/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 3,
+                "Language": "Spanish broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-qualifying-motogp-1791600600/3"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 4,
+                "Language": "Italian broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-qualifying-motogp-1791600600/4"
             }
         ]
     },
@@ -495,49 +510,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mandalika Street Circuit — Qualifying",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mandalika%20Street%20Circuit%20%E2%80%94%20Qualifying&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:40 AM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-qualifying-moto2-1791610800/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Alt feed",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-qualifying-moto2-1791610800/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 3,
-                "Language": "Spanish broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-qualifying-moto2-1791610800/3"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 4,
-                "Language": "Italian broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-qualifying-moto2-1791610800/4"
             }
         ]
     },
