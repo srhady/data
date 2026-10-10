@@ -31,6 +31,35 @@
     {
         "Category": "American-football",
         "League": "American-football",
+        "Team 1 Name": "Washington",
+        "Team 2 Name": "Iowa",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAwIFLhADQ3bSAggYGgyBL7DEAhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Match Title": "Washington vs Iowa",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Washington%20vs%20Iowa&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2175/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2175/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
         "Team 1 Name": "Utah State",
         "Team 2 Name": "Washington State",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kpySfjxDcQJEABMQEEIkR8QMEyBQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
@@ -163,6 +192,49 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/fuji-speedway-race-1-super-formula-1791612000/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Mandalika Street Circuit — Sprint",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mandalika%20Street%20Circuit%20%E2%80%94%20Sprint&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-sprint-motogp-1791615600/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Alt feed",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-sprint-motogp-1791615600/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 3,
+                "Language": "Spanish broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-sprint-motogp-1791615600/3"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 4,
+                "Language": "Italian broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-sprint-motogp-1791615600/4"
             }
         ]
     },
@@ -3380,6 +3452,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2056/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Floyd Schofield",
+        "Team 2 Name": "Lucas Bahdi",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Floyd Schofield vs Lucas Bahdi",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRDww0kLSTAkIXiCwgUxkJt2IQlxfkMUsIuYxRhVKHp-KNqct6O9GCe4mIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:30 AM | 11-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2187/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2187/2"
             }
         ]
     },
