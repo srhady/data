@@ -71,20 +71,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MNMT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-rangers-vs-washington-capitals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MNMT",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-rangers-vs-washington-capitals/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -128,20 +114,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-kraken-vs-detroit-red-wings/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-kraken-vs-detroit-red-wings/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -184,20 +156,6 @@
         "Start Time": "05:00 AM | 10-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CBJNHL",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-columbus-blue-jackets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CBJNHL",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-columbus-blue-jackets/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -308,6 +266,35 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "BKFC Fight Night Bethlehem Cisneros",
+        "Team 2 Name": "Petersen",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BKFC Fight Night Bethlehem Cisneros vs Petersen",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiGCzpkEChAkQvEFj1GDIaSAjWze-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2173/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2173/2"
+            }
+        ]
+    },
+    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Winnipeg Jets",
@@ -390,35 +377,6 @@
                 "Language": "English - USA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "BKFC Fight Night Bethlehem Cisneros",
-        "Team 2 Name": "Petersen",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "BKFC Fight Night Bethlehem Cisneros vs Petersen",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiGCzpkEChAkQvEFj1GDIaSAjWze-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2173/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2173/2"
             }
         ]
     },
@@ -539,49 +497,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mandalika Street Circuit — Free Practice 3",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mandalika%20Street%20Circuit%20%E2%80%94%20Free%20Practice%203&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:25 AM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-3-moto2-1791595500/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Alt feed",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-3-moto2-1791595500/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 3,
-                "Language": "Spanish broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-3-moto2-1791595500/3"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 4,
-                "Language": "Italian broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-3-moto2-1791595500/4"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Las Vegas Aces",
@@ -636,6 +551,121 @@
                 "Language": "English - TSN1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ottawa-red-blacks-at-bc-lions/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Mandalika Street Circuit — Free Practice 3",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mandalika%20Street%20Circuit%20%E2%80%94%20Free%20Practice%203&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:10 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-3-motogp-1791598200/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Alt feed",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-3-motogp-1791598200/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 3,
+                "Language": "Spanish broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-3-motogp-1791598200/3"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 4,
+                "Language": "Italian broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-3-motogp-1791598200/4"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Mount Panorama — Free Practice 6",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mount%20Panorama%20%E2%80%94%20Free%20Practice%206&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:10 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-6-australian-supercars-championship-1791598200/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Powered by Sky Sport NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-6-australian-supercars-championship-1791598200/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "BYU",
+        "Team 2 Name": "Iowa State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQU+uZmHXcQAExAQQOnSAMgU5kHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0k7MCGBgeIbiBIgAJqpCJEJmAZAoCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "BYU vs Iowa State",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGOJAkQfEIm4gpIFCAg7jprVYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:15 AM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-iowa-state-cyclones-at-byu-cougars/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-iowa-state-cyclones-at-byu-cougars/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2026/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2026/2"
             }
         ]
     },
@@ -774,78 +804,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mount Panorama — Free Practice 6",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mount%20Panorama%20%E2%80%94%20Free%20Practice%206&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:10 AM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-6-australian-supercars-championship-1791598200/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Powered by Sky Sport NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/mount-panorama-free-practice-6-australian-supercars-championship-1791598200/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "BYU",
-        "Team 2 Name": "Iowa State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQU+uZmHXcQAExAQQOnSAMgU5kHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0k7MCGBgeIbiBIgAJqpCJEJmAZAoCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "BYU vs Iowa State",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGOJAkQfEIm4gpIFCAg7jprVYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:15 AM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-iowa-state-cyclones-at-byu-cougars/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-iowa-state-cyclones-at-byu-cougars/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2026/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2026/2"
             }
         ]
     }
