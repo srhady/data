@@ -25,6 +25,20 @@
                 "Language": "English - TNT Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arsenal-vs-leeds-united/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1904/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1904/2"
             }
         ]
     },
@@ -210,31 +224,24 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Estoril — Race 1",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Estoril%20%E2%80%94%20Race%201&font=Oswald",
+        "Match Title": "2nd Qualifying | Marina Bay Street Circuit |",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2nd%20Qualifying%20%7C%20Marina%20Bay%20Street%20Circuit%20%7C&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 10-Oct",
+        "Start Time": "07:22 PM | 10-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
                 "Source": "hotel",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "Italian broadcast",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/estoril-race-1-supersport-world-championship-1791637200/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "World",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/estoril-race-1-supersport-world-championship-1791637200/2"
+                "Embed_URL": "https://embed.st/embed/hotel/marina-bay-qualifying-formula-1-1791636694/1"
             }
         ]
     },
@@ -441,6 +448,293 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Middlesbrough",
+        "Team 2 Name": "Wolverhampton Wanderers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15QAJsCT8QfENx0hDMEMbWGQKE7gIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgUYbthAwQibiAAmuEPtUpdFnHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Match Title": "Middlesbrough vs Wolverhampton Wanderers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLE054YFCG4g+IYzgggphkHqONgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - EFL Championship",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-middlesbrough-vs-wolverhampton-wanderers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - EFL Championship",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-middlesbrough-vs-wolverhampton-wanderers/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Derby County",
+        "Team 2 Name": "Wrexham",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhySdWaEFCQhuIEnpB8dB-UYiaCFJnxRcwZeEXmjbTWmHtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJJYYFG0ghuIACYg+IEiBggUuY1YmEYwJn01ay8IvNGamtMGFFS6QA.webp",
+        "Match Title": "Derby County vs Wrexham",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFSAEAGECmBgQ3TSBM4IIKcZTGJTJBT7DZ9FGBV62b8vSyy9TWjA3MVEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-derby-county-vs-wrexham/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-derby-county-vs-wrexham/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Watford",
+        "Team 2 Name": "Burnley",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizky8MHzAoQ3EBH0gjRvYhK6QKAhSZ8UXMOqLzR9prTCOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5gQApmsTcQAExAH9BlCEQGcMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Watford vs Burnley",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBggy4ECG76QGvTgggpRkCnMgFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - EFL Championship",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-watford-vs-burnley/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - EFL Championship",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-watford-vs-burnley/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Sunderland",
+        "Team 2 Name": "Brighton and Hove Albion",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNjUoZRNxARtIPXq2IdKPQQpM+KLmA1F5oq01pgbY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRg+YVXCiJuICHpCHDumCBQhTEAhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Match Title": "Sunderland vs Brighton and Hove Albion",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFBSwIQA0Nx0hDEECRDGUIRIglMkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport 6",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport 6",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1908/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1908/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/sunderland-vs-brighton-hove-albion-premier-league-1791640800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Aston Villa",
+        "Team 2 Name": "Brentford",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJ8wSMHxAkQAExDcQWkEb2mUIGLj0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz7UAJiF7cwfTSBIgIIDUYOJdulAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Aston Villa vs Brentford",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBIht4FGCkhuIPjpMmIIGDq1SCwJBT7DZ9PSpRdN5ellkemtGCaYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport 7",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport 7",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1905/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1905/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/aston-villa-vs-brentford-premier-league-1791640800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Ipswich Town",
+        "Team 2 Name": "Fulham",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLFIQvMinUgAJiEQRdIPiBjGQF5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB8wagCZgUkENxAQDIY8f36YJjQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Ipswich Town vs Fulham",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxg+YKWF7gYIbiD4gzEECRAWUIRDhQFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport 5",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport 5",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1907/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1907/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/ipswich-town-vs-fulham-premier-league-1791640800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Chelsea",
+        "Team 2 Name": "Bournemouth",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgNgAExBRRYENxB8QRnJsTGQpghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgYIEMCa8ADCG4gSIRBDUg++ywYAmBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Chelsea vs Bournemouth",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBBisRfCA19NIEiBQhEGk4ikFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport 4",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport 4",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/1906/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/1906/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/chelsea-vs-afc-bournemouth-premier-league-1791640800/1"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -575,235 +869,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Derby County",
-        "Team 2 Name": "Wrexham",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhySdWaEFCQhuIEnpB8dB-UYiaCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJJYYFG0ghuIACYg+IEiBggUuY1YmEYwJn01ay8IvNGamtMGFFS6QA.webp",
-        "Match Title": "Derby County vs Wrexham",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFSAEAGECmBgQ3TSBM4IIKcZTGJTJBT7DZ9FGBV62b8vSyy9TWjA3MVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-derby-county-vs-wrexham/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-derby-county-vs-wrexham/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Sunderland",
-        "Team 2 Name": "Brighton and Hove Albion",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNjUoZRNxARtIPXq2IdKPQQpM+KLmA1F5oq01pgbY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRg+YVXCiJuICHpCHDumCBQhTEAhSZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Match Title": "Sunderland vs Brighton and Hove Albion",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFBSwIQA0Nx0hDEECRDGUIRIglMkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 6",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 6",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1908/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1908/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/sunderland-vs-brighton-hove-albion-premier-league-1791640800/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Aston Villa",
-        "Team 2 Name": "Brentford",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJ8wSMHxAkQAExDcQWkEb2mUIGLj0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz7UAJiF7cwfTSBIgIIDUYOJdulAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Aston Villa vs Brentford",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBIht4FGCkhuIPjpMmIIGDq1SCwJBT7DZ9PSpRdN5ellkemtGCaYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 7",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 7",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1905/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1905/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/aston-villa-vs-brentford-premier-league-1791640800/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Ipswich Town",
-        "Team 2 Name": "Fulham",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLFIQvMinUgAJiEQRdIPiBjGQF5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB8wagCZgUkENxAQDIY8f36YJjQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Ipswich Town vs Fulham",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxg+YKWF7gYIbiD4gzEECRAWUIRDhQFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 5",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 5",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1907/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1907/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/ipswich-town-vs-fulham-premier-league-1791640800/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Chelsea",
-        "Team 2 Name": "Bournemouth",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgNgAExBRRYENxB8QRnJsTGQpghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgYIEMCa8ADCG4gSIRBDUg++ywYAmBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "Chelsea vs Bournemouth",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBBisRfCA19NIEiBQhEGk4ikFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 4",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 4",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1906/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1906/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/chelsea-vs-afc-bournemouth-premier-league-1791640800/1"
             }
         ]
     },
@@ -2879,6 +2944,20 @@
         "Start Time": "03:00 AM | 11-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
