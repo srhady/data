@@ -345,20 +345,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/2"
             },
             {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1906/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1906/2"
-            },
-            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
@@ -393,20 +379,6 @@
                 "Language": "English - Sky Sport 5",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1907/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1907/2"
             },
             {
                 "Source": "hotel",
@@ -445,20 +417,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/2"
             },
             {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1905/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1905/2"
-            },
-            {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
@@ -493,20 +451,6 @@
                 "Language": "English - Sky Sport 6",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/1908/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/1908/2"
             },
             {
                 "Source": "hotel",
@@ -692,6 +636,64 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Singapore Grand Prix Qualifying",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Singapore%20Grand%20Prix%20Qualifying&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2134/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2134/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "KBX Cambridge",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYSBjBENCCBpYQAY2ByYIMjJByVVEPFLaQIbMfnLsqkCjMlrylOQigwgkU0uOwhYElxLHIVdWZ2FSegJpcldVcIggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:00 PM | 10-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - World of Combat TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-kbx-cambridge/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - World of Combat TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-kbx-cambridge/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -826,35 +828,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Singapore Grand Prix Qualifying",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Singapore%20Grand%20Prix%20Qualifying&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "09:00 PM | 10-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2134/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2134/2"
             }
         ]
     },
