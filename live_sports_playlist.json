@@ -71,20 +71,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-ravens-at-atlanta-falcons/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-ravens-at-atlanta-falcons/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -396,6 +382,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MSGB",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-panthers-vs-buffalo-sabres/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MSGB",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-panthers-vs-buffalo-sabres/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -422,6 +422,35 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2184/4"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Montreal Alouettes",
+        "Team 2 Name": "Saskatchewan Roughriders",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gAJhXlZYIVWtwhDJEMeMQDaghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDyoosMDAhuIACYhEMEChAlcFiGYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Montreal Alouettes vs Saskatchewan Roughriders",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlmBIuABjBSQ3EAcQwQKECRARclkPAJaKfYbPoowKlF0-l6m0W8mWjBPMVEIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 12-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN5",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-at-montreal-alouettes/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN5",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-at-montreal-alouettes/2"
             }
         ]
     },
@@ -569,6 +598,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MSGSN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ottawa-senators-vs-new-jersey-devils/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MSGSN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ottawa-senators-vs-new-jersey-devils/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -698,6 +741,20 @@
         "Start Time": "06:00 AM | 13-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MINNHL",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-vegas-golden-knights-vs-minnesota-wild/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MINNHL",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-vegas-golden-knights-vs-minnesota-wild/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
