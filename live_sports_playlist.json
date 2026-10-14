@@ -56,20 +56,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CBJNHL",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-panthers-vs-columbus-blue-jackets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CBJNHL",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-panthers-vs-columbus-blue-jackets/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -440,6 +426,13 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dana-white-s-contender-series/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/dana-white-s-contender-series-season-10-week-10-ufc-1791932400/1"
             }
         ]
     },
@@ -683,6 +676,20 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2294/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/cleveland-guardians-vs-tampa-bay-rays-mlb-1791936000/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Alt feed",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/cleveland-guardians-vs-tampa-bay-rays-mlb-1791936000/2"
             }
         ]
     },
@@ -726,6 +733,20 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2234/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Home Broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/indiana-pacers-vs-oklahoma-city-thunder-nba-1791936000/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/indiana-pacers-vs-oklahoma-city-thunder-nba-1791936000/2"
             }
         ]
     },
