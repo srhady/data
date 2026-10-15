@@ -198,13 +198,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2295/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/milwaukee-brewers-vs-los-angeles-dodgers-mlb-1792022400/1"
             }
         ]
     },
@@ -221,6 +214,20 @@
         "Start Time": "06:00 AM | 15-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-dallas-mavericks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-dallas-mavericks/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -764,6 +771,35 @@
         ]
     },
     {
+        "Category": "Golf",
+        "League": "Golf",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Sky Sports Golf",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFOJAkQMUiHhyaiLNhBZxwBSogga64Wt2lNakzQPTZOgMZqU5CKDCCRTbPTCFgSXNftDnVkdhY3sCTXJnYEcyCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NOWTV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sky-sports-golf/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NOWTV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sky-sports-golf/2"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -869,6 +905,2134 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Brisbane Bullets",
+        "Team 2 Name": "South East Melbourne Phoenix",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplFYwSUsEI5uIEiAh6QxgCYg+IGJcsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q8MCEogYdEN1UgSRwzFymQKAhSZ8UXMGQ315o+01phHY0RCA.webp",
+        "Match Title": "Brisbane Bullets vs South East Melbourne Phoenix",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKFmAymIENz0gphkCRAwTxiCCuNgSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:30 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brisbane-bullets-vs-south-east-melbourne-phoenix/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brisbane-bullets-vs-south-east-melbourne-phoenix/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "FC Lugano",
+        "Team 2 Name": "Red Star Belgrade",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "FC Lugano vs. Red Star Belgrade",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGGTgEqcJkgyEkiBggsikChA0pGiTBGaAxiEQhgVEMcuq7V7fnIRQYQSKbZ6YQsCS5jFCFybk4XeTIggmB4cjcZUhkgA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-lugano-vs-red-star-belgrade/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-lugano-vs-red-star-belgrade/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/fc-lugano-vs-red-star-belgrade-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Torreense",
+        "Team 2 Name": "Sunderland",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUwfCAAmzXCG7aQJECkOmIJkFcYUmfdWzBl4ReaPVNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNjUoZRNxARtIPXq2IdKPQQpM+KLmA1F5oq01pgbY0RCA.webp",
+        "Match Title": "Torreense vs Sunderland",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCGlgBUPiG4g9IQyBQhEeqSBiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-torreense-vs-sunderland/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-torreense-vs-sunderland/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/torreense-vs-sunderland-uefa-europa-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Celje",
+        "Team 2 Name": "Omonia Nicosia",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxlgAJghCI+IbiDUhDevTH0gUIErgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZsIIPmAAmkENw0GUIEoZAw9GghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Celje vs Omonia Nicosia",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGQAZmPLmhDcQfEMaMoQiI1JAwQCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nk-celje-vs-omonia-nicosia/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nk-celje-vs-omonia-nicosia/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/nk-celje-vs-omonia-nicosia-uefa-europa-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Union Saint-Gilloise",
+        "Team 2 Name": "Real Sociedad",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAk5dTBAQQ3EABMQJbQZBa9fE4wpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmsaGrg5uICCD4hEJEDFwgUISyoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Union Saint-Gilloise vs Real Sociedad",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBDMQvJMCQ6QfECeMoQiYyRDnG+in2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-union-st-gilloise-vs-real-sociedad/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-union-st-gilloise-vs-real-sociedad/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/union-st-gilloise-vs-real-sociedad-uefa-europa-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Sparta Prague",
+        "Team 2 Name": "Lillestrøm",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYasL3iQQ3EH10gjOIwb0k1BCkz4ouYMtvrzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDg4ZACZgNIbiAj6QRozkSIDjCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Sparta Prague vs Lillestrøm",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAhC8QwMGBJaQfECeMoQiYweMKmSCn2Gz6GlSi77y9LLPdNaeqL0QUA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sparta-prague-vs-lillestrom/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sparta-prague-vs-lillestrom/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/sparta-prague-vs-lillestrom-uefa-europa-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Red Bull Salzburg",
+        "Team 2 Name": "AC Milan",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyaJ58MNJDcQfEPp0kQEbSAAmIRCgIUmfFF03l680Q9XAwmsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuThkc3EBD0hDhmCDWmQuvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
+        "Match Title": "Red Bull Salzburg vs AC Milan",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWiHZgUIWju4g+IY0Z2IjJEFJAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rb-salzburg-vs-ac-milan/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rb-salzburg-vs-ac-milan/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/rb-salzburg-vs-ac-milan-uefa-europa-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Lech Poznań",
+        "Team 2 Name": "Bayer Leverkusen",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgkwACZhwKbSG4gNqkCRMgUIPiAjWQMAhSZ8UXMGXhF5ol01pg3YqIQQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwIECmAAGDSBIhuIPrhAATY+ZAxDt+AQpM+WtmDJr680Vqa0wbsVEIIA.webp",
+        "Match Title": "Lech Poznań vs Bayer Leverkusen",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwggyA+GBAaQfA0ZAoQiYyVwGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lech-poznan-vs-bayer-leverkusen/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lech-poznan-vs-bayer-leverkusen/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/lech-poznan-vs-bayer-leverkusen-uefa-europa-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "AZ Alkmaar",
+        "Team 2 Name": "Hapoel Be'er Sheva",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7RuYVQBMwmkNxAQQfEIhImDRkGb4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh27YQZJMAAmkENxB8QR-TkQoQMCwYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "AZ Alkmaar vs Hapoel Be'er Sheva",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLzIhmIKSG4g+IY0ZQhERkvtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-az-alkmaar-vs-hapoel-be-er/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-az-alkmaar-vs-hapoel-be-er/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/az-alkmaar-vs-hapoel-be-er-uefa-europa-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Lyon",
+        "Team 2 Name": "Crystal Palace",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQ8QAE3YhaobhpAl9MEHoggU53AQpM+qtmDLwi80aqa0wjsaIhA.webp",
+        "Match Title": "Lyon vs Crystal Palace",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQi4wJEHu4g+ewyBQhERrWZIFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lyon-vs-crystal-palace/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-lyon-vs-crystal-palace/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/lyon-vs-crystal-palace-uefa-europa-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Riga FC",
+        "Team 2 Name": "Kairat Almaty",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxmYMjBAoEIbiBIg+2vSZw5EywmqZ8UXDeXrzR9prTAaxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgkIMihAztGkHxBacIPTH0mCFJnxRcwZVfXmjbTWmHtjREIA.webp",
+        "Match Title": "Riga FC vs Kairat Almaty",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKxgBVFMCkhuIPiFMmUIRCYimQUgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-riga-fc-vs-kairat-almaty/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-riga-fc-vs-kairat-almaty/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/riga-fc-vs-kairat-almaty-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Egnatia",
+        "Team 2 Name": "FC Midtjylland",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQoogCaUEIbiA0hEKEDBBmDZnMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkSisFeNhDcQfECX27tuEwBNcBCkz4ouYMpvrzRtprTD2xoiEA.webp",
+        "Match Title": "Egnatia vs FC Midtjylland",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfLhBb4YEJRDcQfLUZAoQiYxFMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-egnatia-vs-fc-midtjylland/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-egnatia-vs-fc-midtjylland/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/egnatia-vs-fc-midtjylland-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Mjällby",
+        "Team 2 Name": "Inter Club d'Escaldes",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyfMNzDgAJiG4gIIRDFzGQKfVcYUmfFFzXl680Q6a0wasaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIZgQwAAzNmIbiD4hDKEDBOH9uEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Mjällby vs Inter Club d'Escaldes",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgBfMChDct+kHxCmTexCYggppgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-inter-d-escaldes/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-inter-d-escaldes/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/mj-llby-aif-vs-inter-d-escaldes-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "KuPS",
+        "Team 2 Name": "Trabzonspor",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphnV5VGCG4g+WnSEQoQAExAR9MAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQAEwQhE9NCG4g+hjSFM4j63KoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "KuPS vs Trabzonspor",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEoIQ3SCCk6QfECeMoQiYxH1GCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ku-ps-kuopio-vs-trabzonspor/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ku-ps-kuopio-vs-trabzonspor/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/kups-kuopio-vs-trabzonspor-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "CSKA Sofia",
+        "Team 2 Name": "Monaco",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgU0FMAAMbENxB8QqnChAQDIGGZBrCMYEz6a2YMvCLzRmprTCuxohBAA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIhgSYABMQosCG4htfECZMxT5iCAgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "CSKA Sofia vs Monaco",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANFZKG4AAYQ3DSBN8QKEIjMQQJWwWBIKfYbPoowKlF0-l620W8mWjBPMVEIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cska-sofia-vs-as-monaco/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cska-sofia-vs-as-monaco/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/cska-sofia-vs-as-monaco-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Universitatea Craiova",
+        "Team 2 Name": "Getafe",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8kdMElxgUqkCRB8Quo7sRHuIGAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIpQuEJpQhuIACYgSh49oggzRxhSZ81bMGXhF5otU1pgHY0RCA.webp",
+        "Match Title": "Universitatea Craiova vs Getafe",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQFYxObiD4hDBlCEQGIIC-ALAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-csu-craiova-vs-getafe/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-csu-craiova-vs-getafe/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/csu-craiova-vs-getafe-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Gent",
+        "Team 2 Name": "AGF Aarhus",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQIUrhAC0IbtpAkQMAycT6cEAhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYcGTJRE3EBBB8QiEkZAn9IAwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Gent vs AGF Aarhus",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiCghNDYGBAa+2kEZQhERiJoMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-kaa-gent-vs-agf/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-kaa-gent-vs-agf/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/kaa-gent-vs-agf-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Panathinaikos",
+        "Team 2 Name": "Borac Banja Luka",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm0OHzCaIIbiB06QuEDCMhEKEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFIQ9PiETcQOkiE0oQMEEZM6cAEwIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Panathinaikos vs Borac Banja Luka",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGerDgkIGCG4g+IY0ZQhERiOZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-panathinaikos-vs-borac-banja-luka/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-panathinaikos-vs-borac-banja-luka/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/panathinaikos-vs-borac-banja-luka-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Hajduk Split",
+        "Team 2 Name": "Ajax",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwhawMABMiABhDcQJEHxApThixH24CFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiT8QKIinYhuIPiBIGQEdUZwh1BCkz5a2YMvCLzRWprTAOxoiEA.webp",
+        "Match Title": "Hajduk Split vs Ajax",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHBIQiKNu4g+mwyBQ6TEcwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:45 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-hajduk-split-vs-ajax-amsterdam/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-hajduk-split-vs-ajax-amsterdam/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/hajduk-split-vs-ajax-amsterdam-uefa-europa-conference-league-1792082700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Cleveland Guardians",
+        "Team 2 Name": "Tampa Bay Rays",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Cleveland Guardians vs Tampa Bay Rays",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBCUasBMGkheILCBSHTxkDBAHrMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 15-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2339/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2339/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/tampa-bay-rays-vs-cleveland-guardians-mlb-1792101600/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "F.C. København",
+        "Team 2 Name": "Braga",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "F.C. København vs. Braga",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMCogSIAMbYQKYPBHTx6mOOAQ5qnSnWIVWSdOUgVwycu0hhipfzCCRTbPTCFgSXLKVDnVgkrMiUCGzBnbVJtIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-f-c-k-benhavn-vs-braga/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-f-c-k-benhavn-vs-braga/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/f-c-k-benhavn-vs-braga-uefa-europa-conference-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Stade Rennais",
+        "Team 2 Name": "OFI Crete",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Stade Rennais vs. OFI Crete",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEBPjAaWYFIggAxiJAoJI4BFIhh2iTCUgsIGNj2GUKy8JMhxq8loFCNBM5bCFgSXIstCwbk4tXTJLNykwQM1STSA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-stade-rennais-vs-ofi-crete/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-stade-rennais-vs-ofi-crete/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/stade-rennais-vs-ofi-crete-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Ferencváros",
+        "Team 2 Name": "Viktoria Plzeň",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgEAGENxADWEDSAAmII0c2aSuAyGWEYwJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh26QQIdrlAhuIACYg+IFLn0gSxkBFwEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Ferencváros vs Viktoria Plzeň",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPT4hRUkLu4gtIQyBQhEWksdwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ferencvaros-vs-viktoria-plzen/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ferencvaros-vs-viktoria-plzen/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/ferencvaros-vs-viktoria-plzen-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Dinamo Zagreb",
+        "Team 2 Name": "Anderlecht",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTMGIACbANmkNxB8QRiCBRHzOnDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25hRKYE3r4Q3EH326jOFCAggAJmYIUmfDWzXl689ZubAwasaIhA.webp",
+        "Match Title": "Dinamo Zagreb vs Anderlecht",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSBggQ-YGAYhuIPtuMgUIRCZIgNKAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dinamo-zagreb-vs-anderlecht/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dinamo-zagreb-vs-anderlecht/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/dinamo-zagreb-vs-anderlecht-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Celta Vigo",
+        "Team 2 Name": "Juventus",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJsCREADGBIhuINSBQgYICCETGchlAQpM+KLnvL15ol01pg9Y0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIhgAExAx+2ENxB8QEXCBQhziQzj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Match Title": "Celta Vigo vs Juventus",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF7AwSNthDcQfDUZAoQiYyRAQLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-celta-vigo-vs-juventus/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-celta-vigo-vs-juventus/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/celta-vigo-vs-juventus-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "NEC Nijmegen",
+        "Team 2 Name": "Levski Sofia",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJBleSYGFIhuIPiBg6DRlCDMATMwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApgABmz8wIEHxDc9ugyYiqTulAQpM+atmDLwi80Wqa0wjsaIhA.webp",
+        "Match Title": "NEC Nijmegen vs Levski Sofia",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMVaqwKENxB8QRw7sSGSIRPALAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nec-nijmegen-vs-levski-sofia/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-nec-nijmegen-vs-levski-sofia/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/nec-nijmegen-vs-levski-sofia-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Jagiellonia Białystok",
+        "Team 2 Name": "Ararat-Armenia",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplHwwSUiG5gUWkABMQMPRCMhTh3SgIUmfFFzBk19eaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4hEKEABMEpENxAkQGzSAghVMXKdMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Jagiellonia Białystok vs Ararat-Armenia",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCCkgWlMCRDcQfECeMbEx-Tj4FgSCjdYixKPWxRc95ellkemtGBu9KIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-jagiellonia-bialystok-vs-ararat-armenia/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-jagiellonia-bialystok-vs-ararat-armenia/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/jagiellonia-bialystok-vs-ararat-armenia-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Benfica",
+        "Team 2 Name": "Celtic",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAkIegAYwKZiG4g+IYwYMlcGkIgAmBCkz662YMvCLzRuprTAuxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwZACYhuILRG0g+IEiFNHTMEJcuMKTPii7ry9eaMdNaYdWNEQgA.webp",
+        "Match Title": "Benfica vs Celtic",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcFJCbEUFCG4g+IY0b2IjJfSBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-benfica-vs-celtic/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-benfica-vs-celtic/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/benfica-vs-celtic-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Hoffenheim",
+        "Team 2 Name": "Beşiktaş",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApQYPmAAmDXCG4gtegyVUhEKfaoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJpRAwQogAwhuIPkZBqQ5nMYghEKAhSZ8UXMGVX15o501phXY0QggA.webp",
+        "Match Title": "Hoffenheim vs Beşiktaş",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reqzS4wvJCG4g+IY0ZQhERkiBggpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-besiktas/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-besiktas/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/tsg-hoffenheim-vs-besiktas-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Marseille",
+        "Team 2 Name": "Olympiacos",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0QATBjzBJQIbiD76QKXLpM4Q+ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDNgABh7luIHX1y6DKQyRAwQIAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Marseille vs Olympiacos",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNlMghuIZdpB9dBkChCJDEEyYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-marseille-vs-olympiacos/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-marseille-vs-olympiacos/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/marseille-vs-olympiacos-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Bournemouth",
+        "Team 2 Name": "Sturm Graz",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgYIEMCa8ADCG4gSIRBDUg++ywYAmBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjgx+INUhB8Q3ECW0gjB40ZARtBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Bournemouth vs Sturm Graz",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPV5QkIErpDcQfECeMoQiYxBDmJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Europa League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-afc-bournemouth-vs-sk-sturm-graz/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Europa League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-afc-bournemouth-vs-sk-sturm-graz/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/afc-bournemouth-vs-sk-sturm-graz-uefa-europa-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Sint-Truiden",
+        "Team 2 Name": "Iberia 1999",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5g+akCB6wQ3ECRCIIIACa4QMEMeMTCMYEz4ouYMvCLzRzprTCuxohBAA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTAAJmHAwuABhDcQa-SBIgUIGBZB8QiCYW1M+qtmDLwi80aqa0wbsVEIIA.webp",
+        "Match Title": "Sint-Truiden vs Iberia 1999",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFHK5UkwAAwhuIPiBPGUIRMYggSIBUyQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sint-truidense-vs-iberia-1999/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sint-truidense-vs-iberia-1999/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/sint-truidense-vs-iberia-1999-uefa-europa-conference-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Atalanta",
+        "Team 2 Name": "Pafos",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4owIEKIAMYEiG4g+GkDE0gAJvpCIcfAhSZ2uu8vXmiUwJrTC6xoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCU2IFGFUATENxAkQfDSBghEus-pgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Atalanta vs Pafos",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJnxDgtMgAwhuITVs0oQiTRFwgSBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atalanta-vs-pafos/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atalanta-vs-pafos/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/atalanta-vs-pafos-uefa-europa-conference-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Twente",
+        "Team 2 Name": "Thun",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlV4VRBDcQWviEQkDukPpAGCFJnxRcwZeEXmjbTWmHtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphZgAJsCT9gYENxBqQKIyAgHcIRCSMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Twente vs Thun",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECB5hRSbJRDcQfDUZAoQiYxFy4CwXTH7DZ9FNrYou28vSyzPTLRg7vSiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-twente-vs-fc-thun/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-fc-twente-vs-fc-thun/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/fc-twente-vs-fc-thun-uefa-europa-conference-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Brann",
+        "Team 2 Name": "Lincoln Red Imps",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATMNLog+IbiFUgUIGPsMgSICLtwEKTPii4by9eaMdNaYDWNEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4heEEJr4I1IEiBQgNiQ4k2GUBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Brann vs Lincoln Red Imps",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rASBC0+IbiBK6QOzTpRajICCBggUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sk-brann-vs-lincoln-red-imps/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sk-brann-vs-lincoln-red-imps/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/sk-brann-vs-lincoln-red-imps-uefa-europa-conference-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Heart of Midlothian",
+        "Team 2 Name": "FC Nordsjælland",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MABMwKSCG4gIhkHxAkQKExZCIUBCkz4ouYMvCLzRzprTCuxohBAA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5irACYgIIbiBIg+IFNpBbVerRAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Heart of Midlothian vs FC Nordsjælland",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLTA8w4FCG4g+IY0b2IjEEDBAkCwJBT7DZ9FGBUou78vSyzPTJruYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-fc-nordsj-lland/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-fc-nordsj-lland/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/heart-of-midlothian-vs-fc-nordsj-lland-uefa-europa-conference-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Freiburg",
+        "Team 2 Name": "Jablonec",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJYwfaGRghuICCD4hE+kkdwgLIAhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIeGBTZQ6kNxB8QRw2pIgzhiLgIUmfFFzBkN9eaIdNaYJ2NEQgA.webp",
+        "Match Title": "Freiburg vs Jablonec",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAWC5SwSXCG4g+IY0ZQhERxGZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-jablonec/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-jablonec/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/sc-freiburg-vs-jablonec-uefa-europa-conference-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Brighton and Hove Albion",
+        "Team 2 Name": "Kauno Žalgiris",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRg+YVXCiJuICHpCHDumCBQhTEAhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAAJiBBsQ8SCG4g++kBGMkdJ4xAIUmfVWzBld9eaNVNaYJ2NEQgA.webp",
+        "Match Title": "Brighton and Hove Albion vs Kauno Žalgiris",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCG4hwfECkqaQu7bpQhEuxGfgFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Conference League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brighton-hove-albion-vs-kauno-zalgiris/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Conference League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brighton-hove-albion-vs-kauno-zalgiris/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/brighton-hove-albion-vs-kauno-zalgiris-uefa-europa-conference-league-1792090800/1"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Florida Panthers",
+        "Team 2 Name": "Vancouver Canucks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Florida Panthers vs Vancouver Canucks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLJm16ibiD4gpIGCFMoQ5g0YVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2302/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2302/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2302/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2302/4"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "New Jersey Devils",
+        "Team 2 Name": "New York Rangers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIS5gTcNxBa+IACYhEEECRDGDuvQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "New Jersey Devils vs New York Rangers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIgFIK3ECRC6+IKSBggUpg5Ygg+BYNpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2303/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2303/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2303/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2303/4"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Tampa Bay Lightning",
+        "Team 2 Name": "Seattle Kraken",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YFOTIQQ3EDpx6+IFLpDmcjCkz4ouYMqvrzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp",
+        "Match Title": "Tampa Bay Lightning vs Seattle Kraken",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHRBSwvGfhDcQfLSBggUpgyETHGwJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2301/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2301/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2301/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2301/4"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Toronto Maple Leafs",
+        "Team 2 Name": "Buffalo Sabres",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAhOfEFBghuIEiA3bdOFCETa+BCk0tcwZeEXmiUwJrTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Toronto Maple Leafs vs Buffalo Sabres",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGSRCiyfbCG4g+IKSBggUpyyYswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2299/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2299/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2299/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2299/4"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Ottawa Senators",
+        "Team 2 Name": "New York Islanders",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Ottawa Senators vs New York Islanders",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCDjww3ELyl6QfEAZggUmwzhImCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2300/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2300/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2300/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2300/4"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Detroit Red Wings",
+        "Team 2 Name": "Philadelphia Flyers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9EOelT6qQJEBBAATXftMwQFmAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4OJpDcQEXNpB8QKXcZAATEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Detroit Red Wings vs Philadelphia Flyers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSD4gYIFAk0huBjTpTbDIDYhgFgSCn2Gz6elSi5gy8IllnumtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2304/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2304/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2304/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2304/4"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "New York Knicks",
+        "Team 2 Name": "Toronto Raptors",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0ADCBCUGkENxB8Dm3CYAmR8xAIUmfFFzBl4ReaPtNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDNIIFCAAmPENxB8DIYzhyGcMEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "New York Knicks vs Toronto Raptors",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkh5gBvEiG4g+IPSlwhEiCMZAgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA League Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-new-york-knicks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA League Pass",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-new-york-knicks/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2297/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2297/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/toronto-raptors-vs-new-york-knicks-nba-1792107000/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Old Dominion",
+        "Team 2 Name": "Georgia Southern",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyUKZGMxDcQJEABMQEEIkSG9xmAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQtJCDJ8QAExDc9ICOq0gd+nSeWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Old Dominion vs Georgia Southern",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Old%20Dominion%20vs%20Georgia%20Southern&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2190/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2190/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "UAB",
+        "Team 2 Name": "East Carolina",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi15SECkohuIEiAAmICCESIjITToIUmfLWzBl4ReaK1NaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATYKpDww4GCG4gSITRC1mjIEHsYUmfFFzBlt9eaIdNaYJ2NEQgA.webp",
+        "Match Title": "UAB vs East Carolina",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UAB%20vs%20East%20Carolina&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2189/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2189/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Nashville Predators",
+        "Team 2 Name": "San Jose Sharks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp",
+        "Match Title": "Nashville Predators vs San Jose Sharks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXiFz8t3ELr4gpIGCBTG9IAzgVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2306/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2306/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2306/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2306/4"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Minnesota Wild",
+        "Team 2 Name": "St. Louis Blues",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Minnesota Wild vs St. Louis Blues",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzCaUYJCBAMNIPiCkgYIFOetWzEpkgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2307/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2307/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2307/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2307/4"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Chicago Blackhawks",
+        "Team 2 Name": "Winnipeg Jets",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp",
+        "Match Title": "Chicago Blackhawks vs Winnipeg Jets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKHzACQzNiG4g+IKSBggUp-SAghbEpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2305/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2305/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2305/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2305/4"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Texas State",
+        "Team 2 Name": "Colorado State",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIgQJEFD4gYIbupAATTSESJja-SgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQhawMEkggAJiG4gSukBDVmjfEJfgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Texas State vs Colorado State",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Texas%20State%20vs%20Colorado%20State&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2191/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2191/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Denver Broncos",
+        "Team 2 Name": "Seattle Seahawks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgUIWqBRgAJiG4g+IYxEP7jZmIYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdIIDfUQlVIPhpAQ9IHTgAmBiAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Denver Broncos vs Seattle Seahawks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGXwoo2kENxB8QRiAZAkQKI7j0FgSCn2Gz6KMCu06y8IllnamtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:15 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Prime Video",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-seahawks-at-denver-broncos/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Prime Video",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-seahawks-at-denver-broncos/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Prime Vision with Next Gen Stats",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-seahawks-at-denver-broncos/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Prime Vision with Next Gen Stats",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-seahawks-at-denver-broncos/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Spanish - Prime Video",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-seahawks-at-denver-broncos/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Spanish - Prime Video",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-seahawks-at-denver-broncos/6"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2188/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2188/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/seattle-seahawks-vs-denver-broncos-nfl-1792109700/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Houston Rockets",
+        "Team 2 Name": "Oklahoma City Thunder",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gklYAAYiAExDcQfEMZiHcIFOb0TCMYEz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Match Title": "Houston Rockets vs Oklahoma City Thunder",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VErn6UwIYAAYQ3EHxAaUuEIkTmcjYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:30 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-houston-rockets/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-houston-rockets/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2298/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2298/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/oklahoma-city-thunder-vs-houston-rockets-nba-1792110600/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "TNA Impact",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - AMC",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tna-impact/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - AMC",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tna-impact/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Edmonton Oilers",
+        "Team 2 Name": "Utah Mammoth",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLhw8MCjB8Q3EBFy6QAEyMh9hkAQpM+KLmDIb680faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Edmonton Oilers vs Utah Mammoth",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMNn4V8IGCG4g+IKbpBmUICyUOGCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2308/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2308/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2308/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2308/4"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Vegas Golden Knights",
+        "Team 2 Name": "Calgary Flames",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp",
+        "Match Title": "Vegas Golden Knights vs Calgary Flames",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAxAxgM8BBDcQfEFK0gUZwyQMgFTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:00 AM | 16-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2309/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2309/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2309/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2309/4"
             }
         ]
     }
