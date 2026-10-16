@@ -515,7 +515,7 @@
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
         "Match Title": "Cleveland Guardians vs Tampa Bay Rays",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmD7VuIKWCQgdfECkMmQxmLpBWJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr1y1eIaWCQgdWECkMmQxmLpBXJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "04:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -862,41 +862,12 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Purdue",
-        "Team 2 Name": "Washington",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IAMZb65BpuYKe8GVW7CGrMGFz5bQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IKiBghs9cgwDGzBT3gyq3YQ1ZgwufA6A.webp",
-        "Match Title": "Purdue Boilermakers vs Washington Huskies",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Purdue%20Boilermakers%20vs%20Washington%20Huskies&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 17-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2202/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2202/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Coastal Carolina",
-        "Team 2 Name": "Appalachian State",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIiADGIcfXINtzBT3gyq3YQ1ZgwufA6A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIiAjb65BgGNmCnvBlVuwhqzBhc+e0A.webp",
-        "Match Title": "Coastal Carolina Chanticleers vs Appalachian State Mountaineers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Coastal%20Carolina%20Chanticleers%20vs%20Appalachian%20State%20Mountaineers&font=Oswald",
+        "Team 1 Name": "App State Mountaineers",
+        "Team 2 Name": "Coastal Carolina Chanticleers",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "App State Mountaineers - Coastal Carolina Chanticleers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=App%20State%20Mountaineers%20-%20Coastal%20Carolina%20Chanticleers&font=Oswald",
         "Match Status": "Upcoming ⏳",
         "Start Time": "06:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -949,12 +920,62 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
+        "Team 1 Name": "San Antonio Spurs",
+        "Team 2 Name": "Sacramento Kings",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTMQZXgBMwIENxB9dekBHUgUxkroIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMuBmDIC0IbiD76QRnDgMRcIACYEKTPii6by9eaIdNaYTWNEQgA.webp",
+        "Match Title": "San Antonio Spurs vs Sacramento Kings",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCA3wwo8Im4g+IEptwhEEcyBiaCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 17-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA League Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-san-antonio-spurs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA League Pass",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-san-antonio-spurs/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2322/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2322/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/sacramento-kings-vs-san-antonio-spurs-nba-1792195200/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
         "Team 1 Name": "New Orleans Pelicans",
         "Team 2 Name": "Washington Wizards",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgY9cgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmy+uQYBjZpJ7wxVbgS6swYXPitA.webp",
-        "Match Title": "Washington Wizards vs. New Orleans Pelicans",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEQBjbCBiTSwCEpAysIZcJDCVVOaQU6S2kKZiK9KYHtNas2K-zCCRTbPTCFgSXFKtDnVk1FKwJgeHJnJUUIIA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCUwqpORzcQfXSAM4cAExCmUBghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyggFiAdxBa+IXSFyHdOfQQpM+KLmDLwi80Vaa0wNsaIhA.webp",
+        "Match Title": "New Orleans Pelicans vs Washington Wizards",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGfhAwQo3khDcQfHSBS4QiCCCsgDBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "06:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1013,112 +1034,12 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Dallas Mavericks",
-        "Team 2 Name": "Atlanta Hawks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQh65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiERM65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Match Title": "Atlanta Hawks vs. Dallas Mavericks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wCMHjAaM6SBTiR87CFVksIGKs3aU2qRBABjEFnHHTc4SqoL+YQSKbZ6YQsCS4jCoQ9YTrMgUCSXIHRTIIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 17-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-dallas-mavericks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-dallas-mavericks/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2321/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2321/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/atlanta-hawks-vs-dallas-mavericks-nba-1792195200/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "San Antonio Spurs",
-        "Team 2 Name": "Sacramento Kings",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgQ9cgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgAxvXINNWST3hiq3Al1ZgwufFaA.webp",
-        "Match Title": "Sacramento Kings vs. San Antonio Spurs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEUsCogYIMlJkBjEEqWIpIEMNkgpW+NglYQRslo1nNO7SFIpy4gUJFMDdsIWBJcCu0LDdOcWEJOwJgfTB-YHEyCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 17-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-san-antonio-spurs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-san-antonio-spurs/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2322/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2322/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/sacramento-kings-vs-san-antonio-spurs-nba-1792195200/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
         "Team 1 Name": "Memphis Grizzlies",
         "Team 2 Name": "Charlotte Hornets",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAJvXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiETZ65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Match Title": "Charlotte Hornets vs. Memphis Grizzlies",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZCCBIgsIGNJAKaiGMERUQKEAGNJs4OpCrSpEMJA0IIkIhkTNKrCJTlLAoSKbZ6YQsCS4tZyEwbk5LYWNnAiMwEOBLcSA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmICOrDdYuENxB8DIY-pRG1GmAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDdoAEzCaYIbiAi5DiECB3qjBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Memphis Grizzlies vs Charlotte Hornets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXD2BJKzMChDcQfECRD6ciCCBghbjLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "06:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1165,10 +1086,10 @@
         "League": "Basketball",
         "Team 1 Name": "Chicago Bulls",
         "Team 2 Name": "Minnesota Timberwolves",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQATeuQYBjZpJ7wxVbgS6swYXPitA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggU9cgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Match Title": "Minnesota Timberwolves vs. Chicago Bulls",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRBBEgqIEKRDDp44DIDGyxChAxtCvbMkzhwTdPmbSUxRBTlJAoSKbZ6YQsCS5VtoWG6dJYzJbAhNyP2BJMgggA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1HhuIEMDAhE6viH0b1KAzpAQQKAhSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIxSwQiH4huIPiAO6YIRBAM6dBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Chicago Bulls vs Minnesota Timberwolves",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMAAMIWqD5gSIbiD4hDKXDqunjEpkgp9hs+igNsNbA+XpZZGplowd3pRCCA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "06:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1207,6 +1128,85 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/minnesota-timberwolves-vs-chicago-bulls-nba-1792195200/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Dallas Mavericks",
+        "Team 2 Name": "Atlanta Hawks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkSioIEAMTdNujTpS6SIRABMCFJnxRcwZeEXmibTWmDti1QA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAC0IXkyooNqvSFyGAJiETcQywjGBM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Dallas Mavericks vs Atlanta Hawks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMnBlIwIECRDcQfPSBS4QiCCbMKm2mP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 17-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA League Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-dallas-mavericks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA League Pass",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-dallas-mavericks/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2321/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2321/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/atlanta-hawks-vs-dallas-mavericks-nba-1792195200/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Purdue",
+        "Team 2 Name": "Washington",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksP5ty8MHxDcQAExARtRkAb0gtEwjGBM+KLmDIb680faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA.webp",
+        "Match Title": "Purdue vs Washington",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Purdue%20vs%20Washington&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 17-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2202/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2202/2"
             }
         ]
     },
@@ -1261,14 +1261,43 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Necaxa",
+        "Team 2 Name": "Atlas",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLC96ABhApSIbiD76thgzgghEjCkz7a2YMvCLzR2prTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJurApNfENxAQQuxCQN6QF-fAIUmfFFzBlV9eaIdNaYJ2NEQgA.webp",
+        "Match Title": "Necaxa vs Atlas",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEHTBIwvKom4g+IYxBCmYIEiAtSQKAsG0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 17-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Spanish - FOX Deportes",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-necaxa-vs-atlas/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Spanish - FOX Deportes",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-necaxa-vs-atlas/2"
+            }
+        ]
+    },
+    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Colorado Avalanche",
         "Team 2 Name": "Pittsburgh Penguins",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIAMYhxdcgyXNgYHvElUphBqzC62uCEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIFAvrkGAY2bAwPeJKpTCDVmB1tcEIA.webp",
-        "Match Title": "Pittsburgh Penguins vs. Colorado Avalanche",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgqIRBFIgYIOTWnjg0+MAghhEmVuCbpiySGwHtkrOd1zlKcnIFCRTcw7CFgSXOIdCwbk45YVJ6AkNyQIMyCCA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Colorado Avalanche vs Pittsburgh Penguins",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMCSa5IRIm4g+IKSBggUpkAZw2Cmin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "07:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1318,35 +1347,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Necaxa",
-        "Team 2 Name": "Atlas",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpD1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCvj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Necaxa vs. Atlas",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcTFLB42EJJIgZNBVRAQQKWVjkiQw4KvX6F4-cJA0lpccAgHN-MIJFNs9MIWBJcAY01CnVjtjegJpcidbKQggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 17-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - Liga MX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-necaxa-vs-atlas/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - Liga MX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-necaxa-vs-atlas/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -1371,12 +1371,12 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Winnipeg Blue Bombers",
-        "Team 2 Name": "Edmonton Elks",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Winnipeg Blue Bombers at Edmonton Elks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkPGAQQKEAGMQJEFhDSQIcVhHypEqfpURsIGuNkxSi9cYs0tJFOSMChIptnphCwJLjmOhMG5OI2FSegJgSTAg-TIIIA.webp",
+        "Team 1 Name": "Edmonton Elks",
+        "Team 2 Name": "Winnipeg Blue Bombers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD15aVWAFIQ3ECRAATXUdN9cIc-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Edmonton Elks vs Winnipeg Blue Bombers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKdRIgQDZiG4gpILRFwg+IRNqONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "07:30 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1402,10 +1402,10 @@
         "League": "Hockey",
         "Team 1 Name": "Anaheim Ducks",
         "Team 2 Name": "Boston Bruins",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIAMYgY9cgyXNgYHvElUphBqzC62uCEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIAMYh49cgyXNgYHvElUphBqzC62uCEA.webp",
-        "Match Title": "Boston Bruins vs. Anaheim Ducks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCEQwQKYPFIgsc5VRDCQ0pYhCKdIkCQMHsOkAGNgq6fKwaNyrLP5hBIptnphCwJLjOyhF1YINzJZAmUwF2AQsgggA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzdsIDQBNSIbiD64QMI4cQ4zBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Anaheim Ducks vs Boston Bruins",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHKKykQOndxB8QUkDF0oQ5wzpIFgSCn2Gz6KMCpRc35eltEemtGBuYqIQQA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "08:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1457,62 +1457,12 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Golden State Warriors",
-        "Team 2 Name": "Portland Trail Blazers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAjL65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgAJvXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Match Title": "Portland Trail Blazers vs. Golden State Warriors",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIIGKRDCQ0yVhHYQKEGSoyRikCunbx+qZpCIQc+KWCIY89SnIRQYQaoLZ6YQsCS5xJyE3VhdhGydPazA3KRsIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 17-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2326/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2326/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/portland-trail-blazers-vs-golden-state-warriors-nba-1792202400/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
         "Team 1 Name": "Phoenix Suns",
         "Team 2 Name": "Utah Jazz",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGyr65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIGPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Match Title": "Utah Jazz vs. Phoenix Suns",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBIgQ2YFRARsCkAGMQ8lMAjKp2qTInTpWOdJGrlaqTAvw5m-mEEimsh4WBJcKzUKetFYVJ6AmA7MCctYIggA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJmBTAADMCaJuIPkZCnDKUyAvGJhGHv5a2YMvCLzRW-cDAuxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOzNIIcHxDcQWrRp0oNxgCYaCFJnxRcwZeEXmibTWmDtjREIA.webp",
+        "Match Title": "Phoenix Suns vs Utah Jazz",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiA0wQotCAiaQfHSBS4QiA1NP6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "08:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1557,12 +1507,62 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
+        "Team 1 Name": "Golden State Warriors",
+        "Team 2 Name": "Portland Trail Blazers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgABjApmDENxB8DIY-pRGzMEMsIxgTPtrZgy8IvNHamtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEjQ0ACYhuIPrpAGcOLShAlcBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Golden State Warriors vs Portland Trail Blazers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGDJIN5GCG4g+IEiBS4QiRGb0KmSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:00 AM | 17-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA League Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA League Pass",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2326/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2326/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/portland-trail-blazers-vs-golden-state-warriors-nba-1792202400/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
         "Team 1 Name": "Los Angeles Lakers",
         "Team 2 Name": "Denver Nuggets",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAghs9cgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQp65BgGNmknvDFVuBLqzBhc+S0A.webp",
-        "Match Title": "Denver Nuggets vs. Los Angeles Lakers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhJBYQwkCGARgiAMYh4S7CEVYFIElJAwFxssN3TE+iCBQytIVTBTlFAoSKbZ6YQsCS5lZyEwbk5FMzJnAg0wEJMFIA.webp",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQhmoEANDdNukCB0o9BkBAIUmfFFzBl4ReaOtNaYW2NEQgA.webp",
+        "Match Title": "Los Angeles Lakers vs Denver Nuggets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMiRApgABhAgGIbiD4hNKXCEQQztmAWBIKfYbPoowK7W0-l6WWW0mWjBPMVEIIA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "08:30 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
