@@ -29,35 +29,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "ONE Inner Circle 35",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCmAQQWYPGBUQAYykgaiGDJCbp84SH2b9iRNOHZVILTUVWUICJP5hBIphaeFgSXEslCXVgg3MkkCOXIXKVIpIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 PM | 16-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - U-NEXT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-one-inner-circle-35/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - U-NEXT",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-one-inner-circle-35/2"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -950,6 +921,35 @@
                 "Language": "English - USA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "PFL Chicago Carmouche",
+        "Team 2 Name": "Bishop 2",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PFL Chicago Carmouche vs Bishop 2",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PFL%20Chicago%20Carmouche%20vs%20Bishop%202&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 17-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2376/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2376/2"
             }
         ]
     },
