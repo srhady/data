@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "AIK",
-        "Team 2 Name": "IFK Göteborg",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+5VeG4htEXCBgg+IACYgUIEgZDwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRg+YVeCgwQ3EBFwgU+kHxA6ShlAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "AIK vs IFK Göteborg",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGFEzeYXCG4g+IYxBCIShkKcQgCwJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:30 PM | 17-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Swedish - TV4 Fotboll",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-ifk-g-teborg/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Swedish - TV4 Fotboll",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aik-vs-ifk-g-teborg/2"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "LSU",
@@ -505,28 +476,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Bologna",
-        "Team 2 Name": "Internazionale",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Bologna vs Internazionale",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Bologna%20vs%20Internazionale&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 17-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/bologna-vs-internazionale-serie-a-1792252800/1"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Michigan State",
@@ -908,24 +857,31 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Phoenix Raceway — Free Practice",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Raceway%20%E2%80%94%20Free%20Practice&font=Oswald",
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Telstar",
+        "Team 2 Name": "Feyenoord",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphD8Q3cokTcQJEHxAoQEEABMQic3pQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJQyWaCBDcQEEHxCISh3VpAxDBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Telstar vs Feyenoord",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCDhQs-YGBDcQfECZw5DMTVZAFgSCn2Gz6KMCpRc35ejtEemtGBuYqIQQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "12:00 AM | 18-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "hotel",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "Dutch - ESPN",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/phoenix-raceway-free-practice-nascar-oreilly-auto-parts-series-1792260000/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-telstar-vs-feyenoord-rotterdam/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Dutch - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-telstar-vs-feyenoord-rotterdam/2"
             }
         ]
     },
@@ -973,31 +929,24 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Telstar",
-        "Team 2 Name": "Feyenoord",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphD8Q3cokTcQJEHxAoQEEABMQic3pQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJQyWaCBDcQEEHxCISh3VpAxDBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Match Title": "Telstar vs Feyenoord",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCDhQs-YGBDcQfECZw5DMTVZAFgSCn2Gz6KMCpRc35ejtEemtGBuYqIQQA.webp",
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Phoenix Raceway — Free Practice",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Raceway%20%E2%80%94%20Free%20Practice&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "12:00 AM | 18-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "hotel",
                 "Stream_No": 1,
-                "Language": "Dutch - ESPN",
+                "Language": "Main",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-telstar-vs-feyenoord-rotterdam/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Dutch - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-telstar-vs-feyenoord-rotterdam/2"
+                "Embed_URL": "https://embed.st/embed/hotel/phoenix-raceway-free-practice-nascar-oreilly-auto-parts-series-1792260000/1"
             }
         ]
     },
