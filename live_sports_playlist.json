@@ -42,20 +42,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -84,20 +70,6 @@
         "Start Time": "05:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-heat-vs-orlando-magic/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-heat-vs-orlando-magic/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -128,20 +100,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-indiana-pacers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-indiana-pacers/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -170,20 +128,6 @@
         "Start Time": "05:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-detroit-pistons/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-detroit-pistons/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -226,35 +170,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2201/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Phoenix Raceway — The Chase - Race: Zero Carbon Bioethanol 150 Powered by POET",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Raceway%20%E2%80%94%20The%20Chase%20-%20Race%3A%20Zero%20Carbon%20Bioethanol%20150%20Powered%20by%20POET&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 17-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/phoenix-raceway-the-chase-race-zero-carbon-bioethanol-150-powered-by-poet-nascar-craftsman-trucks-series-1792193400/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "International",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/phoenix-raceway-the-chase-race-zero-carbon-bioethanol-150-powered-by-poet-nascar-craftsman-trucks-series-1792193400/2"
             }
         ]
     },
@@ -847,14 +762,14 @@
         ]
     },
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Anaheim Ducks",
-        "Team 2 Name": "Boston Bruins",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzdsIDQBNSIbiD64QMI4cQ4zBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Match Title": "Anaheim Ducks vs Boston Bruins",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHKKykQOndxB8QUkDF0oQ5wzpIFgSCn2Gz6KMCpRc35eltEemtGBuYqIQQA.webp",
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Golden State Warriors",
+        "Team 2 Name": "Portland Trail Blazers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgABjApmDENxB8DIY-pRGzMEMsIxgTPtrZgy8IvNHamtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEjQ0ACYhuIPrpAGcOLShAlcBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Golden State Warriors vs Portland Trail Blazers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGDJIN5GCG4g+IEiBS4QiRGb0KmSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "08:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -862,44 +777,44 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - KCOP",
+                "Language": "English - NBA League Pass",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-bruins-vs-anaheim-ducks/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - KCOP",
+                "Language": "English - NBA League Pass",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-bruins-vs-anaheim-ducks/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/2"
             },
             {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2330/1"
+                "Embed_URL": "https://embed.st/embed/golf/2326/1"
             },
             {
                 "Source": "golf",
                 "Stream_No": 2,
                 "Language": "English",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2330/2"
+                "Embed_URL": "https://embed.st/embed/golf/2326/2"
             },
             {
-                "Source": "golf",
-                "Stream_No": 3,
-                "Language": "English",
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2330/3"
+                "Embed_URL": "https://embed.st/embed/hotel/portland-trail-blazers-vs-golden-state-warriors-nba-1792202400/1"
             },
             {
-                "Source": "golf",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2330/4"
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/portland-trail-blazers-vs-golden-state-warriors-nba-1792202400/2"
             }
         ]
     },
@@ -961,14 +876,14 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Golden State Warriors",
-        "Team 2 Name": "Portland Trail Blazers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgABjApmDENxB8DIY-pRGzMEMsIxgTPtrZgy8IvNHamtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEjQ0ACYhuIPrpAGcOLShAlcBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Match Title": "Golden State Warriors vs Portland Trail Blazers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGDJIN5GCG4g+IEiBS4QiRGb0KmSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Anaheim Ducks",
+        "Team 2 Name": "Boston Bruins",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzdsIDQBNSIbiD64QMI4cQ4zBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Anaheim Ducks vs Boston Bruins",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHKKykQOndxB8QUkDF0oQ5wzpIFgSCn2Gz6KMCpRc35eltEemtGBuYqIQQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "08:00 AM | 17-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -976,44 +891,44 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - NBA League Pass",
+                "Language": "English - KCOP",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-bruins-vs-anaheim-ducks/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - NBA League Pass",
+                "Language": "English - KCOP",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-bruins-vs-anaheim-ducks/2"
             },
             {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2326/1"
+                "Embed_URL": "https://embed.st/embed/golf/2330/1"
             },
             {
                 "Source": "golf",
                 "Stream_No": 2,
                 "Language": "English",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2326/2"
+                "Embed_URL": "https://embed.st/embed/golf/2330/2"
             },
             {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/portland-trail-blazers-vs-golden-state-warriors-nba-1792202400/1"
+                "Embed_URL": "https://embed.st/embed/golf/2330/3"
             },
             {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Away broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/portland-trail-blazers-vs-golden-state-warriors-nba-1792202400/2"
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2330/4"
             }
         ]
     },
