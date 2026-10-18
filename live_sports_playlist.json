@@ -239,6 +239,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Cambuur",
+        "Team 2 Name": "AZ Alkmaar",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzxsPWCETcQJEHxAoQEEABMtZ3bgIUmfFFzBk19eaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7RuYVQBMwmkNxAQQfEIhImDRkGb4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
+        "Match Title": "Cambuur vs AZ Alkmaar",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECgZheSBiH3cQffblOGYIC4YlMkFPsNn0UYFZravy9LLM1NaYK5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 PM | 18-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Dutch - ESPN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sc-cambuur-vs-az-alkmaar/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Dutch - ESPN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-sc-cambuur-vs-az-alkmaar/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -373,35 +402,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Cambuur",
-        "Team 2 Name": "AZ Alkmaar",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzxsPWCETcQJEHxAoQEEABMtZ3bgIUmfFFzBk19eaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7RuYVQBMwmkNxAQQfEIhImDRkGb4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Match Title": "Cambuur vs AZ Alkmaar",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECgZheSBiH3cQffblOGYIC4YlMkFPsNn0UYFZravy9LLM1NaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:30 PM | 18-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Dutch - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sc-cambuur-vs-az-alkmaar/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Dutch - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sc-cambuur-vs-az-alkmaar/2"
             }
         ]
     },
@@ -1209,8 +1209,8 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "NFL vs RedZone",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20vs%20RedZone&font=Oswald",
+        "Match Title": "NFL Redzone",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20Redzone&font=Oswald",
         "Match Status": "Upcoming ⏳",
         "Start Time": "11:00 PM | 18-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
