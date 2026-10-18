@@ -121,34 +121,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-state-seminoles-at-miami-hurricanes/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-state-seminoles-at-miami-hurricanes/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - SkyCast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-state-seminoles-at-miami-hurricanes/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - SkyCast",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-florida-state-seminoles-at-miami-hurricanes/4"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -596,20 +568,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Scripps Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-blues-vs-nashville-predators/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Scripps Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-blues-vs-nashville-predators/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -636,35 +594,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2369/4"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AEW Saturday Night Collision",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 18-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2"
             }
         ]
     },
@@ -1187,6 +1116,35 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Hawaii",
+        "Team 2 Name": "New Mexico",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATYGBAwxobiBIhVICCESIDKEH1wEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhygxKIACbENIbiBKaQEEIkQ6zJghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Hawaii vs New Mexico",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAQxCsIltsACbYoCswhwwAxo42AJyVWzC7NYLXAI2MGUzxywVoRAQQMPCEVkZIHKzzUuNBnWBg+8SJNKEa4sPsGkIQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 18-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2283/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2283/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Seattle Sounders",
@@ -1276,14 +1234,14 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Hawai'i",
-        "Team 2 Name": "New Mexico",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IbCBT1yDAMbMFPeDKrdhDVmDC58doA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIiBTb65BgGNmCnvBlVuwhqzBhc+e0A.webp",
-        "Match Title": "Hawaii Rainbow Warriors vs New Mexico Lobos",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAQxCsIltsACbYoCswhwwAxo42AJyVWzC7NYLXAI2MGUzxywVoRAQQMPCEVkZIHKzzUuNBnWBg+8SJNKEa4sPsGkIQA.webp",
+        "Team 1 Name": "Oregon",
+        "Team 2 Name": "Nebraska",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgg+YGXTAoQ3ECRAATEBBCJExg8cMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTsQKEJtGhuIACb7DEEIhw5jywjGBM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Oregon vs Nebraska",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oregon%20vs%20Nebraska&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "08:30 AM | 18-Oct",
+        "Start Time": "09:00 AM | 18-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
@@ -1291,36 +1249,43 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2283/1"
+                "Embed_URL": "https://embed.st/embed/golf/2284/1"
             },
             {
                 "Source": "golf",
                 "Stream_No": 2,
                 "Language": "English",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2283/2"
+                "Embed_URL": "https://embed.st/embed/golf/2284/2"
             }
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Cruz Azul",
+        "Team 2 Name": "FC Juárez",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Autopolis — Warm-Up",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Autopolis%20%E2%80%94%20Warm-Up&font=Oswald",
+        "Match Title": "Cruz Azul vs. FC Juárez",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNeMAikQKEFhABjEGRJyQVEJo2ypwySD0QQEsllLAJEs3okbNUiCnJSBQkU2z0whYElwKnITBuTl1zJwILcmDJcwggA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "08:40 AM | 18-Oct",
+        "Start Time": "09:00 AM | 18-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "hotel",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "Spanish - Liga MX",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/autopolis-warm-up-super-gt-1792291200/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-fc-ju-rez/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Spanish - Liga MX",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-fc-ju-rez/2"
             }
         ]
     },
@@ -1350,35 +1315,6 @@
                 "Language": "Spanish - Liga MX",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cruz-azul-vs-fc-ju-rez/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Oregon",
-        "Team 2 Name": "Nebraska",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgg+YGXTAoQ3ECRAATEBBCJExg8cMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTsQKEJtGhuIACb7DEEIhw5jywjGBM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Oregon vs Nebraska",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oregon%20vs%20Nebraska&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 18-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2284/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2284/2"
             }
         ]
     },
