@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Cleveland Guardians",
-        "Team 2 Name": "Tampa Bay Rays",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Cleveland Guardians vs Tampa Bay Rays",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAdzAC2iHNxB8QKEPuOGYIKSAuNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 19-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TBS",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-cleveland-guardians/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TBS",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-cleveland-guardians/2"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Green Bay Packers",
@@ -410,6 +381,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports Phil",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-philadelphia-flyers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports Phil",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-philadelphia-flyers/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -453,6 +438,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MSG",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-new-york-rangers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MSG",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-new-york-rangers/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -495,6 +494,20 @@
         "Start Time": "05:30 AM | 20-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-sharks-vs-toronto-maple-leafs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-jose-sharks-vs-toronto-maple-leafs/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -560,6 +573,20 @@
         "Start Time": "06:00 AM | 20-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TBS",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-tampa-bay-rays/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TBS",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-tampa-bay-rays/2"
+            },
             {
                 "Source": "hotel",
                 "Stream_No": 1,
@@ -632,6 +659,20 @@
         "Start Time": "07:00 AM | 20-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Utah 16",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-utah-mammoth/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Utah 16",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-utah-mammoth/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
