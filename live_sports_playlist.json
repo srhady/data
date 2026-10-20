@@ -58,28 +58,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally TV",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "",
@@ -255,13 +233,115 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2391/4"
-            },
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Goals Show Xtra (TNT)",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Goals%20Show%20Xtra%20%28TNT%29&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:00 AM | 21-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
             {
                 "Source": "hotel",
                 "Stream_No": 1,
                 "Language": "Main",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/fenerbahce-vs-slavia-prague-uefa-champions-league-1792512000/1"
+                "Embed_URL": "https://embed.st/embed/hotel/goals-show-xtra-tnt-uefa-champions-league-1792519200/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Wolverhampton Wanderers",
+        "Team 2 Name": "Portsmouth",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgUYbthAwQibiAAmuEPtUpdFnHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhuIeBQAmpNSC0gYevrn2mTEAhSZ8UXMGU315ou01pgHY0RCA.webp",
+        "Match Title": "Wolverhampton Wanderers vs Portsmouth",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCHop+uMCRDcQfECZwQQUoyA2IpBYEgp9hsrXrba2e8vSyztTLRg7vSiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:45 AM | 21-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sports+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-portsmouth/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sports+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-portsmouth/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Walsall",
+        "Team 2 Name": "Oldham Athletic",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgAJsCSd6+ENxBqQRlAZCIYICyZQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIAJqDAaSIXdxBrcIHTv0QQMI2oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Walsall vs Oldham Athletic",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHChAC+YEHpDct+nBBBSQpmEZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:45 AM | 21-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sports+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-walsall-vs-oldham-athletic/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sports+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-walsall-vs-oldham-athletic/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Rochdale",
+        "Team 2 Name": "Grimsby Town",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLcwfdWHA5uICLj0gYIRDhIgAJiAmEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDToXjYQ3EHxAHd+xChAkDIGAQpM+KLmDJb680faa0wjsaIhA.webp",
+        "Match Title": "Rochdale vs Grimsby Town",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMVBSQIYNu4g+O3CAghtZmIcMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:45 AM | 21-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sports+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rochdale-vs-grimsby-town/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sports+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-rochdale-vs-grimsby-town/2"
             }
         ]
     },
@@ -590,6 +670,13 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/manchester-city-vs-aek-athens-uefa-champions-league-1792519200/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "4K UHD",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/manchester-city-vs-aek-athens-uefa-champions-league-1792519200/2"
             }
         ]
     },
@@ -1310,14 +1397,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-guadalajara-vs-necaxa/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-guadalajara-vs-necaxa/2"
             }
@@ -1339,14 +1426,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - ViX Premium Deportes 4",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-de-san-luis-vs-quer-taro/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - ViX Premium Deportes 4",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atl-tico-de-san-luis-vs-quer-taro/2"
             }
@@ -1368,14 +1455,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - SportsGrid",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-fc-ju-rez-vs-atlante/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "Spanish - Liga MX",
+                "Language": "Spanish - SportsGrid",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-fc-ju-rez-vs-atlante/2"
             }
