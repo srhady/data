@@ -838,9 +838,16 @@
             {
                 "Source": "hotel",
                 "Stream_No": 1,
-                "Language": "Main",
+                "Language": "Home Broadcast",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/milwaukee-bucks-vs-washington-wizards-nba-1792620000/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away Broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/milwaukee-bucks-vs-washington-wizards-nba-1792620000/2"
             }
         ]
     },
@@ -1669,6 +1676,13 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/phoenix-suns-vs-portland-trail-blazers-nba-1792634400/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away Broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/phoenix-suns-vs-portland-trail-blazers-nba-1792634400/2"
             }
         ]
     },
@@ -1783,6 +1797,13 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/sacramento-kings-vs-la-clippers-nba-1792634400/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away Broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/sacramento-kings-vs-la-clippers-nba-1792634400/2"
             }
         ]
     }
