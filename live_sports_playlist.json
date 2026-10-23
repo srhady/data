@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sports Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ipswich-town-vs-nottingham-forest/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sports Premier League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ipswich-town-vs-nottingham-forest/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -53,35 +39,6 @@
                 "Language": "4K UHD",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/ipswich-town-vs-nottingham-forest-premier-league-1792780200/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Deportivo Alavés",
-        "Team 2 Name": "Málaga",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOAATYPhAotoENxB8QiCCFUGjISycYUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJxuYFGAAm2ENxAQQfEIhIgYuEChBnGFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Deportivo Alavés vs Málaga",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEBpC8mSMCS0g+miCBQgYIE-pONgumP2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 24-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-alav-s-vs-m-laga/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-alav-s-vs-m-laga/2"
             }
         ]
     },
@@ -239,6 +196,35 @@
                 "Language": "German Broadcast",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/circuit-of-the-americas-free-practice-2-formula-1-1792787400/6"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Australia - Practice 2",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSCwgYwGmRIgyiZSBCkQVEBEkhECzYhSTsIxTsSbV2zcJEpyEUGEEimJ+2ELAkuAMb2hZ1ZHWzJ7AmB4cmdgRzIIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 AM | 24-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TNT Sports 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-australia-practice-2/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TNT Sports 2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-australia-practice-2/2"
             }
         ]
     },
