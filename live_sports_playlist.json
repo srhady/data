@@ -2,35 +2,6 @@
     {
         "Category": "American-football",
         "League": "American-football",
-        "Team 1 Name": "Toronto Argonauts",
-        "Team 2 Name": "Montreal Alouettes",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDTVIAVRIhuIACa4QR7SZCI+uAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gAJhXlZYIVWtwhDJEMeMQDaghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Toronto Argonauts vs Montreal Alouettes",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBt4DaISiG4g++kIhggSuDSCkgFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 24-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN4",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-alouettes-at-toronto-argonauts/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN4",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-alouettes-at-toronto-argonauts/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
         "Team 1 Name": "Virginia",
         "Team 2 Name": "Duke",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzMwAEw0MQMENxDqQEPSZBHzx9QQpM+KLmDLwi80faa0wjsaIhA.webp",
@@ -209,7 +180,7 @@
         "Team 2 Name": "UConn Huskies",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Connecticut Huskies vs Massachusetts Minutemen",
+        "Match Title": "Massachusetts Minutemen @ UConn Huskies",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzpAQ2AE2AJyHACmpxBKArMCsPQMbBMNhEnWzA5MkLXAIpMLnTB4eQnRAQQMbCEW4FKEMo5UuNBnXpg+8SMTJ0aEsPsHkIQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "05:00 AM | 24-Oct",
@@ -321,20 +292,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2546/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/detroit-pistons-vs-miami-heat-nba-1792800000/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Away broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/detroit-pistons-vs-miami-heat-nba-1792800000/2"
             }
         ]
     },
@@ -1084,6 +1041,35 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Surfers Paradise — Top Ten Shootout 1",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Surfers%20Paradise%20%E2%80%94%20Top%20Ten%20Shootout%201&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:35 AM | 24-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/surfers-paradise-top-ten-shootout-1-australian-supercars-championship-1792809300/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Powered by Sky Sport NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/surfers-paradise-top-ten-shootout-1-australian-supercars-championship-1792809300/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1218,35 +1204,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Surfers Paradise — Top Ten Shootout 1",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Surfers%20Paradise%20%E2%80%94%20Top%20Ten%20Shootout%201&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:35 AM | 24-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/surfers-paradise-top-ten-shootout-1-australian-supercars-championship-1792809300/1"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 2,
-                "Language": "Powered by Sky Sport NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/surfers-paradise-top-ten-shootout-1-australian-supercars-championship-1792809300/2"
             }
         ]
     }
