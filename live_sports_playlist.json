@@ -136,34 +136,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass (Home)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-heat-vs-charlotte-hornets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass (Home)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-heat-vs-charlotte-hornets/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-heat-vs-charlotte-hornets/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-heat-vs-charlotte-hornets/4"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1760,35 +1732,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Real Salt Lake",
-        "Team 2 Name": "St. Louis CITY SC",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Real Salt Lake vs. St. Louis CITY SC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZeCJDCQWEDRrSqIGMAmzZKpSBnAIMkHpgHdkiTQ0mSBgynIRQYQSKbZ6YQsCS4AxraGPWe2FSegJVckdLXSA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 25-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-st-louis-city-sc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-st-louis-city-sc/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Colorado Rapids",
         "Team 2 Name": "Vancouver Whitecaps",
         "Team 1 Logo": "",
@@ -1812,6 +1755,35 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-vancouver-whitecaps/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Real Salt Lake",
+        "Team 2 Name": "St. Louis CITY SC",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Real Salt Lake vs. St. Louis CITY SC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZeCJDCQWEDRrSqIGMAmzZKpSBnAIMkHpgHdkiTQ0mSBgynIRQYQSKbZ6YQsCS4AxraGPWe2FSegJVckdLXSA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 AM | 25-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Apple TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-st-louis-city-sc/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Apple TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-st-louis-city-sc/2"
             }
         ]
     },
@@ -1870,6 +1842,134 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-vancouver-whitecaps/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Denver Nuggets",
+        "Team 2 Name": "New Orleans Pelicans",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQp65BgGNmknvDFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgY9cgwDGzST3hiq3Al1ZgwufFaA.webp",
+        "Match Title": "New Orleans Pelicans vs. Denver Nuggets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBTiRwRPBmIpExMPEgswCKRDzFwCSRBGjUqasMBjEIZD7JKcloFCZBbPTCFgSXBYdCwbk4tYVJ6N3kwQM0wiCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 25-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA League Pass (Home)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-denver-nuggets/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA League Pass (Home)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-denver-nuggets/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - NBA League Pass (Away)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-denver-nuggets/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - NBA League Pass (Away)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-denver-nuggets/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2569/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2569/2"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/new-orleans-pelicans-vs-denver-nuggets-nba-1792890000/1"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 2,
+                "Language": "Away broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/new-orleans-pelicans-vs-denver-nuggets-nba-1792890000/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Utah Mammoth",
+        "Team 2 Name": "Tampa Bay Lightning",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIZfHrkGAY2bAwPeJKpTCDVmF1tcEIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIFEvrkGAY2bAwPeJKpTCDVmB1tcEIA.webp",
+        "Match Title": "Tampa Bay Lightning vs. Utah Mammoth",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0iAggUEsuLJUQ8EcBrKpKEAGNs2EDBCHEiQ4c0hgUssrIRLM-mEEqCuh4WBJcWmUKes7eXpXZTAnS1JLIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 25-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Utah 16",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-lightning-vs-utah-mammoth/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Utah 16",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-lightning-vs-utah-mammoth/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2580/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2580/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2580/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2580/4"
             }
         ]
     },
