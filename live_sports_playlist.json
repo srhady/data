@@ -606,14 +606,28 @@
         "League": "Football",
         "Team 1 Name": "Udinese",
         "Team 2 Name": "AC Milan",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDXxoObiAj6QRozBArjeiYRjAmfFFzBlt9eaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuThkc3EBD0hDhmCDWmQuvgQpMrXMGXhF5olMCa0wDsaIhA.webp",
         "Match Title": "Udinese vs AC Milan",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Udinese%20vs%20AC%20Milan&font=Oswald",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGTIAMYGSDkhuIPiBImQKEIkQgQEXAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "01:30 AM | 26-Oct",
+        "Start Time": "01:45 AM | 26-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-udinese-vs-ac-milan/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-udinese-vs-ac-milan/2"
+            },
             {
                 "Source": "hotel",
                 "Stream_No": 1,
@@ -649,6 +663,140 @@
                 "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-lyon/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Barcelona",
+        "Team 2 Name": "Real Madrid",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huIFAnbYQ6gCYhEKEBBAwQB06fgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDUas6kNxAQQfEIhIgYuEChAqrBCkz4ouYMvCLzRzprTCuxohBAA.webp",
+        "Match Title": "Barcelona vs Real Madrid",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELzCgwIWUg0g+IYxBAoQMEKZIhE8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 26-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Spanish - ESPN Deportes",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Spanish - ESPN Deportes",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Spanish - DAZN LaLiga",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Spanish - DAZN LaLiga",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/6"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "French - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "French - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/8"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 9,
+                "Language": "Italian - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/9"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 10,
+                "Language": "Italian - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/10"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 11,
+                "Language": "German - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/11"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 12,
+                "Language": "German - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/12"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2561/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2561/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/2561/3"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/golf/2561/4"
+            },
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/barcelona-vs-real-madrid-laliga-ea-sports-1792958400/1"
             }
         ]
     },
@@ -787,140 +935,6 @@
                 "Language": "English - NFL Network (ESPN)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-nfl-network/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Barcelona",
-        "Team 2 Name": "Real Madrid",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huIFAnbYQ6gCYhEKEBBAwQB06fgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDUas6kNxAQQfEIhIgYuEChAqrBCkz4ouYMvCLzRzprTCuxohBAA.webp",
-        "Match Title": "Barcelona vs Real Madrid",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELzCgwIWUg0g+IYxBAoQMEKZIhE8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Spanish - ESPN Deportes",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "Spanish - ESPN Deportes",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - DAZN LaLiga",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - DAZN LaLiga",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "French - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "French - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Italian - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Italian - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/10"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 11,
-                "Language": "German - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/11"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 12,
-                "Language": "German - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/12"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2561/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2561/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2561/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2561/4"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/barcelona-vs-real-madrid-laliga-ea-sports-1792958400/1"
             }
         ]
     },
@@ -1210,70 +1224,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Brooklyn Nets",
-        "Team 2 Name": "Indiana Pacers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhaYMGXo5uIPnpCGcOACYgSIXRMIxgTPii6by20pybrNY0RCA.webp",
-        "Match Title": "Brooklyn Nets vs Indiana Pacers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJvhAktxFCG4g+WkHpyIIuY-ALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN (YES) (Home)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-brooklyn-nets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN (YES) (Home)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-brooklyn-nets/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-brooklyn-nets/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-brooklyn-nets/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2572/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2572/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/indiana-pacers-vs-brooklyn-nets-nba-1792965600/1"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -1325,63 +1275,6 @@
         ]
     },
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Winnipeg Jets",
-        "Team 2 Name": "Montreal Canadiens",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4WMCjAgQ3EBFy6QfECiMmSIeAQpM+KLmDKr680Q6a0wTsaIhA.webp",
-        "Match Title": "Winnipeg Jets vs Montreal Canadiens",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLuxCISIPiG66QUkDBAoTFkFv0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-winnipeg-jets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-montreal-canadiens-vs-winnipeg-jets/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2593/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2593/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2593/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2593/4"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "New York Knicks",
@@ -1421,534 +1314,6 @@
                 "Language": "English - NBA League Pass (Away)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-orlando-magic-vs-new-york-knicks/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2588/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2588/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/orlando-magic-vs-new-york-knicks-nba-1792969200/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Minnesota Timberwolves",
-        "Team 2 Name": "Toronto Raptors",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIxSwQiH4huIPiAO6YIRBAM6dBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDNIIFCAAmPENxB8DIYzhyGcMEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Minnesota Timberwolves vs Toronto Raptors",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMBl8QISrBDcQ2kiBS4QiCCCsmJTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-minnesota-timberwolves/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-minnesota-timberwolves/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - DAZN MIN (Home)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-minnesota-timberwolves/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - DAZN MIN (Home)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-minnesota-timberwolves/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2589/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2589/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/toronto-raptors-vs-minnesota-timberwolves-nba-1792969200/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Oklahoma City Thunder",
-        "Team 2 Name": "Los Angeles Clippers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0+RHOETcQfEDpSqQMIzpzLCMYEz4ouYMvA2lOTWmAdjREIA.webp",
-        "Match Title": "Oklahoma City Thunder vs Los Angeles Clippers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMDBzKIbiBS6QfECX24QiRKam4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - KSBI (Home)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-clippers-vs-oklahoma-city-thunder/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - KSBI (Home)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-clippers-vs-oklahoma-city-thunder/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-clippers-vs-oklahoma-city-thunder/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-la-clippers-vs-oklahoma-city-thunder/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2590/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2590/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/la-clippers-vs-oklahoma-city-thunder-nba-1792969200/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Philadelphia 76ers",
-        "Team 2 Name": "Detroit Pistons",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgAJtmBgG7ENxB8DIYzhxrjIEgYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Philadelphia 76ers vs Detroit Pistons",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiAghuIGCBS7tIPiA0GciLSanaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass (Home)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-philadelphia-76-ers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass (Home)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-philadelphia-76-ers/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-philadelphia-76-ers/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-philadelphia-76-ers/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2591/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2591/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/detroit-pistons-vs-philadelphia-76ers-nba-1792971000/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Nashville Predators",
-        "Team 2 Name": "Colorado Avalanche",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp",
-        "Match Title": "Nashville Predators vs Colorado Avalanche",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzswfbWzAgQ3EHxBSQMECnPWLORsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Scripps Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-nashville-predators/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Scripps Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-nashville-predators/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2594/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2594/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2594/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2594/4"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Seattle Seahawks",
-        "Team 2 Name": "Kansas City Chiefs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdIIDfUQlVIPhpAQ9IHTgAmBiAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3wgSIEP1hqQ3EHw0gI+3CBggUplAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "Seattle Seahawks vs Kansas City Chiefs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKKKRiVIbiD4hDEfSBIgUhkFN0FgSCn2Gz6KMCpRc35ellkemtGBu2nRAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:20 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-chiefs-at-seattle-seahawks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-chiefs-at-seattle-seahawks/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2562/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2562/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/kansas-city-chiefs-vs-seattle-seahawks-nfl-1792971000/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "LAFC",
-        "Team 2 Name": "LA Galaxy",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "LAFC vs. LA Galaxy",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNGhGBUQMYIgDGILMAghFJEGXEhJwuTrU6R2EDQ01hIK4pQh4UpSnKSBQ4wWz0whYElzynITBuTl1Seg97MGCVcIggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lafc-vs-la-galaxy/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-lafc-vs-la-galaxy/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Querétaro",
-        "Team 2 Name": "Cruz Azul",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcIevg0gd3EHx0g9JbYhx6JhGMCZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgG0IuMCnYhuIPiAO6SIdYkT6YBCkz5a2YMvCLzRWprTAOxoiEA.webp",
-        "Match Title": "Querétaro vs Cruz Azul",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbhRQgSIKWCQhuIPiFMQQ5mMe2mQ8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - ViX Premium Deportes 3",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-quer-taro-vs-cruz-azul/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - ViX Premium Deportes 3",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-quer-taro-vs-cruz-azul/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "América",
-        "Team 2 Name": "Pachuca",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxlgUIbmHCJuIEiAO6D+viETrGFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIFHTBkUYPiG4g9EQyESJjIdSGWEYwJnw1st5evNEamtMFrGiIQA.webp",
-        "Match Title": "América vs Pachuca",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAeF4AGYjm4g+IIxBAmYIEiHNGQBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - TUDN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-pachuca/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - TUDN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-am-rica-vs-pachuca/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Sacramento Kings",
-        "Team 2 Name": "Memphis Grizzlies",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMuBmDIC0IbiD76QRnDgMRcIACYEKTPii6by9eaIdNaYTWNEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmICOrDdYuENxB8DIY-pRG1GmAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Sacramento Kings vs Memphis Grizzlies",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEIO4gUwAAzMQWviBLbcIRBEMhj8AsCQU+w2fRRgVOth-L0ssnSZaMA8xUQggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA League Pass (Home)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-sacramento-kings/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA League Pass (Home)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-sacramento-kings/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-sacramento-kings/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - NBA League Pass (Away)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-sacramento-kings/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2592/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2592/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/memphis-grizzlies-vs-sacramento-kings-nba-1792976400/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Vancouver Canucks",
-        "Team 2 Name": "Minnesota Wild",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp",
-        "Match Title": "Vancouver Canucks vs Minnesota Wild",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGCQbRrEiG4g+IKSBghzKEJcvmpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-wild-vs-vancouver-canucks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-wild-vs-vancouver-canucks/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2595/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2595/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2595/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2595/4"
             }
         ]
     }
