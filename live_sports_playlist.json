@@ -25,42 +25,6 @@
                 "Language": "English - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-2026-ballon-d-or-ceremony/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/2026-ballon-d-or-premier-league-1793041200/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Paris Saint-Germain",
-        "Team 2 Name": "Lyon",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA.webp",
-        "Match Title": "Paris Saint-Germain vs Lyon",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWAECm8MChDcQfECcM4IIfYYswCwJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:30 AM | 27-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-lyon/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-lyon/2"
             }
         ]
     },
@@ -97,6 +61,28 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/sevilla-vs-osasuna-laliga-ea-sports-1793044200/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Dallas Cowboys",
+        "Team 2 Name": "Philadelphia Eagles",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Dallas Cowboys vs Philadelphia Eagles",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Dallas%20Cowboys%20vs%20Philadelphia%20Eagles&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 27-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "hotel",
+                "Stream_No": 1,
+                "Language": "Main",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/hotel/dallas-cowboys-vs-philadelphia-eagles-nfl-1793052000/1"
             }
         ]
     },
