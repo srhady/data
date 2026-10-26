@@ -22,64 +22,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Seattle Seahawks",
-        "Team 2 Name": "Kansas City Chiefs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdIIDfUQlVIPhpAQ9IHTgAmBiAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3wgSIEP1hqQ3EHw0gI+3CBggUplAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "Seattle Seahawks vs Kansas City Chiefs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKKKRiVIbiD4hDEfSBIgUhkFN0FgSCn2Gz6KMCpRc35ellkemtGBu2nRAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:20 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2562/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2562/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Sacramento Kings",
-        "Team 2 Name": "Memphis Grizzlies",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMuBmDIC0IbiD76QRnDgMRcIACYEKTPii6by9eaIdNaYTWNEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmICOrDdYuENxB8DIY-pRG1GmAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Sacramento Kings vs Memphis Grizzlies",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEIO4gUwAAzMQWviBLbcIRBEMhj8AsCQU+w2fRRgVOth-L0ssnSZaMA8xUQggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/2592/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/golf/2592/2"
-            }
-        ]
-    },
-    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Vancouver Canucks",
@@ -92,20 +34,6 @@
         "Start Time": "08:00 AM | 26-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-wild-vs-vancouver-canucks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-wild-vs-vancouver-canucks/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -403,6 +331,20 @@
         "Start Time": "05:00 AM | 27-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MSG",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-new-york-rangers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MSG",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-new-york-rangers/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -818,6 +760,35 @@
         ]
     },
     {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Tampa Bay Rays",
+        "Team 2 Name": "Milwaukee Brewers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Tampa Bay Rays vs Milwaukee Brewers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGDSQszUiYheILCBQhqIEjsvHDplkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 27-Oct",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-tampa-bay-rays/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-tampa-bay-rays/2"
+            }
+        ]
+    },
+    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Philadelphia Eagles",
@@ -880,6 +851,20 @@
         "Start Time": "06:30 AM | 27-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-calgary-flames/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-calgary-flames/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1051,6 +1036,20 @@
         "Start Time": "07:30 AM | 27-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ESPN+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-red-wings-vs-edmonton-oilers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ESPN+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-red-wings-vs-edmonton-oilers/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
