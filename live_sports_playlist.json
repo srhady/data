@@ -143,20 +143,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-green-bay-packers-at-detroit-lions/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-green-bay-packers-at-detroit-lions/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -185,34 +171,6 @@
         "Start Time": "02:25 AM | 26-Oct",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-rams-at-las-vegas-raiders/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-rams-at-las-vegas-raiders/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NFL Game Pass on DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-rams-at-las-vegas-raiders/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - NFL Game Pass on DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-rams-at-las-vegas-raiders/4"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -312,13 +270,6 @@
                 "Language": "English",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/golf/2572/2"
-            },
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/indiana-pacers-vs-brooklyn-nets-nba-1792965600/1"
             }
         ]
     },
@@ -740,28 +691,6 @@
                 "Language": "Main",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/hotel/detroit-pistons-vs-philadelphia-76ers-nba-1792971000/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Kansas City Chiefs",
-        "Team 2 Name": "Seattle Seahawks",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Kansas City Chiefs vs Seattle Seahawks",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kansas%20City%20Chiefs%20vs%20Seattle%20Seahawks&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 26-Oct",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "hotel",
-                "Stream_No": 1,
-                "Language": "Main",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/hotel/kansas-city-chiefs-vs-seattle-seahawks-nfl-1792971000/1"
             }
         ]
     },
